@@ -87,6 +87,7 @@ function render(day) {
     ${e.articles.length ? `<h2>${esc(t('sources'))}</h2><ol>${e.articles.map(a => `
       <li><a href="${esc(a.url)}" target="_blank" rel="noopener" dir="auto">${esc(a.title || a.url)}</a>
       <span class="src">${esc(a.domain)}${a.published ? ' · ' + esc(formatDate(a.published, true)) : ''}</span></li>`).join('')}</ol>` : ''}
+  ${supportCard()}
   `;
 }
 </script>

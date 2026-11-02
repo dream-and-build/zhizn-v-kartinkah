@@ -2,26 +2,28 @@
 // Подключается после i18n.js: берёт LANG и стили панели оттуда.
 
 const TELEGRAM_CHANNEL = 'https://t.me/zhizn_v_kartinkah_world';
+const BOOSTY = 'https://boosty.to/filos0f';
 
 const SOCIAL_UI = {
-  ru: { subscribe: 'Подписаться', share: 'Поделиться', copy: 'Скопировать ссылку', copied: 'Ссылка скопирована', more: 'Другие приложения', close: 'Закрыть' },
-  en: { subscribe: 'Subscribe', share: 'Share', copy: 'Copy link', copied: 'Link copied', more: 'Other apps', close: 'Close' },
-  es: { subscribe: 'Suscribirse', share: 'Compartir', copy: 'Copiar enlace', copied: 'Enlace copiado', more: 'Otras apps', close: 'Cerrar' },
-  pt: { subscribe: 'Inscrever-se', share: 'Compartilhar', copy: 'Copiar link', copied: 'Link copiado', more: 'Outros apps', close: 'Fechar' },
-  fr: { subscribe: 'S’abonner', share: 'Partager', copy: 'Copier le lien', copied: 'Lien copié', more: 'Autres applis', close: 'Fermer' },
-  de: { subscribe: 'Abonnieren', share: 'Teilen', copy: 'Link kopieren', copied: 'Link kopiert', more: 'Andere Apps', close: 'Schließen' },
-  it: { subscribe: 'Iscriviti', share: 'Condividi', copy: 'Copia link', copied: 'Link copiato', more: 'Altre app', close: 'Chiudi' },
-  tr: { subscribe: 'Abone ol', share: 'Paylaş', copy: 'Bağlantıyı kopyala', copied: 'Bağlantı kopyalandı', more: 'Diğer uygulamalar', close: 'Kapat' },
-  ar: { subscribe: 'اشترك', share: 'مشاركة', copy: 'نسخ الرابط', copied: 'تم نسخ الرابط', more: 'تطبيقات أخرى', close: 'إغلاق' },
-  hi: { subscribe: 'सब्सक्राइब करें', share: 'साझा करें', copy: 'लिंक कॉपी करें', copied: 'लिंक कॉपी हो गया', more: 'अन्य ऐप', close: 'बंद करें' },
-  zh: { subscribe: '订阅', share: '分享', copy: '复制链接', copied: '链接已复制', more: '其他应用', close: '关闭' },
-  ja: { subscribe: '購読する', share: '共有', copy: 'リンクをコピー', copied: 'リンクをコピーしました', more: 'その他のアプリ', close: '閉じる' },
-  ko: { subscribe: '구독하기', share: '공유', copy: '링크 복사', copied: '링크가 복사되었습니다', more: '다른 앱', close: '닫기' },
-  uk: { subscribe: 'Підписатися', share: 'Поділитися', copy: 'Скопіювати посилання', copied: 'Посилання скопійовано', more: 'Інші застосунки', close: 'Закрити' },
+  ru: { support: 'Поддержать', supportCall: 'Проект живёт на поддержке читателей. Если вам нравится картина мира — поддержите её на Boosty.', subscribe: 'Подписаться', share: 'Поделиться', copy: 'Скопировать ссылку', copied: 'Ссылка скопирована', more: 'Другие приложения', close: 'Закрыть' },
+  en: { support: 'Support', supportCall: 'This project lives on readers’ support. If you like the picture of the world, support it on Boosty.', subscribe: 'Subscribe', share: 'Share', copy: 'Copy link', copied: 'Link copied', more: 'Other apps', close: 'Close' },
+  es: { support: 'Apoyar', supportCall: 'Este proyecto vive del apoyo de sus lectores. Si te gusta el cuadro del mundo, apóyalo en Boosty.', subscribe: 'Suscribirse', share: 'Compartir', copy: 'Copiar enlace', copied: 'Enlace copiado', more: 'Otras apps', close: 'Cerrar' },
+  pt: { support: 'Apoiar', supportCall: 'O projeto vive do apoio dos leitores. Se você gosta da pintura do mundo, apoie no Boosty.', subscribe: 'Inscrever-se', share: 'Compartilhar', copy: 'Copiar link', copied: 'Link copiado', more: 'Outros apps', close: 'Fechar' },
+  fr: { support: 'Soutenir', supportCall: 'Ce projet vit grâce à ses lecteurs. Si le tableau du monde vous plaît, soutenez-le sur Boosty.', subscribe: 'S’abonner', share: 'Partager', copy: 'Copier le lien', copied: 'Lien copié', more: 'Autres applis', close: 'Fermer' },
+  de: { support: 'Unterstützen', supportCall: 'Dieses Projekt lebt von seinen Lesern. Wenn Ihnen das Bild der Welt gefällt, unterstützen Sie es auf Boosty.', subscribe: 'Abonnieren', share: 'Teilen', copy: 'Link kopieren', copied: 'Link kopiert', more: 'Andere Apps', close: 'Schließen' },
+  it: { support: 'Sostieni', supportCall: 'Il progetto vive grazie ai lettori. Se ti piace il quadro del mondo, sostienilo su Boosty.', subscribe: 'Iscriviti', share: 'Condividi', copy: 'Copia link', copied: 'Link copiato', more: 'Altre app', close: 'Chiudi' },
+  tr: { support: 'Destekle', supportCall: 'Bu proje okurlarının desteğiyle yaşıyor. Dünyanın resmini beğendiyseniz Boosty’de destek olun.', subscribe: 'Abone ol', share: 'Paylaş', copy: 'Bağlantıyı kopyala', copied: 'Bağlantı kopyalandı', more: 'Diğer uygulamalar', close: 'Kapat' },
+  ar: { support: 'ادعم', supportCall: 'يعيش هذا المشروع بدعم قرّائه. إن أعجبتك لوحة العالم فادعمه على Boosty.', subscribe: 'اشترك', share: 'مشاركة', copy: 'نسخ الرابط', copied: 'تم نسخ الرابط', more: 'تطبيقات أخرى', close: 'إغلاق' },
+  hi: { support: 'सहयोग करें', supportCall: 'यह परियोजना पाठकों के सहयोग से चलती है। अगर आपको दुनिया का यह चित्र पसंद है, तो Boosty पर सहयोग करें।', subscribe: 'सब्सक्राइब करें', share: 'साझा करें', copy: 'लिंक कॉपी करें', copied: 'लिंक कॉपी हो गया', more: 'अन्य ऐप', close: 'बंद करें' },
+  zh: { support: '支持', supportCall: '本项目依靠读者支持运行。如果你喜欢这幅世界之画，请在 Boosty 上支持我们。', subscribe: '订阅', share: '分享', copy: '复制链接', copied: '链接已复制', more: '其他应用', close: '关闭' },
+  ja: { support: '応援する', supportCall: 'このプロジェクトは読者の支援で続いています。世界の絵を気に入ったら、Boostyで応援してください。', subscribe: '購読する', share: '共有', copy: 'リンクをコピー', copied: 'リンクをコピーしました', more: 'その他のアプリ', close: '閉じる' },
+  ko: { support: '후원하기', supportCall: '이 프로젝트는 독자들의 후원으로 운영됩니다. 세계의 그림이 마음에 드셨다면 Boosty에서 후원해 주세요.', subscribe: '구독하기', share: '공유', copy: '링크 복사', copied: '링크가 복사되었습니다', more: '다른 앱', close: '닫기' },
+  uk: { support: 'Підтримати', supportCall: 'Проєкт живе завдяки читачам. Якщо вам подобається картина світу — підтримайте її на Boosty.', subscribe: 'Підписатися', share: 'Поділитися', copy: 'Скопіювати посилання', copied: 'Посилання скопійовано', more: 'Інші застосунки', close: 'Закрити' },
 };
 const st = key => (SOCIAL_UI[LANG] || SOCIAL_UI.en)[key];
 
 const ICONS = {
+  heart: '<svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.4C.9 8 3 4.5 6.6 4.5c2.1 0 3.6 1.2 5.4 3.2 1.8-2 3.3-3.2 5.4-3.2 3.6 0 5.7 3.5 4.2 7.1C19.5 16.4 12 21 12 21z"/></svg>',
   telegram: '<svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.6 3.3 2.9 10.5c-1.3.5-1.3 1.3-.2 1.6l4.8 1.5 1.8 5.6c.2.6.4.8.9.8.4 0 .6-.2.9-.5l2.3-2.2 4.7 3.5c.9.5 1.5.2 1.7-.8l3.1-14.6c.3-1.3-.5-1.9-1.3-1.5zM8.6 13.3l9.4-5.9c.5-.3.8-.1.5.2l-7.9 7.1-.3 3.3-1.7-4.7z"/></svg>',
   share: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="18" cy="5" r="2.6"/><circle cx="6" cy="12" r="2.6"/><circle cx="18" cy="19" r="2.6"/><path d="m8.3 10.8 7.4-4.4M8.3 13.2l7.4 4.4"/></svg>',
   whatsapp: '<svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M12 2.2A9.8 9.8 0 0 0 3.6 17l-1.4 4.8 5-1.3A9.8 9.8 0 1 0 12 2.2zm0 17.8a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20zm4.4-6c-.2-.1-1.4-.7-1.7-.8-.2-.1-.4-.1-.5.1l-.8 1c-.1.2-.3.2-.5.1a6.6 6.6 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.5-.4h-.5a.9.9 0 0 0-.6.3 2.7 2.7 0 0 0-.8 2c0 1.2.9 2.3 1 2.5.1.2 1.7 2.6 4.1 3.6 1.5.7 2.1.7 2.9.6.5-.1 1.4-.6 1.6-1.1.2-.6.2-1 .1-1.1l-.4-.3z"/></svg>',
@@ -40,6 +42,15 @@ const SOCIAL_CSS = `
     background: #000000a8; border: 1px solid #ffffff2a; border-radius: 999px; padding: 7px 11px; cursor: pointer; white-space: nowrap; }
   .pill:hover { border-color: #ffffff60; }
   .pill.tg { background: #229ed9; border-color: #229ed9; color: #fff; }
+  .pill.boosty { background: #f15f2c; border-color: #f15f2c; color: #fff; }
+  .pill.boosty svg { animation: beat 2.4s ease-in-out infinite; }
+  @keyframes beat { 0%, 70%, 100% { transform: scale(1); } 80% { transform: scale(1.25); } 90% { transform: scale(1.05); } }
+  @media (prefers-reduced-motion: reduce) { .pill.boosty svg { animation: none; } }
+  .support-card { margin-top: 40px; padding: 20px; border-radius: 16px; background: linear-gradient(135deg, #3a1c10, #1a1512);
+    border: 1px solid #f15f2c55; display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+  .support-card p { margin: 0; flex: 1 1 260px; color: #f1e8dc; font-size: 16px; }
+  .support-card .pill { font-size: 15px; padding: 11px 18px; }
+  .support-card .pill .txt { display: inline; }
   @media (max-width: 560px) { .pill .txt { display: none; } .pill { padding: 7px 9px; } }
   .share-back { position: fixed; inset: 0; background: #000b; z-index: 100; display: grid; place-items: end center; }
   @media (min-width: 561px) { .share-back { place-items: center; } }
@@ -65,6 +76,7 @@ function socialButtons(getShare) {
   box.className = 'social';
   const paint = () => {
     box.innerHTML = `
+      <a class="pill boosty" href="${BOOSTY}" target="_blank" rel="noopener" title="${st('supportCall')}">${ICONS.heart}<span class="txt">${st('support')}</span></a>
       <a class="pill tg" href="${TELEGRAM_CHANNEL}" target="_blank" rel="noopener" title="Telegram">${ICONS.telegram}<span class="txt">${st('subscribe')}</span></a>
       <button type="button" class="pill share" title="${st('share')}">${ICONS.share}<span class="txt">${st('share')}</span></button>`;
     box.querySelector('.share').onclick = () => openShare(getShare());
@@ -112,4 +124,10 @@ function openShare({ url, title, image }) {
   const nat = back.querySelector('.native');
   if (nat) nat.onclick = () => navigator.share({ title, url }).catch(() => {});
   document.body.appendChild(back);
+}
+
+// Призыв поддержать проект — для конца страницы события
+function supportCard() {
+  return `<div class="support-card"><p>${st('supportCall')}</p>
+    <a class="pill boosty" href="${BOOSTY}" target="_blank" rel="noopener">${ICONS.heart}<span class="txt">${st('support')}</span></a></div>`;
 }
