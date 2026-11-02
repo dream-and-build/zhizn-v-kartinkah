@@ -1,0 +1,1609 @@
+{
+  "key": "2026-11-01-2",
+  "date": "2026-11-01",
+  "image": "img/2026-11-01-2.jpg",
+  "events": {
+    "europe-protests": {
+      "kind": "major",
+      "title": "I protesti giovanili continuano in tutta Europa, in alcuni casi sfociando in saccheggi e scontri",
+      "region": "Europa",
+      "summary": "Una nuova ondata di proteste giovanili ha attraversato diversi Paesi europei, e in alcuni casi si è trasformata in scontri con la polizia, incendi e saccheggi. In Francia, secondo varie segnalazioni, una parte delle iniziative è rimasta per lo più pacifica, ma in alcuni raduni si sono verificati episodi di violenza e arresti: i media parlano di centinaia e persino di oltre mille fermati, oltre a un'inchiesta per aggressioni contro le forze dell'ordine. Separatamente, vengono segnalati disordini in Germania, scontri in Portogallo e il fatto che le proteste del fine settimana abbiano interessato sette Paesi europei. In Francia, i blocchi studenteschi delle scuole dovrebbero riprendere da lunedì, secondo quanto riportato.",
+      "picture": "L'illustrazione mostra una colonna di giovani manifestanti sullo sfondo di vetrine infrante, bidoni rovesciati, pietre e fumo, con in primo piano lo scontrino incrinato di un negozio. Questa immagine collega i disordini di strada alle proteste per i prezzi, l'istruzione e il costo della vita.",
+      "mentions": 100,
+      "significance": 84,
+      "velocity": 82,
+      "domain_count": 24,
+      "articles": [
+        {
+          "title": "У Франції з понеділка учні відновлюють блокади шкіл",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/01/8060777/",
+          "published": "2026-11-01T21:31:00+00:00"
+        },
+        {
+          "title": "French protest violence eases while scattered riots hit Germany ahead of school return - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUg1THY3Zks2d0VEdjA1ZTc2d2lnRFZUb2E3YUp6V0dCaUN0blc0RU93cWRZY2h0ZHpZc3p1WmtxeGJ2NVZLNmozeGUzWHNlNUMySTU2U3gzYjZfblhHX2hObjNGMVVoY0lMSWV3SVMxTW5Id0toUHBoUkx5ejBrNTZSUFByVFNjdEVrZUREU1dmZmRWZGhyc3R6ZDFOX29XQVg4TFpPdnFnV2pKdzJ4TkphazdvbFcxQzJKMk96MVhIeGM?oc=5",
+          "published": "2026-11-01T21:08:39+00:00"
+        },
+        {
+          "title": "Police clash with housing crisis protesters in Portugal",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+          "published": "2026-11-01T20:31:17+00:00"
+        },
+        {
+          "title": "Протесты в выходные дни затронули семь европейских стран",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/obschestvo/28276655",
+          "published": "2026-11-01T20:26:26+00:00"
+        },
+        {
+          "title": "George Floyd protests reach London and Berlin - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oeGpaNEVUZkUwTm85MjZRc09lakJXbHdOV1Nrd2xFTnNDbDN3RkZTZHo2dFZsdkh5eExrR1lIeklyTDJpV18xc2tORWJXZHltRXhEN3RZOGNfS3Vr?oc=5",
+          "published": "2026-11-01T20:10:53+00:00"
+        },
+        {
+          "title": "Protesters loot shops, 100 officers injured as riots spread to Germany",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-02/protests-europe-germany-frankfurt/107334774",
+          "published": "2026-11-01T19:31:10+00:00"
+        },
+        {
+          "title": "Peaceful protests in Germany spiral into violence and looting",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T18:51:56+00:00"
+        },
+        {
+          "title": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
+          "published": "2026-11-01T18:01:03+00:00"
+        },
+        {
+          "title": "Francia se prepara para otra semana de tensión social y protestas pese a la caída de la movilización en las calles",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/francia-prepara-semana-tension-social-protestas-pese-caida-movilizacion-calles_0_0da8LjuTwK.html",
+          "published": "2026-11-01T17:51:45+00:00"
+        },
+        {
+          "title": "Police detain 325 people at pro-Palestine Action protest at US embassy in London",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london",
+          "published": "2026-11-01T17:29:20+00:00"
+        },
+        {
+          "title": "A Londres, plus de 320 arrestations lors d’un rassemblement de soutien à Palestine Action, organisation interdite au Royaume-Uni",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/01/a-londres-plus-de-320-arrestations-lors-d-un-rassemblement-de-soutien-a-palestine-action-organisation-interdite-au-royaume-uni_6804521_3210.html",
+          "published": "2026-11-01T16:12:12+00:00"
+        },
+        {
+          "title": "France reports largely peaceful protests",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
+          "published": "2026-11-01T15:50:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.688,
+        "r": 0.125
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "Prima delle elezioni negli Stati Uniti si accentuano le divisioni interne ai partiti, le dispute sui tribunali e le previsioni sul potere di Trump",
+      "region": "USA",
+      "summary": "Negli Stati Uniti, alla vigilia delle elezioni di metà mandato, si sono intensificati i conflitti interni ai partiti, soprattutto nella corsa cruciale al Senato in Michigan. La democratica Haley Stevens, sconfitta alle primarie da Abdul el-Sayed, ha appoggiato il repubblicano Mike Rogers, provocando aspre critiche e divisioni nel partito. Sullo sfondo, Reuters riferisce di una battuta d'arresto legale per i repubblicani in Alaska, mentre altri media scrivono della visita di Donald Trump in Iowa e Kansas e delle dispute sull'agenda giudiziaria. In diverse pubblicazioni si afferma inoltre che i risultati elettorali e il futuro del potere di Trump restano al centro dell'attenzione.",
+      "picture": "L'immagine mostra una scheda elettorale come se venisse strappata da due mani, con sopra la bilancia della giustizia, mentre l'elefante repubblicano e l'asino democratico tirano in direzioni opposte. L'immagine rappresenta la spaccatura dei partiti e la lotta per il controllo di elezioni e tribunali.",
+      "mentions": 82,
+      "significance": 87,
+      "velocity": 99,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+          "published": "2026-11-01T21:44:06+00:00"
+        },
+        {
+          "title": "Republicans face legal setback in Alaska while Democrat's endorsement gives boost - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
+          "published": "2026-11-01T21:38:13+00:00"
+        },
+        {
+          "title": "Midterm Elections Live Updates: Stevens Endorses Rogers in Michigan; Trump to Visit Iowa and Kansas - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRm44VVB1VzNCdkIxcE82eHJiSEVxWW11M3ZfekNEMF8wTDJKeGlwNGF6SkZvVHpxeVJTZ0RKeWhQUXVGVlU0TVQ4SWVaOFM3Y2Q2MEJEVlR4Nl9EckE4REY4LXR0dnpvZXZXOWVQMlFpeUE0WWc?oc=5",
+          "published": "2026-11-01T21:32:44+00:00"
+        },
+        {
+          "title": "Private jet carrying 9 crashes into Florida roadside, erupting in a massive fireball",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372912/private-jet-carrying-9-crashes-florida-roadside-erupting-massive-fireball",
+          "published": "2026-11-01T21:31:36+00:00"
+        },
+        {
+          "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+          "published": "2026-11-01T21:29:43+00:00"
+        },
+        {
+          "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+          "published": "2026-11-01T21:26:00+00:00"
+        },
+        {
+          "title": "Senador democrata sofre AVC a dias das eleições legislativas nos EUA",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/senador-democrata-sofre-avc-a-dias-das-eleicoes-legislativas-nos-eua.shtml",
+          "published": "2026-11-01T21:25:00+00:00"
+        },
+        {
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T21:16:45+00:00"
+        },
+        {
+          "title": "Canada PM Carney says he had good conversation with Trump on trade",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+          "published": "2026-11-01T21:02:54+00:00"
+        },
+        {
+          "title": "Democratic divisions shake up key Michigan Senate race - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WOUhaZFpiM2V2UU0yeXpvSktYeG03MHJEbENrNU9fMXZwNnpTcWtRb0h5My1ibXl1WndxdERaRVZzU2xYX2NEMEJ0cXRkbWtiWGM1b1dvRE1tdU05RlNyYTkweXo2UFg4R3RVcHY1VlB4dk9pVXBFTjBneGltTHM?oc=5",
+          "published": "2026-11-01T20:54:34+00:00"
+        },
+        {
+          "title": "EN DIRECT, midterms 2026 : Michigan : l’élue démocrate Haley Stevens soutient le républicain Mike Rogers dans le Michigan",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-midterms-2026-michigan-l-elue-democrate-haley-stevens-soutient-le-republicain-mike-rogers-dans-le-michigan_6801590_3210.html",
+          "published": "2026-11-01T20:34:44+00:00"
+        },
+        {
+          "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+          "published": "2026-11-01T20:31:30+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.312,
+        "r": 0.125
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "In Ucraina, finita la tregua nella regione di Kherson, tornano gli attacchi all'energia e le evacuazioni",
+      "region": "Ucraina",
+      "summary": "Dopo la fine della tregua nella regione di Kherson, la Russia ha lanciato attacchi che hanno lasciato senza elettricità migliaia di persone in Ucraina. Reuters e BBC scrivono che i bombardamenti sono coincisi con la conclusione di un raro cessate il fuoco umanitario che consentiva l'evacuazione dei civili dalla città occupata di Oleshky. Le autorità ucraine, secondo quanto riferito, continuano a far uscire i civili da alcune parti della regione di Kherson. Altri aggiornamenti parlano anche di attacchi intensi al fronte, compresa la direzione di Pokrovsk.",
+      "picture": "L'immagine mostra famiglie con valigie che percorrono un ponte stretto e luminoso, mentre alle loro spalle si vedono linee elettriche distrutte e scintillanti e un drone nel cielo. È il simbolo di un'evacuazione sotto la minaccia di nuovi attacchi all'energia.",
+      "mentions": 75,
+      "significance": 91,
+      "velocity": 89,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "Ukraine evacuates civilians from parts of Kherson region as expiry of Oleshky ceasefire nears - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQajJBcVdLQ3JpVmFIUVpjdjBBTnlQYVlhcFBfZzNFODBiSXFEb0JrLWFXbHFMR25LR2NsYV9KVlBUWlRubVJ0VzQ3SkhlN3RQU2c3MXBLamIweU9SdWtpM1FadC1Ob2x1cDQxOTZqcXZtb0NNTUhLWUJwMC1VQmEwajd2RXlBMVR4Z3I2UVc5WTNqZHp5bmxxSE5sZy1Yd293Q05XWnJ6SXg0Q3JsWm8yZ2g0clNYMmJIMDdVMVY4cnNzbnVoR05taUg5V08?oc=5",
+          "published": "2026-11-01T21:13:30+00:00"
+        },
+        {
+          "title": "Israeli strikes kill eight people in Gaza, medics say",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-02/israeli-strikes-kill-eight-people-in-gaza-medics-say/107334984",
+          "published": "2026-11-01T21:07:42+00:00"
+        },
+        {
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T21:01:58+00:00"
+        },
+        {
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends - BBC",
+          "domain": "bbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
+          "published": "2026-11-01T21:01:58+00:00"
+        },
+        {
+          "title": "Военная операция на Украине. Онлайн",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/armiya-i-opk/28276229",
+          "published": "2026-11-01T21:00:00+00:00"
+        },
+        {
+          "title": "Покровський напрямок залишається найскладнішим: за день 30 атак",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/01/8060772/",
+          "published": "2026-11-01T20:42:00+00:00"
+        },
+        {
+          "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
+          "published": "2026-11-01T20:10:29+00:00"
+        },
+        {
+          "title": "Ukraine - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+          "published": "2026-11-01T18:50:12+00:00"
+        },
+        {
+          "title": "Longest truce of Ukraine war, in Kherson region, set to end",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
+          "published": "2026-11-01T18:25:28+00:00"
+        },
+        {
+          "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+          "published": "2026-11-01T18:23:57+00:00"
+        },
+        {
+          "title": "Oleshky: Evacuations during first humanitarian truce of war end",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end",
+          "published": "2026-11-01T17:44:51+00:00"
+        },
+        {
+          "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+          "published": "2026-11-01T17:20:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.125,
+        "r": 0.151
+      }
+    },
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "Nello stretto di Hormuz due petroliere sono saltate su mine nel contesto dei colloqui sulla de-escalation",
+      "region": "Medio Oriente",
+      "summary": "Nello stretto di Hormuz due petroliere sono saltate su mine, riferiscono Reuters e fonti iraniane; una delle navi è stata definita una superpetroliera. Il Corpo delle Guardie della Rivoluzione Islamica iraniano ha dichiarato che le navi sono «esplose» dopo aver urtato mine, mentre l'agenzia marittima ha segnalato separatamente una nave colpita nello stretto. Sullo sfondo, le pubblicazioni parlano anche di colloqui sulla de-escalation e del fatto che lo stretto resti insicuro per la navigazione commerciale. Diverse testate collegano l'incidente alla minaccia generale di una nuova escalation tra Stati Uniti, Israele e Iran.",
+      "picture": "L'immagine mostra una gigantesca petroliera come se fosse stata squarciata da frammenti di mina tra due mani sospese sopra di essa, mentre intorno si muovono navi militari e un salvagente è rotto. È l'immagine di uno stretto pericoloso e della vulnerabilità del traffico marittimo in un contesto di conflitto.",
+      "mentions": 72,
+      "significance": 98,
+      "velocity": 83,
+      "domain_count": 15,
+      "articles": [
+        {
+          "title": "В Ормузском проливе на минах подорвались два танкера",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28276661",
+          "published": "2026-11-01T20:37:36+00:00"
+        },
+        {
+          "title": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ?oc=5",
+          "published": "2026-11-01T20:12:33+00:00"
+        },
+        {
+          "title": "Para los iraníes, las elecciones en Estados Unidos son el inicio de nuevos bombardeos",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/iranies-elecciones-estados-unidos-inicio-nuevos-bombardeos_0_BC2IGD44QH.html",
+          "published": "2026-11-01T20:01:16+00:00"
+        },
+        {
+          "title": "Binance resumes withdrawals after more than $6 bn stolen in hack - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOExqblVidzZGVGZyOFh3U2RRc1Yxa0NfTEpZVVluLXVwRV8tS19TWUlkNlpuUVlac2g4NUZSM0RSSUhCeHVzNnFtLXJmX3RBN0xjejhCbUphUVRwVlJPZG90eGg5SHNHNm9NOWlOVHBoXzdVV0FhemdsT2NoRmVuUHJJbGk?oc=5",
+          "published": "2026-11-01T19:26:51+00:00"
+        },
+        {
+          "title": "Vessel struck in Strait of Hormuz: maritime agency - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVowNjNGTG5GQjV1dkdEUVoxOTlnb2xZc3JKSXFfMFNrY2dJcGdKRVMxczRybzRGVU43R21wUV9TLUpjWUJmSWQzZlZWQjZFckRFWnZzQTFNbHpEeFcwbGNMcTZUekdNZ2dJVFdkdG9NMDVRcUlzUGJ5NjFpXzNvY0VsUG5temtUZ29BWUZZdHJnMTV5cWlmdXJR?oc=5",
+          "published": "2026-11-01T19:24:23+00:00"
+        },
+        {
+          "title": "Trump says U.S. still has to \"take care\" of more targets in Iran",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "published": "2026-11-01T19:22:22+00:00"
+        },
+        {
+          "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
+          "published": "2026-11-01T18:02:52+00:00"
+        },
+        {
+          "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+          "published": "2026-11-01T17:49:28+00:00"
+        },
+        {
+          "title": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlZFWEdtS0ctLVBsVkdlbDZnamZTRXQ5UlQ5V3d1Zi1HWFduS0d2RExUclM1S1ZneVhfbEhNNmZyd3pkQ3BQWkhmdU5UQ0NneWdfYXl3UG1HNWZLWG43Y1hkdGRMU3VjYzZ5Wk9USjAtdDcxdmMzc29MWVlDNzNoLXJFWWhBc3FlcXBxNWk4YjlxVlB4VTJ2eGNPU0hiNDJabVdr?oc=5",
+          "published": "2026-11-01T17:43:00+00:00"
+        },
+        {
+          "title": "Iran warns new war could last longer after Trump threatens strikes",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes/article71653794.ece",
+          "published": "2026-11-01T16:04:22+00:00"
+        },
+        {
+          "title": "How Iran targeted US air-defence network in the Gulf: Report",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/how-iran-targeted-us-air-defence-network-in-the-gulf-report/articleshow/135430878.cms",
+          "published": "2026-11-01T15:27:06+00:00"
+        },
+        {
+          "title": "IMO Chief Says Strait of Hormuz Remains Unsafe",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-01/imo-chief-says-strait-of-hormuz-remains-unsafe-video",
+          "published": "2026-11-01T13:12:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      }
+    },
+    "france-police-protests": {
+      "kind": "major",
+      "title": "In Francia e nei Paesi vicini nuove proteste e inchieste dopo gli scontri con la polizia",
+      "region": "Europa",
+      "summary": "In Francia, dopo le proteste, è stata aperta un'inchiesta per tentato omicidio in relazione ad attacchi con bottiglie incendiarie contro le forze dell'ordine. AFP, Al Jazeera e altri media scrivono che, dopo gli scontri a Parigi e in altre città, alcuni agenti di sicurezza sono rimasti feriti, ma i sospetti per l'episodio non sono ancora stati identificati. The Guardian aggiunge che le proteste con la partecipazione dei giovani si sono concluse in violenze di strada e hanno coinvolto anche Germania, Svizzera, Portogallo e Albania. Separatamente, viene riferito che il numero elevato di arresti è rimasto alto anche nel contesto dell'ondata generale di manifestazioni nel Paese.",
+      "picture": "L'immagine mostra, di fronte a una linea di scudi, pietre, fuoco e una bottiglia molotov, con un fascicolo giudiziario a terra. Mostra il passaggio dalla protesta di piazza all'inchiesta della polizia.",
+      "mentions": 65,
+      "significance": 58,
+      "velocity": 65,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "France opens 'attempted murder' probe over petrol bomb attacks on security forces - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2dGNnRzM3NKSHNUUkVHaHdyNHowc3d5UWxRM291bDZwT0NKX3Bpb215cnllOXBaeEVWVVd5YVA1cXZBc3MxZnAyM2xUaXNNSTZacS00WnFUd19BWjgxMHpMUnAzYTJEcE1icEFpQ2Z0V0VSSmJWQ2lpRVN5QllZRFNFNDd5aWZQTVB4RkNjVlA4WTlieTZzTE12NzNPSTh3?oc=5",
+          "published": "2026-11-01T19:24:42+00:00"
+        },
+        {
+          "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+          "published": "2026-11-01T18:58:23+00:00"
+        },
+        {
+          "title": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
+          "published": "2026-11-01T18:01:03+00:00"
+        },
+        {
+          "title": "France probes ‘attempted murder’ after Molotov cocktail attacks on police during protests",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/france-probes-attempted-murder-after-molotov-cocktail-attacks-on-police-during-protests/",
+          "published": "2026-11-01T17:42:19+00:00"
+        },
+        {
+          "title": "Halloween : les images impressionnantes des cortèges des quatre coins du monde",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/01/halloween-les-images-impressionnantes-des-corteges-des-quatre-coins-du-monde_6804530_6717263.html",
+          "published": "2026-11-01T17:10:19+00:00"
+        },
+        {
+          "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+          "published": "2026-11-01T16:24:38+00:00"
+        },
+        {
+          "title": "France reports largely peaceful protests",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
+          "published": "2026-11-01T15:50:06+00:00"
+        },
+        {
+          "title": "French high school blockades to restart on Monday, student unions say",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say",
+          "published": "2026-11-01T14:31:49+00:00"
+        },
+        {
+          "title": "Investigan por intento de homicidio lanzamiento de cóctel molotov en protestas en Francia; crece tensión tras manifestaciones",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/investigan-por-intento-de-homicidio-lanzamiento-de-coctel-molotov-en-protestas-en-francia-crece-tension-tras-manifestaciones/",
+          "published": "2026-11-01T14:28:17+00:00"
+        },
+        {
+          "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+          "published": "2026-11-01T14:25:30+00:00"
+        },
+        {
+          "title": "Costumed protesters bring Halloween flair to Paris rally - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85Ym1tSndWb2pDS3lqWXRqVzl4R003WXdLM3VsSGViM0MtSnRWZ1hSSlU5b0JFSzVaNjZVcTAya2V1UnNFSmo5YXJPZW5VV1J1RjFnNFZpN3QyemhCTm9HREFoQldQWjdQSDZxcUU4ejJGRFlfSEZVWVM0ZGg?oc=5",
+          "published": "2026-11-01T13:06:13+00:00"
+        },
+        {
+          "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHdwTlpHQjZnaV9wNGRYcHJCTkxLMFNaV0tEakhoLWp2cWFNSmtzdG41cEZkeEJkSWtRQWdhZ0FVZHZVT3RFNHJVNDVpcXBpVjNqSVk1dGxIU0lWUldVT2NDRW9MVDJTS0NleUl6VUhjaGNUQVBYRGw1Vm5BWlplR3BwVUdlM0lpT095Rm9oV2hqVHZ3ZEdUT08ySzZtM0N0MXhyWm9pMWs1V3hmSS1VNlZ2c1Rxc3BxdlhPa3NB?oc=5",
+          "published": "2026-11-01T12:24:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.406,
+        "y": 0.312,
+        "r": 0.3
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "In Israele persiste lo stallo politico, mentre si approfondiscono le dispute sulle elezioni e sulla legittimità",
+      "region": "Israele",
+      "summary": "In Israele persiste lo stallo politico dopo le elezioni, e il presidente Isaac Herzog ha avviato consultazioni con i leader dei partiti per formare un nuovo governo. I media riferiscono che il capo della commissione elettorale insiste: l'indagine su possibili irregolarità non deve mettere in discussione l'esito del voto. Secondo quanto riportato, Likud parla di una «nuvola oscura» sul risultato fino al termine dei controlli, mentre gli avversari accusano il partito di tentare di delegittimare l'esito. Anche per strada, scrivono i media, la divisione resta evidente: alcuni chiedono una coalizione, altri rifiutano la partecipazione dei partiti arabi.",
+      "picture": "L'immagine mostra un'urna elettorale in equilibrio su una fune tesa, mentre sopra di essa pende una corona spezzata e persone tirano le funi in direzioni diverse. L'immagine rende la fragilità dei risultati e la battaglia sulla legittimità del potere.",
+      "mentions": 58,
+      "significance": 74,
+      "velocity": 92,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Alongside Zini and AG, election chief stresses election ‘conducted properly,’ results won’t change",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/alongside-zini-and-ag-election-chief-stresses-election-conducted-properly-results-wont-change/",
+          "published": "2026-11-01T21:41:44+00:00"
+        },
+        {
+          "title": "Президент Израиля созвал лидеров партий на консультации о новом правительстве",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28276739",
+          "published": "2026-11-01T21:41:20+00:00"
+        },
+        {
+          "title": "Israel elections chief says inquiry into irregularities will not undermine result",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/israel-elections-chief-says-inquiry-into-irregularities-will-not-undermine-result/article71654256.ece",
+          "published": "2026-11-01T20:20:59+00:00"
+        },
+        {
+          "title": "Israeli President Isaac Herzog calls for calm ahead of election mediations",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-02/israel-president-isaac-herzog-calls-for-calm-in-election/107334602",
+          "published": "2026-11-01T19:16:36+00:00"
+        },
+        {
+          "title": "En Israël, la rue divisée face à l’impasse politique",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/01/en-israel-la-rue-divisee-face-a-l-impasse-politique_6804570_3210.html",
+          "published": "2026-11-01T18:50:51+00:00"
+        },
+        {
+          "title": "Israel elections chief says inquiry into irregularities will not undermine result - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmZiejVTMnpsbFp0cmh6eVBnaXhlN2lWbDVmc0FLV3R0dnJ2MkVLeVVzeUJwQmtPRU82QTNzWFhDN0RzSGxjaGVMU3NuRmRtNURaZWhSdjZMMGVTX0c0TGhxY3BpODZySXg2eHVCYlZnNEptQjJDNTdXS3VmZFpOT2VIQ3BWNkxPb0xhY0hfdV8zZFJDd1ZfRS11dUQ0b3lIS1h6bTgxN2liczJvSGdCRTc1QThBVkFXX19FeUlvV2JwMDM1?oc=5",
+          "published": "2026-11-01T18:36:40+00:00"
+        },
+        {
+          "title": "Five charged with Proud Boys conspiracy in Capitol riot - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14alJLanNBZlVpNWVsenBqaVdYbFdJS1NoVVBmVmpnQ2Z0eVgtRHo1OWs2NDdFb3pPclgzOWpJZURGck01YzljVnFzYXV6SlVpQzZUYTMybzNwQmVR?oc=5",
+          "published": "2026-11-01T17:25:43+00:00"
+        },
+        {
+          "title": "Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/world/israel/israel-president-open-heart-fresh-election-rcna606785",
+          "published": "2026-11-01T16:26:04+00:00"
+        },
+        {
+          "title": "Benjamin Netanyahu - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
+          "published": "2026-11-01T15:55:54+00:00"
+        },
+        {
+          "title": "Israelenses protestam por aliança entre oposição e partidos árabes para tirar Netanyahu do poder",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/israelenses-protestam-por-alianca-entre-oposicao-e-partidos-arabes-para-tirar-netanyahu-do-poder.shtml",
+          "published": "2026-11-01T13:36:00+00:00"
+        },
+        {
+          "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+          "published": "2026-11-01T10:20:20+00:00"
+        },
+        {
+          "title": "Netanyahu’s voter fraud claims rest on nebulous cases and dubious conduct by police, Shin Bet",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/netanyahus-voter-fraud-claims-rest-on-nebulous-cases-and-dubious-conduct-by-police-shin-bet/",
+          "published": "2026-11-01T20:51:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.281,
+        "r": 0.191
+      }
+    },
+    "sports-misc": {
+      "kind": "major",
+      "title": "Nello sport mondiale, titoli, record e grandi vittorie nel calcio, nella corsa e nel tennis",
+      "region": "Mondo / crypto",
+      "summary": "Nel mondo dello sport, nella giornata si sono distinti calcio, maratona e lotta. L'Arsenal ha battuto il Liverpool ad Anfield per la prima volta dal 2012 ed è salito al primo posto in classifica in Premier League; le cronache descrivono in modo diverso l'andamento della partita, ma concordano sul fatto che i londinesi siano tornati a casa con la vittoria e tre punti. Reuters riferisce inoltre della vittoria del Real Madrid per 3-0 sul Racing Santander e dei successi di Athletic e Real Sociedad, protagonisti di un derby memorabile a 50 anni di distanza. Negli Stati Uniti Sheila Chepkirui ha vinto la maratona di New York, mentre nel calcio russo il Lokomotiv ha perso in casa contro lo Spartak per 0-4. Reuters riferisce anche della vittoria dei Raiders sui Jets per 38-33, che ha interrotto una serie negativa.",
+      "picture": "L'immagine mostra affiancati un trofeo, una scarpa da maratona e un pallone da calcio con un nastro, poggiati su un podio a forma di tabellone. È l'immagine dei principali trofei sportivi e delle vittorie in diverse discipline.",
+      "mentions": 58,
+      "significance": 22,
+      "velocity": 78,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Raiders rally for skid-busting, 38-33 win over Jets - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXh5VzhhN0NkQk5xSUgwOE02bVdkSG5rVUZjZVJ6dzJBVVdLZ3lzamdFbjJ6ZHRQYnBITllGN2w1N3JRRkRaTzJPOFdQMGJOZWdLTGFxZEFvZ1pXSGR2dzB5cExLOTdaUl9acWZWbTdzVXp0S2JMM2NoV1l1X09aT2xRd3lta19WTzNDXzM3TXJrVGMtMnp6UGM3VWVGMjQ?oc=5",
+          "published": "2026-11-01T21:25:40+00:00"
+        },
+        {
+          "title": "Real Madrid extend winning run with 3-0 victory at Racing Santander - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0I0MnpvckgyOWhTcy1wOW11TXNlS0QzRTBsVnRXcEN5eTZLdGluSU16Y1A3OW1EQkQzM2N0eGpTd1ZYdzVtbjRJakhwZVlFeVdyY1Q2ZVVPSFVxUWQ1OGF6ZmVHX2o3czVJb0ItZFl4SzVHTC1fWDdIWTdpY2xxS2pIQ0ZhbHNMc1pUczJhY2haMl9QWlZ3MHRYZXVGd0JyWkNRVFJLUThoQ2ktVFE?oc=5",
+          "published": "2026-11-01T21:25:23+00:00"
+        },
+        {
+          "title": "'We have 50 cameras': Arsenal's drought-breaking win marred by VAR drama",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-02/football-arsenal-ends-anfield-drought-liverpool-var-drama/107334968",
+          "published": "2026-11-01T20:35:50+00:00"
+        },
+        {
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T20:00:18+00:00"
+        },
+        {
+          "title": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
+          "published": "2026-11-01T19:40:00+00:00"
+        },
+        {
+          "title": "Галактионов не смог замотивировать \"Локомотив\" на матч со \"Спартаком\"",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/sport/28276617",
+          "published": "2026-11-01T19:35:25+00:00"
+        },
+        {
+          "title": "Arsenal ride out Liverpool storm to top Premier League - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NFc0bTRtV01VTHZVV0NlSEozbUN5OWkwLXdfdGVGd1lWWnhBRkxkeUNucHlBR0pabjdxVzVOTVB3MDJWVy05WS04eTJxQnR2M0ZlaGI2RHl1bHNvYkxmUGM4OWdaMldNbFphamFaeHg4b0ZXT3JSU0kxczNqNkU?oc=5",
+          "published": "2026-11-01T19:26:51+00:00"
+        },
+        {
+          "title": "Arsenal ride out Liverpool storm to top Premier League - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHYwbmZ6UlJtVDlKa3hkd19MWEtJdkw3X3lBSXIxUUpsNmJxanNmRFdfMW9WOFBiaXcwd19ybktNWUNDV1dRZWcyaEx3NmdpZm5pYU5DWUNUc2plX1gta3ljRzM3VmFrb0FFcU1MdkxGR2tjb1dXdGY0NE9IdzdpOXpaWXp4UE5lUlV0SERNTDF2X2NZZnZjZG9mZXA2YXMwN3dndVBQUVlrQTBUc1dBbUN3?oc=5",
+          "published": "2026-11-01T19:09:48+00:00"
+        },
+        {
+          "title": "Arsenal go top after narrow win at Liverpool",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+          "published": "2026-11-01T19:09:18+00:00"
+        },
+        {
+          "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+          "published": "2026-11-01T18:44:48+00:00"
+        },
+        {
+          "title": "Código de Descuento Adidas en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/adidas-codigo-de-descuento-y-descuentos-hasta-50-en-deportes-envio-gratis/",
+          "published": "2026-11-01T14:02:53+00:00"
+        },
+        {
+          "title": "Athletic and Real Sociedad honour landmark derby moment 50 years later - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTZxT05PM0JPNzQ3d2pEWjUyWHp1cWtGVExZRm54NzRIUkVFX1d6dXJOOTAzMVlpQ21wWjltcF8zdzJ6QUZEcGxyZmthbFRDdjY0ZXA1bEFrZXFZU2x3c3k4eG1DV3RMWmxmSUZ4YVNxT3ktdnNKdkZPVS1SRjgzQkhGbENweVVYWFVRTGIwUC14cWRiWFRpMjlqRndCQVlvTFN1VHlwWExDU2RzSnFiWVlveFo3b2M?oc=5",
+          "published": "2026-11-01T20:45:59+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "Binance ha ripreso i prelievi dopo il furto record di criptoattivi da 6,3 miliardi di dollari",
+      "region": "Mondo / crypto",
+      "summary": "La piattaforma di criptovalute Binance ha ripreso i prelievi dopo l'hack nel quale, secondo quanto riferito, sono stati rubati oltre 6,3 miliardi di dollari. Reuters, AFP, BBC e altri media scrivono che l'azienda ha dichiarato di aver coperto il 90% delle perdite e di aver riportato la piattaforma in funzione, anche se nelle prime ore dopo la riapertura gli utenti hanno ritirato attivamente i fondi. L'FBI, secondo quanto riportato, ha attribuito l'attacco a un gruppo nordcoreano. Si tratta di uno dei più grandi cyberfurti di criptovalute conosciuti.",
+      "picture": "L'immagine mostra una cassaforte digitale incrinata da cui fuoriescono monete luminose, mentre una figura con il cappuccio trascina via una catena di token. È il simbolo del furto di criptoattivi e della vulnerabilità dell'exchange.",
+      "mentions": 38,
+      "significance": 88,
+      "velocity": 79,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Binance sees spike in withdrawals as exchange returns online after US$6.3 billion hack",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack",
+          "published": "2026-11-01T19:53:28+00:00"
+        },
+        {
+          "title": "Binance resumes withdrawals after more than $6 bn stolen in hack - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOExqblVidzZGVGZyOFh3U2RRc1Yxa0NfTEpZVVluLXVwRV8tS19TWUlkNlpuUVlac2g4NUZSM0RSSUhCeHVzNnFtLXJmX3RBN0xjejhCbUphUVRwVlJPZG90eGg5SHNHNm9NOWlOVHBoXzdVV0FhemdsT2NoRmVuUHJJbGk?oc=5",
+          "published": "2026-11-01T19:26:51+00:00"
+        },
+        {
+          "title": "Binance withdrawals resume following $6 billion hack - CNN",
+          "domain": "cnn.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
+          "published": "2026-11-01T17:09:34+00:00"
+        },
+        {
+          "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
+          "published": "2026-11-01T16:37:43+00:00"
+        },
+        {
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T13:11:37+00:00"
+        },
+        {
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+          "published": "2026-11-01T11:54:23+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.625,
+        "r": 0.151
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "Gli attacchi israeliani su Gaza uccidono di nuovo civili",
+      "region": "Palestina",
+      "summary": "Gli attacchi israeliani contro la Striscia di Gaza hanno nuovamente causato la morte di civili. Secondo medici, ospedali e Reuters, BBC e AP, in due attacchi separati sono morte otto persone, tra cui un bambino e diversi poliziotti di una struttura legata ad Hamas. I media concordano sul fatto che i colpi hanno interessato diverse aree di Gaza, compresa Gaza City e Khan Yunis. Le nuove vittime vengono segnalate nel contesto del conflitto in corso e delle distruzioni già esistenti.",
+      "picture": "L'immagine mostra un piccolo ulivo che spunta tra le macerie, accanto a una culla distrutta e a un proiettile che cade. È l'immagine di una vita sotto il fuoco della guerra.",
+      "mentions": 38,
+      "significance": 93,
+      "velocity": 80,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Israeli strikes kill eight people in Gaza, medics say",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-02/israeli-strikes-kill-eight-people-in-gaza-medics-say/107334984",
+          "published": "2026-11-01T21:07:42+00:00"
+        },
+        {
+          "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
+          "published": "2026-11-01T19:51:00+00:00"
+        },
+        {
+          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T17:06:32+00:00"
+        },
+        {
+          "title": "Israeli strikes kill eight people in Gaza - medics say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E3NlZWbHB1MUtZdG5sLXBXci1sVnQtMWxWYk1CM1EzTUtfMXJiWDZYRlIzN09BWlBuaUVXOThueVFEdF9nMXdVaUpobUNCSXM3dUZWQVZjN2MwZ19pQUN6cDUtbnE2Rm1PX3BwYmhTWWo4TGRqbG0xSmhKQVhWYTlVNkFpTFdsUFhmcDlVaFI5cWZRYk1jcFRoU3RIZUV2QTRBdm5B?oc=5",
+          "published": "2026-11-01T16:41:43+00:00"
+        },
+        {
+          "title": "Israeli strikes in Gaza kill eight: civil defense, hospitals - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWxUc0d5Qk1udDR4bDJQNlpDS1g0c2Y2WmxYcHFpSXdvM1BfQUFxdkxsMDRZMmgxNzZUTHMzNllFdFJaV3ZSRktmcVROd1ZYZDVEOE9oVU9RcndqSHhKUmg1b2tVbmhVQXFxZDloTDVQb1lwSlJUQmFmSlJGRnZkUXNBWFd0dFg1OWxWQVJZamRxQmhNMXVyT09wWjUweFdPQUdyeERB?oc=5",
+          "published": "2026-11-01T11:29:31+00:00"
+        },
+        {
+          "title": "Israel kills 9 more Palestinians in new wave of attacks on Gaza",
+          "domain": "presstv.co.uk",
+          "url": "https://presstv.co.uk/Detail/2026/11/01/779708/israels-genocide-in-gaza-continues-at-least-nine-palestinians-killed-in-new-wave-of-israeli-attacks",
+          "published": null
+        },
+        {
+          "title": "Israeli strikes across Gaza kill 8 people, including a 4-year-old boy - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnc4UUdxUWk0SDk3RWZxS0lsSmdfTjR0X29QSWNVNjdZS01nRVJoY3padE9NTXJwM0pBVjNNZkpTTlVzSTdiVXFBc2NDS1RaVDVZX00tYXRVelRuTlVqZlpVZ3Q0c2dEQWhnWlFjcUhSNjNqek1zbEhleDc3OVlTb0FBWUlUTm1BMHFHeXM0dzloTkpYR2FVNHNDdEdyVE1lSUk1SHZnM0RaU3dmZ25hc1l6LTdUYmVIdklUTzhJbzI1SXNQ?oc=5",
+          "published": "2026-11-01T18:42:00+00:00"
+        },
+        {
+          "title": "Israeli building hit by Gaza rocket, several wounded - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eUU4aFlNMnBhc19nOWZkbEQzbGV2UjEwSWdJbF9tZXFESjVVYnl4U1ZYc2JmNXp1MklZUExMb1RGZXBzV292NFZNUDFpY0R0VzhYbzlDN3p2RmlG?oc=5",
+          "published": "2026-11-01T11:36:01+00:00"
+        },
+        {
+          "title": "Winter storm wallops U.S. East Coast - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUUlvbE9sYTVGd29jU3VOdFhwM0w2MUxSTmY5SkZnNU9sS1RnQmwyd0xRYlkyUVZQVGRVUHVwNFpmc2gxRFAxQzU2SG5oVXNTeTFHRHEyczI5dkwz?oc=5",
+          "published": "2026-11-01T10:45:20+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.896,
+        "r": 0.156
+      }
+    },
+    "bulgaria-runoff": {
+      "kind": "major",
+      "title": "In Bulgaria, secondo gli exit poll, Yotova vince le elezioni presidenziali",
+      "region": "Europa",
+      "summary": "Secondo gli exit poll e il conteggio parallelo, in Bulgaria Yotova vince le elezioni presidenziali. Reuters, AP e altri media scrivono che ciò le consentirebbe di rafforzare una linea filorussa, se i risultati ufficiali confermeranno i sondaggi all'uscita dai seggi. TASS riferisce che Gyurov ha riconosciuto la sconfitta e fornisce anche dati sul vantaggio di Yotova dopo lo scrutinio di una parte dei verbali. Il voto si è svolto sullo sfondo di questioni di sicurezza e di tensioni regionali nel Mar Nero.",
+      "picture": "L'immagine mostra una scheda elettorale che viene inserita in un'urna vicino a un mare tranquillo, mentre sopra di essa si trova una fascia presidenziale. L'immagine sottolinea il passaggio di potere pacifico ma importante dopo le elezioni.",
+      "mentions": 38,
+      "significance": 55,
+      "velocity": 89,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Йотова лидирует на выборах президента Болгарии",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28276721",
+          "published": "2026-11-01T21:24:05+00:00"
+        },
+        {
+          "title": "Bulgarians projected to re-elect pro-Russian president",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
+          "published": "2026-11-01T20:53:51+00:00"
+        },
+        {
+          "title": "Bulgarian President wins runoff election: exit polls",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/bulgarian-president-wins-runoff-election-exit-polls/article71654264.ece",
+          "published": "2026-11-01T20:47:45+00:00"
+        },
+        {
+          "title": "Présidentielle en Bulgarie : Iliana Iotova remporte l’élection, selon plusieurs sondages à la sortie des urnes",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
+          "published": "2026-11-01T19:07:41+00:00"
+        },
+        {
+          "title": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
+          "published": "2026-11-01T18:55:40+00:00"
+        },
+        {
+          "title": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
+          "published": "2026-11-01T18:34:00+00:00"
+        },
+        {
+          "title": "Гюров признал поражение на выборах президента Болгарии",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28276689",
+          "published": "2026-11-01T21:01:03+00:00"
+        },
+        {
+          "title": "Bulgarian President wins runoff election: exit polls",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/bulgarian-president-wins-runoff-election-exit-polls/article71654264.ece",
+          "published": "2026-11-01T20:47:45+00:00"
+        },
+        {
+          "title": "Соцагентства Болгарии: Йотова побеждает на выборах президента",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28276625",
+          "published": "2026-11-01T20:17:27+00:00"
+        },
+        {
+          "title": "Экзитпол: Йотова побеждает во втором туре выборов президента Болгарии",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28276565",
+          "published": "2026-11-01T18:12:46+00:00"
+        },
+        {
+          "title": "US critical minerals push delivers a gold rush — for Washington lobbyists",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
+          "published": "2026-11-01T12:00:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.188,
+        "r": 0.125
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "In India l'opposizione chiede di nuovo le dimissioni del capo della commissione elettorale per le liste degli elettori",
+      "region": "Asia",
+      "summary": "A Nuova Delhi l'opposizione indiana è tornata in piazza con proteste di massa, chiedendo le dimissioni del capo della commissione elettorale per la revisione delle liste elettorali. Reuters scrive che alla manifestazione hanno partecipato migliaia di persone, mentre altri media parlano di decine di migliaia di dimostranti e di leader di diversi partiti. Il motivo resta il controllo nazionale delle liste, che l'opposizione considera ingiusto e favorevole al partito al governo. Le proteste vanno avanti già dall'estate, e i manifestanti hanno riproposto il tema nella capitale.",
+      "picture": "L'immagine mostra una folla immensa attorno a un'urna gigantesca, con sopra una lente d'ingrandimento sospesa. È il simbolo della verifica delle liste elettorali e della disputa sulla correttezza del voto.",
+      "mentions": 38,
+      "significance": 63,
+      "velocity": 72,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Thousands join Indian opposition protest demanding election chief resign - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zcjFtSWVPN0Z6UjdUUmVDaEpaMXlYSzZrS2VyVC1IcWl4eUlLdXoyd3d3VGhWeXpYUEstUVc3ejlYUGJsYXpLWUlJWERyY2lpaDJXZEFVY2NWakh5WGJ0LWhic3ZQa1k?oc=5",
+          "published": "2026-11-01T20:25:58+00:00"
+        },
+        {
+          "title": "Thousands join Indian opposition protest",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/thousands-join-indian-opposition-protest",
+          "published": "2026-11-01T17:45:20+00:00"
+        },
+        {
+          "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+          "published": "2026-11-01T16:51:34+00:00"
+        },
+        {
+          "title": "India protesters march with 1km banner of deleted voters’ names",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+          "published": "2026-11-01T16:42:18+00:00"
+        },
+        {
+          "title": "India’s opposition parties renew calls for the resignation of the country’s election chief - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ3ZwNWZxT2VfTVZfQ21XMkxxZGpMYlZJOVV5X1YtNE5EeTZEcncyQ2pCTnpPbFlOb0Q2MXpVN19ORWJOanJxZ1N4U1k5VTBvN0ZITHNwd3lZSl94SjZ0NmFBQlBkQ2s3ZExYQ0xvVzI2bk1ILVgyUS1MQ19iS2lrNDgtN3hsRGZ0dE5KbUFFZEZmR09IbjFtdXZrbkQ4NEVGa2NDbzkwOS1WajY0U3htdHQyRnh3SWE2LTRvUV8ySlM3ODJ3d3R1V3QtM0RBd0Z3SUJjOW1fNHVzNGRPVmtZ?oc=5",
+          "published": "2026-11-01T15:14:00+00:00"
+        },
+        {
+          "title": "Thousands protest in India's capital against voter roll revision",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2041368/thousands-protest-in-indias-capital-against-voter-roll-revision",
+          "published": "2026-11-01T10:20:49+00:00"
+        },
+        {
+          "title": "Five killed in fresh ethnic violence in India's Manipur state - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
+          "published": "2026-11-01T12:09:48+00:00"
+        },
+        {
+          "title": "India’s opposition parties stage new protest against the country’s election chief - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX083V3gwMU1WcFdtN25FbDB0TVNXZFNoUmJOdVN5TlBqQUdVSHh5ZHI2S1lweF9pNjN4YldFQmZJZ0ttRjA3MGx5bzYyaUQ2MXRmV2dVZXQ4QjNFZE0xQnpWZGFlNjEzWWVzMWk3RVluUXdlZjkxRy1acHh2SHU4Wm5vazlUN0gwM2V2bmxoWUJGZ25RUk8wRFkwbHJQRUJXNU9ERXpiQ3lRS3UySGRfRExxYzdzLWVyeHc?oc=5",
+          "published": "2026-11-01T10:12:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.637,
+        "r": 0.3
+      }
+    },
+    "moscow-threat": {
+      "kind": "major",
+      "title": "Dopo un avvertimento degli Stati Uniti, in Russia è stato arrestato un adolescente per un presunto attentato",
+      "region": "Russia",
+      "summary": "In Russia è stato arrestato un minorenne in relazione a un presunto preparativo di attentato a Mosca dopo un avvertimento degli Stati Uniti. Reuters, AFP, NBC e Al Jazeera scrivono che l'FSB ha ricevuto le informazioni tramite canali partner e ha poi fermato l'adolescente, sospettato di aver minacciato un attacco a un parco. Le fonti russe sostengono che i dati provenissero dallo stesso adolescente, che aveva pubblicato un video su TikTok. I dettagli delle accuse e dell'eventuale preparazione dell'attacco non sono stati resi noti.",
+      "picture": "L'immagine mostra un telefono luminoso accanto a un cancello chiuso, mentre in alto si vedono la sagoma di un berretto da polizia e una sirena. È il simbolo della traccia digitale che ha portato al sospettato.",
+      "mentions": 33,
+      "significance": 46,
+      "velocity": 63,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+          "published": "2026-11-01T16:24:16+00:00"
+        },
+        {
+          "title": "Russia's FSB says minor detained over park attack threat after US tip-off - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+          "published": "2026-11-01T15:32:23+00:00"
+        },
+        {
+          "title": "Russia arrests minor after US warns of planned attack on Moscow - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFhmRnBELVphVEp0Q201OFJUeXp4dFhES3ZpbTRKbTVzNmJUcU5Zd2JVNDdmVk9EMERrN3M4S3hIaWloM2ROLU1vTkcwRHlZTDhtZDJpYWt1eGR0eWZYbFI0UUxqLTNuNkhQQ05BRnJtQWM4Qno1ZUlGNTNpdXhlQ2tfTUhVU3M?oc=5",
+          "published": "2026-11-01T15:02:09+00:00"
+        },
+        {
+          "title": "ФСБ заявила, что информация о подготовке теракта в Москве исходила от подростка, опубликовавшего ролик в TikTok. Он задержан",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/01/fsb-zayavila-chto-informatsiya-o-podgotovke-terakta-v-moskve-ishodila-ot-podrostka-opublikovavshego-rolik-v-tiktok-on-zaderzhan",
+          "published": "2026-11-01T14:09:42+00:00"
+        },
+        {
+          "title": "Minor detained after U.S. warned Russia of possible Moscow terror attack, FSB says",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/world/russia/us-warned-russia-possible-moscow-terror-attack-fsb-says-rcna606789",
+          "published": "2026-11-01T13:20:12+00:00"
+        },
+        {
+          "title": "ФСБ заявила, что информация о подготовке теракта в Москве исходила от подростка, опубликовавшего ролик в TikTok. Он задержан",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/01/fsb-zayavila-chto-informatsiya-o-podgotovke-terakta-v-moskve-ishodila-ot-podrostka-opublikovavshego-rolik-v-tiktok-on-zaderzhan",
+          "published": "2026-11-01T14:09:42+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "carney-trump-trade": {
+      "kind": "major",
+      "title": "Carney e Trump hanno discusso di commercio nel tentativo di allentare le tensioni tra Stati Uniti e Canada",
+      "region": "USA",
+      "summary": "Il premier canadese Mark Carney e Donald Trump hanno discusso di commercio e, secondo le parti, hanno compiuto progressi nei colloqui. Reuters riferisce che Trump ha parlato di una «concezione» di un nuovo accordo commerciale, mentre Carney ha definito la conversazione positiva. Al Jazeera e AP scrivono che i colloqui si svolgono sullo sfondo di dazi reciproci per miliardi di dollari e alla vigilia delle elezioni negli Stati Uniti. Ciò indica un tentativo di ridurre la tensione tra i due Paesi.",
+      "picture": "L'immagine mostra due chiavi commerciali intrecciate sospese sopra una mappa del confine, accanto a un oleodotto e a una foglia d'acero. L'immagine rappresenta i colloqui sull'equilibrio commerciale tra Stati Uniti e Canada.",
+      "mentions": 29,
+      "significance": 41,
+      "velocity": 86,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Trump says US, Canada have 'concept' of a new trade deal - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5",
+          "published": "2026-11-01T21:11:43+00:00"
+        },
+        {
+          "title": "Canada PM Carney says he had good conversation with Trump on trade",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+          "published": "2026-11-01T21:02:54+00:00"
+        },
+        {
+          "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+          "published": "2026-11-01T21:01:33+00:00"
+        },
+        {
+          "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMjB2S2lsdl9NVjBZT3VncEd6dW5ZcERBNkh2MC1FVUZzUUlxZU9lVHp4eFAxUlZLeldNcElJMDNPLU9RTnkwZ2NCbkNud3V4ekZtdndIcFZ1REFPSU9qdEZyTHFaU3hnWVpVVThGN2htTDFJWnhrTFhhZWR0Q0R2cUNvZlFTSVJiTk1ybzdRcHVydw?oc=5",
+          "published": "2026-11-01T17:39:00+00:00"
+        },
+        {
+          "title": "Canada PM Carney said he had a good conversation with Trump on trade - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
+          "published": "2026-11-01T19:05:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "japan-simulated-mars": {
+      "kind": "major",
+      "title": "L'equipaggio della NASA esce da un isolamento di 378 giorni dopo una simulazione di missione su Marte",
+      "region": "Mondo / crypto",
+      "summary": "Il team della NASA è uscito da un isolamento durato 378 giorni dopo aver preso parte a una simulazione di missione su Marte. Reuters e Dawn riferiscono che quattro partecipanti sono rimasti isolati a Houston per contribuire alla preparazione dei futuri voli con equipaggio. Il progetto faceva parte dei test sulle condizioni di un lungo viaggio spaziale e della vita in uno spazio chiuso. Si tratta di una delle tappe della preparazione alla vera missione su Marte.",
+      "picture": "L'immagine mostra l'apertura di una capsula ermetica da cui escono quattro astronauti, accanto a una sfera rossa che rappresenta il pianeta e a un calendario vuoto. L'immagine significa la fine di una lunga isolazione e la preparazione alla spedizione marziana.",
+      "mentions": 18,
+      "significance": 34,
+      "velocity": 86,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Crew from Nasa's simulated Mars mission emerges after 378 days in isolation",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2041410/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
+          "published": "2026-11-01T19:15:05+00:00"
+        },
+        {
+          "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
+          "published": "2026-11-01T16:37:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "heidi-klum-severed-hand-halloween": {
+      "kind": "micro",
+      "title": "Heidi Klum ha stupito di nuovo con l’idea di una gigantesca mano mozzata per Halloween",
+      "region": "Mondo / crypto",
+      "summary": "Heidi Klum, alla sua 25ª festa di Halloween, si è presentata travestita da gigantesca mano mozzata. AP, Euronews e Fox News scrivono che a New York alla festa erano presenti anche altre celebrità, mentre la padrona di casa ha scelto ancora una volta un costume molto scenografico e grottesco. Le testate osservano che il suo look è stato tra i più notati della serata. È un’altra apparizione clamorosa di Klum ad Halloween.",
+      "picture": "L’illustrazione mostra una donna raffigurata come una gigantesca mano mozzata: un costume volutamente inquietante. Questo look sottolinea la tradizione di Heidi Klum di trasformare Halloween in uno spettacolo visivamente forte.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1NRdENxZW14Umk0TkxWeGVBWUJUcURlZTFHTVRibkw4VEVvRUtaX3ZoUkpBdTd2NzFKVnpxSnc2ZlBYUlgwelhOdHBVN0lBWVZIeFNtOXF0MUt3dFdsUFRDS2tEekt2aWJDVk9iNlJrZEt0RWxOYmtwWV9WLXZTNC1VaWhXY0labXNhLUNHQUxidm93b1pROWE4dmJjWFRDZm1ubC13X3hMeHlKQXM3Mm9OLTJfMXhiWFpEcDgtSUpYT2hSQmo0SVl6eDBGVHVXYV9VadIB2gFBVV95cUxQYnRhRmt2U0w2NUFkSU9UZFFKYkRPbk4xTTNrcVZlREN0cEtJd203TDJ5RENERmhCbmtBNmxkZXkzZlgyOVpab29NWHM0RlB0RDVlQXZRb0NWRDBMVmkxU01IdnNUOFp6QjUxYnFBTUxBZEhNbU10VThaYzBhS2RnMy1ISi1PNFZpOGptWVJ1MVlLWElxZzQzUTlwS3FEeGNZUklyNUJiQzRBT1poMHpuQmdRakpSVWMwTnVLYVVGMmJpYkFXVmtXRFROM09PcEFyYkhMVk96VnVuQQ?oc=5",
+          "published": "2026-11-01T18:48:03+00:00"
+        },
+        {
+          "title": "Heidi Klum turns herself into a giant severed hand for Halloween",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
+          "published": "2026-11-01T13:11:00+00:00"
+        },
+        {
+          "title": "Heidi Klum transforms into giant severed hand for 25th Halloween party - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkt0MExnZ20ycldCWU44VXNxaHRXTUNiOEhTc1hxMlNOeExxejJXZWRVRkF2T0pJR2VuQTlFYzFnZzJ4My1tNmQ1QlNFVkh6S044NWg4UUtKbGNqQkZ6cF80bnFKSl9TSHJMWFlrS010MnlQRTJzSDk3SGViWDBZMXotLUM3eWNaT3ZnbmNGQmVQTnRIX1UwUkhyU1ZJMG1Oalg1SlRnNUlGWnVEX2tCY2NJTzc2MmtDbjlnY2JIMDh5c20tTFBZ?oc=5",
+          "published": "2026-11-01T10:04:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.375,
+        "r": 0.125
+      }
+    },
+    "british-police-detain-tear-gas-bombs": {
+      "kind": "micro",
+      "title": "In Francia fermati britannici con bombe lacrimogene durante una manifestazione di solidarietà con la Palestina",
+      "region": "Europa",
+      "summary": "In Francia sono stati fermati cinque cittadini britannici in possesso, secondo Sky News, di bombe lacrimogene. Si riferisce che siano stati bloccati nel nord della Francia la scorsa settimana, ma non viene indicato se fossero collegati a un’iniziativa specifica. In altri articoli sullo stesso tema si parla separatamente di arresti durante una manifestazione di Palestine Action a Londra, ma si tratta di un episodio diverso. Nei resoconti disponibili i dettagli sul fermo in Francia restano limitati.",
+      "picture": "L’illustrazione mostra accanto alcune bombolette di gas lacrimogeno e delle manette. È l’immagine di un fermo legato al possesso di oggetti pericolosi durante una protesta.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "UK police say 325 people were arrested at Palestine Action demo - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2pUcGJkYTJlbXlheGZaNUloOE5Fbmh4ZU5oSEVQcW94S2JJOEhsMko1bWEzYjhjTEU2SFk3TlFlcnR5c0hWYXk5LXZ5WGxxTGlrMEhqVm44dTFlbERzYWZwMnh5Z3NRLUFKV0hCX05GSldpSUJRYVhteGo5SlNRa2N1cnpvWlRrUF9F?oc=5",
+          "published": "2026-11-01T12:45:12+00:00"
+        },
+        {
+          "title": "Suspected far-right activists from Britain 'with tear gas bombs' detained in France",
+          "domain": "news.sky.com",
+          "url": "https://news.sky.com/story/suspected-far-right-activists-from-britain-with-tear-gas-bombs-detained-in-france-say-authorities-13606604",
+          "published": "2026-11-01T12:09:00+00:00"
+        },
+        {
+          "title": "UK police say 325 people were arrested at Palestine Action demo - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzBmTjF2TUxqMTRLMGlnNllDUmZTaGdoeXdaYmQtUnhENDRJc0lPRW5JR3BwYWdFSGdVN21IdWVwaHpoaDBnenVscFoxU0xvbEl6M1NhWVRkUGU0U3lRcWhWV3p3cGZTVlpBemtLalpqWDZTcnZaYUFrTkZzWDFJT3lQYWZoYl9PNW1SM3pzVF9COGpNWU9sZm03RTlrVHRfdlFnVw?oc=5",
+          "published": "2026-11-01T11:50:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "route-du-rhum-starts": {
+      "kind": "micro",
+      "title": "Partita la regata velica Route du Rhum",
+      "region": "Europa",
+      "summary": "Da Saint-Malo è partita la regata velica Route du Rhum, con 115 velisti al via. France 24 e AFP scrivono che la gara è iniziata con un clima mite e che gli atleti si sono avviati in una traversata atlantica in solitaria verso la Guadalupa. Gli organizzatori la definiscono una delle più grandi regate oceaniche in solitaria. La partenza si è svolta come previsto e senza complicazioni meteo.",
+      "picture": "L’illustrazione mostra una barca a vela con uno spinnaker dai colori vivaci. L’immagine richiama la partenza di una grande regata oceanica e la navigazione in mare aperto.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "France: Route du Rhum yacht race sets off",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/france-route-du-rhum-yacht-race-sets-off",
+          "published": "2026-11-01T17:46:04+00:00"
+        },
+        {
+          "title": "Sailors blessed with good weather as Route du Rhum gets underway - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1RELTRiWFJOeTVqam9CTlJnakYzbVhva21VbjNtZHpKRE55Y0lJMkh6MlA3Q3ZtcktpdVVJOGUtM290VGF2em9pSkxub0JuS0ZBY0hSSDBQdExLcUo5VzdfY1pMMzg5bGUxajBvbmlnRWowZV9VSjhETTV2X2RfUWJmdl9mZw?oc=5",
+          "published": "2026-11-01T14:29:45+00:00"
+        },
+        {
+          "title": "France: Route du Rhum fleet ready to depart",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/france-route-du-rhum-fleet-ready-to-depart",
+          "published": "2026-11-01T13:12:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "senegal-youth-olympics-open": {
+      "kind": "micro",
+      "title": "In Senegal si sono aperti i Giochi Olimpici Giovanili",
+      "region": "Africa",
+      "summary": "In Senegal si sono aperti i Giochi Olimpici Giovanili, diventando la prima competizione olimpica disputata in terra africana. France 24, Africanews e altri media scrivono che la cerimonia si è svolta nella regione di Dakar ed è stata accompagnata da celebrazioni con tamburi e danze. Il Senegal ha schierato una propria squadra, mentre autorità e organizzatori sottolineano il valore storico dell’evento per l’Africa. L’apertura è considerata una tappa importante per lo sport internazionale.",
+      "picture": "L’illustrazione mostra giovani atleti che portano bandiere olimpiche. È il simbolo del primo evento olimpico nel continente africano.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "A day of celebration in Senegal as the Youth Olympic Games get underway",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/tv-shows/sports/20261101-a-day-of-celebration-in-senegal-as-the-youth-olympic-games-get-underway",
+          "published": "2026-11-01T11:14:31+00:00"
+        },
+        {
+          "title": "Youth Olympics open in Senegal marking the first Olympic event in Africa",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/01/youth-olympics-open-in-senegal-marking-the-first-olympic-event-in-africa/",
+          "published": "2026-11-01T09:55:34+00:00"
+        },
+        {
+          "title": "Senegal hosts first Olympic event on African continent",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent",
+          "published": "2026-11-01T09:58:13+00:00"
+        },
+        {
+          "title": "Youth Olympic Games kick off in Dakar",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/youth-olympic-games-kick-off-in-dakar",
+          "published": "2026-11-01T09:49:04+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "bhutan-builds-108-stupas": {
+      "kind": "micro",
+      "title": "In Bhutan costruite 108 stupa di sabbia in nove ore",
+      "region": "Asia",
+      "summary": "In Bhutan sono state costruite 108 stupa di sabbia in nove ore, riferiscono The Hindu e South China Morning Post. Secondo quanto riportato, all’iniziativa hanno preso parte decine di migliaia di volontari, e una delle stupa è stata dedicata al primo ministro indiano Narendra Modi. Il progetto è collegato ai piani di sviluppo della “città della consapevolezza” di Gelephu e al turismo. Gli articoli lo descrivono come un’azione religiosa e collettiva di massa.",
+      "picture": "L’illustrazione mostra una fila di piccole stupa bianche allineate in sequenza. È l’immagine di una costruzione spirituale collettiva e di un progetto legato al futuro della città.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Bhutan builds 108 stupas in 9 hours, dedicates No. 76 to PM Modi",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/bhutan-builds-108-stupas-in-9-hours-dedicates-no-76-to-pm-modi/article71653715.ece",
+          "published": "2026-11-01T16:37:27+00:00"
+        },
+        {
+          "title": "Bhutan builds 108 stupas for mindfulness city in tourism push",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3372902/bhutan-builds-108-stupas-mindfulness-city-tourism-push",
+          "published": "2026-11-01T13:30:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.188
+      }
+    },
+    "cultural-night-seoul-moutai": {
+      "kind": "micro",
+      "title": "A Seul serata di cultura cinese con la Moutai Night",
+      "region": "Asia",
+      "summary": "A Seul si è svolta una serata di cultura cinese intitolata Moutai Night. AFP scrive che l’evento è stato pensato come un ponte culturale tra il fiume Chishui e il fiume Han. Il resoconto non fornisce dettagli sul programma, ma sottolinea il carattere simbolico della manifestazione. Si tratta di uno degli esempi di diplomazia culturale e scambio pubblico.",
+      "picture": "L’illustrazione mostra una bottiglia di bevanda e due calici festivi. L’immagine richiama una serata di scambio culturale e di celebrazione condivisa.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "From the Chishui to the Han: \"Moutai Night\" Debuts in Seoul to Bridge Cultural Connections - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZlRXVFSDM1R2dMUXl6N1l5c0p1UHJVb2JiVVd3M282VHBkaHRWVDNPY250V0MtMmExTllyTXRvYWEtZm5zbWNQSWR4SHAtTk5mTWtUajE4aFJxcFFaWU1BZ1MtdXUtLTdFeHNMS0tUZEpkYS13Q3ZnYlNRM2pZbUVGem1rOFpPaE5Zajl2LWZDZnhjaVdfTA?oc=5",
+          "published": "2026-11-01T12:44:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "london-medieval-joust-ebikes": {
+      "kind": "micro",
+      "title": "A Londra un moderno torneo cavalleresco su biciclette elettriche",
+      "region": "Europa",
+      "summary": "A Londra è stata organizzata una versione contemporanea del torneo cavalleresco medievale su biciclette elettriche. Reuters scrive che il tradizionale joust ha assunto una forma insolita e moderna, con i “cavalli” sostituiti dalle e-bike. Il racconto è presentato come una reinterpretazione giocosa di uno spettacolo storico. Si tratta di un evento culturale leggero, senza contesto politico.",
+      "picture": "L’illustrazione mostra cavalli cavallereschi sostituiti da biciclette elettriche, mentre i partecipanti impugnano lance. È l’immagine di un divertente incontro tra tradizione medievale e tecnologia moderna.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Horses become e-bikes as London puts modern twist on medieval joust - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JeGNtM3ota2I1bjYwei1wODFlMXVhU0VnZHowdkdIaXEtVkFlSkV1SzhjRnlWSDFPWEJfaVNpTGJKSkhIeGRRUG40Z2dLeDhUd19GYXBONXd1TnZ1ZERWZGRObmNWZlk?oc=5",
+          "published": "2026-11-01T16:37:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "peregrine-falcons-auction": {
+      "kind": "micro",
+      "title": "In Arabia Saudita due falchi pellegrini venduti all’asta per una somma ingente",
+      "region": "Medio Oriente",
+      "summary": "In Arabia Saudita due falchi pellegrini sono stati venduti all’asta per 182.000 riyal. Arab News riferisce soltanto della vendita e dell’importo della transazione. Non vengono forniti dettagli sugli acquirenti o sulla destinazione degli uccelli. L’episodio mostra il forte interesse per la falconeria e il commercio di uccelli rari nella regione.",
+      "picture": "L’illustrazione mostra due falchi pellegrini su supporti da asta. È il simbolo di una vendita rara e costosa di uccelli all’incanto.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Two peregrine falcons sell for SR182,000 at Saudi auction - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHVvYm83Sjd2d2lXMDNKLUgwejhBS19iVlJJVkV1cnNFNUVUODdBLVMzcjhYMWFfb0h4cS03cmdxdEJkNjFpUndZcTNydVV1RGdqQjhYZ2tlbFFNaWJhZThqMldJdGM1LVd0T01NYkhETE5PNnhrQnF1eDFxVGNkOExJZUdoVnRELWVfeDRtRk5RRDV3MlpwYjc1TkpVOUU2UjR1UQ?oc=5",
+          "published": "2026-11-01T13:00:17+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.312,
+        "r": 0.062
+      }
+    },
+    "diana-statue-unveiling": {
+      "kind": "micro",
+      "title": "I principi William e Harry hanno inaugurato insieme la statua di Diana",
+      "region": "Europa",
+      "summary": "I principi William e Harry hanno inaugurato insieme la statua della principessa Diana. Reuters riferisce che la cerimonia ha rappresentato una loro rara apparizione pubblica congiunta. Nell’anteprima non vengono rivelati i dettagli del luogo e della statua, ma l’evento è legato al ricordo di Diana. Si tratta di un gesto familiare e simbolico di grande rilievo.",
+      "picture": "L’illustrazione mostra una statua bronzea della principessa Diana. L’immagine richiama il significato commemorativo e familiare della cerimonia.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Harry and William unveil Princess Diana statue - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wOFBwMy1NT0dSUW9Dem44cDV0RkdRZ0t1MDJiUXRqYnJNRnRpeGFydE40S25MREYwZDJTdGNTbG9QdG9iaDdyVHlZbzZYdzdSRWxvYldMMEM3bTZz?oc=5",
+          "published": "2026-11-01T15:09:38+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "south-korea-seniors-ai-dolls": {
+      "kind": "micro",
+      "title": "In Corea del Sud gli anziani combattono la solitudine con bambole dotate di IA",
+      "region": "Asia",
+      "summary": "In Francia è stato pubblicato un servizio sugli anziani in Corea del Sud che affrontano la solitudine grazie a bambole con intelligenza artificiale. Le Monde scrive che il Paese sta cercando soluzioni per aiutare il numero crescente di cittadini anziani che vivono l’isolamento. Nell’articolo viene raccontato il caso di una persona per la quale parlare con una di queste bambole aiuta a gestire la solitudine. È una storia sociale su invecchiamento e tecnologia.",
+      "picture": "L’illustrazione mostra un’anziana che parla con una bambola dotata di IA. L’immagine evidenzia il tentativo di ridurre la solitudine attraverso la tecnologia.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "« Ça me fait du bien d’avoir quelqu’un à qui parler » : en Corée du Sud, des seniors trompent leur solitude grâce à des poupées dotées d’IA",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/intimites/article/2026/11/01/ca-me-fait-du-bien-d-avoir-quelqu-un-a-qui-parler-en-coree-du-sud-des-seniors-trompent-leur-solitude-grace-a-des-poupees-dotees-d-ia_6804519_6190330.html",
+          "published": "2026-11-01T16:00:25+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.625,
+        "r": 0.125
+      }
+    },
+    "capybara-obit-zoo": {
+      "kind": "micro",
+      "title": "Allo zoo di Santa Barbara è morto un capibara molto amato",
+      "region": "USA",
+      "summary": "Allo zoo di Santa Barbara è morto un capibara molto amato. I media locali riferiscono della scomparsa dell’animale, noto ai visitatori dello zoo. Nell’articolo non vengono indicati i dettagli sulle cause della morte. Si tratta di una piccola notizia locale con un forte impatto emotivo sui visitatori.",
+      "picture": "L’illustrazione mostra un capibara disteso accanto a un piccolo cartello. È un’immagine silenziosa di commiato da un animale amato.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Como Park Zoo Says Goodbye To Skeeter, Beloved Giraffe Of Sixteen Years - WJON",
+          "domain": "wjon.com",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GWlZRTzFpVzBMVkFzSU5BSVNhMGNwN0FjRlM1U1lsYkdyRFlqcEtCQWtWWXNselhJZ2x4S1R0ZC16NVlpcGRyU21LeEV3aWpyZ1lyZXlDUnFzZU5ZUkoyb2dhYw?oc=5",
+          "published": "2026-11-01T18:44:30+00:00"
+        },
+        {
+          "title": "Beloved capybara at the Santa Barbara Zoo dies - KSBY News",
+          "domain": "ksby.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE5SRXlUOU1SS29zWXQyNVVYUktiX2pDUUJPcndMS1pqWU1CekloQ1hFSHkxMXNXUER4YThZUDlkcjJ2OVE3X2hTbUNQd1pZUUpCYmt2WGhpMTZBUVZnbzlHbF95UVA1dTF4NGYwT3Z4MUtRckdqeHZSOU1yelBTTC1UTk1JNGxkUjNoWXZMbzd1azhZR0VyYQ?oc=5",
+          "published": "2026-11-01T17:49:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "rare-beetle-wales": {
+      "kind": "micro",
+      "title": "In Galles ritrovato un raro coleottero che non si vedeva da 60 anni",
+      "region": "Europa",
+      "summary": "In Galles è stato ritrovato un raro coleottero che non si vedeva da 60 anni. La BBC scrive che si tratta del Short-Necked Oil Beetle, che si temeva fosse scomparso nella regione. Il ritrovamento è arrivato in modo inatteso dopo recenti ricognizioni. È una notizia importante per la natura locale e la tutela delle specie.",
+      "picture": "L’illustrazione mostra un piccolo coleottero posato su una foglia. L’immagine sottolinea la rarità e la fragilità della specie ritrovata.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T18:04:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "beavers-return-loch-ness": {
+      "kind": "micro",
+      "title": "In Scozia si prepara dopo 500 anni il ritorno dei castori",
+      "region": "Europa",
+      "summary": "In Scozia i castori dovrebbero tornare nell’area di Loch Ness dopo 500 anni di assenza. Si riferisce che NatureScot abbia approvato il rilascio di 15 gruppi familiari nell’ambito di un progetto di ripristino della natura. L’iniziativa viene presentata come parte di un più ampio approccio di rewilding. Si tratta di un passo importante per l’ecosistema della regione.",
+      "picture": "L’illustrazione mostra una famiglia di castori accanto a una diga di legno. È il simbolo del ritorno della specie e del ripristino dell’ambiente naturale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Beavers set to return to Loch Ness after 500 years, with 15 family groups approved for release.",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/uk/after-nearly-500-years-without-beavers-around-loch-ness-scottish-conservation-groups-have-won-approval-to-reintroduce-up-to-15-family-groups-over-three-years-the-first-releases-are-expected-within-weeks/articleshow/135431152.cms",
+          "published": "2026-11-01T15:51:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.062,
+        "r": 0.125
+      }
+    },
+    "golden-ivory-chess-piece": {
+      "kind": "micro",
+      "title": "Un pezzo degli scacchi del XVIII secolo in avorio venduto all’asta per una cifra enorme",
+      "region": "Mondo / crypto",
+      "summary": "Un pezzo degli scacchi in avorio, ritrovato in un cassetto di famiglia, è stato venduto all’asta per 735.000 sterline. Si riferisce che il pezzo fosse rimasto nel cassetto per oltre 55 anni ed è stato identificato come parte dei Lewis chessmen. Nell’articolo si sottolineano la rarità e il valore storico dell’oggetto. Si tratta di una vendita d’antiquariato di grande rilievo.",
+      "picture": "L’illustrazione mostra un vecchio pezzo degli scacchi in avorio su un tessuto di velluto. L’immagine sottolinea il valore dell’oggetto antico e la sua rarità museale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "£5 ivory chess piece found in family drawer sells for £735,000 after 55 years",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/uk/in-1964-an-edinburgh-antiques-dealer-paid-just-5-for-a-small-carved-warrior-after-spending-decades-in-a-family-drawer-it-was-identified-as-a-missing-lewis-chess-piece-and-sold-for-735000/articleshow/135436670.cms",
+          "published": "2026-11-01T19:51:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.625,
+        "r": 0.125
+      }
+    },
+    "ten-year-old-wildlife-fundraiser": {
+      "kind": "micro",
+      "title": "Un ragazzo londinese di 12 anni raccoglie fondi per la fauna selvatica e riceve gli elogi di Attenborough",
+      "region": "Europa",
+      "summary": "Un ragazzo londinese di 12 anni ha raccolto 13.000 sterline per la tutela della fauna selvatica e ha ricevuto gli elogi di David Attenborough. Si riferisce che la raccolta fondi abbia ottenuto ampio riconoscimento. Nella notizia non vengono forniti altri dettagli sulla campagna. È una breve storia positiva di solidarietà.",
+      "picture": "L’illustrazione mostra un ragazzo che tiene un barattolo per le donazioni e un binocolo. È l’immagine di un giovane raccoglitore di fondi e del suo interesse per la natura.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "12-year-old London boy raises £13,000 for wildlife, wins Attenborough's praise",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/uk/a-12-year-old-boy-from-south-london-has-raised-more-than-13000-for-endangered-wildlife-built-a-35000-strong-online-following-and-caught-david-attenboroughs-attention-through-his-animal-videos-and-campaigns/articleshow/135428246.cms",
+          "published": "2026-11-01T20:25:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.188
+      }
+    },
+    "alcaraz-wins-vienna": {
+      "kind": "micro",
+      "title": "Carlos Alcaraz ha vinto il torneo di tennis a Vienna",
+      "region": "Europa",
+      "summary": "Carlos Alcaraz ha vinto il Vienna Open, mantenendo un percorso perfetto nella serie ATP 500. La BBC riferisce che in finale ha battuto Alex de Minaur in due set. La vittoria ha prolungato la sua striscia positiva e ha rafforzato il suo status di uno dei leader del circuito. È un altro titolo in una stagione di grande successo per lo spagnolo.",
+      "picture": "Nell’immagine il tennista solleva il trofeo sopra la testa. È il simbolo della vittoria e dell’ennesimo titolo conquistato al torneo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Alcaraz wins Vienna Open to maintain perfect record",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/crd6dezj8v86o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T16:10:39+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "dart-first-wta-title": {
+      "kind": "micro",
+      "title": "Harriet Dart ha vinto per la prima volta in carriera un titolo WTA",
+      "region": "Europa",
+      "summary": "Harriet Dart ha conquistato per la prima volta in carriera un titolo WTA, trionfando al Guangzhou Open. BBC e The Guardian scrivono che la britannica è passata dalle qualificazioni e ha vinto il suo primo trofeo WTA nel singolare all’età di 30 anni. In finale ha battuto Lilli Tagger, rimontando dopo aver perso il primo set. Per Dart si tratta del successo più importante della carriera.",
+      "picture": "Nell’immagine la tennista tiene in mano il trofeo della vincitrice. L’immagine celebra il suo primo titolo e una svolta personale importante.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Dart reacts to her first WTA title after 'incredible week'",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/cqj9kgr8kzvyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T15:01:34+00:00"
+        },
+        {
+          "title": "GB’s Harriet Dart wins maiden WTA title at 30 with Guangzhou Open triumph",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/01/harriet-dart-wins-maiden-wta-title-guangzhou-open-tennis-lilli-tagger",
+          "published": "2026-11-01T11:20:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "new-york-marathon-debut-win": {
+      "kind": "micro",
+      "title": "Andreas Almgren ha vinto la maratona di New York al debutto",
+      "region": "USA",
+      "summary": "Andreas Almgren ha vinto la maratona di New York al debutto su questa distanza. La BBC riferisce che lo svedese ci è riuscito al suo primo tentativo sulla classica distanza della maratona. The Guardian scrive inoltre che tra le donne ha vinto Sheila Chepkirui, tornata a riprendersi il titolo. Per Almgren è stato un debutto brillante e il risultato più importante dell’anno.",
+      "picture": "Nell’immagine un corridore taglia il traguardo. È l’immagine di una vittoria inattesa e importante nella maratona.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Almgren wins in New York on marathon debut",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/c6ly0871547eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T18:10:11+00:00"
+        },
+        {
+          "title": "New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/01/new-york-city-marathon-andreas-almgren-wins-on-debut-as-sheila-chepkirui-reclaims-crown",
+          "published": "2026-11-01T16:33:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "arsenal-win-at-anfield": {
+      "kind": "micro",
+      "title": "L’Arsenal ha vinto ad Anfield per la prima volta dal 2012",
+      "region": "Europa",
+      "summary": "L’Arsenal ha vinto ad Anfield per la prima volta dal 2012 ed è salito a tre punti di vantaggio in classifica in Premier League. BBC e The Guardian scrivono che il gol decisivo è arrivato grazie all’accelerazione iniziale di Kai Havertz, mentre il Liverpool non è riuscito a reagire. In altre versioni si sottolinea che la partita è stata molto combattuta e ha lasciato delusione tra i padroni di casa. È una vittoria importante nella corsa al vertice.",
+      "picture": "Nell’immagine il pallone è davanti alla porta. L’immagine indica il momento decisivo della partita e una rara vittoria in trasferta in uno stadio difficile.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T20:00:18+00:00"
+        },
+        {
+          "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+          "published": "2026-11-01T18:44:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "man-city-edge-london-city": {
+      "kind": "micro",
+      "title": "Il Manchester City ha faticato per battere il London City nella partita di WSL",
+      "region": "Europa",
+      "summary": "Il Manchester City ha battuto a fatica le London City Lionesses nella Women’s Super League. La BBC riferisce che la vittoria è arrivata grazie ai gol di Khadija Shaw e Lauren Hemp. L’articolo aggiunge che il London City ha giocato bene, ma non ha sfruttato le occasioni create. Questo successo ha aiutato il City a restare in corsa nelle zone alte della classifica.",
+      "picture": "Nell’immagine due squadre di calcio femminili si contendono il pallone. È l’immagine di una partita tirata, decisa dalla precisione della favorita.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Clinical Man City edge past London City in WSL thriller",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T17:54:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      }
+    }
+  }
+}

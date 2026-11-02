@@ -1,0 +1,949 @@
+{
+  "key": "2026-11-01-1",
+  "date": "2026-11-01",
+  "image": "img/2026-11-01-1.jpg",
+  "events": {
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "Iran and the US on the brink of a new war: the Strait of Hormuz is closed, strike on a Qatari gas tanker",
+      "region": "Middle East",
+      "summary": "Iran and the United States have found themselves on the brink of a new war amid events in the Strait of Hormuz. It is reported that the strait is closed, and a Qatari gas tanker was also struck. This is a key hub of global oil and gas trade, so the situation affects not only the region but also international supplies. The source materials present the same headline without any additional discrepancies between outlets.",
+      "picture": "The picture shows a huge tanker wedged in a narrow strait between two rocky hands: one holds out an olive branch, the other a burning fuse. Ships around it, resembling sharks, symbolize the threat of war amid a fragile hope for peace.",
+      "mentions": 95,
+      "significance": 95,
+      "velocity": 70,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.781,
+        "y": 0.375,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "A wave of protests sweeps across Europe: youth unrest in Germany, clashes in Italy over prices",
+      "region": "Europe",
+      "summary": "A wave of protests has swept across Europe. In Germany, youth unrest is being reported, while in Italy there have been clashes over rising prices. These events show social tension in several countries at once and are tied to dissatisfaction with the economic situation. No discrepancies between sources are noted in the list of materials.",
+      "picture": "The picture shows a crowd of young people marching with raised fists across a cracked receipt with rising prices. Smoke and shattered storefronts in the background convey street clashes and anger over price hikes.",
+      "mentions": 85,
+      "significance": 70,
+      "velocity": 95,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.479,
+        "r": 0.156
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "Record $6.3 billion theft from Binance, FBI accuses North Korea",
+      "region": "World / crypto",
+      "summary": "Binance has fallen victim to a record theft of $6.3 billion. Reports say the FBI is blaming North Korea for it. The story is significant as the largest theft in the crypto sphere and as a basis for international accusations. The materials give the same headline.",
+      "picture": "The picture shows a hooded figure with a North Korean symbol on the sleeve pulling a chain of glowing gold coins from a cracked digital vault. The image illustrates the hack and the scale of the stolen funds.",
+      "mentions": 75,
+      "significance": 60,
+      "velocity": 85,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "Israel: elections deadlocked, Netanyahu's party claims election 'theft', rallies demand his resignation",
+      "region": "Israel",
+      "summary": "Israel's elections have reached an impasse. Netanyahu's party claims the election was 'stolen', while opponents are taking to the streets demanding his resignation. The situation reflects a sharp political crisis and a dispute over the election results. No additional discrepancies between sources are given.",
+      "picture": "The picture shows a ballot box standing on a tightrope, while a man in a suit clings to a chair above as people on both sides pull on ropes. This conveys the instability of the political situation and the struggle for power.",
+      "mentions": 60,
+      "significance": 60,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.271,
+        "r": 0.156
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "The US: the final days before the midterm elections",
+      "region": "USA",
+      "summary": "The final days before the midterm elections are underway in the United States. This is the final stage of the campaign, when attention is focused on the two parties' battle for control of Congress. The material suggests only that the elections are near; there are no details or discrepancies between sources.",
+      "picture": "The picture shows a red elephant and a blue donkey tugging at a giant ballot shaped like the Capitol dome. The image represents the intense two-party battle ahead of the vote.",
+      "mentions": 55,
+      "significance": 65,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США: последние дни перед промежуточными выборами",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.163,
+        "y": 0.487,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "Ukraine: evacuation of civilians from Oleshky during a local truce, strikes on energy infrastructure",
+      "region": "Ukraine",
+      "summary": "In Ukraine, civilians are being evacuated from Oleshky during a local truce. At the same time, strikes on energy infrastructure are being reported. This shows that even amid a temporary pause in fighting, the threat to civilians and the power system remains. There are no discrepancies in the materials presented.",
+      "picture": "The picture shows families with suitcases walking across a narrow bridge of light through a dark field of ruins, while power lines flicker and go out behind them. The image conveys evacuation and the destruction of energy infrastructure amid war.",
+      "mentions": 55,
+      "significance": 60,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.188,
+        "r": 0.125
+      }
+    },
+    "congo-ebola": {
+      "kind": "major",
+      "title": "Congo: Ebola death toll exceeds 5,000",
+      "region": "Africa",
+      "summary": "In Congo, the number of deaths from Ebola has exceeded 5,000. This is an important and tragic milestone in the outbreak, underscoring the scale of the epidemic. The materials do not provide any additional discrepancies between sources.",
+      "picture": "The picture shows a red virus symbol looming over a village, with a medic in a white protective suit standing in front of it. It symbolizes the epidemic and the struggle against it.",
+      "mentions": 35,
+      "significance": 75,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Конго: число погибших от Эболы превысило 5000",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.354,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "Gaza: new Israeli strikes kill at least 8 Palestinians",
+      "region": "Palestine",
+      "summary": "There have been new Israeli strikes in Gaza, killing at least 8 Palestinians. The report concerns the continuing conflict and new civilian casualties. There are no discrepancies between sources in the original materials.",
+      "picture": "The picture shows a small olive tree pushing up through the rubble beneath falling gray dust. The image stands for life amid destruction and fragile hope.",
+      "mentions": 35,
+      "significance": 50,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Газа: новые израильские удары, погибли минимум 8 палестинцев",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "bolsonaro": {
+      "kind": "major",
+      "title": "Bolsonaro fled Brazil to the US",
+      "region": "Latin America",
+      "summary": "Bolsonaro has left Brazil and gone to the United States. This is significant as a sudden political move by the former president and a matter of international attention. No other details are provided in the materials supplied.",
+      "picture": "The picture shows a man wearing a green-and-yellow sash running with a suitcase toward an airplane. It is an image of a hasty departure and flight from the country.",
+      "mentions": 35,
+      "significance": 40,
+      "velocity": 55,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болсонару бежал из Бразилии в США",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.146,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "indonesia-smog": {
+      "kind": "major",
+      "title": "Indonesia: toxic smog from forest fires, 'like on Mars'",
+      "region": "Asia",
+      "summary": "In Indonesia, forest fires have caused toxic smog described as 'like on Mars'. This is a serious environmental problem affecting air quality and people's lives. The materials do not indicate any discrepancies between sources.",
+      "picture": "The picture shows a burning tropical forest under an orange-red sky, with people wearing masks around it. The image shows the dangerous smoke and the impact of the fires on the population.",
+      "mentions": 25,
+      "significance": 45,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индонезия: токсичный смог от лесных пожаров, «как на Марсе»",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "moscow-threat": {
+      "kind": "major",
+      "title": "The US warned of a possible terrorist attack in Moscow, the FSB detained a teenager",
+      "region": "Russia",
+      "summary": "The United States has warned of a possible terrorist attack in Moscow. Against this backdrop, the FSB detained a teenager. The event is significant because of the security threat and the response by Russian security services. No discrepancies are indicated in the materials.",
+      "picture": "The picture shows the facade of a museum marked with a red warning sign, with the shadow of a policeman nearby. This creates a sense of threat and police control.",
+      "mentions": 30,
+      "significance": 35,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США предупредили о возможном теракте в Москве, ФСБ задержала подростка",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.312,
+        "r": 0.125
+      }
+    },
+    "bulgaria-runoff": {
+      "kind": "major",
+      "title": "Bulgaria: second round of the presidential election amid tensions in the Black Sea",
+      "region": "Europe",
+      "summary": "Bulgaria is holding the second round of its presidential election amid tensions in the Black Sea. The event is important because of the country's political choice in conditions of regional instability. The materials present identical wording without discrepancies.",
+      "picture": "The picture shows a ballot being dropped into a box on the shore of a stormy dark sea. The image links the election with the tense situation in the region.",
+      "mentions": 25,
+      "significance": 30,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "India: thousands in New Delhi demand the resignation of the head of the election commission",
+      "region": "Asia",
+      "summary": "Thousands of people took to the streets in New Delhi demanding the resignation of India's chief election commissioner. The protest is linked to distrust in the electoral system and sparked a major public response. The original report contains no additional details or discrepancies between sources.",
+      "picture": "The picture shows a huge crowd with placards surrounding a giant ballot box under a magnifying glass. This shows public pressure and scrutiny of the electoral system.",
+      "mentions": 20,
+      "significance": 35,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индия: тысячи человек в Нью-Дели требуют отставки главы избиркома",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.688,
+        "r": 0.125
+      }
+    },
+    "oil-profits": {
+      "kind": "major",
+      "title": "ExxonMobil and Chevron report record profits on expensive oil",
+      "region": "Economy",
+      "summary": "ExxonMobil and Chevron have reported record profits amid high oil prices. This is important financial news for the largest oil companies and the energy market. There are no discrepancies in the material provided.",
+      "picture": "The picture shows a fat oil barrel in a top hat sitting on a pile of dollar bills. The image emphasizes the superprofits of the oil business.",
+      "mentions": 20,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "ExxonMobil и Chevron отчитались о рекордной прибыли на дорогой нефти",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.812,
+        "r": 0.125
+      }
+    },
+    "day-of-dead": {
+      "kind": "major",
+      "title": "Mexico celebrates the Day of the Dead",
+      "region": "Latin America",
+      "summary": "Mexico is celebrating the Day of the Dead. This is a traditional cultural holiday associated with remembrance of the dead and family rituals. The report does not include any discrepancies between sources.",
+      "picture": "The picture shows a smiling sugar skull surrounded by orange marigolds and candles. The image conveys the festive and commemorative nature of the Day of the Dead.",
+      "mentions": 15,
+      "significance": 10,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мексика празднует День мёртвых",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.604,
+        "r": 0.156
+      }
+    },
+    "korea-births": {
+      "kind": "major",
+      "title": "South Korea: Births Rise After Record Low",
+      "region": "Asia",
+      "summary": "Births in South Korea have begun to rise after hitting a record low. This is an important demographic development for a country that has long faced very low birth rates. No discrepancies are noted in the materials.",
+      "picture": "The image shows a baby stroller with a sprout on a city street. The image symbolizes recovery and a rise in births.",
+      "mentions": 15,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Южная Корея: рождаемость растёт после рекордного минимума",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "liverpool-arsenal": {
+      "kind": "micro",
+      "title": "Football: Liverpool vs Arsenal, the Main Premier League Fixture of the Weekend",
+      "region": "Europe",
+      "summary": "Liverpool and Arsenal will meet in the headline match of the Premier League weekend. This is the central fixture of the round and an important game in the title race. The article contains only an announcement, with no additional details.",
+      "picture": "The image shows a football stadium lit by red floodlights. It creates the feeling of a big evening match.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Футбол: «Ливерпуль» — «Арсенал», главный матч уикенда АПЛ",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "barcelona": {
+      "kind": "micro",
+      "title": "Barcelona Rout Alavés and Remain La Liga Leaders",
+      "region": "Europe",
+      "summary": "Barcelona routed Alavés and remain at the top of La Liga. The victory strengthens their position in the standings. No discrepancies are indicated in the materials.",
+      "picture": "The image shows a blue-and-claret ball flying into the net. The image conveys a confident victory and an attacking performance.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Барселона» разгромила «Алавес» и остаётся лидером Ла Лиги",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "motogp-yamaha": {
+      "kind": "micro",
+      "title": "Yamaha Withdraws from the MotoGP Round in Qatar Because of the Situation in the Middle East",
+      "region": "Middle East",
+      "summary": "Yamaha has withdrawn from the MotoGP round in Qatar because of the situation in the Middle East. The decision is tied not to sport, but to the geopolitical situation in the region. No further discrepancies are mentioned in the report.",
+      "picture": "The image shows a motorcycle covered by a canopy in desert sand. It symbolizes the cancelled participation and a forced pause.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Yamaha отказалась от этапа MotoGP в Катаре из-за ситуации на Ближнем Востоке",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "hamilton-pole": {
+      "kind": "micro",
+      "title": "Hamilton Takes Pole at the Mexican Grand Prix",
+      "region": "Latin America",
+      "summary": "Lewis Hamilton took pole position at the Mexican Grand Prix. This is an important qualifying result, giving him the start from first place in the race. The article contains no other details or discrepancies.",
+      "picture": "The image shows a red car at the front of the starting grid. The image conveys a qualifying win and a leading start.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэмилтон взял поул на Гран-при Мексики",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "canelo": {
+      "kind": "micro",
+      "title": "Canelo Álvarez Regains the WBC Belt in Riyadh",
+      "region": "Middle East",
+      "summary": "Canelo Álvarez regained the WBC belt in Riyadh. This is a significant event in professional boxing, marking the return of the title. The report provides no additional details.",
+      "picture": "The image shows a green championship belt raised above the ring. The image symbolizes victory and the return of the title.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Канело Альварес вернул пояс WBC в Эр-Рияде",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "valkyries": {
+      "kind": "micro",
+      "title": "The Valkyries Win the WNBA Championship for the First Time",
+      "region": "USA",
+      "summary": "The Valkyries have won the WNBA championship for the first time. This is a historic victory for the team and its first title. No other details or discrepancies are given in the material.",
+      "picture": "The image shows a basketball team lifting a trophy amid purple confetti. The image conveys triumph and championship celebration.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Валькириз» впервые выиграли чемпионат WNBA",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "mageean": {
+      "kind": "micro",
+      "title": "Irish Runner, European Champion Ciara Mageean, Dies at 34",
+      "region": "Europe",
+      "summary": "Irish runner and European champion Ciara Mageean has died at the age of 34. This is a report on the death of a well-known athlete and a loss for athletics. No additional discrepancies are mentioned in the material.",
+      "picture": "The image shows running spikes lying on an empty track at dawn. The image conveys silence and the end of a sporting journey.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Умерла ирландская бегунья, чемпионка Европы Сиара Магин, 34 года",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-hand": {
+      "kind": "micro",
+      "title": "Swiss Scientists Demonstrate a Robot Hand That Walks on Its Fingers",
+      "region": "Europe",
+      "summary": "Swiss scientists have demonstrated a robot hand that walks on its fingers. This is a showcase of an unusual robotics development. No other details are given in the report.",
+      "picture": "The image shows a metal robot hand walking on its fingers like a spider. The image highlights the mechanism's unusual mobility.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Швейцарские учёные показали руку-робота, которая ходит на пальцах",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-dogs": {
+      "kind": "micro",
+      "title": "San Francisco Startup Pays $20 an Hour to Walk Robot Dogs",
+      "region": "USA",
+      "summary": "A San Francisco startup pays $20 an hour to walk robot dogs. This is an unusual job at the intersection of technology and everyday life. No discrepancies are noted in the material.",
+      "picture": "The image shows a person walking a robot dog on a leash. The image shows how robotics are becoming part of ordinary city life.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Стартап в Сан-Франциско платит $20 в час за выгул роботов-собак",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "capybara": {
+      "kind": "micro",
+      "title": "Capybara That Escaped from a British Zoo Filmed After 7 Months",
+      "region": "Europe",
+      "summary": "A capybara that escaped from a British zoo was filmed after seven months. The story ended after a long search for the animal. No further details are provided in the material.",
+      "picture": "The image shows a capybara peeking out from tall grass. The image suggests the unexpected discovery of the fugitive after a long absence.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Сбежавшую из британского зоопарка капибару засняли спустя 7 месяцев",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "fiambre": {
+      "kind": "micro",
+      "title": "Guatemala Prepares the World's Largest Fiambre Salad — Nearly 2 Tons",
+      "region": "Latin America",
+      "summary": "Guatemala has prepared the world's largest fiambre salad — nearly 2 tons. It is a culinary record and a notable local event. No discrepancies are mentioned in the report.",
+      "picture": "The image shows a giant colorful dish of salad surrounded by chefs. The image emphasizes the scale and festive nature of the record.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Гватемале приготовили самый большой в мире салат фиамбре — почти 2 тонны",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.938,
+        "r": 0.125
+      }
+    },
+    "bear-car": {
+      "kind": "micro",
+      "title": "In Alaska, a Bear Climbed into a Car and Wrecked the Interior",
+      "region": "USA",
+      "summary": "In Alaska, a bear climbed into a car and wrecked the interior. This is an unusual incident involving a wild animal in a vehicle and resulting property damage. No additional discrepancies are noted in the material.",
+      "picture": "The image shows a black bear sitting in the driver's seat. The image depicts the animal's intrusion into human space.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "На Аляске медведь забрался в машину и разгромил салон",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "halloween": {
+      "kind": "micro",
+      "title": "Halloween Around the World",
+      "region": "USA",
+      "summary": "Halloween is being celebrated around the world. It is an international holiday with recognizable symbols and traditions. No additional details are provided in the material.",
+      "picture": "The image shows a glowing carved pumpkin lantern. The image symbolizes Halloween and its attributes.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэллоуин по всему миру",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062
+      }
+    },
+    "pakistan-cricket": {
+      "kind": "micro",
+      "title": "Pakistan Defeats Sri Lanka in the Cricket Tri-Series Final",
+      "region": "Asia",
+      "summary": "Pakistan defeated Sri Lanka in the final of the cricket tri-series. This is the sporting result of the tournament and an important victory for the team. No additional details are given in the material.",
+      "picture": "The image shows a bat and ball lying on green grass. The image points to a cricket final and sporting rivalry.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Пакистан обыграл Шри-Ланку в финале крикетной трисерии",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "bangladesh-wages": {
+      "kind": "micro",
+      "title": "Bangladesh: wage board set up after garment workers’ protests",
+      "region": "Asia",
+      "summary": "A wage board has been set up in Bangladesh after garment workers’ protests. The decision comes amid an industrial dispute and pressure from workers. No discrepancies are noted in the report.",
+      "picture": "The image shows a sewing machine with a coin on top. The image links garment work with the issue of pay.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Бангладеш: создан совет по зарплатам после протестов швейных рабочих",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "sheep-chase": {
+      "kind": "micro",
+      "title": "In Virginia, police chased a lost sheep that ran after food",
+      "region": "USA",
+      "summary": "In Virginia, police chased a lost sheep that ran after food. It is a humorous local incident involving police and an animal. No additional details are given in the report.",
+      "picture": "The image shows a sheep running along a suburban street, with two police officers behind it carrying a bucket of food. The image highlights the comic nature of the chase.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Вирджинии полиция гонялась за потерявшейся овцой, которая бежала за едой",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.438,
+        "r": 0.125
+      }
+    },
+    "goose-ring": {
+      "kind": "micro",
+      "title": "A metal ring was removed from a goose’s beak and it was released back into the wild",
+      "region": "USA",
+      "summary": "A metal ring was removed from a goose’s beak and it was released back into the wild. It is a rescue story about a bird after human intervention. No additional details are given in the report.",
+      "picture": "The image shows a Canadian goose flying over a pond. The image signifies liberation and a return to life in the wild.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Гусю сняли металлическое кольцо с клюва и отпустили на волю",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "ice-cubes": {
+      "kind": "micro",
+      "title": "World record: more than a kilogram of ice cubes carried in the mouth",
+      "region": "USA",
+      "summary": "A world record has been set: a person carried more than a kilogram of ice cubes in the mouth. It is an unusual achievement noted as a record. There are no other details in the report.",
+      "picture": "The image shows a man carrying ice in his mouth between two trays. The image highlights the unusual nature and difficulty of the record.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мировой рекорд: перенёс больше килограмма кубиков льда ртом",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "k9-rocco": {
+      "kind": "micro",
+      "title": "Police dog Rocco swallowed stones and underwent surgery",
+      "region": "USA",
+      "summary": "Police dog Rocco swallowed stones and underwent surgery. The report concerns the condition of the service dog and the treatment carried out. No additional discrepancies are noted in the report.",
+      "picture": "The image shows a police dog lying in a protective collar next to a pile of stones. The image links the illness to the cause of the operation.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Полицейский пёс Рокко наглотался камней и перенёс операцию",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "marquez": {
+      "kind": "micro",
+      "title": "Márquez won the Malaysian MotoGP Grand Prix",
+      "region": "Asia",
+      "summary": "Márquez won the Malaysian MotoGP Grand Prix. It is an important race victory and another result in the MotoGP season. There are no additional details in the report.",
+      "picture": "The image shows a motorcyclist leaning into a turn on a tropical track. The image conveys speed and the competitive moment of the race.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Маркес выиграл Гран-при Малайзии MotoGP",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "brighton-city": {
+      "kind": "micro",
+      "title": "Brighton stunned Manchester City",
+      "region": "Europe",
+      "summary": "Brighton stunned Manchester City. It is an unexpected victory, important for English football and the battle in the standings. No discrepancies are noted in the report.",
+      "picture": "The image shows seagulls celebrating on a football pitch. The image hints at Brighton and its sensational success.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Брайтон» сенсационно обыграл «Манчестер Сити»",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "dakar-flame": {
+      "kind": "micro",
+      "title": "Youth Olympic Games in Dakar: who will carry the flame",
+      "region": "Africa",
+      "summary": "In Dakar, there is discussion about who will carry the Youth Olympic flame. It is an announcement of an Olympic event and preparations for the torch relay. No additional details are given in the report.",
+      "picture": "The image shows a young African runner carrying the Olympic torch along a sunny coastline. The image symbolizes the start of the Olympic relay and youth participation.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Юношеская Олимпиада в Дакаре: кто понесёт огонь",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.938,
+        "r": 0.125
+      }
+    }
+  }
+}

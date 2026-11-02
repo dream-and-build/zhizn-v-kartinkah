@@ -1,0 +1,949 @@
+{
+  "key": "2026-11-01-1",
+  "date": "2026-11-01",
+  "image": "img/2026-11-01-1.jpg",
+  "events": {
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "イランと米国、新たな戦争の瀬戸際に　ホルムズ海峡が閉鎖、カタールのガスタンカーに攻撃",
+      "region": "中東",
+      "summary": "イランと米国は、ホルムズ海峡をめぐる出来事を背景に新たな戦争の瀬戸際に立たされている。報道によると、海峡は閉鎖され、カタールのガスタンカーにも攻撃があった。ここは世界の石油・ガス貿易の要衝であり、事態は地域だけでなく国際的な供給にも影響する。元資料では、各メディアの見出しは同一で、追加の相違はない。",
+      "picture": "絵には、巨大なタンカーが2本の岩の腕のようなものに挟まれた狭い海峡に閉じ込められている。片方はオリーブの枝を、もう片方は燃える導火線を持つ。周囲のサメのような船は、脆い平和への希望のもとにある戦争の脅威を意味している。",
+      "mentions": 95,
+      "significance": 95,
+      "velocity": 70,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.781,
+        "y": 0.375,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "欧州に広がる抗議の波　ドイツで若者の暴動、イタリアでは物価高で衝突",
+      "region": "ヨーロッパ",
+      "summary": "欧州各地で抗議の波が広がった。ドイツでは若者による暴動が報じられ、イタリアでは物価上昇をめぐる衝突が起きた。こうした動きは複数国で同時に高まる社会的緊張を示しており、経済情勢への不満と結びついている。資料一覧では、各情報源の相違は示されていない。",
+      "picture": "絵には、値上がりした価格が印字されたひび割れたレシートの上を、拳を上げた若者たちの群衆が進んでいる。煙と壊れたショーウィンドーが、路上衝突と物価高への不満を表している。",
+      "mentions": 85,
+      "significance": 70,
+      "velocity": 95,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.479,
+        "r": 0.156
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "Binanceで過去最大の63億ドル窃盗、FBIは北朝鮮を非難",
+      "region": "世界 / 暗号資産",
+      "summary": "Binanceが63億ドルに上る過去最大規模の窃盗被害に遭った。報道では、FBIがこの件で北朝鮮を非難しているという。これは暗号資産業界最大級の盗難事件であり、国際的な非難を呼ぶ出来事として重要だ。資料には同一の見出しが記載されている。",
+      "picture": "絵には、北朝鮮のマークが付いたフード姿の人物が、ひび割れたデジタル保管庫から光る金貨の連なりを引き出している。これはハッキングと巨額窃取の規模を示している。",
+      "mentions": 75,
+      "significance": 60,
+      "velocity": 85,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "イスラエル：選挙は膠着、ネタニヤフの党は選挙「盗難」を主張、辞任要求デモも",
+      "region": "イスラエル",
+      "summary": "イスラエルでは選挙が膠着状態に陥っている。ネタニヤフの党は選挙の「盗難」を主張し、反対派は彼の辞任を求めてデモを行っている。これは深刻な政治危機と、投票結果をめぐる争いを反映している。追加の相違は示されていない。",
+      "picture": "絵には、投票箱が綱渡りの上に置かれ、その上でスーツ姿の人物が椅子にしがみつき、両側の人々が綱を引っ張っている。これは、危うい政治状況と権力争いを表している。",
+      "mentions": 60,
+      "significance": 60,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.271,
+        "r": 0.156
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "米国：中間選挙前の最後の日々",
+      "region": "米国",
+      "summary": "米国では中間選挙を前に最後の日々を迎えている。これは、上下両院の支配をめぐる二大政党の争いに注目が集まる選挙戦の最終段階だ。資料から分かるのは、選挙が目前に迫っているという点のみで、詳しい内容や情報源間の相違はない。",
+      "picture": "絵には、赤い象と青いロバが、議事堂のドーム形をした巨大な投票用紙を綱引きしている。これは、投票を目前にした激しい二大政党の争いを意味している。",
+      "mentions": 55,
+      "significance": 65,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США: последние дни перед промежуточными выборами",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.163,
+        "y": 0.487,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "ウクライナ：局地停戦中にオレシキーから民間人を避難、エネルギー施設への攻撃も",
+      "region": "ウクライナ",
+      "summary": "ウクライナでは局地停戦のさなか、オレシキーから民間人の避難が進められている。同時に、エネルギーインフラへの攻撃も報告されている。これは、一時的な戦闘停止の中でも、市民とエネルギーシステムへの脅威が続いていることを示している。提示された資料に相違はない。",
+      "picture": "絵には、家族連れが荷物を持って、瓦礫の暗い野原を横切る細い光の橋を渡っている。その背後では送電線が明滅し、消えていく。これは、避難と、戦争の中で破壊されるエネルギーインフラを表している。",
+      "mentions": 55,
+      "significance": 60,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.188,
+        "r": 0.125
+      }
+    },
+    "congo-ebola": {
+      "kind": "major",
+      "title": "コンゴ：エボラによる死者数が5000人を超える",
+      "region": "アフリカ",
+      "summary": "コンゴでは、エボラによる死者数が5000人を超えた。これは、この流行の歴史における重要かつ悲劇的な節目であり、感染拡大の規模を際立たせている。資料には、情報源間の追加の相違は示されていない。",
+      "picture": "絵には、赤いウイルスの警告標識が村の上に覆いかぶさり、その前に白い防護服を着た医療従事者が立っている。これは、感染症の流行とそれに立ち向かう闘いの象徴である。",
+      "mentions": 35,
+      "significance": 75,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Конго: число погибших от Эболы превысило 5000",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.354,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "ガザ：イスラエルの新たな攻撃、少なくともパレスチナ人8人死亡",
+      "region": "パレスチナ",
+      "summary": "ガザで新たなイスラエルの攻撃があり、少なくとも8人のパレスチナ人が死亡した。この報道は、続く紛争と民間人の新たな犠牲者について伝えている。元資料には、情報源間の相違はない。",
+      "picture": "絵には、小さなオリーブの木が、降り注ぐ灰色の粉塵の下で瓦礫の間から芽吹いている。これは、破壊の中の生命と、かすかな希望を意味している。",
+      "mentions": 35,
+      "significance": 50,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Газа: новые израильские удары, погибли минимум 8 палестинцев",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "bolsonaro": {
+      "kind": "major",
+      "title": "ボルソナロ、ブラジルを離れ米国へ",
+      "region": "ラテンアメリカ",
+      "summary": "ボルソナロはブラジルを離れ、米国へ向かった。これは、前大統領による急な政治的行動として、国際的な注目を集める出来事だ。提供された資料には、それ以上の詳細はない。",
+      "picture": "絵には、緑と黄色のリボンを身につけた男性が、スーツケースを持って飛行機に向かって走っている。これは、急な出国と国外への逃避を表すイメージだ。",
+      "mentions": 35,
+      "significance": 40,
+      "velocity": 55,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болсонару бежал из Бразилии в США",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.146,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "indonesia-smog": {
+      "kind": "major",
+      "title": "インドネシア：森林火災による有毒スモッグ、「まるで火星のよう」",
+      "region": "アジア",
+      "summary": "インドネシアでは森林火災により有毒なスモッグが発生し、「まるで火星のよう」と表現されている。これは、空気の質と人々の生活に影響を及ぼす深刻な環境問題だ。資料には、情報源間の相違は示されていない。",
+      "picture": "絵には、オレンジ色から赤色の空の下で燃える熱帯林が描かれ、周囲の人々はマスクを着けている。これは、危険な煙と火災が住民にもたらす影響を示している。",
+      "mentions": 25,
+      "significance": 45,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индонезия: токсичный смог от лесных пожаров, «как на Марсе»",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "moscow-threat": {
+      "kind": "major",
+      "title": "米国がモスクワでのテロの可能性を警告、FSBが少年を拘束",
+      "region": "ロシア",
+      "summary": "米国はモスクワでのテロの可能性について警告した。これを受け、FSBは少年を拘束した。これは、安全保障上の脅威とロシア当局の対応という点で重要な出来事だ。資料では相違は示されていない。",
+      "picture": "絵には、博物館の外壁に赤い警告マークが付けられ、近くに警官の影が見える。これは、脅威と警察による監視の雰囲気を作り出している。",
+      "mentions": 30,
+      "significance": 35,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США предупредили о возможном теракте в Москве, ФСБ задержала подростка",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.312,
+        "r": 0.125
+      }
+    },
+    "bulgaria-runoff": {
+      "kind": "major",
+      "title": "ブルガリア：黒海の緊張の中で大統領選決選投票",
+      "region": "ヨーロッパ",
+      "summary": "ブルガリアでは、黒海の緊張を背景に大統領選の決選投票が行われている。これは、地域の不安定さの中で国の政治的選択が問われる重要な出来事だ。資料には、同一の表現のみが示されており、相違はない。",
+      "picture": "絵には、荒れた暗い海辺で、投票用紙が投票箱に入れられている。これは、選挙と地域の緊迫した情勢を結びつけている。",
+      "mentions": 25,
+      "significance": 30,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "インド：ニューデリーで数千人が選管委員長の辞任を要求",
+      "region": "アジア",
+      "summary": "ニューデリーでは、数千人がインドの選管委員長の辞任を求めて街頭に出た。この抗議は選挙制度への不信感に結びついており、広範な市民の反応を引き起こした。元の報道には、追加の詳細や情報源間の相違はない。",
+      "picture": "絵には、巨大な群衆がプラカードを掲げ、虫眼鏡の下に置かれた巨大な投票箱を取り囲んでいる。これは、市民からの圧力と選挙制度の精査を示している。",
+      "mentions": 20,
+      "significance": 35,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индия: тысячи человек в Нью-Дели требуют отставки главы избиркома",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.688,
+        "r": 0.125
+      }
+    },
+    "oil-profits": {
+      "kind": "major",
+      "title": "ExxonMobilとChevron、原油高で過去最高益を計上",
+      "region": "経済",
+      "summary": "ExxonMobilとChevronは、原油高を背景に過去最高益を報告した。これは、大手石油会社とエネルギー市場にとって重要な金融ニュースだ。提供された資料に相違はない。",
+      "picture": "絵には、太った石油ドラム缶がシルクハットをかぶり、ドル紙幣の山の上に座っている。これは、石油事業の超過利益を強調している。",
+      "mentions": 20,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "ExxonMobil и Chevron отчитались о рекордной прибыли на дорогой нефти",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.812,
+        "r": 0.125
+      }
+    },
+    "day-of-dead": {
+      "kind": "major",
+      "title": "メキシコで死者の日を祝う",
+      "region": "ラテンアメリカ",
+      "summary": "メキシコでは死者の日が祝われている。これは、故人を偲び、家族の儀式を伴う伝統的な文化行事だ。報道では、情報源間の相違は示されていない。",
+      "picture": "絵には、笑顔のカラベラの砂糖菓子が、オレンジ色のマリーゴールドとろうそくに囲まれている。これは、死者の日の祝祭的かつ追悼的な性格を表している。",
+      "mentions": 15,
+      "significance": 10,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мексика празднует День мёртвых",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.604,
+        "r": 0.156
+      }
+    },
+    "korea-births": {
+      "kind": "major",
+      "title": "韓国：出生率が記録的低水準の後に上昇",
+      "region": "アジア",
+      "summary": "韓国では出生率が記録的な低水準の後、上昇し始めた。長く極めて低い出生率に直面してきた同国にとって、重要な人口動態ニュースだ。資料には相違点は示されていない。",
+      "picture": "絵には、都市の通りにベビーカーと芽が描かれている。再生と出生率の上昇を象徴するイメージだ。",
+      "mentions": 15,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Южная Корея: рождаемость растёт после рекордного минимума",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "liverpool-arsenal": {
+      "kind": "micro",
+      "title": "サッカー：リヴァプール対アーセナル、プレミアリーグ週末最大の一戦",
+      "region": "ヨーロッパ",
+      "summary": "リヴァプールとアーセナルが、イングランド・プレミアリーグの週末最大の試合で対戦する。今節の中心カードであり、優勝争いにとって重要な一戦だ。記事は予告のみで、追加の詳細はない。",
+      "picture": "絵には、赤い照明に照らされたサッカースタジアムが描かれている。大一番の夜の試合を思わせる雰囲気だ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Футбол: «Ливерпуль» — «Арсенал», главный матч уикенда АПЛ",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "barcelona": {
+      "kind": "micro",
+      "title": "バルセロナがアラベスを圧倒し、ラ・リーガ首位を維持",
+      "region": "ヨーロッパ",
+      "summary": "バルセロナはアラベスを圧倒し、ラ・リーガ首位を維持した。この勝利で順位表での立場をさらに固めた。資料には情報源間の相違は示されていない。",
+      "picture": "絵には、青とえんじのボールがゴールネットに飛び込む様子が描かれている。自信に満ちた勝利と得点力を表すイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Барселона» разгромила «Алавес» и остаётся лидером Ла Лиги",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "motogp-yamaha": {
+      "kind": "micro",
+      "title": "ヤマハ、中東情勢を理由にカタールのMotoGPラウンドを辞退",
+      "region": "中東",
+      "summary": "ヤマハは中東情勢を理由に、カタールでのMotoGPラウンドを辞退した。決定はスポーツではなく、地域の外交・安全保障情勢に関連している。発表には追加の相違点は示されていない。",
+      "picture": "絵には、砂漠の砂の上でテントに覆われたオートバイが描かれている。辞退とやむを得ない中断を象徴している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Yamaha отказалась от этапа MotoGP в Катаре из-за ситуации на Ближнем Востоке",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "hamilton-pole": {
+      "kind": "micro",
+      "title": "ハミルトンがメキシコGPでポールポジションを獲得",
+      "region": "ラテンアメリカ",
+      "summary": "ルイス・ハミルトンがメキシコGPでポールポジションを獲得した。決勝を最前列からスタートできる、重要な予選結果だ。記事には他の詳細や相違点はない。",
+      "picture": "絵には、赤いマシンがスターティンググリッドの最前列に止まっている。予選制覇とスタートでの優位を表している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэмилтон взял поул на Гран-при Мексики",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "canelo": {
+      "kind": "micro",
+      "title": "カネロ・アルバレスがリヤドでWBCベルトを取り戻す",
+      "region": "中東",
+      "summary": "カネロ・アルバレスがリヤドでWBCベルトを取り戻した。王座の返還に関わる、プロボクシングにおける重要な出来事だ。提供された記事には追加の詳細はない。",
+      "picture": "絵には、チャンピオンの緑のベルトがリングの上に掲げられている。勝利と王座奪還を象徴するイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Канело Альварес вернул пояс WBC в Эр-Рияде",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "valkyries": {
+      "kind": "micro",
+      "title": "「ヴァルキリーズ」がWNBAで初優勝",
+      "region": "米国",
+      "summary": "「ヴァルキリーズ」がWNBAで初優勝した。チームにとって歴史的な勝利であり、初のタイトル獲得となる。記事には他の詳細や相違点は示されていない。",
+      "picture": "絵には、バスケットボールチームが紫の紙吹雪の中でトロフィーを掲げる様子が描かれている。優勝の歓喜と祝賀を表している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Валькириз» впервые выиграли чемпионат WNBA",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "mageean": {
+      "kind": "micro",
+      "title": "欧州王者のアイルランド人ランナー、シアラ・マギーンさん死去、34歳",
+      "region": "ヨーロッパ",
+      "summary": "欧州王者のアイルランド人ランナー、シアラ・マギーンさんが34歳で死去した。著名な選手の死を伝える報道であり、陸上界にとっての損失だ。記事には追加の相違点はない。",
+      "picture": "絵には、夜明けの誰もいないトラックに陸上スパイクが置かれている。静けさと競技人生の終わりを表すイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Умерла ирландская бегунья, чемпионка Европы Сиара Магин, 34 года",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-hand": {
+      "kind": "micro",
+      "title": "スイスの科学者、指で歩くロボットの手を披露",
+      "region": "ヨーロッパ",
+      "summary": "スイスの科学者が、指で歩くロボットの手を披露した。これは、 необыしいロボット技術開発のデモンストレーションだ。記事には他の詳細はない。",
+      "picture": "絵には、金属製のロボットの手がクモのように指で歩く様子が描かれている。機構の特異な可動性を強調している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Швейцарские учёные показали руку-робота, которая ходит на пальцах",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-dogs": {
+      "kind": "micro",
+      "title": "サンフランシスコのスタートアップ、ロボット犬の散歩に時給20ドルを支払う",
+      "region": "米国",
+      "summary": "サンフランシスコのスタートアップが、ロボット犬の散歩に時給20ドルを支払っている。技術と日常が交わる、 необыしい仕事だ。資料には情報源間の相違は示されていない。",
+      "picture": "絵には、人がロボット犬をリードにつないで散歩させている様子が描かれている。ロボット工学が日常の都市生活の一部になりつつあることを示している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Стартап в Сан-Франциско платит $20 в час за выгул роботов-собак",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "capybara": {
+      "kind": "micro",
+      "title": "英国の動物園から逃げたカピバラ、7か月後に撮影される",
+      "region": "ヨーロッパ",
+      "summary": "英国の動物園から逃げたカピバラが、7か月後に撮影された。長い捜索の末に、物語は一つの区切りを迎えた。記事には追加の詳細はない。",
+      "picture": "絵には、高い草むらからカピバラが顔をのぞかせている。長い行方不明の末に見つかった驚きを表している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Сбежавшую из британского зоопарка капибару засняли спустя 7 месяцев",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "fiambre": {
+      "kind": "micro",
+      "title": "グアテマラで世界最大のフィアンブレサラダを調理、ほぼ2トン",
+      "region": "ラテンアメリカ",
+      "summary": "グアテマラで、ほぼ2トンに及ぶ世界最大のフィアンブレサラダが作られた。料理の記録であり、注目すべき地元の出来事だ。報道に相違はない。",
+      "picture": "絵には、周囲に料理人が立つ巨大で色鮮やかな料理が描かれている。記録の規模と祝祭的な雰囲気を強調している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Гватемале приготовили самый большой в мире салат фиамбре — почти 2 тонны",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.938,
+        "r": 0.125
+      }
+    },
+    "bear-car": {
+      "kind": "micro",
+      "title": "アラスカでクマが車に入り込み、車内を荒らす",
+      "region": "米国",
+      "summary": "アラスカでクマが車に入り込み、車内を荒らした。野生動物が自動車に現れ、物的損害が生じた珍しいケースだ。記事には追加の相違点はない。",
+      "picture": "絵には、黒いクマが運転席に座っている様子が描かれている。動物が人間の空間に侵入したことを示している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "На Аляске медведь забрался в машину и разгромил салон",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "halloween": {
+      "kind": "micro",
+      "title": "世界各地でハロウィーン",
+      "region": "米国",
+      "summary": "世界各地でハロウィーンが祝われている。親しみやすい象徴と伝統を持つ国際的な祭りだ。記事には追加の詳細はない。",
+      "picture": "絵には、彫られたカボチャのランタンが光っている。ハロウィーンとその象徴を表している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэллоуин по всему миру",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062
+      }
+    },
+    "pakistan-cricket": {
+      "kind": "micro",
+      "title": "パキスタン、クリケットのトライシリーズ決勝でスリランカを破る",
+      "region": "アジア",
+      "summary": "パキスタンがクリケットのトライシリーズ決勝でスリランカを破った。大会の結果を示す重要な勝利であり、チームにとって大きな成果だ。記事には追加の詳細はない。",
+      "picture": "絵には、緑の芝生の上にバットとボールが置かれている。クリケットの決勝とスポーツの競争を示している。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Пакистан обыграл Шри-Ланку в финале крикетной трисерии",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "bangladesh-wages": {
+      "kind": "micro",
+      "title": "バングラデシュ：縫製労働者の抗議を受け賃金委員会を設置",
+      "region": "アジア",
+      "summary": "バングラデシュでは、縫製労働者の抗議を受けて賃金委員会が設置された。決定は労働争議と労働者からの圧力を背景に下された。記事には相違点は示されていない。",
+      "picture": "図では、ミシンとその上の硬貨が描かれている。労働者の仕事と賃金の問題を結び付けるイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Бангладеш: создан совет по зарплатам после протестов швейных рабочих",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "sheep-chase": {
+      "kind": "micro",
+      "title": "バージニア州で、食べ物を追いかけた迷い羊を警察が追跡",
+      "region": "米国",
+      "summary": "バージニア州で、食べ物を追いかけた迷い羊を警察が追跡した。警察と動物が関わった、ユーモラスな地元の出来事だ。記事には追加の詳細はない。",
+      "picture": "図では、迷い羊が郊外の通りを走り、その後ろを食べ物の入ったバケツを持った警官2人が追っている。追跡の滑稽さを強調するイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Вирджинии полиция гонялась за потерявшейся овцой, которая бежала за едой",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.438,
+        "r": 0.125
+      }
+    },
+    "goose-ring": {
+      "kind": "micro",
+      "title": "ガチョウのくちばしから金属製の輪を外し、自然に返す",
+      "region": "米国",
+      "summary": "ガチョウのくちばしから金属製の輪を外し、自然に返した。人の介入によって鳥が救われた話だ。記事に追加の詳細はない。",
+      "picture": "図では、カナダガンが池の上を飛んでいる。解放と自然への帰還を表すイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Гусю сняли металлическое кольцо с клюва и отпустили на волю",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "ice-cubes": {
+      "kind": "micro",
+      "title": "世界記録：口で1キロ超の氷のキューブを運ぶ",
+      "region": "米国",
+      "summary": "世界記録が樹立された。ある人物が口で1キロを超える氷のキューブを運んだ。珍しい達成として記録された。記事に他の詳細はない。",
+      "picture": "図では、男性が口に氷をくわえ、2つのトレイの間を運んでいる。記録の необыしさと難しさを際立たせるイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мировой рекорд: перенёс больше килограмма кубиков льда ртом",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "k9-rocco": {
+      "kind": "micro",
+      "title": "警察犬ロッコが石を飲み込み、手術を受ける",
+      "region": "米国",
+      "summary": "警察犬ロッコが石を飲み込み、手術を受けた。報道は、 служ犬の状態と行われた治療について伝えている。記事に追加の相違点はない。",
+      "picture": "図では、警察犬が保護用の首輪をつけ、石の山のそばに横たわっている。病気と手術の原因を結び付けるイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Полицейский пёс Рокко наглотался камней и перенёс операцию",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "marquez": {
+      "kind": "micro",
+      "title": "マルケスがMotoGPマレーシアGPを制覇",
+      "region": "アジア",
+      "summary": "マルケスがMotoGPマレーシアGPを制した。レースでの重要な勝利であり、MotoGPシーズンでのさらなる結果となった。記事に追加の詳細はない。",
+      "picture": "図では、オートバイのライダーが熱帯のサーキットのコーナーで深くバンクしている。レースのスピードと競争の瞬間を伝えるイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Маркес выиграл Гран-при Малайзии MotoGP",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "brighton-city": {
+      "kind": "micro",
+      "title": "ブライトンがマンチェスター・シティを番狂わせで撃破",
+      "region": "ヨーロッパ",
+      "summary": "ブライトンがマンチェスター・シティを番狂わせで破った。英サッカーと順位争いにとって重要な、予想外の勝利だ。報道に相違点は示されていない。",
+      "picture": "図では、カモメたちがサッカー場で祝っている。ブライトンとその劇的な成功をほのめかすイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Брайтон» сенсационно обыграл «Манчестер Сити»",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "dakar-flame": {
+      "kind": "micro",
+      "title": "ダカール・ユースオリンピック：聖火を運ぶのは誰か",
+      "region": "アフリカ",
+      "summary": "ダカールでは、ユースオリンピックの聖火を誰が運ぶのかが話題になっている。これは五輪イベントの告知であり、聖火リレーの準備を伝えるものだ。記事に追加の詳細はない。",
+      "picture": "図では、若いアフリカ人ランナーが、日の光あふれる海岸沿いをオリンピックのたいまつを掲げて走っている。五輪リレーの開始と若者の参加を象徴するイメージだ。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Юношеская Олимпиада в Дакаре: кто понесёт огонь",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.938,
+        "r": 0.125
+      }
+    }
+  }
+}

@@ -4,22 +4,28 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Жизнь в картинках</title>
+<script src="i18n.js"></script>
 <style>
   :root { --bg: #0f0c0a; --panel: #1a1512; --line: #33291f; --fg: #f1e8dc; --muted: #a8998a; --accent: #e9a75a; }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--fg); font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
-  main { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
   a { color: var(--accent); }
-  .back { display: inline-block; text-decoration: none; font-size: 15px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); }
-  .meta { color: var(--muted); font-size: 14px; margin: 22px 0 6px; }
-  .tag { display: inline-block; font-size: 13px; padding: 2px 9px; border-radius: 999px; background: #ffffff12; margin-left: 6px; }
-  h1 { font: 600 clamp(24px, 4.5vw, 34px)/1.2 Georgia, "Times New Roman", serif; margin: 0 0 18px; }
+  /* Панель с кнопкой «К картине» и выбором языка всегда на экране */
+  .bar { position: sticky; top: 0; z-index: 10; background: #0f0c0ae6; backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+  .bar-in { max-width: 760px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; font-size: 15px; font-weight: 600;
+          padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); }
+  [dir="rtl"] .back .arrow { transform: scaleX(-1); }
+  main { max-width: 760px; margin: 0 auto; padding: 8px 16px 60px; }
+  .meta { color: var(--muted); font-size: 14px; margin: 18px 0 6px; }
+  .tag { display: inline-block; font-size: 13px; padding: 2px 9px; border-radius: 999px; background: #ffffff12; margin-inline-start: 6px; }
+  h1 { font: 600 clamp(24px, 4.5vw, 34px)/1.25 Georgia, "Times New Roman", serif; margin: 0 0 18px; }
   h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); margin: 30px 0 10px; }
   .fragment { width: 100%; max-width: 420px; aspect-ratio: 1; border-radius: 12px; background-color: #000; background-repeat: no-repeat; border: 1px solid var(--line); }
   .picture { display: grid; grid-template-columns: minmax(0, 260px) 1fr; gap: 18px; align-items: start; }
   .picture p { margin: 0; color: var(--muted); }
   .stat { color: var(--muted); font-size: 15px; }
-  ol { padding-left: 22px; margin: 0; }
+  ol { padding-inline-start: 22px; margin: 0; }
   ol li { margin: 0 0 14px; }
   ol a { text-decoration: none; }
   ol a:hover { text-decoration: underline; }
@@ -29,23 +35,29 @@
 </style>
 </head>
 <body>
+<div class="bar"><div class="bar-in">
+  <a class="back" id="back" href="index.html"><span class="arrow">←</span> <span id="back-text"></span></a>
+  <div id="langbox"></div>
+</div></div>
 <main id="page"></main>
 <script>
-const MONTHS = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const human = d => { const [y, m, day] = d.split('-').map(Number); return `${day} ${MONTHS[m - 1]} ${y}`; };
-const when = iso => {
-  if (!iso) return '';
-  const t = new Date(iso);
-  return `${t.getDate()} ${MONTHS[t.getMonth()]}, ${String(t.getHours()).padStart(2, '0')}:${String(t.getMinutes()).padStart(2, '0')}`;
-};
 const q = new URLSearchParams(location.search), key = q.get('d'), id = q.get('e');
-const page = document.getElementById('page');
+const page = document.getElementById('page'), back = document.getElementById('back');
 
-fetch(`day/${key}.json`).then(r => r.json()).then(render).catch(() => missing());
+document.getElementById('langbox').appendChild(langPicker(load));
+load();
+
+function load() {
+  back.href = `index.html?lang=${LANG}#${encodeURIComponent(key || '')}`;
+  document.getElementById('back-text').textContent = t('back');
+  // Нет перевода — показываем русский оригинал
+  fetch(`day/${LANG}/${key}.json`).then(r => r.ok ? r : fetch(`day/ru/${key}.json`))
+    .then(r => r.json()).then(render).catch(missing);
+}
 
 function missing() {
-  page.innerHTML = `<a class="back" href="index.html">← К картине</a><p class="missing">Это событие не найдено.</p>`;
+  page.innerHTML = `<p class="missing">${esc(t('missing'))}</p>`;
 }
 
 function render(day) {
@@ -58,19 +70,18 @@ function render(day) {
   const fragment = `background-image:url('${esc(day.image)}');background-size:${zoom * 100}%;background-position:${posX}% ${posY}%`;
 
   page.innerHTML = `
-    <a class="back" href="index.html#${esc(key)}">← К картине</a>
-    <div class="meta">${human(day.date)}${e.region ? `<span class="tag">${esc(e.region)}</span>` : ''}</div>
+    <div class="meta">${esc(formatDate(day.date))}${e.region ? `<span class="tag">${esc(e.region)}</span>` : ''}</div>
     <h1>${esc(e.title)}</h1>
-    ${e.summary ? `<h2>Что произошло</h2><p>${esc(e.summary)}</p>` : ''}
-    ${e.kind === 'major' && e.domain_count ? `<p class="stat">О событии написали ${e.domain_count} изданий из нашей выборки — поэтому рисунок такого размера.</p>` : ''}
-    <h2>На картине</h2>
+    ${e.summary ? `<h2>${esc(t('happened'))}</h2><p>${esc(e.summary)}</p>` : ''}
+    ${e.kind === 'major' && e.domain_count ? `<p class="stat">${esc(t('outlets', { n: e.domain_count }))}</p>` : ''}
+    <h2>${esc(t('picture'))}</h2>
     <div class="picture">
-      <a href="index.html#${esc(key)}" aria-label="Вернуться к картине"><div class="fragment" style="${fragment}"></div></a>
+      <a href="${back.getAttribute('href')}" aria-label="${esc(t('back'))}"><div class="fragment" style="${fragment}"></div></a>
       <p>${esc(e.picture || '')}</p>
     </div>
-    ${e.articles.length ? `<h2>Источники</h2><ol>${e.articles.map(a => `
-      <li><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title || a.url)}</a>
-      <span class="src">${esc(a.domain)}${a.published ? ' · ' + when(a.published) : ''}</span></li>`).join('')}</ol>` : ''}
+    ${e.articles.length ? `<h2>${esc(t('sources'))}</h2><ol>${e.articles.map(a => `
+      <li><a href="${esc(a.url)}" target="_blank" rel="noopener" dir="auto">${esc(a.title || a.url)}</a>
+      <span class="src">${esc(a.domain)}${a.published ? ' · ' + esc(formatDate(a.published, true)) : ''}</span></li>`).join('')}</ol>` : ''}
   `;
 }
 </script>

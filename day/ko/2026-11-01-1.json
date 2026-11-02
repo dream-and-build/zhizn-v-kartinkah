@@ -1,0 +1,949 @@
+{
+  "key": "2026-11-01-1",
+  "date": "2026-11-01",
+  "image": "img/2026-11-01-1.jpg",
+  "events": {
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "이란과 미국, 새 전쟁 직전 위기: 호르무즈 해협 봉쇄, 카타르 유조선에 타격",
+      "region": "중동",
+      "summary": "이란과 미국이 호르무즈 해협에서 벌어진 사건으로 새 전쟁 직전의 위기에 놓였다. 해협이 봉쇄됐고 카타르 유조선도 타격을 받았다고 전해졌다. 이 해협은 세계 석유·가스 무역의 핵심 요지인 만큼, 이번 상황은 지역을 넘어 국제 공급망 전반에 영향을 미친다. 원자료에는 매체 간 차이 없이 같은 제목만 제시됐다.",
+      "picture": "그림에는 거대한 유조선이 좁은 해협에 갇혀 있고, 양쪽 절벽 같은 두 손이 각각 올리브 가지와 타오르는 도화선을 들고 있다. 주변의 상어처럼 보이는 선박들은 불안한 평화 속 전쟁의 위협을 뜻한다.",
+      "mentions": 95,
+      "significance": 95,
+      "velocity": 70,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.781,
+        "y": 0.375,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "유럽 전역 시위 물결: 독일의 청년 소요, 물가 문제로 이탈리아서 충돌",
+      "region": "유럽",
+      "summary": "유럽 전역에 시위 물결이 번졌다. 독일에서는 청년 소요가, 이탈리아에서는 물가 상승에 따른 충돌이 보고됐다. 이 사건들은 여러 나라에서 동시에 드러난 사회적 긴장과 경제 상황에 대한 불만을 보여준다. 자료 목록에는 매체 간 차이는 언급되지 않았다.",
+      "picture": "그림에는 젊은이들이 치솟는 가격이 적힌 찢어진 영수증 위를 주먹을 들어 올린 채 행진하고 있다. 뒤편의 연기와 깨진 진열창은 거리 충돌과 물가 상승에 대한 불만을 전한다.",
+      "mentions": 85,
+      "significance": 70,
+      "velocity": 95,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.479,
+        "r": 0.156
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "바이낸스서 63억 달러 규모 역대급 절도, FBI는 북한을 지목",
+      "region": "세계 / 암호화폐",
+      "summary": "바이낸스가 63억 달러 규모의 역대급 절도 피해를 입었다. 보도에 따르면 FBI는 이 사건의 배후로 북한을 지목하고 있다. 이 사건은 암호화폐 업계 최대 절도 사건이자 국제적 비난으로 이어지는 계기라는 점에서 중요하다. 자료에는 동일한 제목만 실렸다.",
+      "picture": "그림에는 북한 문양이 새겨진 소매를 한 후드 쓴 인물이 금이 간 디지털 금고에서 빛나는 금화 사슬을 끌어내고 있다. 이는 해킹과 대규모 자금 탈취를 상징한다.",
+      "mentions": 75,
+      "significance": 60,
+      "velocity": 85,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "이스라엘: 선거 교착 상태, 네타냐후 정당은 선거 ‘도난’ 주장, 사퇴 촉구 집회도",
+      "region": "이스라엘",
+      "summary": "이스라엘 선거가 교착 상태에 빠졌다. 네타냐후 정당은 선거가 ‘도난’당했다고 주장하고, 반대 진영은 그의 사퇴를 요구하며 집회에 나섰다. 이 상황은 선거 결과를 둘러싼 첨예한 정치 위기와 논란을 보여준다. 추가적인 출처 간 차이는 제시되지 않았다.",
+      "picture": "그림에는 투표함이 줄 위에 놓여 있고, 양쪽 사람들이 줄을 당기는 가운데 정장 차림의 한 인물이 위에서 의자에 매달려 있다. 이는 불안정한 정치 상황과 권력 다툼을 표현한다.",
+      "mentions": 60,
+      "significance": 60,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.271,
+        "r": 0.156
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "미국: 중간선거를 앞둔 마지막 며칠",
+      "region": "미국",
+      "summary": "미국은 중간선거를 앞둔 마지막 며칠을 보내고 있다. 두 정당이 의회 장악권을 놓고 벌이는 경쟁에 관심이 집중되는 선거 캠페인의 마무리 국면이다. 기사에서는 선거가 임박했다는 점만 전하며, 세부 내용이나 출처 간 차이는 없다.",
+      "picture": "그림에는 빨간 코끼리와 파란 당나귀가 국회의사당 돔 모양의 거대한 투표용지를 서로 끌어당기고 있다. 이는 투표를 앞둔 치열한 양당 대결을 뜻한다.",
+      "mentions": 55,
+      "significance": 65,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США: последние дни перед промежуточными выборами",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.163,
+        "y": 0.487,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "우크라이나: 국지적 휴전 속 올레시키 민간인 대피, 에너지 시설 타격도",
+      "region": "우크라이나",
+      "summary": "우크라이나에서 국지적 휴전이 진행되는 동안 올레시키의 민간인 대피가 이뤄지고 있다. 동시에 에너지 인프라에 대한 공격도 보고됐다. 이는 일시적 교전 중단 속에서도 민간인과 에너지 체계가 여전히 위험에 놓여 있음을 보여준다. 제시된 자료에는 차이가 없다.",
+      "picture": "그림에는 가족들이 가방을 들고 폐허의 어두운 들판 위로 비치는 좁은 빛의 다리를 건너고 있고, 뒤편으로는 송전선이 깜빡이며 꺼지고 있다. 이는 전쟁 속 대피와 에너지 파괴를 전한다.",
+      "mentions": 55,
+      "significance": 60,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.188,
+        "r": 0.125
+      }
+    },
+    "congo-ebola": {
+      "kind": "major",
+      "title": "콩고: 에볼라 사망자 5000명 돌파",
+      "region": "아프리카",
+      "summary": "콩고에서 에볼라로 인한 사망자 수가 5000명을 넘어섰다. 이는 발병 사태의 규모를 보여주는 중요하고도 비극적인 이정표다. 자료에는 출처 간 추가 차이가 제시되지 않았다.",
+      "picture": "그림에는 붉은 바이러스 표식이 마을 위에 드리워져 있고, 그 앞에 흰 보호복을 입은 의료인이 서 있다. 이는 전염병과 그에 맞선 대응을 상징한다.",
+      "mentions": 35,
+      "significance": 75,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Конго: число погибших от Эболы превысило 5000",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.354,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "가자지구: 이스라엘의 새 공습으로 팔레스타인인 최소 8명 사망",
+      "region": "팔레스타인",
+      "summary": "가자지구에서 이스라엘의 새 공습이 발생해 팔레스타인인 최소 8명이 숨졌다. 이번 보도는 계속되는 분쟁과 민간인 사상자를 다룬다. 원자료에는 출처 간 차이가 없다.",
+      "picture": "그림에는 작은 올리브나무가 잿빛 파편 속에서 돋아나고 있고, 위로는 회색 먼지가 떨어지고 있다. 이는 폐허 속의 삶과 위태로운 희망을 뜻한다.",
+      "mentions": 35,
+      "significance": 50,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Газа: новые израильские удары, погибли минимум 8 палестинцев",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "bolsonaro": {
+      "kind": "major",
+      "title": "보우소나루, 브라질 떠나 미국으로 도피",
+      "region": "라틴 아메리카",
+      "summary": "보우소나루가 브라질을 떠나 미국으로 향했다. 이는 전직 대통령의 급작스러운 정치적 행보이자 국제적 관심을 끄는 사건이다. 제공된 자료에는 다른 세부 사항이 없다.",
+      "picture": "그림에는 초록·노란 띠를 두른 남성이 가방을 들고 비행기를 향해 달려가고 있다. 이는 서둘러 나라를 떠나는 모습을 표현한다.",
+      "mentions": 35,
+      "significance": 40,
+      "velocity": 55,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болсонару бежал из Бразилии в США",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.146,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "indonesia-smog": {
+      "kind": "major",
+      "title": "인도네시아: 산불로 인한 독성 스모그, ‘화성 같다’",
+      "region": "아시아",
+      "summary": "인도네시아에서는 산불로 독성 스모그가 발생해 ‘화성 같다’고 묘사되고 있다. 이는 대기 질과 주민 생활에 큰 영향을 미친 심각한 환경 문제다. 자료에는 출처 간 차이가 언급되지 않았다.",
+      "picture": "그림에는 주황빛과 붉은빛 하늘 아래 열대우림이 타오르고 있고, 주변의 사람들은 마스크를 쓰고 있다. 이는 위험한 연기와 산불의 피해를 보여준다.",
+      "mentions": 25,
+      "significance": 45,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индонезия: токсичный смог от лесных пожаров, «как на Марсе»",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "moscow-threat": {
+      "kind": "major",
+      "title": "미국, 모스크바에서의 테러 가능성 경고… FSB는 청소년 체포",
+      "region": "러시아",
+      "summary": "미국이 모스크바에서의 잠재적 테러 가능성을 경고했다. 이에 따라 FSB가 청소년을 체포한 것으로 전해졌다. 이 사건은 안전 위협과 러시아 보안 당국의 대응이라는 점에서 중요하다. 자료에는 차이가 제시되지 않았다.",
+      "picture": "그림에는 박물관 외벽에 빨간 경고 표식이 붙어 있고, 옆에는 경찰의 그림자가 보인다. 이는 위협과 경찰 통제를 연상시킨다.",
+      "mentions": 30,
+      "significance": 35,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США предупредили о возможном теракте в Москве, ФСБ задержала подростка",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.312,
+        "r": 0.125
+      }
+    },
+    "bulgaria-runoff": {
+      "kind": "major",
+      "title": "불가리아: 흑해 긴장 속 대통령 선거 결선",
+      "region": "유럽",
+      "summary": "불가리아에서 흑해 긴장이 고조된 가운데 대통령 선거 결선이 치러지고 있다. 지역 불안정 속에서 국가의 정치적 선택이 중요하다는 점에서 의미가 크다. 자료에는 동일한 표현만 담겨 있으며 차이는 없다.",
+      "picture": "그림에는 폭풍우 치는 어두운 바다 해변에서 투표용지를 투표함에 넣는 장면이 그려져 있다. 이는 선거와 긴장된 지역 정세를 연결한다.",
+      "mentions": 25,
+      "significance": 30,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "인도: 뉴델리에서 선거관리위원장 사퇴 요구하는 수천 명",
+      "region": "아시아",
+      "summary": "뉴델리에서 수천 명이 인도 선거관리위원장 사퇴를 요구하며 거리로 나섰다. 이번 시위는 선거 제도에 대한 불신과 관련돼 있으며 대규모 사회적 반응을 불렀다. 원문에는 추가 세부 사항이나 출처 간 차이가 없다.",
+      "picture": "그림에는 거대한 군중이 현수막을 들고 돋보기 아래 놓인 거대한 투표함을 둘러싸고 있다. 이는 사회적 압박과 선거 시스템에 대한 검증을 보여준다.",
+      "mentions": 20,
+      "significance": 35,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индия: тысячи человек в Нью-Дели требуют отставки главы избиркома",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.688,
+        "r": 0.125
+      }
+    },
+    "oil-profits": {
+      "kind": "major",
+      "title": "엑손모빌과 쉐브론, 비싼 유가 속 사상 최대 이익 발표",
+      "region": "경제",
+      "summary": "엑손모빌과 쉐브론이 고유가를 배경으로 사상 최대 이익을 발표했다. 이는 대형 석유기업과 에너지 시장에 중요한 금융 뉴스다. 제공된 자료에는 차이가 없다.",
+      "picture": "그림에는 두꺼운 석유통이 양복 차림으로 달러 뭉치 위에 앉아 있다. 이는 석유 사업의 초과 이익을 강조한다.",
+      "mentions": 20,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "ExxonMobil и Chevron отчитались о рекордной прибыли на дорогой нефти",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.812,
+        "r": 0.125
+      }
+    },
+    "day-of-dead": {
+      "kind": "major",
+      "title": "멕시코, 망자의 날을 기념",
+      "region": "라틴 아메리카",
+      "summary": "멕시코에서 망자의 날을 기념하고 있다. 이는 고인을 추모하고 가족의 의식을 이어가는 전통 문화 축제다. 보도에는 출처 간 차이가 제시되지 않았다.",
+      "picture": "그림에는 웃는 설탕 해골이 주황색 메리골드와 촛불에 둘러싸여 있다. 이는 망자의 날의 축제성과 추모의 의미를 담는다.",
+      "mentions": 15,
+      "significance": 10,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мексика празднует День мёртвых",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.604,
+        "r": 0.156
+      }
+    },
+    "korea-births": {
+      "kind": "major",
+      "title": "한국: 출생률, 사상 최저치 이후 반등",
+      "region": "아시아",
+      "summary": "한국의 출생률이 사상 최저치 이후 반등하기 시작했다. 이는 오랫동안 매우 낮은 출생률에 직면해 온 한국에 중요한 인구학적 소식이다. 자료에는 이견이 언급되지 않았다.",
+      "picture": "그림에는 도시 거리의 유모차 위에 새싹이 돋아나 있다. 이는 회복과 출생률 상승을 상징한다.",
+      "mentions": 15,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Южная Корея: рождаемость растёт после рекордного минимума",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "liverpool-arsenal": {
+      "kind": "micro",
+      "title": "축구: 리버풀-아스널, 잉글랜드 프리미어리그 주말 최대 빅매치",
+      "region": "유럽",
+      "summary": "리버풀과 아스널이 잉글랜드 프리미어리그 주말 최대 경기에서 맞붙는다. 이번 경기는 라운드의 중심 카드이자 리그 우승 경쟁에 중요한 한판이다. 기사에는 추가 세부 사항 없이 예고만 담겼다.",
+      "picture": "그림에는 축구 경기장이 붉은 조명으로 빛나고 있다. 이는 큰 야간 경기의 분위기를 자아낸다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Футбол: «Ливерпуль» — «Арсенал», главный матч уикенда АПЛ",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "barcelona": {
+      "kind": "micro",
+      "title": "바르셀로나, 알라베스를 대파하고 라리가 선두 유지",
+      "region": "유럽",
+      "summary": "바르셀로나가 알라베스를 대파하고 라리가 선두를 지켰다. 이번 승리로 팀은 순위표에서 입지를 더욱 굳혔다. 자료에는 출처 간 차이는 언급되지 않았다.",
+      "picture": "그림에는 파란색과 가넷색 공이 골망으로 날아가고 있다. 이는 확실한 승리와 다득점을 뜻한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Барселона» разгромила «Алавес» и остаётся лидером Ла Лиги",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "motogp-yamaha": {
+      "kind": "micro",
+      "title": "야마하, 중동 정세로 카타르 MotoGP 라운드 불참",
+      "region": "중동",
+      "summary": "야마하가 중동 정세로 인해 카타르 MotoGP 라운드에 불참하기로 했다. 이번 결정은 스포츠가 아니라 지역의 외교·정치적 상황과 관련돼 있다. 보도에는 추가적인 차이점이 제시되지 않았다.",
+      "picture": "그림에는 사막 모래 위에 텐트로 덮인 오토바이가 서 있다. 이는 참가 취소와 불가피한 중단을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Yamaha отказалась от этапа MotoGP в Катаре из-за ситуации на Ближнем Востоке",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "hamilton-pole": {
+      "kind": "micro",
+      "title": "해밀턴, 멕시코 그랑프리 폴 포지션 획득",
+      "region": "라틴 아메리카",
+      "summary": "루이스 해밀턴이 멕시코 그랑프리에서 폴 포지션을 차지했다. 이는 결승을 선두에서 출발하게 하는 중요한 예선 결과다. 기사에는 다른 세부 내용이나 차이는 없다.",
+      "picture": "그림에는 붉은 포뮬러카가 출발 그리드 맨 앞에 서 있다. 이는 예선 승리와 출발 선두를 의미한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэмилтон взял поул на Гран-при Мексики",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "canelo": {
+      "kind": "micro",
+      "title": "카넬로 알바레스, 리야드에서 WBC 벨트 되찾아",
+      "region": "중동",
+      "summary": "카넬로 알바레스가 리야드에서 WBC 벨트를 되찾았다. 이는 타이틀 복귀와 관련된 프로복싱의 중요한 소식이다. 제공된 보도에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 챔피언의 초록색 벨트가 링 위로 들어 올려져 있다. 이는 승리와 타이틀 복귀를 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Канело Альварес вернул пояс WBC в Эр-Рияде",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "valkyries": {
+      "kind": "micro",
+      "title": "발키리즈, 사상 첫 WNBA 우승",
+      "region": "미국",
+      "summary": "발키리즈가 처음으로 WNBA 우승을 차지했다. 이는 팀의 역사적인 승리이자 첫 타이틀이다. 기사에는 다른 세부 내용이나 차이가 제시되지 않았다.",
+      "picture": "그림에는 보라색 컨페티 아래에서 농구팀이 트로피를 들어 올리고 있다. 이는 우승의 환희와 축하를 전한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Валькириз» впервые выиграли чемпионат WNBA",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "mageean": {
+      "kind": "micro",
+      "title": "아일랜드 달리기 선수, 유럽 챔피언 시아라 매진 34세로 별세",
+      "region": "유럽",
+      "summary": "아일랜드의 달리기 선수이자 유럽 챔피언인 시아라 매진이 34세의 나이로 별세했다. 이는 저명한 선수의 사망 소식이자 육상계의 큰 손실이다. 기사에는 추가적인 차이는 없다.",
+      "picture": "그림에는 새벽의 빈 트랙 위에 러닝 스파이크가 놓여 있다. 이는 고요함과 스포츠 여정의 끝을 전한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Умерла ирландская бегунья, чемпионка Европы Сиара Магин, 34 года",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-hand": {
+      "kind": "micro",
+      "title": "스위스 연구진, 손가락으로 걷는 로봇 손 공개",
+      "region": "유럽",
+      "summary": "스위스 연구진이 손가락으로 걷는 로봇 손을 공개했다. 이는 독특한 로봇공학 개발을 보여주는 시연이다. 보도에는 다른 세부 내용이 없다.",
+      "picture": "그림에는 금속 로봇 손이 거미처럼 손가락으로 걷고 있다. 이는 기계의 이색적인 기동성을 강조한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Швейцарские учёные показали руку-робота, которая ходит на пальцах",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-dogs": {
+      "kind": "micro",
+      "title": "샌프란시스코 스타트업, 로봇 개 산책에 시간당 20달러 지급",
+      "region": "미국",
+      "summary": "샌프란시스코의 한 스타트업이 로봇 개 산책에 시간당 20달러를 지급한다. 이는 기술과 일상이 만나는 이색적인 일자리다. 기사에는 출처 간 차이가 언급되지 않았다.",
+      "picture": "그림에는 한 사람이 목줄을 잡고 로봇 개를 산책시키고 있다. 이는 로봇공학이 일상적인 도시 생활의 일부가 되고 있음을 보여준다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Стартап в Сан-Франциско платит $20 в час за выгул роботов-собак",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "capybara": {
+      "kind": "micro",
+      "title": "영국 동물원에서 탈출한 카피바라, 7개월 만에 포착",
+      "region": "유럽",
+      "summary": "영국 동물원에서 탈출한 카피바라가 7개월 만에 포착됐다. 오랜 동물 수색 끝에 이야기가 마무리됐다. 기사에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 카피바라가 키 큰 풀숲 사이로 모습을 드러내고 있다. 이는 오랜 부재 끝에 뜻밖의 발견을 의미한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Сбежавшую из британского зоопарка капибару засняли спустя 7 месяцев",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "fiambre": {
+      "kind": "micro",
+      "title": "과테말라서 세계 최대 샐러드 피암브레 만들어져 — 거의 2톤",
+      "region": "라틴 아메리카",
+      "summary": "과테말라에서 세계 최대 샐러드 피암브레가 만들어졌다. 무게는 거의 2톤에 달한다. 이는 요리 기록이자 현지의 눈에 띄는 행사다. 보도에 차이는 없다.",
+      "picture": "그림에는 거대한 다채로운 샐러드 접시와 그 주위에 서 있는 요리사들이 보인다. 이는 기록의 규모와 축제 분위기를 부각한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Гватемале приготовили самый большой в мире салат фиамбре — почти 2 тонны",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.938,
+        "r": 0.125
+      }
+    },
+    "bear-car": {
+      "kind": "micro",
+      "title": "알래스카에서 곰이 차량에 들어가 실내를 난장판으로 만들어",
+      "region": "미국",
+      "summary": "알래스카에서 곰이 차량에 들어가 실내를 난장판으로 만들었다. 이는 야생동물이 자동차에 들어간 이례적인 사례이자 물적 피해 사건이다. 기사에는 추가적인 차이가 없다.",
+      "picture": "그림에는 검은곰이 운전석에 앉아 있다. 이는 야생 동물이 인간의 공간을 침범한 모습을 보여준다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "На Аляске медведь забрался в машину и разгромил салон",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "halloween": {
+      "kind": "micro",
+      "title": "전 세계의 할로윈",
+      "region": "미국",
+      "summary": "전 세계에서 할로윈을 기념하고 있다. 이는 알아보기 쉬운 상징과 전통을 지닌 국제적인 명절이다. 기사에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 불빛이 켜진 호박 등불이 보인다. 이는 할로윈과 그 상징들을 나타낸다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэллоуин по всему миру",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062
+      }
+    },
+    "pakistan-cricket": {
+      "kind": "micro",
+      "title": "파키스탄, 크리켓 트라이시리즈 결승에서 스리랑카 제압",
+      "region": "아시아",
+      "summary": "파키스탄이 크리켓 트라이시리즈 결승에서 스리랑카를 꺾었다. 이는 대회의 최종 결과이자 팀에 중요한 승리다. 기사에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 초록 잔디 위에 배트와 공이 놓여 있다. 이는 크리켓 결승과 스포츠 경쟁을 가리킨다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Пакистан обыграл Шри-Ланку в финале крикетной трисерии",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "bangladesh-wages": {
+      "kind": "micro",
+      "title": "방글라데시: 의류 노동자 시위 이후 임금위원회 설치",
+      "region": "아시아",
+      "summary": "방글라데시에서 의류 노동자들의 시위 이후 임금위원회가 설치됐다. 이번 결정은 노동 분쟁과 노동자들의 압박 속에 내려졌다. 기사에서는 추가적인 불일치는 언급되지 않았다.",
+      "picture": "그림에는 재봉틀과 그 위의 동전이 보인다. 이 이미지는 재봉 노동과 임금 문제를 연결한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Бангладеш: создан совет по зарплатам после протестов швейных рабочих",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "sheep-chase": {
+      "kind": "micro",
+      "title": "버지니아주에서 경찰이 먹이를 쫓는 길 잃은 양을 추격했다",
+      "region": "미국",
+      "summary": "버지니아주에서 경찰이 먹이를 쫓는 길 잃은 양을 추격했다. 경찰과 동물이 함께 등장한 유쾌한 지역 사건이다. 기사에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 교외 거리에서 양이 달아나고, 뒤에는 먹이가 담긴 양동이를 든 경찰 두 명이 쫓고 있다. 이 이미지는 추격의 코믹함을 강조한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Вирджинии полиция гонялась за потерявшейся овцой, которая бежала за едой",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.438,
+        "r": 0.125
+      }
+    },
+    "goose-ring": {
+      "kind": "micro",
+      "title": "거위의 부리에서 금속 고리를 제거하고 자연으로 돌려보냈다",
+      "region": "미국",
+      "summary": "거위의 부리에서 금속 고리를 제거한 뒤 자연으로 돌려보냈다. 사람들의 개입 후 새를 구한 이야기다. 기사에는 추가적인 세부 내용이 없다.",
+      "picture": "그림에는 캐나다기러기가 연못 위를 날고 있다. 이 이미지는 해방과 자연으로의 복귀를 의미한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Гусю сняли металлическое кольцо с клюва и отпустили на волю",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "ice-cubes": {
+      "kind": "micro",
+      "title": "세계 기록: 입으로 1킬로그램이 넘는 얼음 조각을 옮겼다",
+      "region": "미국",
+      "summary": "세계 기록이 세워졌다. 한 사람이 입으로 1킬로그램이 넘는 얼음 조각을 옮겼다. 이는 기록으로 인정된 이례적인 성취다. 기사에는 다른 세부 사항이 없다.",
+      "picture": "그림에는 남성이 입으로 얼음을 옮겨 두 개의 쟁반 사이에 나르는 모습이 보인다. 이 이미지는 기록의 특이함과 어려움을 강조한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мировой рекорд: перенёс больше килограмма кубиков льда ртом",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "k9-rocco": {
+      "kind": "micro",
+      "title": "경찰견 로코, 돌을 삼켜 수술받아",
+      "region": "미국",
+      "summary": "경찰견 로코가 돌을 삼켜 수술을 받았다. 이 소식은 구조견의 상태와 실시된 치료를 다룬다. 기사에는 추가적인 불일치가 없다.",
+      "picture": "그림에는 경찰견이 보호 깔때기 목걸이를 한 채 돌무더기 옆에 누워 있다. 이 이미지는 질병과 수술의 원인을 연결한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Полицейский пёс Рокко наглотался камней и перенёс операцию",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "marquez": {
+      "kind": "micro",
+      "title": "마르케스, 말레이시아 MotoGP 그랑프리 우승",
+      "region": "아시아",
+      "summary": "마르케스가 말레이시아 MotoGP 그랑프리에서 우승했다. 이는 레이스에서의 중요한 승리이자 MotoGP 시즌의 또 하나의 성과다. 기사에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 오토바이 선수가 열대의 서킷에서 코너를 기울이며 주행하고 있다. 이 이미지는 속도와 레이스의 경쟁적 순간을 전한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Маркес выиграл Гран-при Малайзии MotoGP",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "brighton-city": {
+      "kind": "micro",
+      "title": "브라이턴, 맨체스터 시티를 깜짝 제압",
+      "region": "유럽",
+      "summary": "브라이턴이 맨체스터 시티를 깜짝 제압했다. 이는 잉글랜드 축구와 순위 경쟁에 중요한 예상 밖의 승리다. 보도에는 불일치 내용이 언급되지 않았다.",
+      "picture": "그림에는 축구장 위에서 갈매기들이 기뻐하고 있다. 이 이미지는 브라이턴과 그들의 깜짝 성공을 암시한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Брайтон» сенсационно обыграл «Манчестер Сити»",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "dakar-flame": {
+      "kind": "micro",
+      "title": "다카르 청소년 올림픽: 누가 성화를 운반할까",
+      "region": "아프리카",
+      "summary": "다카르에서 누가 청소년 올림픽 성화를 운반할지 논의되고 있다. 이는 올림픽 행사와 성화 봉송 준비를 알리는 예고다. 기사에는 추가 세부 사항이 없다.",
+      "picture": "그림에는 젊은 아프리카 주자가 햇살이 내리쬐는 해안선을 따라 올림픽 성화를 들고 달리고 있다. 이 이미지는 올림픽 성화 봉송의 시작과 청소년의 참여를 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Юношеская Олимпиада в Дакаре: кто понесёт огонь",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.938,
+        "r": 0.125
+      }
+    }
+  }
+}

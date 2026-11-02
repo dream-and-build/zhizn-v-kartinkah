@@ -1,0 +1,949 @@
+{
+  "key": "2026-11-01-1",
+  "date": "2026-11-01",
+  "image": "img/2026-11-01-1.jpg",
+  "events": {
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "伊朗与美国濒临新一轮战争：霍尔木兹海峡关闭，卡塔尔运气船遭袭",
+      "region": "中东",
+      "summary": "在霍尔木兹海峡局势升级之际，伊朗与美国正濒临新一轮战争。据报道，海峡已被关闭，卡塔尔的一艘运气船也遭到袭击。作为全球石油和天然气贸易的重要枢纽，这一事态不仅影响地区局势，也波及国际供应。原始材料中的标题表述一致，各来源之间没有额外差异。",
+      "picture": "画面中，一艘巨型油轮被夹在两只岩石巨手形成的狭窄海峡中：一只手握着橄榄枝，另一只手则拿着燃烧的引线。周围如鲨鱼般的船只象征战争威胁，也映射脆弱和平中的希望。",
+      "mentions": 95,
+      "significance": 95,
+      "velocity": 70,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.781,
+        "y": 0.375,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "欧洲抗议浪潮：德国青年骚乱，意大利因物价上涨爆发冲突",
+      "region": "欧洲",
+      "summary": "欧洲多地掀起抗议浪潮。德国方面据称发生青年骚乱，意大利则因物价上涨爆发冲突。这些事件显示出多个国家同时存在的社会紧张局势，并与民众对经济状况的不满有关。材料清单中未说明来源之间存在差异。",
+      "picture": "画面中，一群年轻人举着拳头，走在一张布满裂痕、价格不断上涨的收据上。背景中的烟雾和被砸碎的橱窗，传递出街头冲突与对涨价的不满。",
+      "mentions": 85,
+      "significance": 70,
+      "velocity": 95,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.479,
+        "r": 0.156
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "币安遭遇创纪录的63亿美元盗窃，FBI指控朝鲜涉案",
+      "region": "世界 / 加密货币",
+      "summary": "币安成为一场创纪录盗窃案的受害者，损失达63亿美元。报道称，FBI将此事归咎于朝鲜。这一事件既是加密领域迄今最大规模的盗窃案之一，也引发了国际层面的指控。材料中给出的标题一致。",
+      "picture": "画面中，一名袖子上带有朝鲜标志的连帽人物，正从开裂的数字仓库中拽出一串发光的金色硬币。这个形象表现了入侵和资金被大规模盗走的情景。",
+      "mentions": 75,
+      "significance": 60,
+      "velocity": 85,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "以色列：选举陷入僵局，内塔尼亚胡所在政党称选举被“偷走”，要求其辞职的集会不断",
+      "region": "以色列",
+      "summary": "以色列选举已陷入僵局。内塔尼亚胡所在政党声称选举被“偷走”，反对者则举行集会，要求他辞职。这一局面反映出尖锐的政治危机以及围绕投票结果的争议。未提供更多来源差异。",
+      "picture": "画面中，投票箱悬在一根绳索上，而一名穿西装的人死死抓着上方的椅子，周围的人则在两侧拉扯绳索。这表现了政治局势的不稳和权力争夺。",
+      "mentions": 60,
+      "significance": 60,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.271,
+        "r": 0.156
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "美国：中期选举前的最后几天",
+      "region": "美国",
+      "summary": "美国正进入中期选举前的最后几天。这是竞选的收官阶段，焦点集中在两党争夺国会控制权的较量上。材料仅显示选举已近在眼前，没有更多细节，也未见来源差异。",
+      "picture": "画面中，红色大象和蓝色驴子正在争抢一个巨大的选票，选票被做成了国会圆顶的形状。这个形象象征着投票前夕激烈的两党对抗。",
+      "mentions": 55,
+      "significance": 65,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США: последние дни перед промежуточными выборами",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.163,
+        "y": 0.487,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "乌克兰：地方停火期间疏散阿廖什基平民，能源设施遭袭",
+      "region": "乌克兰",
+      "summary": "在乌克兰，阿廖什基的平民正在地方停火期间被疏散。与此同时，能源基础设施也遭到袭击。这表明即便在战斗短暂停歇的背景下，平民和能源系统仍面临威胁。所提供材料中没有差异。",
+      "picture": "画面中，携带行李的家庭穿过一道狭窄的光桥，走过黑暗废墟，而身后电力线时明时暗。这个画面传达了战争背景下的疏散以及能源系统的破坏。",
+      "mentions": 55,
+      "significance": 60,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.188,
+        "r": 0.125
+      }
+    },
+    "congo-ebola": {
+      "kind": "major",
+      "title": "刚果：埃博拉死亡人数已超过5000",
+      "region": "非洲",
+      "summary": "刚果的埃博拉死亡人数已超过5000人。这是这场疫情历史上的一个重要而悲惨的节点，凸显了其规模之大。材料中没有提供来源之间的额外差异。",
+      "picture": "画面中，一个红色病毒标志笼罩着村庄，前方站着一名身穿白色防护服的医护人员。这象征着疫情以及与之抗争的过程。",
+      "mentions": 35,
+      "significance": 75,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Конго: число погибших от Эболы превысило 5000",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.354,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "加沙：以军发动新一轮打击，至少8名巴勒斯坦人死亡",
+      "region": "巴勒斯坦",
+      "summary": "加沙地带遭到以色列新一轮打击，造成至少8名巴勒斯坦人死亡。该消息涉及持续冲突以及平民中的新伤亡。原始材料中没有来源差异。",
+      "picture": "画面中，一棵小橄榄树在坠落的灰色尘土和废墟中顽强生长。这个形象象征着废墟中的生命与脆弱的希望。",
+      "mentions": 35,
+      "significance": 50,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Газа: новые израильские удары, погибли минимум 8 палестинцев",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "bolsonaro": {
+      "kind": "major",
+      "title": "博索纳罗逃离巴西前往美国",
+      "region": "拉丁美洲",
+      "summary": "博索纳罗已离开巴西，前往美国。这一事件意义重大，既是这位前总统的突然政治举动，也引发了国际关注。所提供材料没有更多细节。",
+      "picture": "画面中，一名系着绿黄丝带的男子提着行李箱奔向飞机，象征着匆忙离境和逃离国家。",
+      "mentions": 35,
+      "significance": 40,
+      "velocity": 55,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болсонару бежал из Бразилии в США",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.146,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "indonesia-smog": {
+      "kind": "major",
+      "title": "印度尼西亚：森林火灾引发有毒烟霾，“像在火星上一样”",
+      "region": "亚洲",
+      "summary": "印度尼西亚的森林大火引发了有毒烟霾，被形容为“像在火星上一样”。这是一场严重的环境问题，影响了空气质量和民众生活。材料中未说明来源差异。",
+      "picture": "画面中，热带森林在橙红色天空下燃烧，周围的人戴着口罩。这个画面展现了危险烟雾以及火灾对民众的影响。",
+      "mentions": 25,
+      "significance": 45,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индонезия: токсичный смог от лесных пожаров, «как на Марсе»",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "moscow-threat": {
+      "kind": "major",
+      "title": "美国警告莫斯科可能发生恐袭，俄联邦安全局拘留一名少年",
+      "region": "俄罗斯",
+      "summary": "美国就莫斯科可能发生恐怖袭击发出警告。与此同时，俄联邦安全局拘留了一名少年。此事因安全威胁及俄罗斯执法部门的反应而受到关注。材料未说明存在差异。",
+      "picture": "画面中，博物馆外墙上标着红色警示符号，旁边还能看到一名警察的阴影。这营造出威胁感和警力戒备的氛围。",
+      "mentions": 30,
+      "significance": 35,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США предупредили о возможном теракте в Москве, ФСБ задержала подростка",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.312,
+        "r": 0.125
+      }
+    },
+    "bulgaria-runoff": {
+      "kind": "major",
+      "title": "保加利亚：在黑海紧张局势背景下举行总统选举第二轮投票",
+      "region": "欧洲",
+      "summary": "在黑海局势紧张的背景下，保加利亚正在举行总统选举第二轮投票。由于地区不稳定，这一政治选择对国家尤为重要。材料中的表述一致，没有差异。",
+      "picture": "画面中，一张选票被投入海边的投票箱，背景是风暴中的深色海面。这个画面将选举与地区紧张局势联系在一起。",
+      "mentions": 25,
+      "significance": 30,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "印度：新德里数千人要求选举委员会负责人辞职",
+      "region": "亚洲",
+      "summary": "在新德里，数千人走上街头，要求印度选举委员会负责人辞职。抗议与对选举体系的不信任有关，并引发了广泛的社会反响。原始消息没有更多细节，也没有来源差异。",
+      "picture": "画面中，成千上万手举标语的人群，围着一只被放大镜审视的巨大投票箱。它展示了公众压力以及对选举制度的审查。",
+      "mentions": 20,
+      "significance": 35,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индия: тысячи человек в Нью-Дели требуют отставки главы избиркома",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.688,
+        "r": 0.125
+      }
+    },
+    "oil-profits": {
+      "kind": "major",
+      "title": "埃克森美孚和雪佛龙在高油价背景下报告创纪录利润",
+      "region": "经济",
+      "summary": "埃克森美孚和雪佛龙在高油价背景下公布了创纪录利润。这对大型石油公司和能源市场来说都是一条重要的财经新闻。所提供材料中没有差异。",
+      "picture": "画面中，一只穿着西装的肥硕油桶坐在成堆美元钞票上。这个形象突出了石油业的超额利润。",
+      "mentions": 20,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "ExxonMobil и Chevron отчитались о рекордной прибыли на дорогой нефти",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.812,
+        "r": 0.125
+      }
+    },
+    "day-of-dead": {
+      "kind": "major",
+      "title": "墨西哥庆祝亡灵节",
+      "region": "拉丁美洲",
+      "summary": "墨西哥正在庆祝亡灵节。这是一项传统文化节日，旨在纪念逝者并举行家庭仪式。消息中没有提及来源之间的任何差异。",
+      "picture": "画面中，微笑的糖骷髅被橙色万寿菊和蜡烛环绕。这个形象传达出亡灵节既欢乐又充满纪念意味的节日氛围。",
+      "mentions": 15,
+      "significance": 10,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мексика празднует День мёртвых",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.604,
+        "r": 0.156
+      }
+    },
+    "korea-births": {
+      "kind": "major",
+      "title": "韩国：出生率在创纪录低点后回升",
+      "region": "亚洲",
+      "summary": "韩国出生率在创纪录低点后开始回升。这对长期面临极低出生率的韩国来说，是一则重要的人口新闻。材料中未提及任何分歧。",
+      "picture": "图中一辆婴儿车停在城市街道上，车旁长出一株嫩芽。画面象征复苏与出生率回升。",
+      "mentions": 15,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Южная Корея: рождаемость растёт после рекордного минимума",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "liverpool-arsenal": {
+      "kind": "micro",
+      "title": "足球：利物浦对阿森纳，英超周末焦点战",
+      "region": "欧洲",
+      "summary": "利物浦和阿森纳将迎来英格兰足球超级联赛周末的焦点对决。这是本轮的中心赛程，也是争夺联赛排名的重要一战。文章仅提供赛前预告，没有更多细节。",
+      "picture": "图中一座足球场被红色探照灯照亮，营造出夜间大战的氛围。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Футбол: «Ливерпуль» — «Арсенал», главный матч уикенда АПЛ",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "barcelona": {
+      "kind": "micro",
+      "title": "巴塞罗那大胜阿拉维斯，继续领跑西甲",
+      "region": "欧洲",
+      "summary": "巴塞罗那大胜阿拉维斯，继续领跑西甲。这场胜利巩固了他们在积分榜上的位置。材料中未提及任何来源分歧。",
+      "picture": "图中一只蓝红相间的足球飞入球网。画面寓意一场稳健的胜利和高效的进攻。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Барселона» разгромила «Алавес» и остаётся лидером Ла Лиги",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "motogp-yamaha": {
+      "kind": "micro",
+      "title": "雅马哈因中东局势取消卡塔尔站MotoGP赛事",
+      "region": "中东",
+      "summary": "雅马哈因中东局势取消了卡塔尔站MotoGP赛事。该决定与体育本身无关，而是出于该地区的地缘政治形势。消息中没有提供其他分歧。",
+      "picture": "图中一辆摩托车被罩在帐篷下，置于沙漠沙地上。它象征着退出参赛和被迫暂停。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Yamaha отказалась от этапа MotoGP в Катаре из-за ситуации на Ближнем Востоке",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "hamilton-pole": {
+      "kind": "micro",
+      "title": "汉密尔顿在墨西哥大奖赛夺得杆位",
+      "region": "拉丁美洲",
+      "summary": "刘易斯·汉密尔顿在墨西哥大奖赛夺得杆位。这是一次重要的排位赛成绩，让他将在正赛中从头位发车。材料中没有其他细节或分歧。",
+      "picture": "图中一辆红色赛车停在发车格前方。画面象征排位赛胜利和起跑领先。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэмилтон взял поул на Гран-при Мексики",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "canelo": {
+      "kind": "micro",
+      "title": "卡内洛·阿尔瓦雷斯在利雅得夺回WBC拳王金腰带",
+      "region": "中东",
+      "summary": "卡内洛·阿尔瓦雷斯在利雅得夺回WBC拳王金腰带。这是职业拳坛的一项重要事件，意味着他重返冠军头衔。所提供的消息中没有更多细节。",
+      "picture": "图中一条绿色冠军金腰带高高举过拳台。画面象征胜利与冠军回归。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Канело Альварес вернул пояс WBC в Эр-Рияде",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "valkyries": {
+      "kind": "micro",
+      "title": "“瓦尔基里队”首次夺得WNBA总冠军",
+      "region": "美国",
+      "summary": "“瓦尔基里队”首次夺得WNBA总冠军。这是一场历史性的胜利，也是球队的首个冠军头衔。材料中没有其他细节或分歧。",
+      "picture": "图中一支篮球队在紫色彩纸雨中高举奖杯。画面传递出夺冠的喜悦与庆祝氛围。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Валькириз» впервые выиграли чемпионат WNBA",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "mageean": {
+      "kind": "micro",
+      "title": "爱尔兰跑者、欧洲冠军西亚拉·马金去世，年仅34岁",
+      "region": "欧洲",
+      "summary": "爱尔兰跑者、欧洲冠军西亚拉·马金去世，年仅34岁。这则消息报道了一位知名运动员的离世，也是田径界的损失。材料中没有其他分歧。",
+      "picture": "图中一双跑鞋静静地放在黎明时分空无一人的跑道上。画面传递出宁静与运动生涯的终结。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Умерла ирландская бегунья, чемпионка Европы Сиара Магин, 34 года",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-hand": {
+      "kind": "micro",
+      "title": "瑞士科学家展示了会用指尖行走的机器人手",
+      "region": "欧洲",
+      "summary": "瑞士科学家展示了一只会用指尖行走的机器人手。这是一项不同寻常的机器人技术演示。消息中没有其他细节。",
+      "picture": "图中一只金属机器人手像蜘蛛一样用指尖行走。画面突出了这一机构件的非同寻常的机动性。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Швейцарские учёные показали руку-робота, которая ходит на пальцах",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-dogs": {
+      "kind": "micro",
+      "title": "旧金山一家初创公司每小时支付20美元雇人遛机器狗",
+      "region": "美国",
+      "summary": "旧金山一家初创公司每小时支付20美元雇人遛机器狗。这是一份技术与日常生活交汇的另类工作。材料中未提及来源分歧。",
+      "picture": "图中一个人牵着一只机器狗散步。画面展示了机器人技术如何成为普通城市生活的一部分。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Стартап в Сан-Франциско платит $20 в час за выгул роботов-собак",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "capybara": {
+      "kind": "micro",
+      "title": "从英国动物园逃走的水豚，7个月后被拍到踪影",
+      "region": "欧洲",
+      "summary": "从英国动物园逃走的水豚，7个月后被拍到踪影。这段经历在长时间寻找后终于有了结果。材料中没有更多细节。",
+      "picture": "图中一只水豚从高高的草丛中探出头来。画面意味着这只逃逸动物在长时间失踪后被意外发现。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Сбежавшую из британского зоопарка капибару засняли спустя 7 месяцев",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "fiambre": {
+      "kind": "micro",
+      "title": "危地马拉制作出世界上最大的菲安布雷沙拉，接近2吨",
+      "region": "拉丁美洲",
+      "summary": "危地马拉制作出世界上最大的菲安布雷沙拉，接近2吨。这是一项美食纪录，也是一场引人注目的地方性活动。消息中没有分歧。",
+      "picture": "图中一盘巨大的彩色沙拉四周站着厨师。画面强调这项纪录的规模和庆祝氛围。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Гватемале приготовили самый большой в мире салат фиамбре — почти 2 тонны",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.938,
+        "r": 0.125
+      }
+    },
+    "bear-car": {
+      "kind": "micro",
+      "title": "阿拉斯加一只熊钻进汽车，毁坏了车内",
+      "region": "美国",
+      "summary": "阿拉斯加一只熊钻进汽车，毁坏了车内。这是一起野生动物闯入汽车并造成财产损失的罕见事件。材料中没有其他分歧。",
+      "picture": "图中一只黑熊坐在驾驶座上。画面表现了野兽闯入人类空间。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "На Аляске медведь забрался в машину и разгромил салон",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "halloween": {
+      "kind": "micro",
+      "title": "世界各地庆祝万圣节",
+      "region": "美国",
+      "summary": "世界各地都在庆祝万圣节。这是一个具有鲜明象征和传统的国际节日。材料中没有更多细节。",
+      "picture": "图中一只雕刻成灯笼的南瓜发出光亮。画面象征万圣节及其标志性元素。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэллоуин по всему миру",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062
+      }
+    },
+    "pakistan-cricket": {
+      "kind": "micro",
+      "title": "巴基斯坦在板球三国赛决赛中击败斯里兰卡",
+      "region": "亚洲",
+      "summary": "巴基斯坦在板球三国赛决赛中击败斯里兰卡。这是该项赛事的体育结果，也是球队的一场重要胜利。材料中没有更多细节。",
+      "picture": "图中球棒和球放在绿色草地上。画面指向板球决赛和体育对抗。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Пакистан обыграл Шри-Ланку в финале крикетной трисерии",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "bangladesh-wages": {
+      "kind": "micro",
+      "title": "孟加拉国：在缝纫工人抗议后成立工资委员会",
+      "region": "亚洲",
+      "summary": "孟加拉国在缝纫工人抗议后成立了工资委员会。该决定是在劳资冲突和工人施压背景下作出的。文中未提及差异。",
+      "picture": "图中是一台缝纫机，上方放着一枚硬币。该形象将缝纫工的劳动与工资问题联系起来。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Бангладеш: создан совет по зарплатам после протестов швейных рабочих",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "sheep-chase": {
+      "kind": "micro",
+      "title": "弗吉尼亚警方追赶一只为觅食而奔跑的走失绵羊",
+      "region": "美国",
+      "summary": "弗吉尼亚警方追赶了一只为觅食而奔跑的走失绵羊。这是一起涉及警方和动物的有趣本地事件。文中没有更多细节。",
+      "picture": "图中一只绵羊在郊区街道上奔跑，后面有两名警察拿着一桶食物追赶。该形象突出了这场追逐的滑稽性。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Вирджинии полиция гонялась за потерявшейся овцой, которая бежала за едой",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.438,
+        "r": 0.125
+      }
+    },
+    "goose-ring": {
+      "kind": "micro",
+      "title": "鹅喙上的金属环被取下后放归自然",
+      "region": "美国",
+      "summary": "一只鹅喙上的金属环被取下后被放归自然。这是一起在人类介入后成功救助鸟类的故事。文中没有更多细节。",
+      "picture": "图中一只加拿大雁飞越池塘上空。该形象象征着解救和重返自由生活。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Гусю сняли металлическое кольцо с клюва и отпустили на волю",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "ice-cubes": {
+      "kind": "micro",
+      "title": "世界纪录：用嘴搬运了超过一公斤的冰块",
+      "region": "美国",
+      "summary": "一项世界纪录被创造：一名男子用嘴搬运了超过一公斤的冰块。这是一项被认定为纪录的非同寻常成就。文中没有其他细节。",
+      "picture": "图中一名男子用嘴把冰块从一个托盘搬到另一个托盘。该形象突出这一纪录的非同寻常和难度。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мировой рекорд: перенёс больше килограмма кубиков льда ртом",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "k9-rocco": {
+      "kind": "micro",
+      "title": "警犬罗科吞下石块后接受了手术",
+      "region": "美国",
+      "summary": "警犬罗科吞下石块后接受了手术。消息涉及这只警犬的状况以及所进行的治疗。文中没有其他差异。",
+      "picture": "图中一只警犬戴着防护颈圈，旁边放着一堆石块。该形象将疾病与手术原因联系起来。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Полицейский пёс Рокко наглотался камней и перенёс операцию",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "marquez": {
+      "kind": "micro",
+      "title": "马奎兹赢得马来西亚MotoGP大奖赛",
+      "region": "亚洲",
+      "summary": "马奎兹赢得了马来西亚MotoGP大奖赛。这是比赛中的一场重要胜利，也是MotoGP赛季中的又一成绩。文中没有更多细节。",
+      "picture": "图中一名摩托车手在热带赛道上倾身过弯。该形象传达出速度和比赛中的竞技时刻。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Маркес выиграл Гран-при Малайзии MotoGP",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "brighton-city": {
+      "kind": "micro",
+      "title": "布莱顿爆冷击败曼城",
+      "region": "欧洲",
+      "summary": "布莱顿爆冷击败曼城。这是一场出人意料的胜利，对英格兰足球和积分争夺都很重要。报道中未说明差异。",
+      "picture": "图中海鸥在足球场上庆祝。该形象暗指布莱顿及其令人惊讶的成功。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Брайтон» сенсационно обыграл «Манчестер Сити»",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "dakar-flame": {
+      "kind": "micro",
+      "title": "达喀尔青奥会：谁将传递火炬",
+      "region": "非洲",
+      "summary": "在达喀尔，人们正在讨论谁将传递青奥会火炬。这是对奥运赛事及火炬接力筹备的预告。文中没有更多细节。",
+      "picture": "图中一名年轻的非洲跑者沿着阳光明媚的海岸线手持奥运火炬奔跑。该形象象征着奥运接力的开启以及青年参与。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Юношеская Олимпиада в Дакаре: кто понесёт огонь",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.938,
+        "r": 0.125
+      }
+    }
+  }
+}

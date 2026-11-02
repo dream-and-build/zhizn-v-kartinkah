@@ -20,7 +20,9 @@
   #date { position: absolute; left: 14px; bottom: 12px; font: 600 15px/1 Georgia, "Times New Roman", serif; letter-spacing: .02em;
           padding: 7px 11px; border-radius: 999px; background: #000000a0; pointer-events: none; }
   .step { height: 100vh; height: 100dvh; }
+  #langbox { position: fixed; top: 12px; inset-inline-end: 12px; z-index: 20; }
 </style>
+<script src="i18n.js"></script>
 </head>
 <body>
 <div id="track">
@@ -32,28 +34,35 @@
   </div>
   <div id="steps"></div>
 </div>
+<div id="langbox"></div>
 <script>
-const MONTHS = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
-const PARTS = { 1: 'утро', 2: 'день', 3: 'вечер' };
 const frame = document.getElementById('frame'), svg = frame.querySelector('svg'), dateEl = document.getElementById('date');
 let days = [], current = -1;
 
 fetch('days.json').then(r => r.json()).then(init);
 
-function init(data) {
-  days = data;
+// Дата в углу; если за день несколько картин — с временем суток
+function labels() {
   const perDate = {};
   days.forEach(d => perDate[d.date] = (perDate[d.date] || 0) + 1);
+  days.forEach(d => {
+    d.label = formatDate(d.date) + (perDate[d.date] > 1 ? ', ' + t('parts')[d.key.split('-').pop() - 1] : '');
+    if (d.img) d.img.alt = t('alt') + ', ' + d.label;
+  });
+}
+
+function init(data) {
+  days = data;
+  document.getElementById('langbox').appendChild(langPicker(() => { labels(); current = -1; onScroll(); }));
   days.forEach((d, i) => {
-    const [y, m, day] = d.date.split('-').map(Number);
-    d.label = `${day} ${MONTHS[m - 1]} ${y}` + (perDate[d.date] > 1 ? ', ' + PARTS[d.key.split('-').pop()] : '');
     const img = new Image();
-    img.src = d.image; img.alt = 'Картина мира, ' + d.label; img.loading = i < 2 ? 'eager' : 'lazy';
+    img.src = d.image; img.loading = i < 2 ? 'eager' : 'lazy';
     frame.insertBefore(img, svg);
     d.img = img;
     // Каждому дню, кроме последнего, — экран прокрутки до следующего
     if (i > 0) document.getElementById('steps').insertAdjacentHTML('beforeend', '<div class="step"></div>');
   });
+  labels();
   // Возврат со страницы события — на тот же день
   const back = days.findIndex(d => d.key === location.hash.slice(1));
   if (back > 0) scrollTo(0, back * innerHeight);
@@ -72,10 +81,10 @@ function onScroll() {
   current = active;
   const d = days[current];
   dateEl.textContent = d.label;
-  history.replaceState(null, '', '#' + d.key);
+  history.replaceState(null, '', `?lang=${LANG}#${d.key}`);
   // Мелкие сюжеты поверх крупных, чтобы их можно было выбрать
   svg.innerHTML = d.spots.slice().sort((a, b) => b.r - a.r).map(s =>
-    `<a href="event.html?d=${d.key}&e=${encodeURIComponent(s.id)}"><circle data-id="${s.id}" cx="${s.x}" cy="${s.y}" r="${s.r * .8}"></circle></a>`).join('');
+    `<a href="event.html?d=${d.key}&e=${encodeURIComponent(s.id)}&lang=${LANG}"><circle data-id="${s.id}" cx="${s.x}" cy="${s.y}" r="${s.r * .8}"></circle></a>`).join('');
 }
 
 // Подсвечиваем самый маленький сюжет под курсором

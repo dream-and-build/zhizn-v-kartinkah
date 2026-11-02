@@ -1,0 +1,949 @@
+{
+  "key": "2026-11-01-1",
+  "date": "2026-11-01",
+  "image": "img/2026-11-01-1.jpg",
+  "events": {
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "İran ve ABD yeni bir savaşın eşiğinde: Hürmüz Boğazı kapatıldı, Katar gaz tankerine saldırı",
+      "region": "Orta Doğu",
+      "summary": "İran ve ABD, Hürmüz Boğazı’ndaki gelişmelerin ardından yeni bir savaşın eşiğine geldi. Boğazın kapatıldığı ve Katar’a ait bir gaz tankerine saldırı düzenlendiği bildiriliyor. Burası küresel petrol ve gaz ticaretinin önemli bir düğüm noktası olduğundan, durum yalnızca bölgeyi değil uluslararası sevkiyatları da etkiliyor. Kaynaklarda farklılık olmaksızın aynı başlık aktarılıyor.",
+      "picture": "Resimde, dev bir tanker dar bir boğazda iki kaya kolu arasında sıkışmış görünüyor: biri zeytin dalı tutuyor, diğeri yanan bir fitil. Etraftaki köpekbalığına benzeyen gemiler, kırılgan barış umudu karşısında savaş tehdidini simgeliyor.",
+      "mentions": 95,
+      "significance": 95,
+      "velocity": 70,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.781,
+        "y": 0.375,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "Avrupa’da protesto dalgası: Almanya’da gençlik olayları, İtalya’da fiyatlar nedeniyle çatışmalar",
+      "region": "Avrupa",
+      "summary": "Avrupa genelinde bir protesto dalgası yaşandı. Almanya’da gençlik olayları, İtalya’da ise fiyat artışları nedeniyle çatışmalar bildiriliyor. Bu gelişmeler, birkaç ülkede birden sosyal gerilimin yükseldiğini ve ekonomik durumdan duyulan hoşnutsuzlukla bağlantılı olduğunu gösteriyor. Materyallerde kaynaklar arasında herhangi bir farklılık belirtilmedi.",
+      "picture": "Resimde, gençlerden oluşan bir kalabalık, yükselen fiyatların yer aldığı çatlamış bir fişin üzerinde yumruklarını kaldırarak ilerliyor. Arka plandaki duman ve kırılan vitrinler, sokak çatışmalarını ve hayat pahalılığına öfkeyi yansıtıyor.",
+      "mentions": 85,
+      "significance": 70,
+      "velocity": 95,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.479,
+        "r": 0.156
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "Binance’ten 6,3 milyar dolarlık rekor hırsızlık, FBI Kuzey Kore’yi suçluyor",
+      "region": "Dünya / kripto",
+      "summary": "Binance, 6,3 milyar dolarlık rekor bir hırsızlığın kurbanı oldu. Haberlere göre FBI bunun arkasında Kuzey Kore’nin olduğunu öne sürüyor. Hikâye, kripto dünyasındaki en büyük hırsızlık olaylarından biri olması ve uluslararası suçlamalara yol açması bakımından önem taşıyor. Materyallerde aynı başlık veriliyor.",
+      "picture": "Resimde, kolunda Kuzey Kore sembolü bulunan kapüşonlu bir figür, çatlamış dijital bir kasadan ışıldayan altın para zincirini çekip çıkarıyor. Görsel, siber saldırıyı ve çalınan fonların büyüklüğünü anlatıyor.",
+      "mentions": 75,
+      "significance": 60,
+      "velocity": 85,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "İsrail: seçimler çıkmaza girdi, Netanyahu’nun partisi seçimlerin ‘çalındığını’ iddia ediyor, istifası için mitingler var",
+      "region": "İsrail",
+      "summary": "İsrail’de seçimler çıkmaza girdi. Netanyahu’nun partisi seçimlerin ‘çalındığını’ iddia ederken, karşıtları istifasını talep eden mitingler düzenliyor. Durum, oy sonuçları etrafındaki tartışmalarla birlikte derin bir siyasi krizi yansıtıyor. Kaynaklar arasında ek bir farklılık aktarılmadı.",
+      "picture": "Resimde bir oy sandığı ip üzerinde duruyor; takım elbiseli bir adam yukarıdan koltuğa tutunurken, iki yandaki insanlar halatları çekiyor. Bu sahne, siyasi durumun kırılganlığını ve iktidar mücadelesini yansıtıyor.",
+      "mentions": 60,
+      "significance": 60,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.271,
+        "r": 0.156
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "ABD: ara seçimler öncesinde son günler",
+      "region": "ABD",
+      "summary": "ABD’de ara seçimler öncesindeki son günler yaşanıyor. Bu, kampanyanın son aşaması ve iki partinin Kongre kontrolü için mücadelesine odaklanılan dönemdir. Metin yalnızca seçimlerin yaklaştığını söylüyor; ayrıntı ya da kaynaklar arasında bir farklılık yok.",
+      "picture": "Resimde kırmızı bir fil ve mavi bir eşek, Capitol kubbesi şeklindeki dev bir oy pusulasını çekiştiriyor. Görsel, oylama öncesindeki sert iki partili mücadeleyi simgeliyor.",
+      "mentions": 55,
+      "significance": 65,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США: последние дни перед промежуточными выборами",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.163,
+        "y": 0.487,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "Ukrayna: yerel ateşkes sırasında Oleşki’den siviller tahliye ediliyor, enerji altyapısına saldırılar sürüyor",
+      "region": "Ukrayna",
+      "summary": "Ukrayna’da yerel ateşkes sırasında Oleşki’den sivillerin tahliyesi sürüyor. Aynı zamanda enerji altyapısına yönelik saldırılar da bildiriliyor. Bu, çatışmalardaki geçici duraklamaya rağmen siviller ve enerji sistemi için tehdidin sürdüğünü gösteriyor. Sunulan materyallerde farklılık yok.",
+      "picture": "Resimde, valizleriyle aileler karanlık bir harabeler alanı üzerinde uzanan dar bir ışık köprüsünden geçiyor; arkalarında elektrik hatları titreyip sönüyor. Görsel, savaşın ortasında tahliyeyi ve enerji altyapısındaki yıkımı anlatıyor.",
+      "mentions": 55,
+      "significance": 60,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        },
+        {
+          "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.188,
+        "r": 0.125
+      }
+    },
+    "congo-ebola": {
+      "kind": "major",
+      "title": "Kongo: Ebola kaynaklı ölü sayısı 5000’i aştı",
+      "region": "Afrika",
+      "summary": "Kongo’da Ebola nedeniyle ölenlerin sayısı 5000’i aştı. Bu, salgının tarihinde önemli ve trajik bir eşik olup, salgının boyutunu ortaya koyuyor. Materyallerde kaynaklar arasında ek bir farklılık yer almıyor.",
+      "picture": "Resimde kırmızı bir virüs işareti köyün üzerinde yükselirken, önünde beyaz koruyucu giysili bir sağlık görevlisi duruyor. Bu, salgının ve onunla mücadelenin sembolü.",
+      "mentions": 35,
+      "significance": 75,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Конго: число погибших от Эболы превысило 5000",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.354,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "Gazze: yeni İsrail saldırıları, en az 8 Filistinli öldü",
+      "region": "Filistin",
+      "summary": "Gazze’de yeni İsrail saldırıları düzenlendi ve en az 8 Filistinli hayatını kaybetti. Haber, süren çatışmayı ve sivil kayıpların devam ettiğini konu alıyor. Kaynaklar arasında herhangi bir farklılık bulunmuyor.",
+      "picture": "Resimde, düşen gri toz bulutunun altında küçük bir zeytin ağacı molozların arasından filizleniyor. Görsel, yıkım içinde yaşamı ve kırılgan umudu simgeliyor.",
+      "mentions": 35,
+      "significance": 50,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Газа: новые израильские удары, погибли минимум 8 палестинцев",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "bolsonaro": {
+      "kind": "major",
+      "title": "Bolsonaro Brezilya’dan ABD’ye kaçtı",
+      "region": "Latin Amerika",
+      "summary": "Bolsonaro, Brezilya’dan ayrılarak ABD’ye gitti. Bu gelişme, eski devlet başkanının ani siyasi hamlesi ve uluslararası ilgi çeken bir olay olarak önem taşıyor. Sağlanan materyallerde başka ayrıntı verilmedi.",
+      "picture": "Resimde, yeşil-sarı şerit taşıyan bir adam, elinde valizle uçağa doğru koşuyor. Bu, aceleyle yapılan bir ayrılığın ve ülkeden kaçışın görüntüsü.",
+      "mentions": 35,
+      "significance": 40,
+      "velocity": 55,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болсонару бежал из Бразилии в США",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.146,
+        "y": 0.729,
+        "r": 0.156
+      }
+    },
+    "indonesia-smog": {
+      "kind": "major",
+      "title": "Endonezya: orman yangınlarından toksik duman, ‘Mars gibi’",
+      "region": "Asya",
+      "summary": "Endonezya’da orman yangınları, ‘Mars gibi’ diye tanımlanan toksik bir duman bulutuna yol açtı. Bu, hava kalitesini ve insanların yaşamını etkileyen ciddi bir çevre sorunu. Materyallerde kaynaklar arasında farklılık belirtilmiyor.",
+      "picture": "Resimde turuncu-kırmızı bir gökyüzü altında yanan tropik orman ve çevrede maske takan insanlar görülüyor. Görsel, tehlikeli dumanı ve yangınların halk üzerindeki etkisini anlatıyor.",
+      "mentions": 25,
+      "significance": 45,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индонезия: токсичный смог от лесных пожаров, «как на Марсе»",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "moscow-threat": {
+      "kind": "major",
+      "title": "ABD, Moskova’da olası terör saldırısı konusunda uyardı, FSB bir genci gözaltına aldı",
+      "region": "Rusya",
+      "summary": "ABD, Moskova’da olası bir terör saldırısı konusunda uyarıda bulundu. Bunun ardından FSB bir genci gözaltına aldı. Olay, güvenlik tehdidi ve Rus güvenlik güçlerinin tepkisi nedeniyle önem taşıyor. Materyallerde farklılık belirtilmedi.",
+      "picture": "Resimde bir müze cephesinin üzerinde kırmızı bir uyarı işareti, yanında ise bir polis gölgesi görünüyor. Bu, tehdit ve polis kontrolü hissi yaratıyor.",
+      "mentions": 30,
+      "significance": 35,
+      "velocity": 60,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "США предупредили о возможном теракте в Москве, ФСБ задержала подростка",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.312,
+        "r": 0.125
+      }
+    },
+    "bulgaria-runoff": {
+      "kind": "major",
+      "title": "Bulgaristan: Karadeniz’deki gerginlik gölgesinde cumhurbaşkanlığı seçimlerinde ikinci tur",
+      "region": "Avrupa",
+      "summary": "Bulgaristan’da, Karadeniz’deki gerginlik eşliğinde cumhurbaşkanlığı seçimlerinin ikinci turu yapılıyor. Bu gelişme, bölgesel istikrarsızlık ortamında ülkenin siyasi tercihleri açısından önem taşıyor. Materyallerde aynı ifadeler yer alıyor ve farklılık bulunmuyor.",
+      "picture": "Resimde, oy pusulası fırtınalı, karanlık bir denizin kıyısındaki sandığa bırakılıyor. Görsel, seçimleri bölgedeki gergin atmosferle ilişkilendiriyor.",
+      "mentions": 25,
+      "significance": 30,
+      "velocity": 40,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        },
+        {
+          "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "Hindistan: Yeni Delhi’de binlerce kişi seçim kurulu başkanının istifasını talep ediyor",
+      "region": "Asya",
+      "summary": "Yeni Delhi’de binlerce kişi Hindistan seçim kurulu başkanının istifasını talep ederek sokağa çıktı. Protesto, seçim sistemine duyulan güvensizlikle bağlantılı ve geniş bir toplumsal tepki yarattı. Orijinal haberde ek detay ya da kaynaklar arasında bir farklılık yok.",
+      "picture": "Resimde, dev bir kalabalık pankartlarla birlikte, büyüteç altındaki dev bir oy sandığını çevreliyor. Bu, kamu baskısını ve seçim sisteminin denetlenmesini gösteriyor.",
+      "mentions": 20,
+      "significance": 35,
+      "velocity": 45,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Индия: тысячи человек в Нью-Дели требуют отставки главы избиркома",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.688,
+        "r": 0.125
+      }
+    },
+    "oil-profits": {
+      "kind": "major",
+      "title": "ExxonMobil ve Chevron, yüksek petrol fiyatları sayesinde rekor kâr açıkladı",
+      "region": "Ekonomi",
+      "summary": "ExxonMobil ve Chevron, yüksek petrol fiyatları nedeniyle rekor kâr bildirdi. Bu, büyük petrol şirketleri ve enerji piyasası açısından önemli bir finans haberidir. Sağlanan materyalde farklılık bulunmuyor.",
+      "picture": "Resimde, şişman bir petrol varili bir silindir takmış halde dolar banknotlarının yığınının üzerinde oturuyor. Görsel, petrol işinin olağanüstü kârlılığını vurguluyor.",
+      "mentions": 20,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "ExxonMobil и Chevron отчитались о рекордной прибыли на дорогой нефти",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.812,
+        "r": 0.125
+      }
+    },
+    "day-of-dead": {
+      "kind": "major",
+      "title": "Meksika, Ölüler Günü’nü kutluyor",
+      "region": "Latin Amerika",
+      "summary": "Meksika’da Ölüler Günü kutlanıyor. Bu, ölenleri anma ve aile ritüelleriyle bağlantılı geleneksel bir kültürel bayramdır. Haberde kaynaklar arasında herhangi bir farklılık aktarılmadı.",
+      "picture": "Resimde gülümseyen bir şeker kafatası, turuncu kadife çiçekleri ve mumlarla çevrili. Görsel, Ölüler Günü’nün hem kutlama hem de anma niteliğini yansıtıyor.",
+      "mentions": 15,
+      "significance": 10,
+      "velocity": 50,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мексика празднует День мёртвых",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.604,
+        "r": 0.156
+      }
+    },
+    "korea-births": {
+      "kind": "major",
+      "title": "Güney Kore: doğum oranı rekor düşük seviyenin ardından artıyor",
+      "region": "Asya",
+      "summary": "Güney Kore’de doğum oranı rekor düşük seviyenin ardından artmaya başladı. Bu, uzun süredir çok düşük doğum oranlarıyla karşı karşıya olan ülke için önemli bir demografik haber. Materyallerde herhangi bir tutarsızlığa yer verilmedi.",
+      "picture": "Resimde, şehir sokağında filizlenmiş bir bebek arabası görülüyor. Görsel, toparlanma ve doğum oranındaki artışı simgeliyor.",
+      "mentions": 15,
+      "significance": 30,
+      "velocity": 30,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Южная Корея: рождаемость растёт после рекордного минимума",
+          "domain": "",
+          "url": "https://www.nbcnews.com/world",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "liverpool-arsenal": {
+      "kind": "micro",
+      "title": "Futbol: Liverpool - Arsenal, Premier Lig hafta sonunun en önemli maçı",
+      "region": "Avrupa",
+      "summary": "Liverpool ve Arsenal, İngiltere Premier Lig’i hafta sonunun en önemli maçında karşı karşıya gelecek. Bu, haftanın merkez karşılaşması ve şampiyonluk mücadelesi açısından önemli bir maç. Haberde yalnızca ön bilgi veriliyor, ek ayrıntı yer almıyor.",
+      "picture": "Resimde bir futbol stadyumu kırmızı projektörlerle aydınlatılıyor. Bu, büyük bir akşam maçı hissi yaratıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Футбол: «Ливерпуль» — «Арсенал», главный матч уикенда АПЛ",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "barcelona": {
+      "kind": "micro",
+      "title": "Barcelona, Alavés’i farklı geçti ve La Liga liderliğini sürdürüyor",
+      "region": "Avrupa",
+      "summary": "Barcelona, Alavés’i farklı mağlup ederek La Liga liderliğini sürdürdü. Bu galibiyet, takımın puan tablosundaki konumunu güçlendiriyor. Materyallerde kaynaklar arasında herhangi bir tutarsızlık belirtilmedi.",
+      "picture": "Resimde mavi-kırmızı bir topun filelere gittiği görülüyor. Görsel, net bir galibiyeti ve etkili oyunu anlatıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Барселона» разгромила «Алавес» и остаётся лидером Ла Лиги",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "motogp-yamaha": {
+      "kind": "micro",
+      "title": "Yamaha, Orta Doğu’daki durum nedeniyle Katar’daki MotoGP etabından çekildi",
+      "region": "Orta Doğu",
+      "summary": "Yamaha, Orta Doğu’daki durum nedeniyle Katar’daki MotoGP etabından çekildi. Karar sporla değil, bölgedeki dış politika koşullarıyla bağlantılı. Açıklamada ek tutarsızlıklar yer almıyor.",
+      "picture": "Resimde çöl kumunun üzerinde brandayla örtülü bir motosiklet duruyor. Bu, iptal edilen katılımı ve zorunlu arayı simgeliyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Yamaha отказалась от этапа MotoGP в Катаре из-за ситуации на Ближнем Востоке",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.438,
+        "r": 0.062
+      }
+    },
+    "hamilton-pole": {
+      "kind": "micro",
+      "title": "Hamilton, Meksika Grand Prix’sinde pole pozisyonunu aldı",
+      "region": "Latin Amerika",
+      "summary": "Lewis Hamilton, Meksika Grand Prix’sinde pole pozisyonunu aldı. Bu, yarışa ilk sıradan başlama hakkı sağlayan önemli bir sıralama sonucu. Haberde başka ayrıntı veya tutarsızlık yok.",
+      "picture": "Resimde kırmızı bir bolid start ızgarasının önünde duruyor. Görsel, sıralama zaferini ve starttaki liderliği anlatıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэмилтон взял поул на Гран-при Мексики",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "canelo": {
+      "kind": "micro",
+      "title": "Canelo Álvarez, Riyad’da WBC kemerini geri aldı",
+      "region": "Orta Doğu",
+      "summary": "Canelo Álvarez, Riyad’da WBC kemerini geri aldı. Bu, profesyonel boksta unvanın geri kazanılmasıyla ilgili önemli bir gelişme. Verilen haberde ek ayrıntı bulunmuyor.",
+      "picture": "Resimde şampiyonluk yeşil kemeri ringin üzerinde kaldırılmış halde görülüyor. Görsel, zaferi ve unvanın geri dönüşünü simgeliyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Канело Альварес вернул пояс WBC в Эр-Рияде",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062
+      }
+    },
+    "valkyries": {
+      "kind": "micro",
+      "title": "Valkyries, WNBA şampiyonluğunu ilk kez kazandı",
+      "region": "ABD",
+      "summary": "Valkyries, WNBA şampiyonluğunu ilk kez kazandı. Bu, takım için tarihi bir zafer ve ilk şampiyonluk anlamına geliyor. Haberde başka ayrıntı veya tutarsızlık yer almıyor.",
+      "picture": "Resimde bir basketbol takımı mor konfeti altında kupayı kaldırıyor. Görsel, zaferi ve şampiyonluk kutlamasını yansıtıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Валькириз» впервые выиграли чемпионат WNBA",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "mageean": {
+      "kind": "micro",
+      "title": "Avrupa şampiyonu İrlandalı koşucu Ciara Mageean 34 yaşında hayatını kaybetti",
+      "region": "Avrupa",
+      "summary": "Avrupa şampiyonu İrlandalı koşucu Ciara Mageean 34 yaşında hayatını kaybetti. Bu, tanınmış bir sporcunun ölümü ve atletizm için bir kayıp anlamına geliyor. Haberde ek tutarsızlık yer almıyor.",
+      "picture": "Resimde koşu çivili ayakkabılar boş bir pistte, şafak vakti duruyor. Görsel, sessizliği ve spor yolculuğunun sonunu anlatıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Умерла ирландская бегунья, чемпионка Европы Сиара Магин, 34 года",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-hand": {
+      "kind": "micro",
+      "title": "İsviçreli bilim insanları parmakları üzerinde yürüyebilen robot elini tanıttı",
+      "region": "Avrupa",
+      "summary": "İsviçreli bilim insanları parmakları üzerinde yürüyebilen robot elini tanıttı. Bu, sıra dışı bir robotik geliştirmesinin gösterimi. Haberde başka ayrıntı bulunmuyor.",
+      "picture": "Resimde metal bir robot el, örümcek gibi parmakları üzerinde yürüyor. Görsel, mekanizmanın olağan dışı hareket kabiliyetini vurguluyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Швейцарские учёные показали руку-робота, которая ходит на пальцах",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "robot-dogs": {
+      "kind": "micro",
+      "title": "San Francisco’daki girişim, robot köpekleri gezdirmek için saatte 20 dolar ödüyor",
+      "region": "ABD",
+      "summary": "San Francisco’daki bir girişim, robot köpekleri gezdirmek için saatte 20 dolar ödüyor. Bu, teknoloji ile gündelik yaşamın kesiştiği sıra dışı bir iş. Materyallerde kaynaklar arasında farklılık belirtilmedi.",
+      "picture": "Resimde bir kişi robot köpeği tasmasından tutarak gezdiriyor. Görsel, robotik teknolojinin sıradan şehir yaşamının bir parçası hâline gelişini gösteriyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Стартап в Сан-Франциско платит $20 в час за выгул роботов-собак",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "capybara": {
+      "kind": "micro",
+      "title": "Britanya’daki hayvanat bahçesinden kaçan kapibara 7 ay sonra görüntülendi",
+      "region": "Avrupa",
+      "summary": "Britanya’daki hayvanat bahçesinden kaçan kapibara 7 ay sonra görüntülendi. Bu hikâye, hayvanın uzun süren arayışın ardından bulunmasıyla sonuçlandı. Haberde ek ayrıntı yer almıyor.",
+      "picture": "Resimde kapibara uzun otların arasından bakıyor. Görsel, uzun bir yokluğun ardından kaçak hayvanın beklenmedik şekilde bulunmasını anlatıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Сбежавшую из британского зоопарка капибару засняли спустя 7 месяцев",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "fiambre": {
+      "kind": "micro",
+      "title": "Guatemala’da dünyanın en büyük fiambre salatası hazırlandı — neredeyse 2 ton",
+      "region": "Latin Amerika",
+      "summary": "Guatemala’da dünyanın en büyük fiambre salatası hazırlandı — neredeyse 2 ton. Bu, bir mutfak rekoru ve dikkat çekici bir yerel etkinlik. Haberde tutarsızlık bulunmuyor.",
+      "picture": "Resimde devasa, rengârenk bir salata tabağı ve etrafında duran aşçılar görülüyor. Görsel, rekorun büyüklüğünü ve kutlama havasını vurguluyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Гватемале приготовили самый большой в мире салат фиамбре — почти 2 тонны",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.938,
+        "r": 0.125
+      }
+    },
+    "bear-car": {
+      "kind": "micro",
+      "title": "Alaska’da bir ayı arabaya girdi ve iç mekanı mahvetti",
+      "region": "ABD",
+      "summary": "Alaska’da bir ayı arabaya girerek iç mekanı mahvetti. Bu, vahşi bir hayvanın araç içinde karıştığı sıra dışı bir olay ve maddi hasar vakası. Haberde ek tutarsızlık yok.",
+      "picture": "Resimde siyah bir ayı sürücü koltuğunda oturuyor. Görsel, hayvanın insan alanına müdahalesini gösteriyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "На Аляске медведь забрался в машину и разгромил салон",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      }
+    },
+    "halloween": {
+      "kind": "micro",
+      "title": "Dünya genelinde Cadılar Bayramı",
+      "region": "ABD",
+      "summary": "Dünya genelinde Cadılar Bayramı kutlanıyor. Bu, tanınabilir sembolleri ve gelenekleri olan uluslararası bir bayram. Haberde ek ayrıntı verilmedi.",
+      "picture": "Resimde oyulmuş bir balkabağı fener gibi parlıyor. Görsel, Cadılar Bayramı’nı ve ona özgü unsurları simgeliyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Хэллоуин по всему миру",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062
+      }
+    },
+    "pakistan-cricket": {
+      "kind": "micro",
+      "title": "Pakistan, kriket üçlü serisinin finalinde Sri Lanka’yı mağlup etti",
+      "region": "Asya",
+      "summary": "Pakistan, kriket üçlü serisinin finalinde Sri Lanka’yı mağlup etti. Bu, turnuvanın sportif sonucu ve takım için önemli bir galibiyet. Haberde ek ayrıntı yok.",
+      "picture": "Resimde yeşil çimlerin üzerinde bir kriket sopası ve topu görülüyor. Görsel, final maçını ve sportif rekabeti işaret ediyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Пакистан обыграл Шри-Ланку в финале крикетной трисерии",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "bangladesh-wages": {
+      "kind": "micro",
+      "title": "Bangladeş: Tekstil işçilerinin protestolarının ardından ücretler için kurul oluşturuldu",
+      "region": "Asya",
+      "summary": "Bangladeş’te tekstil işçilerinin protestolarının ardından ücretler için bir kurul oluşturuldu. Karar, işçi uyuşmazlığı ve çalışanların baskısı üzerine alındı. Haberde herhangi bir farklılığa yer verilmedi.",
+      "picture": "Görselde bir dikiş makinesi ve üstünde bir madeni para yer alıyor. Görüntü, terzilerin emeğini ücret meselesiyle ilişkilendiriyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Бангладеш: создан совет по зарплатам после протестов швейных рабочих",
+          "domain": "",
+          "url": "https://www.aljazeera.com/news/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.875,
+        "r": 0.125
+      }
+    },
+    "sheep-chase": {
+      "kind": "micro",
+      "title": "Virginia’da polis, yiyecek peşinde koşan kayıp bir koyunu kovaladı",
+      "region": "ABD",
+      "summary": "Virginia’da polis, yiyecek peşinde koşan kayıp bir koyunu kovaladı. Bu, polis ve bir hayvanın yer aldığı eğlenceli yerel bir olaydı. Haberde ek ayrıntı verilmedi.",
+      "picture": "Görselde bir koyun banliyö sokağında koşuyor, arkasında da bir kova yiyecekle iki polis memuru var. Görüntü, kovalamacanın komik yönünü vurguluyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "В Вирджинии полиция гонялась за потерявшейся овцой, которая бежала за едой",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.438,
+        "r": 0.125
+      }
+    },
+    "goose-ring": {
+      "kind": "micro",
+      "title": "Kazın gagasındaki metal halka çıkarıldı ve doğaya salındı",
+      "region": "ABD",
+      "summary": "Kazın gagasındaki metal halka çıkarıldı ve doğaya salındı. Bu, insanların müdahalesinin ardından bir kuşun kurtarılma hikâyesi. Haberde ek ayrıntı yer almıyor.",
+      "picture": "Görselde Kanada kazı bir göletin üzerinde uçuyor. Görüntü, özgürleşmeyi ve doğaya dönüşü simgeliyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Гусю сняли металлическое кольцо с клюва и отпустили на волю",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "ice-cubes": {
+      "kind": "micro",
+      "title": "Dünya rekoru: Ağızla bir kilodan fazla buz küpü taşıdı",
+      "region": "ABD",
+      "summary": "Dünya rekoru kırıldı: Bir kişi ağızla bir kilodan fazla buz küpü taşıdı. Bu, rekor olarak kayda geçen alışılmadık bir başarı. Haberde başka ayrıntı yok.",
+      "picture": "Görselde bir adam, iki tepsi arasında ağzıyla buz taşıyor. Görüntü, rekorun sıra dışılığını ve zorluğunu vurguluyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Мировой рекорд: перенёс больше килограмма кубиков льда ртом",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.812,
+        "r": 0.062
+      }
+    },
+    "k9-rocco": {
+      "kind": "micro",
+      "title": "Polis köpeği Rocco taş yuttu ve ameliyat geçirdi",
+      "region": "ABD",
+      "summary": "Polis köpeği Rocco taş yuttu ve ameliyat geçirdi. Haber, hizmet köpeğinin sağlık durumunu ve uygulanan tedaviyi konu alıyor. Haberde ek bir farklılık belirtilmedi.",
+      "picture": "Görselde bir polis köpeği, yakınında bir yığın taşla birlikte koruyucu yaka takmış halde yatıyor. Görüntü, hastalıkla ameliyatın nedenini ilişkilendiriyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Полицейский пёс Рокко наглотался камней и перенёс операцию",
+          "domain": "",
+          "url": "https://www.upi.com/Odd_News/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.938,
+        "r": 0.062
+      }
+    },
+    "marquez": {
+      "kind": "micro",
+      "title": "Marquez, Malezya MotoGP Grand Prix’sini kazandı",
+      "region": "Asya",
+      "summary": "Marquez, Malezya MotoGP Grand Prix’sini kazandı. Bu, yarışta önemli bir zafer ve MotoGP sezonundaki bir başka sonuç. Haberde ek ayrıntı yok.",
+      "picture": "Görselde bir motosikletçi tropikal bir pistte viraj alırken yatıyor. Görüntü, hız ve yarışın rekabetçi anını aktarıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Маркес выиграл Гран-при Малайзии MotoGP",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.688,
+        "r": 0.062
+      }
+    },
+    "brighton-city": {
+      "kind": "micro",
+      "title": "Brighton, Manchester City’yi sürpriz şekilde mağlup etti",
+      "region": "Avrupa",
+      "summary": "Brighton, Manchester City’yi sürpriz şekilde mağlup etti. Bu beklenmedik galibiyet, İngiliz futbolu ve puan yarışı açısından önemliydi. Haberde herhangi bir farklılık belirtilmedi.",
+      "picture": "Görselde martılar futbol sahasında kutlama yapıyor. Görüntü, Brighton’a ve onun sürpriz başarısına gönderme yapıyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "«Брайтон» сенсационно обыграл «Манчестер Сити»",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062
+      }
+    },
+    "dakar-flame": {
+      "kind": "micro",
+      "title": "Dakar Gençlik Olimpiyatları: Meşaleyi kim taşıyacak",
+      "region": "Afrika",
+      "summary": "Dakar’da Gençlik Olimpiyatları meşalesini kimin taşıyacağı tartışılıyor. Bu, olimpiyat etkinliği ve meşale koşusuna hazırlıkla ilgili bir duyuru. Haberde ek ayrıntı yok.",
+      "picture": "Görselde genç bir Afrikalı koşucu, güneşli bir kıyı şeridi boyunca olimpiyat meşalesi taşıyor. Görüntü, olimpiyat bayrağı yarışının başlangıcını ve gençlerin katılımını simgeliyor.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": null,
+      "articles": [
+        {
+          "title": "Юношеская Олимпиада в Дакаре: кто понесёт огонь",
+          "domain": "",
+          "url": "https://www.aljazeera.com/sports/",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.938,
+        "r": 0.125
+      }
+    }
+  }
+}
