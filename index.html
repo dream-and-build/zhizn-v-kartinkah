@@ -20,9 +20,10 @@
   #date { position: absolute; left: 14px; bottom: 12px; font: 600 15px/1 Georgia, "Times New Roman", serif; letter-spacing: .02em;
           padding: 7px 11px; border-radius: 999px; background: #000000a0; pointer-events: none; }
   .step { height: 100vh; height: 100dvh; }
-  #langbox { position: fixed; top: 12px; inset-inline-end: 12px; z-index: 20; }
+  #langbox { position: fixed; top: 12px; inset-inline-end: 12px; z-index: 20; display: flex; gap: 8px; align-items: center; }
 </style>
 <script src="i18n.js"></script>
+<script src="social.js"></script>
 </head>
 <body>
 <div id="track">
@@ -53,7 +54,8 @@ function labels() {
 
 function init(data) {
   days = data;
-  document.getElementById('langbox').appendChild(langPicker(() => { labels(); current = -1; onScroll(); }));
+  const social = socialButtons(() => ({ url: location.href, title: 'Жизнь в картинках — ' + days[current].label, image: days[current].image }));
+  document.getElementById('langbox').append(social, langPicker(() => { social.repaint(); labels(); current = -1; onScroll(); }));
   days.forEach((d, i) => {
     const img = new Image();
     img.src = d.image; img.loading = i < 2 ? 'eager' : 'lazy';

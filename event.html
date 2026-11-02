@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Жизнь в картинках</title>
 <script src="i18n.js"></script>
+<script src="social.js"></script>
 <style>
   :root { --bg: #0f0c0a; --panel: #1a1512; --line: #33291f; --fg: #f1e8dc; --muted: #a8998a; --accent: #e9a75a; }
   * { box-sizing: border-box; }
@@ -13,6 +14,7 @@
   /* Панель с кнопкой «К картине» и выбором языка всегда на экране */
   .bar { position: sticky; top: 0; z-index: 10; background: #0f0c0ae6; backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
   .bar-in { max-width: 760px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .tools { display: flex; align-items: center; gap: 8px; }
   .back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; font-size: 15px; font-weight: 600;
           padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); }
   [dir="rtl"] .back .arrow { transform: scaleX(-1); }
@@ -37,7 +39,7 @@
 <body>
 <div class="bar"><div class="bar-in">
   <a class="back" id="back" href="index.html"><span class="arrow">←</span> <span id="back-text"></span></a>
-  <div id="langbox"></div>
+  <div class="tools" id="tools"></div>
 </div></div>
 <main id="page"></main>
 <script>
@@ -45,7 +47,9 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const q = new URLSearchParams(location.search), key = q.get('d'), id = q.get('e');
 const page = document.getElementById('page'), back = document.getElementById('back');
 
-document.getElementById('langbox').appendChild(langPicker(load));
+let shown = null;  // событие на экране — его и отправляем в «Поделиться»
+const social = socialButtons(() => ({ url: location.href, title: shown ? shown.title : document.title, image: shown && shown.image }));
+document.getElementById('tools').append(social, langPicker(() => { social.repaint(); load(); }));
 load();
 
 function load() {
@@ -64,6 +68,7 @@ function render(day) {
   const e = day.events[id];
   if (!e) return missing();
   document.title = e.title + ' — Жизнь в картинках';
+  shown = { title: e.title, image: day.image };
   // Фрагмент картины, где нарисовано событие: увеличиваем картинку так, чтобы круг сюжета заполнил квадрат
   const { x, y, r } = e.spot, zoom = 1 / (2 * r);
   const posX = (x - r) / (1 - 2 * r || 1) * 100, posY = (y - r) / (1 - 2 * r || 1) * 100;
