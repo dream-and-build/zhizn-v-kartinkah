@@ -1,0 +1,1508 @@
+[
+  {
+    "date": "2026-11-01",
+    "slot": 2,
+    "slot_name": "день",
+    "image": "img/2026-11-01-2.jpg",
+    "mood": "Мир снова живёт в режиме аварийной сирены: война, взрывы, протесты и политический тупик тянут новости к краю. На этом фоне редкие островки обычной жизни — спорт, наука, торговые контакты — выглядят хрупкими, но заметными.",
+    "tension": 0.91,
+    "top": [
+      "По Европе продолжаются молодёжные протесты, местами переходящие в погромы и столкновения",
+      "Перед выборами в США усилились внутрипартийные расколы, споры о суде и прогнозы о власти Трампа",
+      "В Ормузском проливе подорвались на минах два танкера на фоне переговоров о деэскалации",
+      "В Украине после окончания перемирия в Херсонской области снова бьют по энергетике и эвакуируют людей",
+      "В Израиле политический тупик сохраняется, а споры о выборах и легитимности углубляются"
+    ],
+    "spots": [
+      {
+        "id": "europe-protests",
+        "kind": "major",
+        "x": 0.375,
+        "y": 0.688,
+        "r": 0.125,
+        "title": "По Европе продолжаются молодёжные протесты, местами переходящие в погромы и столкновения",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkFCT2Q5TFZFa3VFZXQwZDVQanI0T3RBclNsWWhOczYyaTFWaFoxWWZ4ZmkzalloNGMxT1Z6eE1FVEhxa1NCd0o4NWJaZllLbmZtUGk2VXdSdWF5dlNsR3BVUXNveFhRN2RfQjBtaEFXWFBFc1dndXlaZF9JZGFoYw?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 100,
+        "significance": 84,
+        "velocity": 82,
+        "domain_count": 24
+      },
+      {
+        "id": "us-midterms",
+        "kind": "major",
+        "x": 0.25,
+        "y": 0.312,
+        "r": 0.125,
+        "title": "Перед выборами в США усилились внутрипартийные расколы, споры о суде и прогнозы о власти Трампа",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDZSMWZYekdqMjFRelBZcXpYUUxQWE5zOWdJeERERVdtZ1M0RDRxbVNWYURqOHhRUFQ2aVBzOFZES3B2TXJsOHdzYVJiZEhFdV9UMWdjRUt2SW5mRkRBVjJhaGJlZlRvVWVpMkVnU1VrR2drZXpqWlB4U0d2YV9OWGVRbXZpNFk?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 82,
+        "significance": 87,
+        "velocity": 99,
+        "domain_count": 18
+      },
+      {
+        "id": "ukraine-oleshky",
+        "kind": "major",
+        "x": 0.625,
+        "y": 0.125,
+        "r": 0.151,
+        "title": "В Украине после окончания перемирия в Херсонской области снова бьют по энергетике и эвакуируют людей",
+        "region": "Украина",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+            "name": "theguardian.com"
+          }
+        ],
+        "mentions": 75,
+        "significance": 91,
+        "velocity": 89,
+        "domain_count": 16
+      },
+      {
+        "id": "iran-hormuz",
+        "kind": "major",
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151,
+        "title": "В Ормузском проливе подорвались на минах два танкера на фоне переговоров о деэскалации",
+        "region": "Ближний Восток",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFZ2bTFqUjZkZlNGNXBaRDQ5c2FxOUduU1c4a052d3kwemJPbUJrZ1l3TXdpQXZXN18zX0NaUUlUa1hDYWluZ0pETDZfZWtwdF81b2xOcFVDZlFfS3RMb2hma2ZCNV92aV9sWUVQR3ZlR2EzYm5sakVwMnhPRmNGZUVQNGhjNGE1cDlQNHdoamRZUQ?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlFfZnhUbTYwVFMyNGtCcFFlTnlmSEpfa2dJV1N3MVVjUWpxNV9rdi1CTzFyTkx4NEFSY0thVkM2NjNBakE3TzFnbWpyOGZobzlxeVBaN0hmUDh6Z0lPYzNJUlhwN2hjU1VfM2w0bWlseEF4Wnh4a2ZFb1FrMlQ4SFVlb1NhUQ?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+            "name": "theguardian.com"
+          },
+          {
+            "url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+            "name": "euronews.com"
+          }
+        ],
+        "mentions": 72,
+        "significance": 98,
+        "velocity": 83,
+        "domain_count": 15
+      },
+      {
+        "id": "france-police-protests",
+        "kind": "major",
+        "x": 0.406,
+        "y": 0.312,
+        "r": 0.3,
+        "title": "Во Франции и соседних странах новые протесты и расследования после столкновений с полицией",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85Ym1tSndWb2pDS3lqWXRqVzl4R003WXdLM3VsSGViM0MtSnRWZ1hSSlU5b0JFSzVaNjZVcTAya2V1UnNFSmo5YXJPZW5VV1J1RjFnNFZpN3QyemhCTm9HREFoQldQWjdQSDZxcUU4ejJGRFlfSEZVWVM0ZGg?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2dGNnRzM3NKSHNUUkVHaHdyNHowc3d5UWxRM291bDZwT0NKX3Bpb215cnllOXBaeEVWVVd5YVA1cXZBc3MxZnAyM2xUaXNNSTZacS00WnFUd19BWjgxMHpMUnAzYTJEcE1icEFpQ2Z0V0VSSmJWQ2lpRVN5QllZRFNFNDd5aWZQTVB4RkNjVlA4WTlieTZzTE12NzNPSTh3?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+            "name": "theguardian.com"
+          },
+          {
+            "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+            "name": "nytimes.com"
+          }
+        ],
+        "mentions": 65,
+        "significance": 58,
+        "velocity": 65,
+        "domain_count": 13
+      },
+      {
+        "id": "israel-election",
+        "kind": "major",
+        "x": 0.812,
+        "y": 0.281,
+        "r": 0.191,
+        "title": "В Израиле политический тупик сохраняется, а споры о выборах и легитимности углубляются",
+        "region": "Израиль",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYWVBYWRjMFlCRGdoQzdBaWhGN2U4N0EwYWFjM3dmNVNCcTRhM3JOY3ljeGZUU3pUX0V3ZlA3TmNsYlZRaFdaR0JKUHgzUG94RFprSzFQcVlPdEhQ?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+            "name": "nytimes.com"
+          },
+          {
+            "url": "https://www.nbcnews.com/world/israel/israel-president-open-heart-fresh-election-rcna606785",
+            "name": "nbcnews.com"
+          },
+          {
+            "url": "https://www.lemonde.fr/international/article/2026/11/01/en-israel-la-rue-divisee-face-a-l-impasse-politique_6804570_3210.html",
+            "name": "lemonde.fr"
+          }
+        ],
+        "mentions": 58,
+        "significance": 74,
+        "velocity": 92,
+        "domain_count": 11
+      },
+      {
+        "id": "sports-misc",
+        "kind": "major",
+        "x": 0.312,
+        "y": 0.438,
+        "r": 0.062,
+        "title": "В мировом спорте — титулы, рекорды и громкие победы в футболе, беге и теннисе",
+        "region": "Мир / крипто",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGE3NDdNOFBkSlhPa3I1SE9NdWY1U25lQ3BRRElKekZNUmpBeVJtVEl3UF9QTndmNWpTMHdaRlhrVTZGaEp1ZEVaM3NJUnJSTTN1SU1mSDBOQ0pkcFJIQ1dWQVVaYmRYY1REM05hVHUzT3BDN05HSkVwQjREVE5lQlNZdVo4Skc3Tzl6VHJIdWh2QjQ?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wSml3WDBOQUY4NWx1Y3pkdWpFUjNpNm5icnY0ek9qelItd1ppcE1WajFhSnFxNHlHcHN3bkxmdERLN0szZmdSZ3lWV0F4RnlmMEZyTmNoRHhVc2RTQUtkOVhweGVqemRibnl4WjJGR3gzb3VCNGYtdQ?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://tass.ru/sport/28276617",
+            "name": "tass.ru"
+          }
+        ],
+        "mentions": 58,
+        "significance": 22,
+        "velocity": 78,
+        "domain_count": 11
+      },
+      {
+        "id": "binance-hack",
+        "kind": "major",
+        "x": 0.125,
+        "y": 0.625,
+        "r": 0.151,
+        "title": "Binance возобновила вывод средств после рекордной кражи криптоактивов на $6,3 млрд",
+        "region": "Мир / крипто",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOExqblVidzZGVGZyOFh3U2RRc1Yxa0NfTEpZVVluLXVwRV8tS19TWUlkNlpuUVlac2g4NUZSM0RSSUhCeHVzNnFtLXJmX3RBN0xjejhCbUphUVRwVlJPZG90eGg5SHNHNm9NOWlOVHBoXzdVV0FhemdsT2NoRmVuUHJJbGk?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+            "name": "theguardian.com"
+          },
+          {
+            "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack",
+            "name": "scmp.com"
+          }
+        ],
+        "mentions": 38,
+        "significance": 88,
+        "velocity": 79,
+        "domain_count": 6
+      },
+      {
+        "id": "gaza",
+        "kind": "major",
+        "x": 0.479,
+        "y": 0.896,
+        "r": 0.156,
+        "title": "Израильские удары по Газе снова убивают мирных жителей",
+        "region": "Палестина",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E3NlZWbHB1MUtZdG5sLXBXci1sVnQtMWxWYk1CM1EzTUtfMXJiWDZYRlIzN09BWlBuaUVXOThueVFEdF9nMXdVaUpobUNCSXM3dUZWQVZjN2MwZ19pQUN6cDUtbnE2Rm1PX3BwYmhTWWo4TGRqbG0xSmhKQVhWYTlVNkFpTFdsUFhmcDlVaFI5cWZRYk1jcFRoU3RIZUV2QTRBdm5B?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://presstv.co.uk/Detail/2026/11/01/779708/israels-genocide-in-gaza-continues-at-least-nine-palestinians-killed-in-new-wave-of-israeli-attacks",
+            "name": "presstv.co.uk"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWxUc0d5Qk1udDR4bDJQNlpDS1g0c2Y2WmxYcHFpSXdvM1BfQUFxdkxsMDRZMmgxNzZUTHMzNllFdFJaV3ZSRktmcVROd1ZYZDVEOE9oVU9RcndqSHhKUmg1b2tVbmhVQXFxZDloTDVQb1lwSlJUQmFmSlJGRnZkUXNBWFd0dFg1OWxWQVJZamRxQmhNMXVyT09wWjUweFdPQUdyeERB?oc=5",
+            "name": "arabnews.com"
+          }
+        ],
+        "mentions": 38,
+        "significance": 93,
+        "velocity": 80,
+        "domain_count": 6
+      },
+      {
+        "id": "bulgaria-runoff",
+        "kind": "major",
+        "x": 0.25,
+        "y": 0.188,
+        "r": 0.125,
+        "title": "В Болгарии, по экзитполам, Йотова побеждает на президентских выборах",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
+            "name": "lemonde.fr"
+          },
+          {
+            "url": "https://tass.ru/mezhdunarodnaya-panorama/28276721",
+            "name": "tass.ru"
+          },
+          {
+            "url": "https://www.thehindu.com/news/international/bulgarian-president-wins-runoff-election-exit-polls/article71654264.ece",
+            "name": "thehindu.com"
+          }
+        ],
+        "mentions": 38,
+        "significance": 55,
+        "velocity": 89,
+        "domain_count": 6
+      },
+      {
+        "id": "india-protest",
+        "kind": "major",
+        "x": 0.562,
+        "y": 0.637,
+        "r": 0.3,
+        "title": "В Индии оппозиция снова требует отставки главы избиркома из-за списков избирателей",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX083V3gwMU1WcFdtN25FbDB0TVNXZFNoUmJOdVN5TlBqQUdVSHh5ZHI2S1lweF9pNjN4YldFQmZJZ0ttRjA3MGx5bzYyaUQ2MXRmV2dVZXQ4QjNFZE0xQnpWZGFlNjEzWWVzMWk3RVluUXdlZjkxRy1acHh2SHU4Wm5vazlUN0gwM2V2bmxoWUJGZ25RUk8wRFkwbHJQRUJXNU9ERXpiQ3lRS3UySGRfRExxYzdzLWVyeHc?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+            "name": "nytimes.com"
+          },
+          {
+            "url": "https://www.france24.com/en/thousands-join-indian-opposition-protest",
+            "name": "france24.com"
+          }
+        ],
+        "mentions": 38,
+        "significance": 63,
+        "velocity": 72,
+        "domain_count": 6
+      },
+      {
+        "id": "moscow-threat",
+        "kind": "major",
+        "x": 0.562,
+        "y": 0.438,
+        "r": 0.062,
+        "title": "После предупреждения США в России задержан подросток по делу о предполагаемой угрозе теракта",
+        "region": "Россия",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://www.nbcnews.com/world/russia/us-warned-russia-possible-moscow-terror-attack-fsb-says-rcna606789",
+            "name": "nbcnews.com"
+          },
+          {
+            "url": "https://meduza.io/news/2026/11/01/fsb-zayavila-chto-informatsiya-o-podgotovke-terakta-v-moskve-ishodila-ot-podrostka-opublikovavshego-rolik-v-tiktok-on-zaderzhan",
+            "name": "meduza.io"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFhmRnBELVphVEp0Q201OFJUeXp4dFhES3ZpbTRKbTVzNmJUcU5Zd2JVNDdmVk9EMERrN3M4S3hIaWloM2ROLU1vTkcwRHlZTDhtZDJpYWt1eGR0eWZYbFI0UUxqLTNuNkhQQ05BRnJtQWM4Qno1ZUlGNTNpdXhlQ2tfTUhVU3M?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 33,
+        "significance": 46,
+        "velocity": 63,
+        "domain_count": 5
+      },
+      {
+        "id": "carney-trump-trade",
+        "kind": "major",
+        "x": 0.562,
+        "y": 0.562,
+        "r": 0.062,
+        "title": "Карни и Трамп обсудили торговлю на фоне попыток смягчить напряжение между США и Канадой",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMjB2S2lsdl9NVjBZT3VncEd6dW5ZcERBNkh2MC1FVUZzUUlxZU9lVHp4eFAxUlZLeldNcElJMDNPLU9RTnkwZ2NCbkNud3V4ekZtdndIcFZ1REFPSU9qdEZyTHFaU3hnWVpVVThGN2htTDFJWnhrTFhhZWR0Q0R2cUNvZlFTSVJiTk1ybzdRcHVydw?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+            "name": "thehindu.com"
+          }
+        ],
+        "mentions": 29,
+        "significance": 41,
+        "velocity": 86,
+        "domain_count": 4
+      },
+      {
+        "id": "japan-simulated-mars",
+        "kind": "major",
+        "x": 0.438,
+        "y": 0.438,
+        "r": 0.062,
+        "title": "Экипаж NASA вышел из 378-дневной изоляции после имитации миссии на Марс",
+        "region": "Мир / крипто",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
+            "name": "reuters.com"
+          },
+          {
+            "url": "https://www.dawn.com/news/2041410/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
+            "name": "dawn.com"
+          }
+        ],
+        "mentions": 18,
+        "significance": 34,
+        "velocity": 86,
+        "domain_count": 2
+      },
+      {
+        "id": "peregrine-falcons-auction",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.312,
+        "r": 0.062,
+        "title": "В Саудовской Аравии двух сапсанов продали на аукционе за крупную сумму",
+        "region": "Ближний Восток",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHVvYm83Sjd2d2lXMDNKLUgwejhBS19iVlJJVkV1cnNFNUVUODdBLVMzcjhYMWFfb0h4cS03cmdxdEJkNjFpUndZcTNydVV1RGdqQjhYZ2tlbFFNaWJhZThqMldJdGM1LVd0T01NYkhETE5PNnhrQnF1eDFxVGNkOExJZUdoVnRELWVfeDRtRk5RRDV3MlpwYjc1TkpVOUU2UjR1UQ?oc=5",
+            "name": "arabnews.com"
+          }
+        ]
+      },
+      {
+        "id": "british-police-detain-tear-gas-bombs",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062,
+        "title": "Во Франции задержали британцев с газовыми бомбами у акции солидарности с Палестиной",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://news.sky.com/story/suspected-far-right-activists-from-britain-with-tear-gas-bombs-detained-in-france-say-authorities-13606604",
+            "name": "news.sky.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2pUcGJkYTJlbXlheGZaNUloOE5Fbmh4ZU5oSEVQcW94S2JJOEhsMko1bWEzYjhjTEU2SFk3TlFlcnR5c0hWYXk5LXZ5WGxxTGlrMEhqVm44dTFlbERzYWZwMnh5Z3NRLUFKV0hCX05GSldpSUJRYVhteGo5SlNRa2N1cnpvWlRrUF9F?oc=5",
+            "name": "afp.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzBmTjF2TUxqMTRLMGlnNllDUmZTaGdoeXdaYmQtUnhENDRJc0lPRW5JR3BwYWdFSGdVN21IdWVwaHpoaDBnenVscFoxU0xvbEl6M1NhWVRkUGU0U3lRcWhWV3p3cGZTVlpBemtLalpqWDZTcnZaYUFrTkZzWDFJT3lQYWZoYl9PNW1SM3pzVF9COGpNWU9sZm03RTlrVHRfdlFnVw?oc=5",
+            "name": "arabnews.com"
+          }
+        ]
+      },
+      {
+        "id": "route-du-rhum-starts",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.188,
+        "r": 0.062,
+        "title": "Стартовала парусная гонка Route du Rhum",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.france24.com/en/france-route-du-rhum-yacht-race-sets-off",
+            "name": "france24.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1RELTRiWFJOeTVqam9CTlJnakYzbVhva21VbjNtZHpKRE55Y0lJMkh6MlA3Q3ZtcktpdVVJOGUtM290VGF2em9pSkxub0JuS0ZBY0hSSDBQdExLcUo5VzdfY1pMMzg5bGUxajBvbmlnRWowZV9VSjhETTV2X2RfUWJmdl9mZw?oc=5",
+            "name": "afp.com"
+          }
+        ]
+      },
+      {
+        "id": "london-medieval-joust-ebikes",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "В Лондоне устроили современный рыцарский турнир на электровелосипедах",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JeGNtM3ota2I1bjYwei1wODFlMXVhU0VnZHowdkdIaXEtVkFlSkV1SzhjRnlWSDFPWEJfaVNpTGJKSkhIeGRRUG40Z2dLeDhUd19GYXBONXd1TnZ1ZERWZGRObmNWZlk?oc=5",
+            "name": "reuters.com"
+          }
+        ]
+      },
+      {
+        "id": "diana-statue-unveiling",
+        "kind": "micro",
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Принцы Уильям и Гарри вместе открыли статую принцессы Дианы",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wOFBwMy1NT0dSUW9Dem44cDV0RkdRZ0t1MDJiUXRqYnJNRnRpeGFydE40S25MREYwZDJTdGNTbG9QdG9iaDdyVHlZbzZYdzdSRWxvYldMMEM3bTZz?oc=5",
+            "name": "reuters.com"
+          }
+        ]
+      },
+      {
+        "id": "rare-beetle-wales",
+        "kind": "micro",
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "В Уэльсе снова нашли редкого жука, которого не видели 60 лет",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          }
+        ]
+      },
+      {
+        "id": "beavers-return-loch-ness",
+        "kind": "micro",
+        "x": 0.375,
+        "y": 0.062,
+        "r": 0.125,
+        "title": "В Шотландии спустя 500 лет снова готовят выпуск бобров",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://timesofindia.indiatimes.com/world/uk/after-nearly-500-years-without-beavers-around-loch-ness-scottish-conservation-groups-have-won-approval-to-reintroduce-up-to-15-family-groups-over-three-years-the-first-releases-are-expected-within-weeks/articleshow/135431152.cms",
+            "name": "timesofindia.indiatimes.com"
+          }
+        ]
+      },
+      {
+        "id": "ten-year-old-wildlife-fundraiser",
+        "kind": "micro",
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.188,
+        "title": "12-летний лондонский мальчик собрал деньги на защиту дикой природы и получил похвалу Аттенборо",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://timesofindia.indiatimes.com/world/uk/a-12-year-old-boy-from-south-london-has-raised-more-than-13000-for-endangered-wildlife-built-a-35000-strong-online-following-and-caught-david-attenboroughs-attention-through-his-animal-videos-and-campaigns/articleshow/135428246.cms",
+            "name": "timesofindia.indiatimes.com"
+          }
+        ]
+      },
+      {
+        "id": "alcaraz-wins-vienna",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Карлос Алькарас выиграл теннисный турнир в Вене",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.bbc.co.uk/sport/tennis/articles/crd6dezj8v86o?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          }
+        ]
+      },
+      {
+        "id": "dart-first-wta-title",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Харриет Дарт впервые в карьере выиграла титул WTA",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.bbc.co.uk/sport/tennis/videos/cqj9kgr8kzvyo?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.theguardian.com/sport/2026/nov/01/harriet-dart-wins-maiden-wta-title-guangzhou-open-tennis-lilli-tagger",
+            "name": "theguardian.com"
+          }
+        ]
+      },
+      {
+        "id": "arsenal-win-at-anfield",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062,
+        "title": "«Арсенал» впервые с 2012 года выиграл на «Энфилде»",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+            "name": "theguardian.com"
+          }
+        ]
+      },
+      {
+        "id": "man-city-edge-london-city",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125,
+        "title": "«Манчестер Сити» с трудом обыграл London City в матче WSL",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          }
+        ]
+      },
+      {
+        "id": "heidi-klum-severed-hand-halloween",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.375,
+        "r": 0.125,
+        "title": "Хайди Клум снова поразила образом гигантской отрубленной руки на Хэллоуин",
+        "region": "Мир / крипто",
+        "sources": [
+          {
+            "url": "https://www.euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
+            "name": "euronews.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkt0MExnZ20ycldCWU44VXNxaHRXTUNiOEhTc1hxMlNOeExxejJXZWRVRkF2T0pJR2VuQTlFYzFnZzJ4My1tNmQ1QlNFVkh6S044NWg4UUtKbGNqQkZ6cF80bnFKSl9TSHJMWFlrS010MnlQRTJzSDk3SGViWDBZMXotLUM3eWNaT3ZnbmNGQmVQTnRIX1UwUkhyU1ZJMG1Oalg1SlRnNUlGWnVEX2tCY2NJTzc2MmtDbjlnY2JIMDh5c20tTFBZ?oc=5",
+            "name": "apnews.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1NRdENxZW14Umk0TkxWeGVBWUJUcURlZTFHTVRibkw4VEVvRUtaX3ZoUkpBdTd2NzFKVnpxSnc2ZlBYUlgwelhOdHBVN0lBWVZIeFNtOXF0MUt3dFdsUFRDS2tEekt2aWJDVk9iNlJrZEt0RWxOYmtwWV9WLXZTNC1VaWhXY0labXNhLUNHQUxidm93b1pROWE4dmJjWFRDZm1ubC13X3hMeHlKQXM3Mm9OLTJfMXhiWFpEcDgtSUpYT2hSQmo0SVl6eDBGVHVXYV9VadIB2gFBVV95cUxQYnRhRmt2U0w2NUFkSU9UZFFKYkRPbk4xTTNrcVZlREN0cEtJd203TDJ5RENERmhCbmtBNmxkZXkzZlgyOVpab29NWHM0RlB0RDVlQXZRb0NWRDBMVmkxU01IdnNUOFp6QjUxYnFBTUxBZEhNbU10VThaYzBhS2RnMy1ISi1PNFZpOGptWVJ1MVlLWElxZzQzUTlwS3FEeGNZUklyNUJiQzRBT1poMHpuQmdRakpSVWMwTnVLYVVGMmJpYkFXVmtXRFROM09PcEFyYkhMVk96VnVuQQ?oc=5",
+            "name": "foxnews.com"
+          }
+        ]
+      },
+      {
+        "id": "golden-ivory-chess-piece",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.625,
+        "r": 0.125,
+        "title": "Слоновая шахматная фигурка XVIII века ушла с молотка за огромную цену",
+        "region": "Мир / крипто",
+        "sources": [
+          {
+            "url": "https://timesofindia.indiatimes.com/world/uk/in-1964-an-edinburgh-antiques-dealer-paid-just-5-for-a-small-carved-warrior-after-spending-decades-in-a-family-drawer-it-was-identified-as-a-missing-lewis-chess-piece-and-sold-for-735000/articleshow/135436670.cms",
+            "name": "timesofindia.indiatimes.com"
+          }
+        ]
+      },
+      {
+        "id": "capybara-obit-zoo",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.875,
+        "r": 0.125,
+        "title": "В зоопарке Санта-Барбары умер любимый капибара",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE5SRXlUOU1SS29zWXQyNVVYUktiX2pDUUJPcndMS1pqWU1CekloQ1hFSHkxMXNXUER4YThZUDlkcjJ2OVE3X2hTbUNQd1pZUUpCYmt2WGhpMTZBUVZnbzlHbF95UVA1dTF4NGYwT3Z4MUtRckdqeHZSOU1yelBTTC1UTk1JNGxkUjNoWXZMbzd1azhZR0VyYQ?oc=5",
+            "name": "ksby.com"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GWlZRTzFpVzBMVkFzSU5BSVNhMGNwN0FjRlM1U1lsYkdyRFlqcEtCQWtWWXNselhJZ2x4S1R0ZC16NVlpcGRyU21LeEV3aWpyZ1lyZXlDUnFzZU5ZUkoyb2dhYw?oc=5",
+            "name": "wjon.com"
+          }
+        ]
+      },
+      {
+        "id": "new-york-marathon-debut-win",
+        "kind": "micro",
+        "x": 0.188,
+        "y": 0.875,
+        "r": 0.125,
+        "title": "Андреас Альмгрен победил в Нью-Йоркском марафоне на дебюте",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.bbc.co.uk/sport/athletics/articles/c6ly0871547eo?at_medium=RSS&at_campaign=rss",
+            "name": "bbc.co.uk"
+          },
+          {
+            "url": "https://www.theguardian.com/sport/2026/nov/01/new-york-city-marathon-andreas-almgren-wins-on-debut-as-sheila-chepkirui-reclaims-crown",
+            "name": "theguardian.com"
+          }
+        ]
+      },
+      {
+        "id": "senegal-youth-olympics-open",
+        "kind": "micro",
+        "x": 0.312,
+        "y": 0.875,
+        "r": 0.125,
+        "title": "В Сенегале открылись Юношеские Олимпийские игры",
+        "region": "Африка",
+        "sources": [
+          {
+            "url": "https://www.france24.com/en/tv-shows/sports/20261101-a-day-of-celebration-in-senegal-as-the-youth-olympic-games-get-underway",
+            "name": "france24.com"
+          },
+          {
+            "url": "http://www.africanews.com/2026/11/01/youth-olympics-open-in-senegal-marking-the-first-olympic-event-in-africa/",
+            "name": "africanews.com"
+          }
+        ]
+      },
+      {
+        "id": "bhutan-builds-108-stupas",
+        "kind": "micro",
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.188,
+        "title": "В Бутане построили 108 ступ из песка за девять часов",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.scmp.com/news/asia/south-asia/article/3372902/bhutan-builds-108-stupas-mindfulness-city-tourism-push",
+            "name": "scmp.com"
+          },
+          {
+            "url": "https://www.thehindu.com/news/international/bhutan-builds-108-stupas-in-9-hours-dedicates-no-76-to-pm-modi/article71653715.ece",
+            "name": "thehindu.com"
+          }
+        ]
+      },
+      {
+        "id": "cultural-night-seoul-moutai",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.812,
+        "r": 0.062,
+        "title": "В Сеуле устроили вечер китайской культуры с Moutai Night",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZlRXVFSDM1R2dMUXl6N1l5c0p1UHJVb2JiVVd3M282VHBkaHRWVDNPY250V0MtMmExTllyTXRvYWEtZm5zbWNQSWR4SHAtTk5mTWtUajE4aFJxcFFaWU1BZ1MtdXUtLTdFeHNMS0tUZEpkYS13Q3ZnYlNRM2pZbUVGem1rOFpPaE5Zajl2LWZDZnhjaVdfTA?oc=5",
+            "name": "afp.com"
+          }
+        ]
+      },
+      {
+        "id": "south-korea-seniors-ai-dolls",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.625,
+        "r": 0.125,
+        "title": "В Южной Корее пожилые люди справляются с одиночеством с помощью ИИ-кукол",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.lemonde.fr/intimites/article/2026/11/01/ca-me-fait-du-bien-d-avoir-quelqu-un-a-qui-parler-en-coree-du-sud-des-seniors-trompent-leur-solitude-grace-a-des-poupees-dotees-d-ia_6804519_6190330.html",
+            "name": "lemonde.fr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "slot": 1,
+    "slot_name": "утро",
+    "image": "img/2026-11-01-1.jpg",
+    "mood": "Мир на взводе: угроза войны вокруг Ирана и Ормузского пролива, по Европе прокатываются протесты из-за дороговизны жизни, рекордная крипто-кража. Немного света — День мёртвых в Мексике, рост рождаемости в Южной Корее.",
+    "tension": 0.8,
+    "top": [
+      "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+      "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+      "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+      "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+      "США: последние дни перед промежуточными выборами"
+    ],
+    "spots": [
+      {
+        "id": "iran-hormuz",
+        "kind": "major",
+        "x": 0.781,
+        "y": 0.375,
+        "r": 0.3,
+        "title": "Иран и США на грани новой войны: Ормузский пролив закрыт, удар по газовозу Катара",
+        "region": "Ближний Восток",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 95,
+        "significance": 95,
+        "velocity": 70,
+        "domain_count": null
+      },
+      {
+        "id": "europe-protests",
+        "kind": "major",
+        "x": 0.396,
+        "y": 0.479,
+        "r": 0.156,
+        "title": "Волна протестов по Европе: молодёжные беспорядки в Германии, столкновения в Италии из-за цен",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 85,
+        "significance": 70,
+        "velocity": 95,
+        "domain_count": null
+      },
+      {
+        "id": "binance-hack",
+        "kind": "major",
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.151,
+        "title": "Рекордная кража $6,3 млрд у Binance, ФБР обвиняет Северную Корею",
+        "region": "Мир / крипто",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 75,
+        "significance": 60,
+        "velocity": 85,
+        "domain_count": null
+      },
+      {
+        "id": "israel-election",
+        "kind": "major",
+        "x": 0.854,
+        "y": 0.271,
+        "r": 0.156,
+        "title": "Израиль: выборы в тупике, партия Нетаньяху заявляет о «краже» выборов, митинги за его отставку",
+        "region": "Израиль",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 60,
+        "significance": 60,
+        "velocity": 50,
+        "domain_count": null
+      },
+      {
+        "id": "us-midterms",
+        "kind": "major",
+        "x": 0.163,
+        "y": 0.487,
+        "r": 0.221,
+        "title": "США: последние дни перед промежуточными выборами",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 55,
+        "significance": 65,
+        "velocity": 60,
+        "domain_count": null
+      },
+      {
+        "id": "ukraine-oleshky",
+        "kind": "major",
+        "x": 0.625,
+        "y": 0.188,
+        "r": 0.125,
+        "title": "Украина: эвакуация мирных жителей из Алешек во время локального перемирия, удары по энергетике",
+        "region": "Украина",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 55,
+        "significance": 60,
+        "velocity": 40,
+        "domain_count": null
+      },
+      {
+        "id": "congo-ebola",
+        "kind": "major",
+        "x": 0.354,
+        "y": 0.729,
+        "r": 0.156,
+        "title": "Конго: число погибших от Эболы превысило 5000",
+        "region": "Африка",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 35,
+        "significance": 75,
+        "velocity": 45,
+        "domain_count": null
+      },
+      {
+        "id": "gaza",
+        "kind": "major",
+        "x": 0.479,
+        "y": 0.729,
+        "r": 0.156,
+        "title": "Газа: новые израильские удары, погибли минимум 8 палестинцев",
+        "region": "Палестина",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 35,
+        "significance": 50,
+        "velocity": 30,
+        "domain_count": null
+      },
+      {
+        "id": "bolsonaro",
+        "kind": "major",
+        "x": 0.146,
+        "y": 0.729,
+        "r": 0.156,
+        "title": "Болсонару бежал из Бразилии в США",
+        "region": "Латинская Америка",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 35,
+        "significance": 40,
+        "velocity": 55,
+        "domain_count": null
+      },
+      {
+        "id": "indonesia-smog",
+        "kind": "major",
+        "x": 0.562,
+        "y": 0.5,
+        "r": 0.125,
+        "title": "Индонезия: токсичный смог от лесных пожаров, «как на Марсе»",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 25,
+        "significance": 45,
+        "velocity": 40,
+        "domain_count": null
+      },
+      {
+        "id": "moscow-threat",
+        "kind": "major",
+        "x": 0.5,
+        "y": 0.312,
+        "r": 0.125,
+        "title": "США предупредили о возможном теракте в Москве, ФСБ задержала подростка",
+        "region": "Россия",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 30,
+        "significance": 35,
+        "velocity": 60,
+        "domain_count": null
+      },
+      {
+        "id": "bulgaria-runoff",
+        "kind": "major",
+        "x": 0.438,
+        "y": 0.188,
+        "r": 0.062,
+        "title": "Болгария: второй тур президентских выборов на фоне напряжённости в Чёрном море",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          },
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 25,
+        "significance": 30,
+        "velocity": 40,
+        "domain_count": null
+      },
+      {
+        "id": "india-protest",
+        "kind": "major",
+        "x": 0.75,
+        "y": 0.688,
+        "r": 0.125,
+        "title": "Индия: тысячи человек в Нью-Дели требуют отставки главы избиркома",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ],
+        "mentions": 20,
+        "significance": 35,
+        "velocity": 45,
+        "domain_count": null
+      },
+      {
+        "id": "oil-profits",
+        "kind": "major",
+        "x": 0.625,
+        "y": 0.812,
+        "r": 0.125,
+        "title": "ExxonMobil и Chevron отчитались о рекордной прибыли на дорогой нефти",
+        "region": "Экономика",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 20,
+        "significance": 30,
+        "velocity": 30,
+        "domain_count": null
+      },
+      {
+        "id": "day-of-dead",
+        "kind": "major",
+        "x": 0.229,
+        "y": 0.604,
+        "r": 0.156,
+        "title": "Мексика празднует День мёртвых",
+        "region": "Латинская Америка",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 15,
+        "significance": 10,
+        "velocity": 50,
+        "domain_count": null
+      },
+      {
+        "id": "korea-births",
+        "kind": "major",
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062,
+        "title": "Южная Корея: рождаемость растёт после рекордного минимума",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.nbcnews.com/world",
+            "name": "nbcnews.com"
+          }
+        ],
+        "mentions": 15,
+        "significance": 30,
+        "velocity": 30,
+        "domain_count": null
+      },
+      {
+        "id": "motogp-yamaha",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.438,
+        "r": 0.062,
+        "title": "Yamaha отказалась от этапа MotoGP в Катаре из-за ситуации на Ближнем Востоке",
+        "region": "Ближний Восток",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "canelo",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.562,
+        "r": 0.062,
+        "title": "Канело Альварес вернул пояс WBC в Эр-Рияде",
+        "region": "Ближний Восток",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "liverpool-arsenal",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Футбол: «Ливерпуль» — «Арсенал», главный матч уикенда АПЛ",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "barcelona",
+        "kind": "micro",
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "«Барселона» разгромила «Алавес» и остаётся лидером Ла Лиги",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "mageean",
+        "kind": "micro",
+        "x": 0.688,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Умерла ирландская бегунья, чемпионка Европы Сиара Магин, 34 года",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "robot-hand",
+        "kind": "micro",
+        "x": 0.562,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Швейцарские учёные показали руку-робота, которая ходит на пальцах",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "capybara",
+        "kind": "micro",
+        "x": 0.438,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Сбежавшую из британского зоопарка капибару засняли спустя 7 месяцев",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "brighton-city",
+        "kind": "micro",
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "«Брайтон» сенсационно обыграл «Манчестер Сити»",
+        "region": "Европа",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "valkyries",
+        "kind": "micro",
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "«Валькириз» впервые выиграли чемпионат WNBA",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "robot-dogs",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062,
+        "title": "Стартап в Сан-Франциско платит $20 в час за выгул роботов-собак",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "bear-car",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062,
+        "title": "На Аляске медведь забрался в машину и разгромил салон",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "halloween",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062,
+        "title": "Хэллоуин по всему миру",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "sheep-chase",
+        "kind": "micro",
+        "x": 0.125,
+        "y": 0.438,
+        "r": 0.125,
+        "title": "В Вирджинии полиция гонялась за потерявшейся овцой, которая бежала за едой",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "goose-ring",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062,
+        "title": "Гусю сняли металлическое кольцо с клюва и отпустили на волю",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "ice-cubes",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.812,
+        "r": 0.062,
+        "title": "Мировой рекорд: перенёс больше килограмма кубиков льда ртом",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "k9-rocco",
+        "kind": "micro",
+        "x": 0.062,
+        "y": 0.938,
+        "r": 0.062,
+        "title": "Полицейский пёс Рокко наглотался камней и перенёс операцию",
+        "region": "США",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "hamilton-pole",
+        "kind": "micro",
+        "x": 0.188,
+        "y": 0.938,
+        "r": 0.062,
+        "title": "Хэмилтон взял поул на Гран-при Мексики",
+        "region": "Латинская Америка",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "fiambre",
+        "kind": "micro",
+        "x": 0.375,
+        "y": 0.938,
+        "r": 0.125,
+        "title": "В Гватемале приготовили самый большой в мире салат фиамбре — почти 2 тонны",
+        "region": "Латинская Америка",
+        "sources": [
+          {
+            "url": "https://www.upi.com/Odd_News/",
+            "name": "upi.com"
+          }
+        ]
+      },
+      {
+        "id": "dakar-flame",
+        "kind": "micro",
+        "x": 0.625,
+        "y": 0.938,
+        "r": 0.125,
+        "title": "Юношеская Олимпиада в Дакаре: кто понесёт огонь",
+        "region": "Африка",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "pakistan-cricket",
+        "kind": "micro",
+        "x": 0.812,
+        "y": 0.938,
+        "r": 0.062,
+        "title": "Пакистан обыграл Шри-Ланку в финале крикетной трисерии",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "bangladesh-wages",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.875,
+        "r": 0.125,
+        "title": "Бангладеш: создан совет по зарплатам после протестов швейных рабочих",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/news/",
+            "name": "aljazeera.com"
+          }
+        ]
+      },
+      {
+        "id": "marquez",
+        "kind": "micro",
+        "x": 0.938,
+        "y": 0.688,
+        "r": 0.062,
+        "title": "Маркес выиграл Гран-при Малайзии MotoGP",
+        "region": "Азия",
+        "sources": [
+          {
+            "url": "https://www.aljazeera.com/sports/",
+            "name": "aljazeera.com"
+          }
+        ]
+      }
+    ]
+  }
+]
