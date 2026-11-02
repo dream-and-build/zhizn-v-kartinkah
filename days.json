@@ -1,5 +1,216 @@
 [
   {
+    "key": "2026-11-02-1",
+    "date": "2026-11-02",
+    "image": "img/2026-11-02-1.jpg",
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.229,
+        "y": 0.271,
+        "r": 0.156
+      },
+      {
+        "id": "iran-hormuz",
+        "x": 0.838,
+        "y": 0.512,
+        "r": 0.221
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.388,
+        "y": 0.463,
+        "r": 0.221
+      },
+      {
+        "id": "fridge-cyberattacks",
+        "x": 0.562,
+        "y": 0.312,
+        "r": 0.062
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.646,
+        "y": 0.146,
+        "r": 0.156
+      },
+      {
+        "id": "israel-election",
+        "x": 0.812,
+        "y": 0.281,
+        "r": 0.191
+      },
+      {
+        "id": "france-police-protests",
+        "x": 0.375,
+        "y": 0.188,
+        "r": 0.202
+      },
+      {
+        "id": "india-protest",
+        "x": 0.875,
+        "y": 0.688,
+        "r": 0.125
+      },
+      {
+        "id": "binance-hack",
+        "x": 0.229,
+        "y": 0.521,
+        "r": 0.156
+      },
+      {
+        "id": "western-sahara-peacekeepers",
+        "x": 0.25,
+        "y": 0.75,
+        "r": 0.151
+      },
+      {
+        "id": "hong-kong-markets-ai",
+        "x": 0.604,
+        "y": 0.479,
+        "r": 0.156
+      },
+      {
+        "id": "gaza",
+        "x": 0.438,
+        "y": 0.812,
+        "r": 0.062
+      },
+      {
+        "id": "south-africa-elections",
+        "x": 0.438,
+        "y": 0.688,
+        "r": 0.062
+      },
+      {
+        "id": "south-korea-ai-defense",
+        "x": 0.604,
+        "y": 0.646,
+        "r": 0.156
+      },
+      {
+        "id": "uganda-somalia-withdrawal",
+        "x": 0.5,
+        "y": 0.562,
+        "r": 0.125
+      },
+      {
+        "id": "grand-egyptian-museum-anniversary",
+        "x": 0.938,
+        "y": 0.25,
+        "r": 0.125
+      },
+      {
+        "id": "world-trek-man-returns-home",
+        "x": 0.812,
+        "y": 0.062,
+        "r": 0.062
+      },
+      {
+        "id": "greenland-airport-opens",
+        "x": 0.625,
+        "y": 0.062,
+        "r": 0.125
+      },
+      {
+        "id": "rare-beetle-found-wales",
+        "x": 0.312,
+        "y": 0.062,
+        "r": 0.062
+      },
+      {
+        "id": "f1-antonelli-youngest-f1-champion",
+        "x": 0.188,
+        "y": 0.062,
+        "r": 0.062
+      },
+      {
+        "id": "new-york-marathon-debut-win",
+        "x": 0.062,
+        "y": 0.062,
+        "r": 0.062
+      },
+      {
+        "id": "halloween-parade-skeletons",
+        "x": 0.062,
+        "y": 0.188,
+        "r": 0.062
+      },
+      {
+        "id": "heidi-klum-halloween-party",
+        "x": 0.062,
+        "y": 0.312,
+        "r": 0.062
+      },
+      {
+        "id": "polar-bears-near-town",
+        "x": 0.062,
+        "y": 0.438,
+        "r": 0.062
+      },
+      {
+        "id": "zoo-welcomes-new-lion",
+        "x": 0.062,
+        "y": 0.562,
+        "r": 0.062
+      },
+      {
+        "id": "elephant-joins-zoo",
+        "x": 0.062,
+        "y": 0.688,
+        "r": 0.062
+      },
+      {
+        "id": "tiger-goes-bobbing-for-pumpkins",
+        "x": 0.062,
+        "y": 0.875,
+        "r": 0.125
+      },
+      {
+        "id": "day-of-the-dead-festivals",
+        "x": 0.125,
+        "y": 0.938,
+        "r": 0.125
+      },
+      {
+        "id": "fashion-week-art-heritage-lagos",
+        "x": 0.312,
+        "y": 0.938,
+        "r": 0.062
+      },
+      {
+        "id": "pride-march-johannesburg",
+        "x": 0.5,
+        "y": 0.938,
+        "r": 0.125
+      },
+      {
+        "id": "bhutan-stupas-volunteers",
+        "x": 0.625,
+        "y": 0.875,
+        "r": 0.151
+      },
+      {
+        "id": "china-humanoid-robots-mount-tai",
+        "x": 0.812,
+        "y": 0.812,
+        "r": 0.062
+      },
+      {
+        "id": "snake-catcher-business-booms",
+        "x": 0.875,
+        "y": 0.938,
+        "r": 0.125
+      },
+      {
+        "id": "hong-kong-ai-office-asia",
+        "x": 0.938,
+        "y": 0.375,
+        "r": 0.125
+      }
+    ]
+  },
+  {
     "key": "2026-11-01-2",
     "date": "2026-11-01",
     "image": "img/2026-11-01-2.jpg",
