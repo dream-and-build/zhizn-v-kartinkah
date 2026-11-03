@@ -22,6 +22,9 @@
   #frame circle.hover { stroke: #fffc; fill: #ffffff14; }
   #date { position: absolute; left: 14px; bottom: 12px; font: 600 15px/1 Georgia, "Times New Roman", serif; letter-spacing: .02em;
           padding: 7px 11px; border-radius: 999px; background: #000000a0; pointer-events: none; }
+  /* Дни, что остались человечеству на Земле: без подписи, почти сливается с картиной */
+  #left { position: absolute; right: 14px; bottom: 16px; direction: ltr; font: 13px/1 Georgia, "Times New Roman", serif; font-variant-numeric: tabular-nums;
+          letter-spacing: .06em; color: #fff; opacity: .32; pointer-events: none; user-select: none; }
   .step { height: 100vh; height: 100dvh; }
   #langbox { position: fixed; top: 12px; inset-inline-end: 12px; z-index: 20; display: flex; gap: 8px; align-items: center; }
 </style>
@@ -34,6 +37,7 @@
     <div id="frame">
       <svg viewBox="0 0 1 1" preserveAspectRatio="none" role="img" aria-label="Картина мира"></svg>
       <div id="date"></div>
+      <div id="left" aria-hidden="true"></div>
     </div>
   </div>
   <div id="steps"></div>
@@ -41,7 +45,15 @@
 <div id="langbox"></div>
 <script>
 const frame = document.getElementById('frame'), svg = frame.querySelector('svg'), dateEl = document.getElementById('date');
+const leftEl = document.getElementById('left');
 let days = [], current = -1;
+
+// 600 млн лет в днях на дату первой картины; каждый следующий день — на один меньше
+const DAYS_LEFT = 219150000000, FIRST_DAY = Date.UTC(2026, 10, 1);
+function daysLeft(date) {
+  const [y, m, d] = date.split('-').map(Number);
+  return String(DAYS_LEFT - Math.round((Date.UTC(y, m - 1, d) - FIRST_DAY) / 864e5)).replace(/\B(?=(\d{3})+$)/g, ' ');
+}
 
 fetch('days.json').then(r => r.json()).then(init);
 
@@ -88,6 +100,7 @@ function onScroll() {
   frame.style.setProperty('--ar', ar);
   svg.setAttribute('viewBox', `0 0 1 ${ar}`);
   dateEl.textContent = d.label;
+  leftEl.textContent = daysLeft(d.date);
   history.replaceState(null, '', `?lang=${LANG}#${d.key}`);
   // Мелкие сюжеты поверх крупных, чтобы их можно было выбрать
   svg.innerHTML = d.spots.slice().sort((a, b) => b.r - a.r).map(s =>
