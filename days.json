@@ -1,8 +1,251 @@
 [
   {
+    "key": "2026-11-03-1",
+    "date": "2026-11-03",
+    "image": "img/2026-11-03-1.jpg",
+    "aspect": 1.7778,
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.237,
+        "y": 0.479,
+        "r": 0.221
+      },
+      {
+        "id": "iran-hormuz",
+        "x": 0.75,
+        "y": 0.321,
+        "r": 0.202
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.708,
+        "y": 0.155,
+        "r": 0.23
+      },
+      {
+        "id": "binance-hack",
+        "x": 0.312,
+        "y": 0.179,
+        "r": 0.188
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.263,
+        "y": 0.307,
+        "r": 0.221
+      },
+      {
+        "id": "asia-security",
+        "x": 0.463,
+        "y": 0.707,
+        "r": 0.221
+      },
+      {
+        "id": "israel-election",
+        "x": 0.729,
+        "y": 0.655,
+        "r": 0.156
+      },
+      {
+        "id": "us-south-africa-trade",
+        "x": 0.271,
+        "y": 0.798,
+        "r": 0.156
+      },
+      {
+        "id": "fridge-cyberattacks",
+        "x": 0.479,
+        "y": 0.131,
+        "r": 0.156
+      },
+      {
+        "id": "health-and-inflation",
+        "x": 0.521,
+        "y": 0.226,
+        "r": 0.156
+      },
+      {
+        "id": "south-korea-cybersecurity",
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "hong-kong-markets-ai",
+        "x": 0.5,
+        "y": 0.393,
+        "r": 0.202
+      },
+      {
+        "id": "western-sahara-peacekeepers",
+        "x": 0.125,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "india-protest",
+        "x": 0.792,
+        "y": 0.833,
+        "r": 0.21
+      },
+      {
+        "id": "gaza",
+        "x": 0.5,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "yemen-houthis",
+        "x": 0.463,
+        "y": 0.579,
+        "r": 0.221
+      },
+      {
+        "id": "rugby-player-wife-birthdays",
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "old-cars-run-london",
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "hiking-adventurer-homecoming",
+        "x": 0.875,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "olive-festival-idlib",
+        "x": 0.938,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "robot-climbs-mount-tai",
+        "x": 0.938,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "one-million-dollar-barramundi",
+        "x": 0.938,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "walk-around-world-ends-at-moms-door",
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "fossil-red-blood-cells",
+        "x": 0.938,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "capybara-baby-orangeutan-zoo",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "fat-raccoon-rescue-and-hawk",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "horse-wins-melbourne-cup",
+        "x": 0.75,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "king-and-queen-rain-antigua",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "astronomy-books-survive-centuries",
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "dino-blood-discovery-roundup",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "festival-lineups-and-film-events",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "wildlife-and-weather-feelings",
+        "x": 0.062,
+        "y": 0.786,
+        "r": 0.125
+      },
+      {
+        "id": "gift-for-gardeners",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "robot-dumpster-art",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "dog-portraits-find-homes",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "world-beer-festival",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "festival-of-the-dead",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "zoo-opening-primate-forest",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "apple-foldable-leaks",
+        "x": 0.312,
+        "y": 0.036,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-02-1",
     "date": "2026-11-02",
     "image": "img/2026-11-02-1.jpg",
+    "aspect": 1.0,
     "spots": [
       {
         "id": "us-midterms",
@@ -214,6 +457,7 @@
     "key": "2026-11-01-2",
     "date": "2026-11-01",
     "image": "img/2026-11-01-2.jpg",
+    "aspect": 1.0,
     "spots": [
       {
         "id": "europe-protests",
@@ -425,6 +669,7 @@
     "key": "2026-11-01-1",
     "date": "2026-11-01",
     "image": "img/2026-11-01-1.jpg",
+    "aspect": 1.0,
     "spots": [
       {
         "id": "iran-hormuz",

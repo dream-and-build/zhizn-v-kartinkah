@@ -69,9 +69,10 @@ function render(day) {
   if (!e) return missing();
   document.title = e.title + ' — Жизнь в картинках';
   shown = { title: e.title, image: day.image };
-  // Фрагмент картины, где нарисовано событие: увеличиваем картинку так, чтобы круг сюжета заполнил квадрат
-  const { x, y, r } = e.spot, zoom = 1 / (2 * r);
-  const posX = (x - r) / (1 - 2 * r || 1) * 100, posY = (y - r) / (1 - 2 * r || 1) * 100;
+  // Фрагмент картины, где нарисовано событие: увеличиваем картинку так, чтобы круг сюжета заполнил квадрат.
+  // x — доля ширины, y — доля высоты, r — доля ширины; у вертикальной картины по высоте круг меньше в aspect раз
+  const { x, y, r } = e.spot, zoom = 1 / (2 * r), ry = r / (day.aspect || 1);
+  const posX = (x - r) / (1 - 2 * r || 1) * 100, posY = (y - ry) / (1 - 2 * ry || 1) * 100;
   const fragment = `background-image:url('${esc(day.image)}');background-size:${zoom * 100}%;background-position:${posX}% ${posY}%`;
 
   page.innerHTML = `

@@ -2,6 +2,7 @@
   "key": "2026-11-01-2",
   "date": "2026-11-01",
   "image": "img/2026-11-01-2.jpg",
+  "aspect": 1.0,
   "events": {
     "europe-protests": {
       "kind": "major",

@@ -2,6 +2,7 @@
   "key": "2026-11-02-1",
   "date": "2026-11-02",
   "image": "img/2026-11-02-1.jpg",
+  "aspect": 1.0,
   "events": {
     "us-midterms": {
       "kind": "major",

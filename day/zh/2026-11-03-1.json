@@ -1,0 +1,2162 @@
+{
+  "key": "2026-11-03-1",
+  "date": "2026-11-03",
+  "image": "img/2026-11-03-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "us-midterms": {
+      "kind": "major",
+      "title": "美国中期选举日聚焦国会控制权之争与司法部介入",
+      "region": "美国",
+      "summary": "美国中期选举已经开始，选举结果将决定唐纳德·特朗普第二任期剩余时间内国会的控制权。相关报道指出，435个众议院席位、参议院三分之一席位以及部分州长职位都将改选；各家媒体对局势判断不一，但一致认为投票结果将决定哪个政党掌控国会。多篇报道还特别提到提前投票人数创纪录，以及观察人士对投票站的高度关注。塔斯社提醒称，在此类选举中，执政党在过去92年里只有三次未能保住国会席位。",
+      "picture": "画面中，一只巨大的票箱矗立在裂开的基座上，两侧的对手正伸手争夺文件和竞选海报。上方的司法天平强调，这场较量不仅关乎选票，也关乎法律与政治控制权。",
+      "mentions": 100,
+      "significance": 98,
+      "velocity": 70,
+      "domain_count": 27,
+      "articles": [
+        {
+          "title": "US midterm elections results 2026: Live updates in maps and charts",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts",
+          "published": "2026-11-03T09:51:21+00:00"
+        },
+        {
+          "title": "Minority Rights in the Midterms: A Democratic Recoil from Transgender Rights",
+          "domain": "spiegel.de",
+          "url": "https://www.spiegel.de/international/world/minority-rights-in-the-midterms-a-democratic-recoil-from-transgender-rights-a-628f6205-c90b-421b-a564-58bbbac5a0e1#ref=rss",
+          "published": "2026-11-03T09:43:00+00:00"
+        },
+        {
+          "title": "ТАСС: партия президента США только трижды за 92 года не теряла мест в Конгрессе",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28281817",
+          "published": "2026-11-03T09:40:55+00:00"
+        },
+        {
+          "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+          "published": "2026-11-03T09:35:15+00:00"
+        },
+        {
+          "title": "Islamofobia, sanidad gratuita y una puñalada final: la batalla por Míchigan marcará cuánto a la izquierda puede girar Estados Unidos",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/us/2026-11-03/islamofobia-sanidad-gratuita-y-una-punalada-final-la-batalla-por-michigan-marcara-cuanto-a-la-izquierda-puede-girar-estados-unidos.html",
+          "published": "2026-11-03T09:30:00+00:00"
+        },
+        {
+          "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T09:29:32+00:00"
+        },
+        {
+          "title": "An Election Day Special With Nate Silver",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
+          "published": "2026-11-03T09:00:21+00:00"
+        },
+        {
+          "title": "Midterms 2026 : au Minnesota, « comme partout en Amérique, le rejet de Donald Trump est immense »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-au-minnesota-comme-partout-en-amerique-le-rejet-de-donald-trump-est-immense_6805550_3210.html",
+          "published": "2026-11-03T09:00:10+00:00"
+        },
+        {
+          "title": "Elecciones en EE.UU. 2026: qué se vota, por qué son clave y qué puede pasar con Trump",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/elecciones-eeuu-2026-vota-clave-puede-pasar-trump_0_eCarVaZk3C.html",
+          "published": "2026-11-03T09:00:07+00:00"
+        },
+        {
+          "title": "Favoritismo democrata nos EUA aproxima Hakeem Jeffries do comando da Câmara e de embate com Trump",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/favoritismo-democrata-nos-eua-aproxima-hakeem-jeffries-do-comando-da-camara-e-de-embate-com-trump.shtml",
+          "published": "2026-11-03T09:00:00+00:00"
+        },
+        {
+          "title": "Election Day arrives after a surge in early voting, with observers keeping close watch at the polls - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
+          "published": "2026-11-03T08:35:00+00:00"
+        },
+        {
+          "title": "🔴US midterms live: More than 58 million ballots cast in record early vote turnout. Follow our special coverage",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+          "published": "2026-11-03T08:33:08+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.237,
+        "y": 0.479,
+        "r": 0.221
+      }
+    },
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "美国打击伊朗目标，霍尔木兹海峡再度成为大规模战争风险点",
+      "region": "中东",
+      "summary": "媒体报道称，美国对霍尔木兹海峡内的伊朗霍尔木兹岛发动了有限打击。据美国方面说法，这是针对与对美军使用防空导弹有关目标的“防御性”打击；伊朗方面则表示，与美国达成协议仍然遥不可及。相关报道指出，这些袭击发生在美国中期选举前夕，加剧了石油市场以及霍尔木兹海峡安全局势的担忧。",
+      "picture": "画面中，一艘油轮被锋利的水雷夹在中间，两只手从上方压下，周围军舰环伺。这象征航运与全球石油所面临的威胁，任何升级都可能迅速超出地区范围。",
+      "mentions": 95,
+      "significance": 97,
+      "velocity": 76,
+      "domain_count": 25,
+      "articles": [
+        {
+          "title": "US strikes Iranian island: media - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyTmNqRi1CQ2dzZWhTa2tsdm5FaG5sNDYzNnhHNjUxejMtbV8zZU81N1RJVFdXa2pCNkpTaW1xdDV6OVpKZDZMTnYtT0tFN1k0MFB6OE96UlQtSHBmQmdVU0RQcWw?oc=5",
+          "published": "2026-11-03T09:26:44+00:00"
+        },
+        {
+          "title": "US strikes Iran's Qeshm Island on eve of midterm elections",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterm-elections/",
+          "published": "2026-11-03T09:16:55+00:00"
+        },
+        {
+          "title": "US carries out ‘defensive’ strikes on Iran’s Qeshm island in Strait of Hormuz",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/us-carries-out-defensive-strikes-on-irans-qeshm-island-in-strait-of-hormuz/",
+          "published": "2026-11-03T08:59:10+00:00"
+        },
+        {
+          "title": "Oil rises as peace prospects dim after US hits Iran’s Qeshm Island - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOek1QYmJYdzRyQmZFX09qY2ZEeWJnXzdVTzdrelpCMExLWU5UV0NRdHdwQkFuTkpMeU82MWRRazlyOGVaMkZkMlJFelRrakc0M3B0c3hFUzhJcVB1Wm1wcUlVVjlaeEhrb1BDa21wbVpmSEhCMHN0UkdqaHlwZkpFU0k5eXZaWE8zSlVSVk0xaFlEcHkwNzA4YWN3YWVPcDQyTXpycUVPcjg?oc=5",
+          "published": "2026-11-03T08:38:40+00:00"
+        },
+        {
+          "title": "Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-03/estados-unidos-ataca-la-isla-irani-de-qeshm-en-la-vispera-de-sus-elecciones-de-medio-mandato.html",
+          "published": "2026-11-03T08:30:08+00:00"
+        },
+        {
+          "title": "U.S. military carries out limited strikes on Iran’s Qeshm Island, U.S. officials say - NBC News",
+          "domain": "nbcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUlWcUZ0NmY5aG5Ed0pLb0JGbzdIMDhsd3U5aUVNREtrY0tCZU9JVTFsUU8weWU0OW84Z193bkNfTkVzNG5YSnFuYXJxLWlPWVVjNmZ6UlVpMU0xc0tSYWprbDNIa1pqRlQyb1ZGRC12OVZla0dSWkdkWGM2YmhwMzJxbEtQM2pyWnk5S2tpRzlOa2w5ZXZNTUI5LWhOWUlESWdKYWdXcWNWWjZKQnh6b1Z5S1k1NFk?oc=5",
+          "published": "2026-11-03T08:18:00+00:00"
+        },
+        {
+          "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+          "published": "2026-11-03T08:13:46+00:00"
+        },
+        {
+          "title": "Trump says \"Iran wants a settlement, as soon as possible\"",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+          "published": "2026-11-03T08:06:37+00:00"
+        },
+        {
+          "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-03/horizons-middle-east-africa-11-3-2026-video",
+          "published": "2026-11-03T08:01:42+00:00"
+        },
+        {
+          "title": "US strikes Iranian islands as Trump talks up diplomatic progress - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTNMSkxXVlFyM3lQVUZxNHZRNzZnOTNYdnVscWNEc2ZoSW50cTZ3ZGhqUjBNQkdvMUwyOW4xbUdhS0M3SlYydGM3aFRaSTg0TndKeEk4dEtBUGFELWhtV0tHVjRCMk5CSHUyVF9jSTl6MVdKb2w2ZzRRSlpkWGtYdkZwOEpfNGZ6cWNLRWpibHJPN2VYMjQ2X25OVjZKX20tZVo4bkZXZ1pCcVU?oc=5",
+          "published": "2026-11-03T07:50:38+00:00"
+        },
+        {
+          "title": "США нанесли удар по иранскому острову Кешм",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/03/ssha-nanesli-udar-po-iranskomu-ostrovu-keshm",
+          "published": "2026-11-03T07:37:57+00:00"
+        },
+        {
+          "title": "Oil prices steady at $106 after sharp declines",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
+          "published": "2026-11-03T07:32:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.321,
+        "r": 0.202
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "停火破局后，俄罗斯再次打击乌克兰，外交试图追赶战争步伐",
+      "region": "乌克兰",
+      "summary": "俄罗斯军队再次对乌克兰发动打击，目标包括能源基础设施和医疗机构。El País报道称，近300架无人机和59枚导弹袭击乌克兰，导致18万人断电；其他媒体则称，哈尔科夫一家医院遭袭，患者被紧急转移，第聂伯罗一家临终关怀机构也遭到命中。乌克兰与俄罗斯双方还就能源协议违规问题互相指责。在连续袭击背景下，报道记录了人员死伤以及民用基础设施的进一步破坏。",
+      "picture": "画面描绘了一座狭窄发光的桥，家人们拖着行李沿桥前行，身后断裂的桥墩闪着火花，一架无人机悬在上方。这一形象传达出人们试图逃离打击区域，以及通往安全之路的脆弱。",
+      "mentions": 69,
+      "significance": 99,
+      "velocity": 69,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "Rusia deja a 180.000 personas sin luz en un nuevo ataque contra la infraestructura energética de Ucrania",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-03/rusia-deja-a-180000-personas-sin-luz-en-un-nuevo-ataque-contra-la-infraestructura-energetica-de-ucrania.html",
+          "published": "2026-11-03T09:50:57+00:00"
+        },
+        {
+          "title": "Песков: ВСУ продолжают бить по российской энергоинфраструктуре",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28281973",
+          "published": "2026-11-03T09:34:31+00:00"
+        },
+        {
+          "title": "Росія розбила хоспіс у Дніпрі: з нього вивозять пів сотні невиліковно хворих, найстаршому – 90 років",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/03/8061000/",
+          "published": "2026-11-03T09:08:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine | Nouveau bilan de l’attaque d’un centre médical à Kharkiv : au moins 73 blessés et 226 patients évacués",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-chancelier-allemand-annonce-la-venue-mardi-de-volodymyr-zelensky-a-berlin_6803934_3210.html",
+          "published": "2026-11-03T08:37:11+00:00"
+        },
+        {
+          "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T07:24:12+00:00"
+        },
+        {
+          "title": "War widens in the Black Sea in a test of NATO red lines - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWxiZGlMWkM0ZHpydTVPRmxnSkxaVEhRdHoybDV1QW5DWnJrZWZNRDlIODFubWVVWUtfN25DYkVsZzNDemNJcEc5MHRrWTdMMjhJRXZFOWlpaEVuYjgtek1kVjR0VUdrcXhYNGRBX2FlV18yY0U1d1Rqb2stSnlDWmNqb29DdG1ZbEVoMEpjUTBZNUk?oc=5",
+          "published": "2026-11-03T06:39:00+00:00"
+        },
+        {
+          "title": "Seoul shares dip over 3 pct amid escalating AI woes",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103007900320",
+          "published": "2026-11-03T06:35:07+00:00"
+        },
+        {
+          "title": "Russia-Ukraine war: Strikes on a school by Russia kills 26, derailing hopes of progress toward peace",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece",
+          "published": "2026-11-03T06:31:36+00:00"
+        },
+        {
+          "title": "Россия нанесла удар по Харькову, повреждена больница. Пострадали более 70 человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/03/rossiya-nanesla-udar-po-harkovu-povrezhdena-bolnitsa-postradali-bolee-60-chelovek",
+          "published": "2026-11-03T06:24:45+00:00"
+        },
+        {
+          "title": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzhEeHluRkpLRFJFZUEzdGd1am14LTE3dmJVT2pvclViYjlzTno3Si1GZ2RrOEV3NTZZanhhSExGS3hwQUZQRzBWS0pMR2lSR2VONjlhWWJTVndVRkpCaEdiT2NWbWduV2ZSN3Yxck1CSWxBRXAzWDJEa2JSbFlVNkJVdlBqVENCZ0hMRkNiOA?oc=5",
+          "published": "2026-11-03T05:15:00+00:00"
+        },
+        {
+          "title": "26 killed as Russia strikes Ukraine school used for aid distribution",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/europe/26-killed-as-russia-strikes-ukraine-school-used-for-aid-distribution/articleshow/135478865.cms",
+          "published": "2026-11-03T02:22:26+00:00"
+        },
+        {
+          "title": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+          "published": "2026-11-03T01:18:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.708,
+        "y": 0.155,
+        "r": 0.23
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "遭遇史上最大黑客攻击后，Binance努力稳住信任并阻止资金外流",
+      "region": "世界 / 加密",
+      "summary": "在遭遇加密货币交易所 Binance 史上最大规模黑客攻击后，公司正试图恢复客户信心，并证明自己有足够资源应对危机。路透社援引联席首席执行官的话称，公司财务状况“非常强劲”；其他报道则称，在约63亿美元被盗后，用户在数日内已成功追回资金。不过，美国机构和网络分析人士将责任指向朝鲜，平壤方面予以否认，并称相关指控具有挑衅性。围绕此次攻击，外界仍在追问黑客究竟如何实施，以及幕后主使是谁。",
+      "picture": "画面中，一个破裂的数字保险柜被打开，发光的硬币倾泻而出，一名戴兜帽的人正带走一串代币。这象征加密市场的脆弱性以及资金外泄之后交易所不得不修复声誉的困境。",
+      "mentions": 60,
+      "significance": 88,
+      "velocity": 74,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "How did Binance recover quickly from the biggest crypto hack in history | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/business/binances-recovery-from-the-biggest-crypto-hack-in-history-explained/article71659637.ece",
+          "published": "2026-11-03T08:55:45+00:00"
+        },
+        {
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T08:33:20+00:00"
+        },
+        {
+          "title": "Iran-US deal still out of reach despite heightened diplomatic efforts - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3Yxa1hzQnl6dkV3MXpSTy1EZXY5Vi1zUWpQazEwclNlT1E3ZjlnLVdzamswUG1tMkFwbXdkS0g0bmVabHpkS04wVUJmNWVGT05OeEhfMktLUTFWQmc3UEJqa3NMUmp4WHM1MnlhTGdOVWtENldsMTljRTIzejBzSzlQazZ0NVNJOVhJN3lhWS1yV1RubzZkcmkxaFhLTVlSOW5mQ1FqWlFRMFNseGNHZDN5OGU?oc=5",
+          "published": "2026-11-03T08:20:54+00:00"
+        },
+        {
+          "title": "Binance co-CEO says company is in very strong financial health after $6.3 billion heist - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSW1yRmpqWklpVWhidTBKNUFiQ2hXMXF2djlzbEZwTWFkVjIyV25taVh0cUh2VmJYeTROUlJwMlU1RkU3ZG94YnVXUHI1eEdLQndwdGxIdkN5b2tiYmVWMnpCRDFfeWNLZ3ZWdUFQbl90bDdDZVFJUFVkUTA2ZUxKeXh3aHYwbnNQN25LMlB2Z0VkMkplUG9kZldtNHVPRWpDdHpaaTJGUktPYURKeWNERElZNGJzLVIwVW5YdDgySUF5ZVIyRlJKVUZWRQ?oc=5",
+          "published": "2026-11-03T07:35:00+00:00"
+        },
+        {
+          "title": "North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/03/north-korea-slams-fbi-claims-it-was-behind-5bn-binance-hack-and-test-fires-missiles",
+          "published": "2026-11-03T06:53:07+00:00"
+        },
+        {
+          "title": "'Who cares?' Alaska voters shrug off potential Democratic manipulation - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWpoNmszdTlZR0hjdkxvQVYtckdZd3Z6b2RfS3VoczZMS25XbGF5RHdLUEV1RmxQZnpidEpOQ1pLcVhyX25GemRxTHRoQk5wMVJVdlJFTG5KR1Z6b3RpRm9kalo1eWdSRGE2MG51QkRmQ203RjlTdWdJTksxTVVZRzFrY190ZklzMDk1TFpZQQ?oc=5",
+          "published": "2026-11-03T06:25:15+00:00"
+        },
+        {
+          "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+          "published": "2026-11-03T03:29:38+00:00"
+        },
+        {
+          "title": "Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
+          "published": "2026-11-03T02:57:01+00:00"
+        },
+        {
+          "title": "(2nd LD) N. Korean leader's sister blasts FBI's crypto theft probe as 'political provocation'",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103000653315",
+          "published": "2026-11-03T02:31:34+00:00"
+        },
+        {
+          "title": "North Korea denies involvement in Binance hack and criticizes FBI probe as 'a trite provocation' - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd01qenNHeE1ZZXNRUl9yYTdyNzh0VU0wVWJEcUJZRElxXzJud05CeUhJb1o2MjNvTVQ4bTVjOXFySGlqRnRqWU1pT3Vwdmx6MFhqSlV6OVBXSU5rNEtkWWRIdTBfVU1tUHhKYmduU2U0U3RxVTBGSHJTT00zM19td3FiYzk1VzdjWnpzZmVPVENBcGZjdzZKU3NwaDBiUnNxelE?oc=5",
+          "published": "2026-11-02T23:57:00+00:00"
+        },
+        {
+          "title": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
+          "published": "2026-11-02T23:49:10+00:00"
+        },
+        {
+          "title": "Sister of North Korea’s Kim slams FBI’s Binance hack allegations as ‘grave’ provocation",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373050/sister-north-koreas-kim-slams-fbis-binance-hack-allegations-grave-provocation",
+          "published": "2026-11-02T23:40:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.179,
+        "r": 0.188
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "欧洲各地持续出现抗议、罢工和局部街头骚乱",
+      "region": "欧洲",
+      "summary": "欧洲各地持续出现抗议和街头骚乱，主要源于年轻人对生活成本、住房以及就业不确定性的失望。France 24称，Z世代抗议最初在法国爆发，随后扩散至比利时、德国、意大利、葡萄牙和西班牙。部分报道提到法兰克福发生骚乱，以及孟加拉国纺织业工人发起新的罢工，但后者已不属于欧洲。德国当局正在讨论对破坏行为采取强硬回应，而其他国家则记录到局部示威和罢工。",
+      "picture": "一群年轻人走在一张裂开的账单上，周围是翻倒的垃圾桶、破碎的窗户、石块和烟雾。这一画面展示了抗议作为对经济压力的回应，也反映出人们对既有秩序正在崩塌的感受。",
+      "mentions": 57,
+      "significance": 79,
+      "velocity": 40,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "Iran-US deal still out of reach despite heightened diplomatic efforts - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3Yxa1hzQnl6dkV3MXpSTy1EZXY5Vi1zUWpQazEwclNlT1E3ZjlnLVdzamswUG1tMkFwbXdkS0g0bmVabHpkS04wVUJmNWVGT05OeEhfMktLUTFWQmc3UEJqa3NMUmp4WHM1MnlhTGdOVWtENldsMTljRTIzejBzSzlQazZ0NVNJOVhJN3lhWS1yV1RubzZkcmkxaFhLTVlSOW5mQ1FqWlFRMFNseGNHZDN5OGU?oc=5",
+          "published": "2026-11-03T08:20:54+00:00"
+        },
+        {
+          "title": "Rhodes floods: Cars swept away after torrential rain in Greece",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/03/rhodes-floods-cars-swept-away-after-torrential-rain-in-greece",
+          "published": "2026-11-03T07:49:20+00:00"
+        },
+        {
+          "title": "Bangladesh garment workers stage fourth day of wage protests - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0VYQlJKckJ0eWh5QVdLX2tDQ0JXMjkxS1BDMUw4VkNRMDBkR0g0OTJTM0FCTEk5UFlQelVad0hRN252YW8yS01qdGJTaXZ5VXp3ZDJpMWN1U01vMzFGMDlRMVg4eW15NGh0YWMtSHlGaDFFVU0xc180Mlpxb29zRXM1MThtNkdKc3V5Vml4YklsZjFISURyN294azJpSXdkZkUwZWJNNUowYVdmLW9TbzlFaDZac2c5a0E?oc=5",
+          "published": "2026-11-03T07:37:00+00:00"
+        },
+        {
+          "title": "Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
+          "published": "2026-11-03T06:36:58+00:00"
+        },
+        {
+          "title": "High Court hears bid to overturn Australia social media ban - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWXpEU0pNYmR4ZFNYN0dpNTBjUldQNXpIdjE5LWY2U2FPMnhwZk9BejBUTGNaOXFtTkoxWTVDcGxFZTFGUTRzTVRwcUIyUVFGall0dnljb0FnZ2Y1cklWWklhbFRMazl3R1hJZ3ZrLU5iUFo1b25zYnFmUGtydWVneEZTRDBMdw?oc=5",
+          "published": "2026-11-03T01:27:43+00:00"
+        },
+        {
+          "title": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
+          "published": "2026-11-03T01:21:48+00:00"
+        },
+        {
+          "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+          "published": "2026-11-02T20:30:07+00:00"
+        },
+        {
+          "title": "Merz encarga a la ministra de Familia que dialogue con los estudiantes alemanes tras las protestas",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-02/merz-encarga-a-la-ministra-de-familia-que-dialogue-con-los-estudiantiles-alemanes-tras-las-protestas.html",
+          "published": "2026-11-02T19:03:54+00:00"
+        },
+        {
+          "title": "En Allemagne, les violences en marge des manifestations du week-end suscitent un vif débat politique au sein du gouvernement",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/02/en-allemagne-les-violences-en-marge-des-manifestations-du-week-end-suscitent-un-vif-debat-politique-au-sein-du-gouvernement_6805312_3210.html",
+          "published": "2026-11-02T19:00:06+00:00"
+        },
+        {
+          "title": "Shop freezers in seven European countries hit by cyber-attack",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T17:38:11+00:00"
+        },
+        {
+          "title": "В Бельгии и Швеции хакеры снова взломали холодильники в супермаркетах",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/02/v-belgii-i-shvetsii-hakery-snova-vzlomali-holodilniki-v-supermarketah",
+          "published": "2026-11-02T12:41:02+00:00"
+        },
+        {
+          "title": "Riots erupt in Frankfurt and shops looted after protests - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1o4YXJ5VHJGVFBjMUR1WFRNamRLYmJjZmppNUh2S0hBQnF3Y1J2ZE80MmZPQ29zQ3pKbDlhQ3pNTXl2WWlDZGRlcVFuSGVIYWtFdzFrLU5SRGtKZVhKRDdvZFdleC0tYjNIN1pLUktfOHVBa3Z6c2lmNWFjVVMwa2J5ckpmeTR3N0E1RnAxNEl5bFVtdEt6dFBla3llYWsza2RTUUt4dE84aWQxRmVmcFJTZ0M?oc=5",
+          "published": "2026-11-02T12:12:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.307,
+        "r": 0.221
+      }
+    },
+    "asia-security": {
+      "kind": "major",
+      "title": "亚洲军事与网络风险上升：从朝鲜到新的防务举措",
+      "region": "亚洲",
+      "summary": "亚洲地区的军事和网络风险正在上升。相关报道称，朝鲜进行了新的试验，包括面向巡航导弹的“dispersal warhead”测试，同时还就 Binance 黑客指控发表了强硬声明。路透社及其他来源还报道，由于胡塞武装持续发动袭击，2027年亚洲杯在沙特阿拉伯的赛程被调整至12月；英国和韩国媒体则提到新的网络防护机制以及安全检查。整体来看，这被描述为军事与数字领域威胁同时增加。",
+      "picture": "一面与微芯片结合的盾牌，周围是无人机和雷达，背景是一座开裂的数据塔。画面把军事防御与网络安全结合为同一种风险的两个侧面。",
+      "mentions": 53,
+      "significance": 80,
+      "velocity": 66,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "В учениях \"коалиции желающих\" в Польше примут участие 11 стран",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28281913",
+          "published": "2026-11-03T09:30:56+00:00"
+        },
+        {
+          "title": "Major test for Australia's social media ban begins in High Court",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T07:53:38+00:00"
+        },
+        {
+          "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+          "published": "2026-11-03T06:55:39+00:00"
+        },
+        {
+          "title": "North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/03/north-korea-slams-fbi-claims-it-was-behind-5bn-binance-hack-and-test-fires-missiles",
+          "published": "2026-11-03T06:53:07+00:00"
+        },
+        {
+          "title": "У Британії попередили про ризик кібератак на інфраструктуру з ШІ у найближчі два роки",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/03/8060972/",
+          "published": "2026-11-03T06:33:00+00:00"
+        },
+        {
+          "title": "Asian Cup postponed until December 2027, AFC says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGdPdS1TSkdIUU41bUdxUGtqc3o2WHRrUWpuUTI5Y3V4bjlhTjFsM3pULXEwTmlVSXlrejhRTmlObjJkVV9pSlZ5UW1Xa0hfRUsxTlBMaWFJLS02R2duLVJrdGhRWnZLYzl4Wi1YTzBZcmliMEh6Q093WU9JT2c3a1pJUmZPUWRscEFydmlIVFlVazhhWWpJYktWX2cwQVk?oc=5",
+          "published": "2026-11-03T06:13:00+00:00"
+        },
+        {
+          "title": "(LEAD) N. Korea tests 'dispersal warhead' for cruise missiles following cluster bomb test",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103001151315",
+          "published": "2026-11-03T06:12:19+00:00"
+        },
+        {
+          "title": "South Korea rushes to reissue passports to President Lee, wife after data leak",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3373065/south-korea-rushes-reissue-passports-president-lee-wife-after-data-leak",
+          "published": "2026-11-03T03:00:29+00:00"
+        },
+        {
+          "title": "Pyongyang blasts FBI allegations as it test-fires missiles - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1Jyc0ZmWi1jQnFNYU43WmQ1QlFqOUpwWVAwbC13RFFSZmlBeEpxVGdaOGpOTDI4TUlqSnc0S2VEcnRBN1V6TG5BRE9JSkR5TkZ5b2JNZzZnZDRDS1pZdkVsc1BtYXBWSVIycU16Vms5TEFBR2J2ZGNza0xzcV9LdGVKbGo?oc=5",
+          "published": "2026-11-03T02:37:20+00:00"
+        },
+        {
+          "title": "UK cyber chief says the UK will face AI cyberattacks on critical infrastructure by 2028 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGx3eWwwYzBFUHZMcktMZFJxU1JEclEyZnZNTDVRNkg3c1dQeEY1WUItTTFhN3ZXZE00dm43MGgxbTR4SU1MZm9KOGpTLUxjTThXX0V1X0N3YXZmVW1BMjVwNnJ1VmY3dTFKaTc3dEZtREN3WDhYWm82UndfWEZnR3BiU0hsN2gweENzRGJxcWVmWnkwMFV2cWsycVQzbU9pNk13R1VWNVM2cWotd25maDdEZldfeF9TRkw5aQ?oc=5",
+          "published": "2026-11-03T00:08:00+00:00"
+        },
+        {
+          "title": "Премьер Бельгии Барт де Вевер подал в отставку. Он выступал против изъятия замороженных российских активов",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/02/premier-belgii-bart-de-vever-podal-v-otstavku-on-vystupal-protiv-iz-yatiya-zamorozhennyh-rossiyskih-aktivov",
+          "published": "2026-11-02T12:54:54+00:00"
+        },
+        {
+          "title": "(LEAD) Lee orders review for establishment of cybersecurity task force",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103005751315",
+          "published": "2026-11-03T05:29:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.463,
+        "y": 0.707,
+        "r": 0.221
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "以色列政治僵局仍在持续，对立阵营都在寻找新的多数",
+      "region": "以色列",
+      "summary": "在以色列紧张选举之后，政治僵局依旧存在：无论是加迪·艾森科特阵营，还是本雅明·内塔尼亚胡领导的联盟，都未能获得明确多数。反对派正在讨论围绕艾森科特整合力量，而内塔尼亚胡则表示，选民选择的正是他本人；与此同时，据报道，他的阵营正试图拖延选举结果确认。另一条关键线索是，犹太反对党是否愿意依靠阿拉伯政党联盟，而后者可能成为组阁成败的决定因素。以色列总统伊萨克·赫尔佐格据《印度教徒报》报道呼吁政界接受结果并寻找出路，以免国家再次走向新选举。",
+      "picture": "投票箱在绳索上摇摇欲坠，上方是一顶裂开的王冠，两侧的人朝相反方向拉动绳子。这象征议会权力的脆弱平衡，以及政权取决于少数关键选票。",
+      "mentions": 53,
+      "significance": 83,
+      "velocity": 47,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Israeli opposition unites behind Eisenkot as Netanyahu says voters chose him for PM",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm",
+          "published": "2026-11-03T09:03:29+00:00"
+        },
+        {
+          "title": "Arab parties may be kingmakers, but will Jewish opposition leaders accept them?",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/arab-parties-may-be-kingmakers-but-will-jewish-opposition-leaders-accept-them/",
+          "published": "2026-11-03T08:34:51+00:00"
+        },
+        {
+          "title": "Oposição em Israel se une contra Netanyahu, mas não chega a consenso sobre apoio de partidos árabes",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/oposicao-em-israel-se-une-contra-netanyahu-mas-nao-chega-a-consenso-sobre-apoio-de-partidos-arabes.shtml",
+          "published": "2026-11-03T07:00:00+00:00"
+        },
+        {
+          "title": "Israel opposition meets to back Eisenkot, but Netanyahu says voters chose him - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWljdlBMWkdobzZLNkVOS3lsY0ZERGc4aDF1UHdYV2FXYWh4emFmTzFPZHFoTFV1Y1o5QUZCdmtQSHJBa2JhbVQ0eEdYa3RORFQ5eEdwa05aSG43dEN1WWJTQy1jZVNkazdyQnFQZDBBaWNqUHZyLS1vX2U1MTBDNGlVaElDZGFoaUJNUVdZMnBHcEU5WXlzNy1ZcGFkYXh4NUx1RDQ1Z3drdEdvUEJnQjI2SXNBWW1HM0lWZXVR?oc=5",
+          "published": "2026-11-03T05:07:56+00:00"
+        },
+        {
+          "title": "Israël : un pays dans l’impasse politique",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/11/03/israel-un-pays-dans-l-impasse-politique_6805519_5463015.html",
+          "published": "2026-11-03T04:00:19+00:00"
+        },
+        {
+          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "published": "2026-11-03T03:58:36+00:00"
+        },
+        {
+          "title": "Naftali Bennett’s ‘B’Yachad’ faction throws support behind Gadi Eisenkot to form next Israeli government",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece",
+          "published": "2026-11-03T03:23:02+00:00"
+        },
+        {
+          "title": "Netanyahu open to 'broad' government formation after election setback but rules out Arab parties",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-open-to-broad-government-formation-after-election-setback-but-rules-out-arab-parties/articleshow/135479279.cms",
+          "published": "2026-11-03T03:12:21+00:00"
+        },
+        {
+          "title": "Rubio speaks to Venezuelan minister about reforms that lay groundwork for elections - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS1lBdTNncU01WUxmNG1IUVg1SFM4ZElHR3plT2RSS0hqb1ZMaGhwS25WaXQyb3BjQllHU05pQlJUR3BYRS1lVkNYMHl3MHpLUVBsWGJfMGtOU3JzSXBKOHE4ZEdPcEsxU0hmdmZZM1RMV2liNmVTVnN1QUpPVjlyMzExN2M4ck5xOVY0ZmlEQU15RWpiMkxERU1paTJ5emxMUmdJbktZM1RSd2QyVUROS3BfTXp6c3lOUEd1T0V5R2VlZ3l6Znc?oc=5",
+          "published": "2026-11-02T23:07:43+00:00"
+        },
+        {
+          "title": "Netanyahu is pressing Trump to attack Iran after US midterm elections, officials say",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373046/netanyahu-pressing-trump-attack-iran-after-us-midterm-elections-officials-say",
+          "published": "2026-11-02T22:16:52+00:00"
+        },
+        {
+          "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition",
+          "published": "2026-11-02T19:15:58+00:00"
+        },
+        {
+          "title": "Israel said pressing Lebanon to prevent Hezbollah from joining renewed war with Iran",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/israel-said-pressing-lebanon-to-prevent-hezbollah-from-joining-renewed-war-with-iran/",
+          "published": "2026-11-03T03:49:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.729,
+        "y": 0.655,
+        "r": 0.156
+      }
+    },
+    "us-south-africa-trade": {
+      "kind": "major",
+      "title": "美国取消南非贸易优惠，加剧美国与比勒陀利亚之间的裂痕",
+      "region": "非洲",
+      "summary": "美国决定将南非和卢旺达排除在免关税贸易框架 AGOA 之外。路透社、法新社、美联社及其他媒体一致指出，华盛顿的理由是这两个国家不符合参与标准；《纽约时报》则补充称，特朗普政府指控南非歧视白人。此举可能重创南非出口商，尤其是柑橘行业，南非本地媒体对此已有报道。在这一背景下，美国与比勒陀利亚的关系明显恶化。",
+      "picture": "画面中，工厂大门背对着一座破裂的贸易桥，海关印章像落叶一样飘落。这一形象展示了贸易关系的断裂，以及政治决定如何切断原本顺畅的经济流动。",
+      "mentions": 50,
+      "significance": 74,
+      "velocity": 56,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Sudáfrica llega a las elecciones municipales en plena escalada de violencia xenófoba",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-03/sudafrica-llega-a-las-elecciones-municipales-en-plena-escalada-de-violencia-xenofoba.html",
+          "published": "2026-11-03T04:30:01+00:00"
+        },
+        {
+          "title": "Trump to remove Rwanda and South Africa from US trade deal",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T03:00:36+00:00"
+        },
+        {
+          "title": "US to suspend South Africa and Rwanda from duty-free trade access - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
+          "published": "2026-11-02T22:59:03+00:00"
+        },
+        {
+          "title": "US to exclude South Africa, Rwanda from Africa duty-free trade deal - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHFVS256dk9qaFNjR05Yc1RoNWJralR3QUt0UV9FaVJhbVduYk1ZblJ5WkJvdWlOeTJmVnJ6ZzdEdXppY1oxQXR3SnhKel9QLU11U1lMSkpqZmpiTzBYcDVUV05kVllELWZCR1dDam5lc2FUY3VmWWdHS3l0VGtKMFFRYlFsYmdE?oc=5",
+          "published": "2026-11-02T22:34:37+00:00"
+        },
+        {
+          "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-02T21:40:00+00:00"
+        },
+        {
+          "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2U1TExENUVLdlpTSE9jMXBrQnY1ZVpuZUIzV3VBNWdJRXkyS0s0czFMRlhUUnlRd0N3S016UWtWdW1jc2dFaDNUWnc5UEltYTRzS250SEMtTGk3d1RYcE9rTGpkUDdzUHlodWYtQTRTaHpEaURfRXR4bDU4VWlPUEdGQWdkZXVrNFZmT0x6dGZBdG05WXlHMGFYSlk2MHNY?oc=5",
+          "published": "2026-11-02T21:05:00+00:00"
+        },
+        {
+          "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
+          "published": "2026-11-02T21:01:03+00:00"
+        },
+        {
+          "title": "South Africa and Rwanda to be excluded from US-Africa trade deal",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/02/south-africa-and-rwanda-to-be-excluded-from-us-africa-trade-deal/",
+          "published": "2026-11-02T20:17:03+00:00"
+        },
+        {
+          "title": "Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjlKbmNTallHanZObnRZcmpzeUNfR0s1TTJ2MzVkWG9VLW9PTzJ4NWlNdWpKSnV0U3ZwWlVRMGxQTHB0ak9IdEdZVlJyNEFqWkFUbm5EdVlOd2w3V29vWFZraFFaVVY4Zm8tMXloVUMwSUE1cEF3U0pYTDBWc1kzejU0bkxfQzYwNHNiVEZzVmpZZWxiY2ZlVVMtYlR4bXZrMFJPZUszZ0h5dnUzYVN2WjJmLWc1dlk2clJUTFFR?oc=5",
+          "published": "2026-11-02T19:54:55+00:00"
+        },
+        {
+          "title": "‘Some people will lose their jobs’: Citrus growers brace for AGOA fallout - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUkzY1ZUdTVBN0pscjIwR3NVV0ZWT0ZqcFhBOFo4MVdCZkQwczN5NnVuME82dEpxYlJuUXVyYjB2M1ZHaGQ2dmw1Y0ZCUldhTWRncy1QUHlZXzRNV0d6SlYyMzRNbU9IbmV6NTltRnl6dEU3bnZHbURNNmp0dHVvNU1HTjVxT2l3WVpKMGN3MXdYbmltX3VJVlctZjJlWU5hMkdDWjhfbDZDdnNaOE8yaWd3NktGb0dsMEtUbWJWYlg3Zw?oc=5",
+          "published": "2026-11-02T19:45:49+00:00"
+        },
+        {
+          "title": "US ejects SA from AGOA trade programme - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajBZZ3g2Y2gyekZsT3NveEN4OFg2NUpIUjhvZjZHeXVKbElLTE5PRl9LWkpjbWtDZ0tHaTI2c0U3QnhkZEdxeEdjOTl0bUhXWnE4cUJ1Y3dzSUZadFk2WXl1V1NEejJqQlh3SXQ2aC1BZkRwNVFMdFZPOUpPQW90SWltSTRRYmotSnE0NVR0ZzZ2bXVNSnUwYTllOUo?oc=5",
+          "published": "2026-11-02T17:37:41+00:00"
+        },
+        {
+          "title": "US to eject SA from AGOA trade programme - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTRKVFg3czVlbHRpV2pEZXlSWnU5MTZaQ2poUmhRekdJVjZKOWdLT1kzMS1SdHE2XzY3a2FGUjdkYUZEZjB3R3ZBa2lySGdYQXRDQWVfd0JnNUdjN0lOTTNpeDFCYURQNXprX052Y2xvdDd2cE9KXzl0VjJqRlFPWXpwQ25ud21PTUVsN3JtY1Q0eHFqNmg5TFp3?oc=5",
+          "published": "2026-11-02T17:30:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.271,
+        "y": 0.798,
+        "r": 0.156
+      }
+    },
+    "fridge-cyberattacks": {
+      "kind": "major",
+      "title": "欧洲新一轮网络攻击使超市冷藏系统瘫痪",
+      "region": "欧洲",
+      "summary": "欧洲多个国家记录到新一轮针对超市冷藏系统的网络攻击。美联社、路透社、法新社和BBC报道称，由于系统故障，冷冻柜温度升高、食品变质，一些门店被迫关闭冷藏区域。欧盟委员会据France 24称，将其描述为故意破坏欧盟食品供应链的企图。目前尚不清楚袭击者身份，但这一事件被视为一系列类似事件的延续。",
+      "picture": "画面展示一排排超市冰柜敞开着门，冰块散落、食品变质，电缆杂乱缠绕。这象征日常基础设施成为数字攻击目标。",
+      "mentions": 43,
+      "significance": 72,
+      "velocity": 29,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Major test for Australia's social media ban begins in High Court",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T07:53:38+00:00"
+        },
+        {
+          "title": "Supermarket freezers in several European countries hit by apparent cyberattacks - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5",
+          "published": "2026-11-03T05:30:00+00:00"
+        },
+        {
+          "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+          "published": "2026-11-02T20:30:07+00:00"
+        },
+        {
+          "title": "European retailers hit by supermarket fridge hack - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0pBNnJqdFRQdUY4ODRYSXh6X1RSTzhlUzZSRndTUVowVDhyeUpOOEJvOF9Ha3QtdEdEMmpHbUtUaDVaNDZ1Mk5FcWNYU0psUFd3YTI2T2ZxaWFwelhFa0tTQVRiblcxRlZOd1N0TWUxakMzUnhOYTBSNXZEYkVva2FSUXZIdy00eHRDd2RSOGE1VnlBcDlDQ0VB?oc=5",
+          "published": "2026-11-02T20:10:11+00:00"
+        },
+        {
+          "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+          "published": "2026-11-02T19:07:40+00:00"
+        },
+        {
+          "title": "Fridge cyberattack hits supermarkets across Europe - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlVUxlU3JnTXVxVEZSd2cwTnJ0TlBsNGpEWDZPQU9McEdzcmktSDY3S0pIcW5IYklxVkY3QkFaYXRscUwyekRBYjJyUllydENySm9pOWY1aGlXQ3RhZFBMWnJ2SHBnbklBamgwZ0xfU2UyRGttSTlPN2NvVHl4Zw?oc=5",
+          "published": "2026-11-02T16:05:24+00:00"
+        },
+        {
+          "title": "Fridges stand empty in Belgian supermarkets after cyberattack",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/02/fridges-stand-empty-in-belgian-supermarkets-after-cyberattack",
+          "published": "2026-11-02T14:27:23+00:00"
+        },
+        {
+          "title": "В Бельгии и Швеции хакеры снова взломали холодильники в супермаркетах",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/02/v-belgii-i-shvetsii-hakery-snova-vzlomali-holodilniki-v-supermarketah",
+          "published": "2026-11-02T12:41:02+00:00"
+        },
+        {
+          "title": "Shop freezers in seven European countries hit by cyber-attack",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T17:38:11+00:00"
+        },
+        {
+          "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T17:34:58+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.131,
+        "r": 0.156
+      }
+    },
+    "health-and-inflation": {
+      "kind": "major",
+      "title": "全球同时遭遇疾病传播与食品和公共事业费用上涨的通胀压力",
+      "region": "世界 / 加密",
+      "summary": "世界多地同时传出疾病和物价上涨的消息。美国纽约一名儿童死于麻疹，这是30年来首例此类死亡；媒体将其与疫苗接种率下降至不足以防止疫情暴发的水平联系起来。韩国10月通胀率为2.8%，连续第三个月维持在2%区间附近。另据《黎明报》报道，当局已动员炼油厂以抑制燃油价格上涨。整体来看，这被描述为对健康和家庭开支的双重压力。",
+      "picture": "购物车里放着面包和药品，上方漂浮着温度计和升起的烟雾。画面把疾病和通胀联系在一起，表现人们既要担心健康，也要面对基本开销。",
+      "mentions": 39,
+      "significance": 66,
+      "velocity": 73,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Govt enlists oil refineries to shield citizens from global price hikes",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2041627/govt-enlists-oil-refineries-to-shield-citizens-from-global-price-hikes",
+          "published": "2026-11-03T09:41:21+00:00"
+        },
+        {
+          "title": "Child dies of measles in New York's first such death in 30 years",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/article71659832.ece",
+          "published": "2026-11-03T08:44:41+00:00"
+        },
+        {
+          "title": "Child dies of measles in New York’s first such death in 30 years - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2NzZW1CM3NSS3J4QmI1aWk2TXR4bkFWNFYyY3N1bE9Ea3lqVVNUUlJncDNtYlpTMlFTS05PREw0Zkl5dXdjNHVreVp1UHFCcjBCY0hvbG1MX21tNWdQREdodHRiaG91Y0ktRy1YUjM1X0Vqd0JPd3BZaVVoR3E0TGpVSldxcGstckRVc3pTRTZ1cU1jV1h4V0t3ajFGZw?oc=5",
+          "published": "2026-11-03T03:32:00+00:00"
+        },
+        {
+          "title": "(2nd LD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103001652320",
+          "published": "2026-11-02T23:46:45+00:00"
+        },
+        {
+          "title": "New York state reports first measles-linked child death in over 30 years amid outbreak - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdFpmQ09YS2NVemF2RUJCMjFnTEdzVnhnR2w1NUZ2RFNOS0VlMUxhQ0VxYW03Y3pxUE5Fam5aS0dFd3FLWkNRZHFXbTY4Rmg0SC1BUGd6NzhyU0poOU15TEdTNm5QR0FsQ3B2N29wNElMX0V0ZUxMdFdjeFQza05tWnZSaHJBZlFoaUJlNTdTVjlheHFwV2ZVS2NOSWVCYzlmNmw3dHptUmFiZFVBZmpHYjFoUXVnWXFIcVdHTHQ0MGpwaEdxRUl3ZVRwcXB2cUJEeXdUbmNyZlltdXlfNnF4ZF9zSQ?oc=5",
+          "published": "2026-11-02T23:17:00+00:00"
+        },
+        {
+          "title": "Quase 70% dos americanos acham que Trump lida mal com inflação, diz pesquisa",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/quase-70-dos-americanos-acham-que-trump-lida-mal-com-inflacao-diz-pesquisa.shtml",
+          "published": "2026-11-02T20:56:00+00:00"
+        },
+        {
+          "title": "Aspen pockets R2bn profit as it offloads European rights to HRT drug - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMnR5c1dmQ21WYUpGbkRTWmJxVE9XSWZZMFNLWlc2SjY2MTBLdS01cGZqNWRLd1MyRlR4NERTb3FVVlBfa2VYSmpVdXo5ZldCdjFSZnBQSDI1TnBHLVdYdWFQX0ZOdnluTFE5dmVSX2NFeXJOYVF2QnEyVm50WFhoaU1JckltYlRLU1g5Tl9MbHVBWWYtREJUQkh4bW5pSVMyWE1DWjMwaVBDa0RfRkxzM0VYc2NRb3VYTXE0a1hsYVFzZw?oc=5",
+          "published": "2026-11-02T13:49:44+00:00"
+        },
+        {
+          "title": "UN reports warn of large-scale damage to Earth’s ice from climate change",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2041761/un-reports-warn-of-large-scale-damage-to-earths-ice-from-climate-change",
+          "published": "2026-11-03T04:10:10+00:00"
+        },
+        {
+          "title": "Washington state resident dies from bird flu following exposure to infected cattle - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0d4NUNUbjhBbTN0TGtuakFKQV80M0JUcEFKbjVfel9LVkFuZmtfWHBNdjFVcm1LTTA4UkRlV01KSXBzbE91U1JTOEdjdXQzbERuNksyOTBqTHJtMDMzTW5yaXluVXNFZGRCTWxySDNjV0JJTkJFYk5VbWQ4eEtWUlNJWVBFZTFET0o0ZmZoaGRyWkRHcllv?oc=5",
+          "published": "2026-11-02T23:19:00+00:00"
+        },
+        {
+          "title": "(LEAD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103001651320",
+          "published": "2026-11-02T23:17:12+00:00"
+        },
+        {
+          "title": "Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103001600320",
+          "published": "2026-11-02T23:00:05+00:00"
+        },
+        {
+          "title": "(URGENT) Consumer prices up 2.8 pct in Oct., remain at 2 pct levels for 2nd month",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103001500320",
+          "published": "2026-11-02T23:00:02+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.521,
+        "y": 0.226,
+        "r": 0.156
+      }
+    },
+    "south-korea-cybersecurity": {
+      "kind": "major",
+      "title": "韩国在一系列数据泄露和攻击后紧急筹建新的网络安全中心",
+      "region": "亚洲",
+      "summary": "韩国正加速建设全国性网络安全中心，以应对一系列数据泄露和攻击。路透社称，总统李在明已指示研究设立一个强力机构；韩联社则报道，对2100个政府机构进行了紧急检查，并因包括总统及其周边信息在内的数据泄露召开紧急会议。另有报道提到，官方正在调查总统专机乘客数据泄露事件。上述情况都发生在外界担忧国家数字基础设施及经济安全之际。",
+      "picture": "画面中，一个发光的指挥中心由锁、数据流和警报器组成，旁边是一座开裂的电话塔。这一形象传达出为控制脆弱数字系统而采取的紧急应对。",
+      "mentions": 35,
+      "significance": 70,
+      "velocity": 83,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Meet Diana Anderson: 57-year-old woman charged after dozens of keepsakes allegedly stolen from graves of loved ones in Canada; 20 families report missing items",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/mad-mad-world/a-57-year-old-woman-has-been-charged-after-police-recovered-dozens-of-keepsakes-allegedly-stolen-from-graves-at-a-milton-cemetery-about-20-families-reported-missing-lanterns-plants-and-memorial-items/articleshow/135484409.cms",
+          "published": "2026-11-03T08:25:00+00:00"
+        },
+        {
+          "title": "Yonhap News Summary",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103011000320",
+          "published": "2026-11-03T08:00:00+00:00"
+        },
+        {
+          "title": "Major test for Australia's social media ban begins in High Court",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T07:53:38+00:00"
+        },
+        {
+          "title": "When will we know the US midterm election results?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+          "published": "2026-11-03T07:27:21+00:00"
+        },
+        {
+          "title": "South Korea's Lee calls for powerful government-wide cybersecurity body - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3l1ZksxcWNyX2pid2FGeTk1MlduYjFNQkM5aEp6SHRmUzNMLU82NXdCbFVOWkFYOEoyblJhM1JTSkdULWhKX3R1dHBIQkFZMTJIV2hlZzFFajRLY3JLQTAySm9JWG5fVDd6MmMwWTFzRG50VWI4MS02MDRURDJRV3BpLXJCTGlrTmdaYUpTVV9fT0YybE9QcUlrd0ZUX05YcWNjejVfb3dQZF9zblFxY0pXOGFBWGk5V213T0x3?oc=5",
+          "published": "2026-11-03T02:03:00+00:00"
+        },
+        {
+          "title": "Западные фармкомпании тратят до 40 миллиардов рублей в год на взятки при поставках лекарств в Россию. А зарабатывают на этом приближенные Путина, выяснил «Проект»",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/02/zapadnye-farmkompanii-tratyat-do-40-milliardov-rubley-v-god-na-vzyatki-pri-postavkah-lekarstv-v-rossiyu",
+          "published": "2026-11-02T12:16:25+00:00"
+        },
+        {
+          "title": "Special counsel raids NEC headquarters for 2nd day over improper stipends",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103007400315",
+          "published": "2026-11-03T06:51:53+00:00"
+        },
+        {
+          "title": "(LEAD) Police launch investigation into leak of presidential plane passenger information",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103004051315",
+          "published": "2026-11-03T05:59:36+00:00"
+        },
+        {
+          "title": "(LEAD) Lee orders review for establishment of cybersecurity task force",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103005751315",
+          "published": "2026-11-03T05:29:41+00:00"
+        },
+        {
+          "title": "NIS asks 2,100 public institutions to conduct emergency cybersecurity checks",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103006400320",
+          "published": "2026-11-03T03:00:35+00:00"
+        },
+        {
+          "title": "(News Focus) Wave of cyber breaches exposes growing risks to S. Korea's digital economy",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103005800320",
+          "published": "2026-11-03T02:47:33+00:00"
+        },
+        {
+          "title": "(LEAD) Presidential office holds emergency meeting over leak of personal data of president, trip entourage",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261103003751315",
+          "published": "2026-11-03T02:14:17+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      }
+    },
+    "hong-kong-markets-ai": {
+      "kind": "major",
+      "title": "中国与香港在人工智能、市场和金融领域加码布局，投资者忧虑上升",
+      "region": "亚洲",
+      "summary": "在市场和科技领域，围绕人工智能押注带来的焦虑，以及中国和香港的不稳定情绪正在升温。路透社和《金融时报》报道称，中国暂停上市审批并要求银行暂缓IPO，以支撑疲软市场；而在美国和欧洲，科技股和股指则因对AI热潮的担忧而波动。另有报道提到，英伟达提醒客户降低对中国的依赖，以及大规模AI投资可能给债务市场带来风险。在香港和内地，这被视为在稳住金融体系的同时继续保持人工智能发展速度的尝试。",
+      "picture": "画面中，一块芯片变成了股票证书和数据塔，旁边还有小吊车在吊运芯片。这象征技术、市场与资本被整合成一场巨大的押注。",
+      "mentions": 31,
+      "significance": 86,
+      "velocity": 47,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Apple and Palantir shares slide in premarket trading following post-bell earnings - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tM0xLUm9BNk80ZHdXVFdMX2RJUmtQV3NpNTBoQ0FtRTBQSmhfb1Qxem4xUHJicVUtWlFrNjF5dlhkTXNJblhpbzNqVHl4V1BBN01ORWFSZVF2Qi1rNUV4NmRHUHZpbGVhZXZkMUI5aFMyN3lX0gF6QVVfeXFMUExvb1ZsZk9fQTZvMjltVTBwblFFclFHcHJPOTdlbURXZFQ1UUJpV2daYTVDSVk3dTVyVGtiSGoyMEtMSGVJN2dtVzFFbENwMG1ZNTM5M1ZhbWNIbE5qMkw4OEVONTZUNnpDbVJfUU54c1FIbDBxd29yOUE?oc=5",
+          "published": "2026-11-03T09:21:17+00:00"
+        },
+        {
+          "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
+          "published": "2026-11-03T08:19:36+00:00"
+        },
+        {
+          "title": "Europe stocks fall on AI concerns, escalating Iran tensions - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0JOZWpKV2J4djQwSkJiWGc4cGVCX1VsN1gwZEJuZFJ4UjRDYXpQanhhRnVPMUJaTGh3NEZqcmxqanFpdXpJdm5SMzhtWmxxZUswaXBZSjBmd3dHWS1ZdVVTbDJ1UG82LVZwQnQ1UUlCMllJWTZFWDFVN29Ca0ZmWnZBZUVvN3NjRF9Ia1VrMFBobXZMY0lDZkRzM3AxcWwxOF9j?oc=5",
+          "published": "2026-11-03T07:24:00+00:00"
+        },
+        {
+          "title": "China halts listings in bid to bolster struggling markets",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1",
+          "published": "2026-11-03T06:25:03+00:00"
+        },
+        {
+          "title": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5",
+          "published": "2026-11-02T17:06:00+00:00"
+        },
+        {
+          "title": "China regulator tells banks to pause IPOs, FT reports - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjN6YlQ3VTFGbEdFbkIwWDc1NzBsaDg3RlUycGtxVE9kNEplZUVNZ3VJbDQyUEFZVGdWcnVZaUdPOFJqTk0tNmhKVi1yVTFGeDE3X1ZHZ3lfNWpDTU1aczAyeEZhSmktNi1WcFZ2WEMyaXZiSTluMFRuQ0FWMi1yMS1RTDM4VHZCRmVEY3BkbC1jN3ctcklXZjJVQnVtQQ?oc=5",
+          "published": "2026-11-03T06:59:00+00:00"
+        },
+        {
+          "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFhBT1lnS0xzTk9POHBCNUlEYmh6d3JkYW9xMnNRQ2gtYWJ3MF8xWDFTVjYwSGhjUjJnTVpRYzlmMFN0RkZtRTFYQkNQRUg0RlVEMDRRTEtOZGRpUFNlQm1IbTZTeDFnRUtoSkgybVBCcXlBLXNxS2U1d0lqNmRoQVBnWDdpdHJsbmwwNkNaV2htRkVlOEJzOWNXYUN3czFQU1VBRVNrQ01mazFULWJjeUdteTBIY3UwMkkxQjlxbXJaQQ?oc=5",
+          "published": "2026-11-03T06:34:00+00:00"
+        },
+        {
+          "title": "Big-ticket tech deals need to keep pace with AI boom but risks remain high, financial leaders say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2xHcnFKSzZIWm80UDJnQWMzYkctWHVoZk1GTTVDbHMxRTFJd0xNaldGNFNMMG1KelBpSUYzU1EwOU83Zk90YnFnSGtDQ2FXVlMtcUl6TFV2LUZCeTByOUFGZGN0UktWWjh4MHNndTdnTnBod1oySTY3OUFmRnNpSkFuQlNUZnV0SUFibVl5VGYxQjkzUlNWMTJZaUY5OFJBY0R2VDZjS1FObEhXX3VsM2NBTUY0WkVaOWlLbmkxVkRXc2hjeEg4Sw?oc=5",
+          "published": "2026-11-03T05:45:43+00:00"
+        },
+        {
+          "title": "Nvidia orders data centre clients to reduce China exposure, FT reports - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDF4VTJJTTNQYW1keXlqU2pZWks4ak1McFRsVFhtYW1XSkxNMC1xSHFiVk1aZjFINmFsY1VXVlN4STVVOXRaSmVIZFNJMG9QdmdJdXB5R3R1dzRidzVpVnJWanNWeGRwREZweFdIWGRGdGhYclhJT2FXYVNWdkpueXVTcTVuZXE2RDJjVXFiUEh4TElDS0k2b3FLMUFoeGxjOVRmRWI4VjYta0tadVFXZ1ZJQ1JFZHJZY3p4cTdn?oc=5",
+          "published": "2026-11-03T05:09:00+00:00"
+        },
+        {
+          "title": "Global markets were already fragile. Big AI bets could break them - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+          "published": "2026-11-03T05:08:00+00:00"
+        },
+        {
+          "title": "AI-related debt binge may pressure European bond markets - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblQ0XzlqZzJsa2FDYW5uSVdhTUluMGpBaEY0NV9hSXNZWUMtMGtBX202UnhyWWR3NmJ5VGtMLUtJOGllZjRfVGZVU05aZFBDQldVT29SOTg0a3owVVkwa000ZnktWmlwaUdWRFg4QzhYNXFCVm1oaGlFRXlzQnJtcjN4T01VN0Y5cmhKdVJoOG1FVWg3WXFIbjI0d3Vhd1Fhanhn?oc=5",
+          "published": "2026-11-03T05:03:00+00:00"
+        },
+        {
+          "title": "Nvidia orders data centre clients to reduce China exposure",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
+          "published": "2026-11-03T05:00:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.393,
+        "r": 0.202
+      }
+    },
+    "western-sahara-peacekeepers": {
+      "kind": "major",
+      "title": "联合国西撒哈拉特派团结束使命，难民等待返乡",
+      "region": "非洲",
+      "summary": "联合国在西撒哈拉的任务在35年后结束，因为安理会未能延长其授权。Africanews和《金融时报》报道说，维和人员正在撤离这一争议地区，分析人士警告称，局势可能升级，摩洛哥与阿尔及利亚之间的关系也可能恶化。另一些报道则提到，难民在长期等待后仍怀有回家希望。但目前当地仍然充满不确定性，政治解决方案尚未达成。",
+      "picture": "一顶空置的联合国头盔放在一只尚未收拾好的难民行李箱旁，前方是关闭的大门和远处一把家门钥匙。这象征维和时代的结束，以及返乡希望仍被推迟。",
+      "mentions": 26,
+      "significance": 68,
+      "velocity": 24,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Western Sahara conflict risks ‘escalation’ as UN mission ends",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/c2b2a523-da80-496e-9d5f-c17802ee2eb3?syn-25a6b1a6=1",
+          "published": "2026-11-03T05:00:13+00:00"
+        },
+        {
+          "title": "Six things to watch as US voters decide control of Congress - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmhIdWxtdzRFOUc3OGNONWhFSko0VE1veTIxZURBRXpGQ01BLXphRHdKc1ExUktTUVFpUWxLdWxkQldXTWJ0Z2JabVJ6Y011R050OHFVelhXTXZmZTZLLTdTZ0k4X0pKd2Vsc19zd3BSUmxYMVZsVXBmRzN1NWwyZkE4dmJFSk1kWHg1Y2pKM0FxLXVtVnBjelRvaw?oc=5",
+          "published": "2026-11-02T23:14:34+00:00"
+        },
+        {
+          "title": "US judge dismisses Trump administration’s Harvard admissions probe case - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0FlbFNLVmRFcVg0SFZ5dFR2ZElVdVRQNzJpSHBzdTQ1ZmM1cWhzcng1dlV5MUhac1B6SHlSZzBrOE5zYVFOUnE2Wm1kY0huOTVCY1djRXdiQWV3Q1VNY19TTTc2eUtuSlEyemNPZU53dHdNaU5oQnU3NV9TZVJSZWN2cWN3eHBIVGZMNmlvRkhxajU2Qlg0dnRnNlExMk1BWTU5YXRlMVU1WHRMeVE?oc=5",
+          "published": "2026-11-02T22:21:33+00:00"
+        },
+        {
+          "title": "UN peacekeeping mission in Western Sahara ends after 35 years",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/02/un-peacekeeping-mission-in-western-sahara-ends-after-35-years/",
+          "published": "2026-11-02T10:47:26+00:00"
+        },
+        {
+          "title": "Yemen's Houthis advance to within 80 km of Aden, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRCZUUyWF9VckZ3NWJGbUV2Z3luSldoNGZIVk1zTkN4MEZ1ajdSZm4zYmNLYjhVbU5TQU9yYTU2YVVrSFY3QzNPU21wT2EwVlFlRG9mMGxkeG84RHptSzlsOUw3Zmd6SHRqZGdzM1UxQnpWZlZ4MFJSYTFTZ296c2U1T1NGZFBqd3hnazg3clVMUFJ4SWNzYUtjOVoxY2FHMHpzY3RKZkNudw?oc=5",
+          "published": "2026-11-02T20:23:43+00:00"
+        },
+        {
+          "title": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0RNNGF6STZZTWZnNUR6RlNqeHhRLTA2SklRVUlRMzFDTlV4SmdzUWxUOVp4YkNSWTlYQmgxaFpubE5jeGJPNnpYQVNPWEVoN3JDOHFhSHlHd2dLTTMxSWlTbkF0OVRJUGI4RGg5QkdBQkMweGN0cVA1clRFYTl3Mk40cnA3WFFKNktxcEdpQU9aNkp1c29wdGV3ZkVCLXNUNnBMZlN4WUJuLXQycjBZWUtIN1MzbUUwZkIzU1VZRFQ?oc=5",
+          "published": "2026-11-02T10:35:40+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.714,
+        "r": 0.151
+      }
+    },
+    "india-protest": {
+      "kind": "major",
+      "title": "印度面临通胀、抗议和自然灾害的多重压力",
+      "region": "亚洲",
+      "summary": "印度正同时应对多重问题：极端天气冲击、食品通胀和社会紧张。半岛电视台报道称，气旋 Murasu 已登陆东海岸，造成树木倒伏和电力线路受损；路透社则写道，粮食价格持续上涨，从谷物到鸡肉和牛奶都在上涨。该地区也有抗议活动，不过在这组报道中主要涉及邻国孟加拉国。总体而言，当天的局势是，家庭和基础设施都在自然灾害和物价压力下承受冲击。",
+      "picture": "一大袋谷物周围聚集着人群，顶部悬着一张裂开的价格标签，风暴的旋涡在上方盘旋。画面把物价上涨与自然冲击结合在一起，表现它们同时压迫民众。",
+      "mentions": 26,
+      "significance": 69,
+      "velocity": 44,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Cyclone Murasu makes landfall on India’s eastern coast",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
+          "published": "2026-11-03T09:33:18+00:00"
+        },
+        {
+          "title": "Расписание подмосковного транспорта изменится в День народного единства",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/obschestvo/28281749",
+          "published": "2026-11-03T09:00:41+00:00"
+        },
+        {
+          "title": "Air India seeks more wide-body jets, sees profitability 'very soon,' CEO says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEY1QllfLVNKb1piQ2RycTlUWkNueG4tWnppZzVxaFJFcUZoVXZFOXJDa1lwNENhdGhNU0twTFgyMXUtRGJWcXc3QTBjQnRqdEprLUgtYlg4Y2VyVW1KbHhFSDBTX2V4OUtDUmEwaEpITmxnNnJXMnlLMkVnLUJ1alFyNHhkbjFLLWN4MTFSSGQzYS1zR0ZtTjBmMEFMTUlscllycTlqTzNSek1SZzM4NklCSVVZcUVxYlhabU1B?oc=5",
+          "published": "2026-11-03T07:51:00+00:00"
+        },
+        {
+          "title": "India, Israel vote against UNGA draft on regional conventional arms control",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece",
+          "published": "2026-11-03T07:00:35+00:00"
+        },
+        {
+          "title": "Bangladesh garment workers stage fourth day of wage protests - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0VYQlJKckJ0eWh5QVdLX2tDQ0JXMjkxS1BDMUw4VkNRMDBkR0g0OTJTM0FCTEk5UFlQelVad0hRN252YW8yS01qdGJTaXZ5VXp3ZDJpMWN1U01vMzFGMDlRMVg4eW15NGh0YWMtSHlGaDFFVU0xc180Mlpxb29zRXM1MThtNkdKc3V5Vml4YklsZjFISURyN294azJpSXdkZkUwZWJNNUowYVdmLW9TbzlFaDZac2c5a0E?oc=5",
+          "published": "2026-11-03T07:37:00+00:00"
+        },
+        {
+          "title": "From grains to chicken and milk, India faces prolonged food inflation - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
+          "published": "2026-11-03T06:33:00+00:00"
+        },
+        {
+          "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
+          "published": "2026-11-03T05:27:56+00:00"
+        },
+        {
+          "title": "Indian national killed after two helicopters collide in Nepal's Mount Everest region - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUZVUllrZGwycGFhTjBKcnB2eVg1Sm1yZUlUUTUzaG1kQ25qX3FfVE1fdG9GdTgtUXlMNFA0RE5jMm0wOFNsMHBNWXpwb3NfM3dWUXNiY21aM1lOQk5yTm5SZkVzT0M4Mk50UWFzQ0xCUlIxRUFoMEpJb1U3VjlFejNSSWc2R0UwTFRJd0tkRTlkY1FzcFVXbVBfM0FCeUFsaXp0NHNMWkVPbjIzZmtvWGlMa2JzSzduY0w2LXJ0MUZCLWtSYUhn?oc=5",
+          "published": "2026-11-03T05:04:00+00:00"
+        },
+        {
+          "title": "Indian shares extend gains on softer oil, strong earnings - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVNvY0lPbFp1SlNTR1BlbUstUy1iMUtZcGJzSTBxLXVBdEpWajhoT0RuWklLUkxfM1dFd1pWLVJxMnlaQzFnQzVyMUJEVC1sbVJGbmJTd2p5RGhNaldxbkNicjBvNWJ4dXoxS3RobzN6NTRzeDM5TV9fME1FTTJWM1JaNVNvM0JsSGRXTWQ1TG03MmlGZU43TVJyS1NHT0xGRWRpXy1ETkx1Q1E?oc=5",
+          "published": "2026-11-03T02:38:00+00:00"
+        },
+        {
+          "title": "US voters in a sour economic mood heading into midterm elections - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGRVbTNjVkVkWHA5anlUV0l1YUhUUjM2Zy1DOGg0T2l2V0Zqajl2TzVpUW5Wc2s1ZkF6eTRNSmNNMWZCUEZqM0ZjUHNKQ0NkZkNGdlY3U2xHcWhBTUdzcXBnd2p2Z0VjUWFiQ3JRYkdvbTR2NUdnZUlnZHU4ZjY0OTIxa0NSbGhXWE1Yc1A5VmZHQVQ3aEJzcHhHNFVqVTNFa3RKazBydW9TbnBEUlo0aEM4THZmQQ?oc=5",
+          "published": "2026-11-02T21:48:04+00:00"
+        },
+        {
+          "title": "Cyclone Murasu makes landfall on India's eastern coast - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjBFTFduRXdIeGJiVnJ5cW1pTHpxa0hGTk1jLVJBeGdwemxmUzBYZ09CNEpkdG9FQzBITi1uSE5MdDgtMnZ3dWRWck55cV9Wa212STB5RXJ5TlFGa3p3NkdLV2VUbld2bjFmZllQUUpka2gxaDBPY0FzaEF6WVpGUGVfdEc0M2dQWk1Qc3BPWmw0Q2Q1bVJLUElqbEY3Y1RrOWF3N09tNTRhbTB2RVROdnF6U2ZLUQ?oc=5",
+          "published": "2026-11-02T21:06:00+00:00"
+        },
+        {
+          "title": "UK exempts care workers from plan to impose long delays on immigrants seeking residence - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlDMjA3R2E1a0lESG95YlBSVWYxTFJOWnQtajNkQ3otV2dmTEFUd3AzWFlreFpjd0hfY0NZVGhDQ0Z3ZDhUUThtTjlOZWktY3BJUHFMb3Ytcy1QUXNVOWt4NjJoMlBoemtjWDVyQkxWaXZTRVFpX1pCZ3EweFdoYUUyTlhzWHlVX2M2Rkt4VUs2RGpKclo3WTByRm94RWpucjBpbQ?oc=5",
+          "published": "2026-11-02T18:22:19+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.792,
+        "y": 0.833,
+        "r": 0.21
+      }
+    },
+    "gaza": {
+      "kind": "major",
+      "title": "以色列对加沙的空袭持续夺走平民生命",
+      "region": "巴勒斯坦",
+      "summary": "加沙地带的以色列袭击仍在继续，平民不断死亡。半岛电视台报道称，4人死亡，另有一名巴勒斯坦人因伤不治；《印度教徒报》则写道，汗尤尼斯和穆萨达尔两次空袭共造成3人死亡。在此背景下，阿拉伯议会再次强调巴勒斯坦人的固有权利。从更广的背景看，相关报道提醒，自去年停火以来，加沙的死亡人数一直居高不下。",
+      "picture": "废墟之上长出一棵小小的橄榄树，旁边躺着一只破碎的摇篮，上方一枚撕裂的炮弹正落下。这是生命在持续毁灭中努力存续的象征。",
+      "mentions": 26,
+      "significance": 92,
+      "velocity": 56,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Arab parliament reaffirms inalienable rights of the Palestinian people - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXY2QzlxRTBIUmtFczUxREhrMlVfYU1WNjctU3d6NGI1ZUFHd1NFOEFsczF5eWJhUWdjempma2tDQmpHd0RCMU5CeFNOU0hUcUlGWjc3M3F4NGk0U2w5RXdyM0p4YXRhSnRUb3d1elkxdmdlcDJsUHh1dTF6YTBDNzFZeFpRM0c5eEp5Skw3eXVBc0ZUTWR4TjFfd1Q2RFMwNnoyekNNaVg5ZFVibFdKOERWWUR5UQ?oc=5",
+          "published": "2026-11-03T07:10:52+00:00"
+        },
+        {
+          "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+          "published": "2026-11-03T05:02:34+00:00"
+        },
+        {
+          "title": "Зеленский: Россия ударила по школе в поселке Камышеваха в Запорожской области, где раздавали гуманитарную помощь. Погибли 29 человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/02/zelenskiy-rossiya-udarila-po-shkole-v-zaporozhskoy-oblasti-gde-razdavali-gumanitarnuyu-pomosch-pogibli-18-chelovek",
+          "published": "2026-11-02T17:26:12+00:00"
+        },
+        {
+          "title": "Israeli strikes kill three people in Gaza, medics say",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/israeli-strikes-kill-three-people-in-gaza-medics-say/article71657806.ece",
+          "published": "2026-11-02T16:17:49+00:00"
+        },
+        {
+          "title": "Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjlKbmNTallHanZObnRZcmpzeUNfR0s1TTJ2MzVkWG9VLW9PTzJ4NWlNdWpKSnV0U3ZwWlVRMGxQTHB0ak9IdEdZVlJyNEFqWkFUbm5EdVlOd2w3V29vWFZraFFaVVY4Zm8tMXloVUMwSUE1cEF3U0pYTDBWc1kzejU0bkxfQzYwNHNiVEZzVmpZZWxiY2ZlVVMtYlR4bXZrMFJPZUszZ0h5dnUzYVN2WjJmLWc1dlk2clJUTFFR?oc=5",
+          "published": "2026-11-02T19:54:55+00:00"
+        },
+        {
+          "title": "UNRWA’s Gaza employees march against job cuts - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGlaTFVnVTctdXNlYlYtVzlDcU9JNm10YUNaRG9vVUR4bkc3LXNpUjM5VjhESkFOcVhtbVVfTEhwTWVpSlYya2ZXQ2lfWWIwWkFNalNIblNWYnFPYjFUbm9xSmlUeW9hOVFhLWthRTg5YWxzeWJTZXl6UHJGMEVNenJUSXBxMEZlLVduZXRORjcwS2s?oc=5",
+          "published": "2026-11-02T16:40:43+00:00"
+        },
+        {
+          "title": "Displaced Palestinians return to their homes in Hebron after Israeli military withdrawal - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV1g4RzNoamxHQXFkal9yTGJPVWRUVnR1SnJjWmt5U1RxbnljLTB5ZHZDT21XS3Q1S3BvZkFTZXV3eTJCSE93Qm4xRjNKcFdOdE1Lbkp0MkRTNjMxSlROcDFmOFoyMmZJMHN4RmQwdnlYZzJuOGVqYzUzUERRNGhQRlNrMl9NNHVNUmQ0ZUp2a2JWTHVyVXBKcjlGbEJhYzRjSm5FMTd3cUlRUGticFFwLWZEaDd5QjcyOVdIcTBGTDJYOUpFS0x4eC1PemFNdw?oc=5",
+          "published": "2026-11-02T16:11:11+00:00"
+        },
+        {
+          "title": "Hezbollah announces aid to Lebanese displaced by war with Israel - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWlpY29iY1NyRHlBdWpZLUlUMnpmZDdubk51MWdKdXlRbWZFT0p4b0o5NlJSTV9OM2pJT0NHMjBnSzJhSVdNekZSS1NPNGdOVWJVMS1QRUtLYmp3a25rNG5SQzZGTE1vcDlnUUNYb0J5ODBUZGRPSGpVY3g0ZnN1enVLVFR0ZnA1ek9VTHRzSEpjU05OUS1TbmJLeXkxVzdxYXpPYjJtdm9VVDVFOWc?oc=5",
+          "published": "2026-11-02T14:41:12+00:00"
+        },
+        {
+          "title": "Spain deports African, Asian asylum seekers to Morocco amid rights group outcry - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0NMSEFlRnlTQmlvVEpjRllWS1VYR3dkalNDTjVZcWNtd0EwMFR6OTlVLWtmb2phOF9jMUZsWW9XY3JyenZRRFIycXBoeUtrcEU3MFJadU5SM2NLNkppN3dSQjF1Vk9RYnlRclZiQml3OGZNX0twd3E1bjlQVEJjcTJDOWNudnZnS0hMQlpuR2MwR2pZNGZFNUhRZ2JZT2FFem9PVHZoeU1jU3FudUdYb1lKT19kV0V6?oc=5",
+          "published": "2026-11-02T14:29:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.857,
+        "r": 0.151
+      }
+    },
+    "yemen-houthis": {
+      "kind": "major",
+      "title": "胡塞武装逼近亚丁，也门战争再度面临扩大的威胁",
+      "region": "中东",
+      "summary": "据路透社报道，胡塞武装正在向亚丁推进，距离该市已约80公里。与此同时，也门领导层正在改组内阁，并讨论应对胡塞武装袭击的下一步行动。Arab News 还报道称，一次针对医疗中心的袭击造成5人死亡，而也门军队在24小时内对叛军阵地发动了数百次打击。各方消息显示，这场冲突仍在持续，并可能进一步升级扩散。",
+      "picture": "地图上画着一道裂缝，一条像长矛的道路向前延伸至港口，上方则缭绕着被击毁补给纵队升起的浓烟。这象征着一场可能演变为更大规模战争的攻势。",
+      "mentions": 16,
+      "significance": 74,
+      "velocity": 56,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Yemen announces cabinet reshuffle as leadership council meets to discuss Houthi attacks - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbl9XUl9xMXEzM3ItdWNSZWd6VkR5dHpkRDRHbzBiczhkU1poR3MtMnRqX18wR0RqUGdscEpEc2JidTRoWnRrTW1ENzlvN1BhRzZoRDE2Tk1hdVdTOUVSakllR05sLXVvS1M5M0ZtVng1eC1ldVlieGgxZkJjd1dGYVNpVFo2azlaWmVtb295YUgwTHdFVG1FaVpMMndXVFNJTlFTZnRtbWZ6dWhHLVQtYm0xYnhVZTB0T05wWTlIQ3o5WERBY2FjZFRfUHA?oc=5",
+          "published": "2026-11-02T21:21:10+00:00"
+        },
+        {
+          "title": "Yemen's Houthis advance to within 80 km of Aden, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRCZUUyWF9VckZ3NWJGbUV2Z3luSldoNGZIVk1zTkN4MEZ1ajdSZm4zYmNLYjhVbU5TQU9yYTU2YVVrSFY3QzNPU21wT2EwVlFlRG9mMGxkeG84RHptSzlsOUw3Zmd6SHRqZGdzM1UxQnpWZlZ4MFJSYTFTZ296c2U1T1NGZFBqd3hnazg3clVMUFJ4SWNzYUtjOVoxY2FHMHpzY3RKZkNudw?oc=5",
+          "published": "2026-11-02T20:23:43+00:00"
+        },
+        {
+          "title": "Mines, disguised bombs threaten civilians fleeing Yemen’s front lines, says HALO - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdE9KTDJLVjdFTThNMHhlVl85WXpfTlM0TVhRN1d5SS1pQXI3ZXlEMVVRT1ZXWmpfYTk5am1WQjB2anRHZVZKUzBHRHFGUGZWM0RyNG1QT2ZwLTlnUTlRLVJjdzJENHFWVk4wWEdHbm5xUlM2OXZKZWl4ZnV5azVTVEJWZGhsYjRxenFxc1QyaXVjYm5hQkJxeDVYc0FpMkI1bVA3NVVwdEUyTVQ5S3c4TnZWeTZfNkYzMF9FTmVLRQ?oc=5",
+          "published": "2026-11-02T20:59:35+00:00"
+        },
+        {
+          "title": "5 killed in Houthi strike on medical center as Yemeni army carries out 951 strikes on militia targets - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHhhRFZvdmVkTVhLaWtXS2tQVk95VU9EbDFWejUya0lPN1BGU3VHRHU3cW5zNzMtdEhpcDlqN21PaWdKX2E2WHVnQ29feHJkRVpxYnZqLVI1ZWpKcmJJZUhqTkI4UklZZ0E5TWdxYmZSMXZ6dVhpaWJKaXJSbnFubkVoS3FHNTI3bXBON3FIblByR291SEFSdXZTUDFPSUZoN1ZVanVxZlBqY0Z3Wmd1dE9wZzNJNFhpMW1pUTRYbDFSWmhoeXdwR1dYc3ZycVRud1dGLS1ycUZTMXMzUGg4?oc=5",
+          "published": "2026-11-02T15:52:49+00:00"
+        },
+        {
+          "title": "Yemen army carries out 951 strikes on Houthi targets in 24 hours - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3pTTmgwbm84YWpIalZCMlpHc0pfRGdwWTNsaGo4ekxxbEFFbUowMDNKc09QUG03T0RpNG5WTzVNTkIyOFVjSUFHU3RnRnhiTlhKZUhLQmZpcGVWa2xGMTg4aHAwV252UTJnYi1tSk15cnVFUk1zMlRDX2NIbWF0cnZDWkR0UWlCaWxBaWJiNnBqXzBvNWxxdWpNRU9mTm43RUIyQ1dETkdpRFd6bFE?oc=5",
+          "published": "2026-11-02T15:52:49+00:00"
+        },
+        {
+          "title": "5 killed in Houthi strike on medical center as Yemeni army carries out 951 strikes on militia targets - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHhhRFZvdmVkTVhLaWtXS2tQVk95VU9EbDFWejUya0lPN1BGU3VHRHU3cW5zNzMtdEhpcDlqN21PaWdKX2E2WHVnQ29feHJkRVpxYnZqLVI1ZWpKcmJJZUhqTkI4UklZZ0E5TWdxYmZSMXZ6dVhpaWJKaXJSbnFubkVoS3FHNTI3bXBON3FIblByR291SEFSdXZTUDFPSUZoN1ZVanVxZlBqY0Z3Wmd1dE9wZzNJNFhpMW1pUTRYbDFSWmhoeXdwR1dYc3ZycVRud1dGLS1ycUZTMXMzUGg4?oc=5",
+          "published": "2026-11-02T15:52:49+00:00"
+        },
+        {
+          "title": "King of Jordan vows crackdown on terrorists, says they will not be allowed to threaten national unity - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQME40MEJ4VEtnVXB2NDJqZk9IV1pkNlhDZjlpQVkyX244NGE0eF9kcXN1NUxoWVZPZFh2cmlwb184Z2lLOG0wYTB3Y01GOUwwU2dCQl9NMEJUSE9YU1RCcHFvMmhQbHJXbzlydkJvbkNGdWtLcndtMEtLZ21NZ29DNC1WR25qSFE4bmpaS1dBektIOEs0R2ZkSU1zd29QR0ZXQUY3UXNQZUo1Ti1meGFjY0R6aVlTM0NjRmllZE9oV1o0QjhWSFVCSWV5TmV3clFmbEJtQ0hMOFJHSUM1bmc?oc=5",
+          "published": "2026-11-02T10:28:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.463,
+        "y": 0.579,
+        "r": 0.221
+      }
+    },
+    "walk-around-world-ends-at-moms-door": {
+      "kind": "micro",
+      "title": "旅行者在母亲家门前结束了28年的环球步行",
+      "region": "世界",
+      "summary": "英国旅行者卡尔·布什比完成了长达28年的环球徒步旅行，回到了赫尔的母亲家中。Euronews、PBS、《纽约时报》、美联社和法新社报道称，他从智利出发，几乎没有借助交通工具，跨越了多个大洲，行程约5万公里。相关报道强调了他与母亲重逢时的情感场面，以及这条多年旅程的象征性收官。这是一段关于个人毅力的故事，而非政治事件。",
+      "picture": "疲惫的旅行者在家门口拥抱母亲。这个朴素的画面象征着漫长旅程的结束，以及终于回到起点之地。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "British adventurer returns home after 28-year journey around the world",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world",
+          "published": "2026-11-02T21:25:52+00:00"
+        },
+        {
+          "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGlSVTJ5dDhqLWo4cTNwR3huT3NXUW9lS0Y5ak44SE1uUVpjc0J2R1I2cEsxcXl6REFjWVBaWndmRzF3SnNfaWw2SEp6bVNiLUg0cktFc2FKTVdtSEpMMi1iVVFRcktMX0tfZFd6bEd6ZVZ3UWlYeHhaMk90Zy1IeXpTeXlybF9IMUtFR0tnQVRaN2FSZEp3NG9sZmtlM1FKMkFCNFhfWmVfZzhhOU42OHBB0gG3AUFVX3lxTE5idGxndmlKTWVIMEx4bEdCTC1OS0p3UjZkNUdVdjNGRjk4TW1waFBlSEZCOTAxWmt0eHlxR2w2Z0FhZjBqRTVUZFJ3dXpzZlpIdjRZMTFfYjlLN1ZILUY0dVdHSFFzSmVyY1J5R1p3cG1NMVdleXJ0a2t6NXZwLXljRFFTZEhhNzltQmphWm1kYWlQSTdoZnFvOFdhRWNaZHFiQlNvbFNGUk5SWWV2emwwVlRWdWpaMA?oc=5",
+          "published": "2026-11-02T21:12:12+00:00"
+        },
+        {
+          "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
+          "published": "2026-11-02T20:00:28+00:00"
+        },
+        {
+          "title": "Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZG8yWEUtOVpibGVzRGlfaFRDMnFuaXNka0NOck91MXhHS1huenFKSFpRM0pMZnFoZkpGZlYta0JDNW14VGJCQ0Rmc3VkZmt0bGZfYldXdU9nazZrUDN5bXpnQUg4bExFb281NHBlYWtBNjJaYmcycUUxMkpzWjVtaUFWTnVzNG45UHR2YjdVZVZwRnNnUURjM1Vqdw?oc=5",
+          "published": "2026-11-02T19:00:00+00:00"
+        },
+        {
+          "title": "UK adventurer ends epic 28-year trek across jungles, frozen sea - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1k5eC0ydm42bGVnV3JVZkVscVNXazF3MkUzdUZjRDlYMUExWXUxREk0RWwyeGN3enF6MjlWSmRoc2hOdFl4aWNYS0NZa0lCb3dsVm5yMlBOa3BGOHdDcWRZdGw2bVpxOFdRRDZFTUE0ZUZXNGxxWGtBNk5TQjNLMDB3ai1JQVJPT0lIb1ln?oc=5",
+          "published": "2026-11-02T18:04:01+00:00"
+        },
+        {
+          "title": "Aventureiro completa volta ao mundo a pé após 28 anos e ganha documentário",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/aventureiro-completa-volta-ao-mundo-a-pe-apos-28-anos-e-ganha-documentario.shtml",
+          "published": "2026-11-02T14:38:00+00:00"
+        },
+        {
+          "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-02T12:31:00+00:00"
+        },
+        {
+          "title": "Epic 28-year walk to cross the world ends at his mother's door. A look at the trek, by the numbers - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVdRMWFURlB0MnA0TWV6U1dtMFp2dXdFNjJUakdXd2RlYzN3UDAwVTJYT1dTbFBhMTM5UDV0QlM4d0h3Szh0elllcTl1Q0ZlWTBVSkJKZ1d5ZFhGaU1ESEdyQW4tVURPeC10RW9YZFhUeWp3cGNqYk9GTFpCdGJ5WVdob29xY2g5djBpajJDM0tEeXBnYW00akV6ZzVLOWMzSlE?oc=5",
+          "published": "2026-11-02T17:06:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "fossil-red-blood-cells": {
+      "kind": "micro",
+      "title": "恐龙化石中发现红血球痕迹",
+      "region": "世界",
+      "summary": "科学家在巴西一块恐龙化石中发现了红血球痕迹。路透社报道称，研究人员找到了类似红细胞的迹象，而《卫报》补充说，在Aratasaurus骨骼中，化学测试检测出了血红素——一种与血液携氧有关的有机化合物。研究者称，这对古生物学来说是一项罕见而重要的发现。报道强调，这些是在约1.15亿年前的骨骼中保存下来的古老生物学痕迹。",
+      "picture": "图中恐龙骨骼在显微镜下被放大，内部可见微小的血细胞。这个画面象征着一项罕见的科学发现，让人得以窥见遥远过去的生物学细节。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYng2emNYbzh4ckJ5Sy02X0x6V3YycjloVHRaQ0VRRE5iWE4yaVRaYklrUklKYkEyMXFfWWFSSTVTN2o2Rl90Y1lrS1Fsb29LQ2FoWjlZTHZYOHUtQjFLbzdLamlwd1VIYkh2RjF4Y2x3R1p5Y2pYendVVlJlUk41cDRvdVVYcnhvOTNKOHRfUzdHUEhXMnhzb3M1U3U?oc=5",
+          "published": "2026-11-02T20:03:44+00:00"
+        },
+        {
+          "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+          "published": "2026-11-02T20:00:27+00:00"
+        },
+        {
+          "title": "Traces of dinosaur blood found in world-first discovery - The Conversation",
+          "domain": "theconversation.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVR6YmVmNFNwcFNTYjVwS0d5UlprcHR6Q3FZXzhON0wwZTNIbXpfVkw5M0Z5M1JyalhGSnc5WXlyYkVYV3VtSjR3c1BwZW9kQXJlTW1PTTFkSm9hSmJIT3p3MVZYTE5YODl3MWUyai1OSTRjVDg5a0lpQmVHckZkVWRhTFBqemVVcG03QXdMX2oyUElI?oc=5",
+          "published": "2026-11-02T19:59:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.571,
+        "r": 0.125
+      }
+    },
+    "capybara-baby-orangeutan-zoo": {
+      "kind": "micro",
+      "title": "动物园因幼崽和罕见命名带来喜讯",
+      "region": "世界",
+      "summary": "美国弗雷斯诺-查菲动物园为一只苏门答腊红毛猩猩幼崽取名Marigold。多家地方媒体称，这个名字是在对一只新生雄性或雌性幼崽进行公开讨论后宣布的，而小家伙的诞生也为动物园带来了值得关注的积极消息。报道对该动物的健康状况着墨不多，但提到游客和工作人员都感到十分高兴。",
+      "picture": "一只小红毛猩猩举着写有名字的牌子。这是一个温柔而欢快的画面，突出了罕见新生和对物种保护的关注。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Fresno Chaffee Zoo names baby Sumatran orangutan Marigold - KMPH Fox 26",
+          "domain": "kmph.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXVaejFfb0xRRkJMb0ptWC1rdlE5UGhJWFRwd19Uenl5c0JySHpYYUNtX1p6TWFEYVRTVThULVdCSDR6ZmdVZVcwdkdOR25SakIzbUJMUDZxVnVjNTJHYnoxYVZpUFM0dmN0QTc2YW5MdWRLcmF5cWFLenZnN0M2VTFMaEJzSGxybU5oRDl3?oc=5",
+          "published": "2026-11-03T06:23:45+00:00"
+        },
+        {
+          "title": "Fresno Chaffee Zoo Reveals Name of New Baby Orangutan - GV Wire",
+          "domain": "gvwire.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY183d1NNSG5IXzF2UUFrVzNKdGZ5eU5oaTdIX0VwcTNrSUtCVnZVVDdEeE5WSW5tOERMQlRZQktKRjRiOVNZRTNhNkxYMnBfV0tpSG5HRHhZQWRUdXlqRmF6cnlnUlhKdVhxODNVOWNqb1BKTXh6bWc2bld1U2JobmtiQUZySGttRHB0Tg?oc=5",
+          "published": "2026-11-02T22:36:13+00:00"
+        },
+        {
+          "title": "Fresno Chaffee Zoo names baby Sumatran orangutan Marigold - kmph.com",
+          "domain": "kmph.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUhNUDNmSW1EclJrUERWWktKYm82RHlZek8xQmpmYnA2aW12YV9sS0ZWZmNNM1hnX1pGeHZMV3d3UUhETkJjMWxPaG9yRE1Ed3JBMlQzcVpKeE9MVmJWNGlVY2tPWk12RHdpNEk4eFdTeXl3TldNZGM4bnk0MlRITnV5SWhtS2FMV3czU3gzX3hqaGVsWlVaMA?oc=5",
+          "published": "2026-11-03T05:53:12+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "fat-raccoon-rescue-and-hawk": {
+      "kind": "micro",
+      "title": "有趣又暖心的动物救援再次登上新闻",
+      "region": "世界",
+      "summary": "美国各地持续出现有趣又暖心的动物救援新闻。UPI 报道称，弗吉尼亚州一只鹰“太胖了，飞不起来”，以及德克萨斯州一只浣熊头部卡在树洞里，最终被消防员解救。另一则报道则讲述了堪萨斯州警长办公室一只失踪后又被找回的警犬。所有这些故事都以顺利收尾的本地救援事件为共同点。",
+      "picture": "一名消防员怀抱获救的浣熊。画面传递出帮助与释然，定格在一段虽小却颇具戏剧性的城市故事结束之时。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Hawk found grounded in Virginia driveway was 'too darn fat to fly'",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/02/red-shouldered-hawk-too-fat-to-fly/8221793653698/",
+          "published": "2026-11-02T21:12:28+00:00"
+        },
+        {
+          "title": "Watch: Firefighters free raccoon with head stuck in tree hollow",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/02/Austin-Texas-raccoon-tree-hollow/1931793644423/",
+          "published": "2026-11-02T18:35:50+00:00"
+        },
+        {
+          "title": "Look: Escaped sheriff's office service dog found in Kansas",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/02/lyon-county-sheriffs-office-police-dog/6881793636561/",
+          "published": "2026-11-02T16:25:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "horse-wins-melbourne-cup": {
+      "kind": "micro",
+      "title": "曾归国王所有的一匹赛马赢得了墨尔本杯",
+      "region": "世界",
+      "summary": "曾归查尔斯三世国王所有的赛马Point of Law在澳大利亚赢得了墨尔本杯。BBC和《卫报》报道称，骑手伊森·布朗策骑该马；《卫报》还提到，这匹马是在追赶Royal Supremacy后夺冠的。这是澳大利亚最重要的赛马赛事之一，被称为“让全国停下来的比赛”。",
+      "picture": "画面中，一匹赛马率先冲过终点线。这个画面直接展现了赛马胜利和最后冲刺的关键时刻。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Horse sold by King Charles wins Melbourne Cup",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T05:15:11+00:00"
+        },
+        {
+          "title": "Melbourne Cup 2026: King Charles’ former horse Point of Law storms home to win",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-point-of-law-winner-result-places",
+          "published": "2026-11-03T04:30:50+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "rugby-player-wife-birthdays": {
+      "kind": "micro",
+      "title": "橄榄球和足球带来关于回归与逆转的少见故事",
+      "region": "欧洲",
+      "summary": "这组媒体报道并非同一事件：内容包括费利佩·孔特波米作为阿根廷队教练重返都柏林、埃弗顿和纽卡斯尔面临的问题，以及底特律雄狮队杰克·坎贝尔的伤情。BBC和《卫报》唯一一致的是，坎贝尔颈部受伤后，最初恢复迹象被评估为积极。其余文本涉及不同体育话题，并未描述一个共同事件。",
+      "picture": "画中一名橄榄球运动员重返球场。这个形象传达了伤后或休整后的回归之意，但新闻中实际汇集的是几则不同的体育故事。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "How 'student of coaching' Contepomi took unexpected path",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cr1exqyyjjxvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T08:14:47+00:00"
+        },
+        {
+          "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
+          "published": "2026-11-02T22:04:11+00:00"
+        },
+        {
+          "title": "Lions say signs are positive for injured Campbell",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/american-football/articles/ck9qz90z951po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T21:45:33+00:00"
+        },
+        {
+          "title": "Lions’ Jack Campbell remains hospitalized after ‘scary’ neck injury but initial signs are positive",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/02/lions-give-positive-update-on-jack-campbell-after-scary-neck-injury-sends-linebacker-to-hospital",
+          "published": "2026-11-02T21:15:43+00:00"
+        },
+        {
+          "title": "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/crz654jdzdqpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T16:21:12+00:00"
+        },
+        {
+          "title": "Borthwick turned down my offer to work with England - Edwards",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmp3g0j2dvklo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T15:47:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "old-cars-run-london": {
+      "kind": "micro",
+      "title": "伦敦再次迎来最古老的汽车上路",
+      "region": "欧洲",
+      "summary": "伦敦举行了年度伦敦至布莱顿老爷车赛，参赛车辆是英国最古老的一批汽车。Euronews报道称，为纪念汽车诞生140周年，1905年以前的汽车驶过伦敦历史街道，随后前往布莱顿。这是一场展示性的复古车行活动，强调交通史的传承。",
+      "picture": "画面中，老式汽车缓缓行驶在街道上。这个形象意味着历史悠久的汽车巡游和老技术的庆典。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Britain’s 'oldest cars' hit the road for annual London to Brighton run",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/02/britains-oldest-cars-hit-the-road-for-annual-london-to-brighton-run",
+          "published": "2026-11-02T18:40:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "king-and-queen-rain-antigua": {
+      "kind": "micro",
+      "title": "安提瓜庆典上，国王和王后遭遇大雨",
+      "region": "世界",
+      "summary": "查尔斯三世国王和卡米拉王后在安提瓜和巴布达独立日庆典上，于Sir Vivian Richards Stadium 遭遇大雨。Euronews报道称，他们被倾盆大雨淋到；路透社则特别提到，国王没有带伞。这是一次安提瓜访问期间的官方仪式。",
+      "picture": "画面中，国王和王后站在倾盆大雨中。这个形象传达了露天仪式上一个略显尴尬却仍属正式的时刻。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "King Charles and Queen Camilla caught in heavy rain during Antigua celebrations",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/03/king-charles-and-queen-camilla-caught-in-heavy-rain-during-antigua-celebrations",
+          "published": "2026-11-03T08:26:14+00:00"
+        },
+        {
+          "title": "Charles left without umbrella in rainstorm fit for a king - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFcxajFVdE1sQTZZS0FEem9WMmU0RU1IWkVhQkJjSHBLOTExX05zTEhYWXphYmlJdWQzOUI1NzdRaHYwMEFLdkZGb3pyZWNsR2ZaYktGSTdUczVGcTVVWHJkbEE2NW9lVGppbVNoeXpDbldURmx4eWpSZzBXaS1saHJCOHY5cDVab1BKVUpSQnU2WkhYeU9zSERXT1lVcERKQVFXQktVSFRfS1k?oc=5",
+          "published": "2026-11-02T13:45:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "apple-foldable-leaks": {
+      "kind": "micro",
+      "title": "关于折叠式iPhone和新屏幕的传闻点燃了科技迷的兴趣",
+      "region": "世界 / 加密",
+      "summary": "媒体报道了围绕折叠手机和屏幕技术的新传闻。BBC称，苹果并不确定何时会推出更多折叠式iPhone Duo设备；9to5Google则提到，Galaxy S27 Pro 和 S27 Ultra 可能配备更有前景的 Privacy Display。这些都不是已确认的发布，而是关于潜在新品和有限供应的消息。",
+      "picture": "画面中是一部展开的折叠手机，屏幕发着光。这种形象象征着未来的折叠设备，以及人们对新显示技术的兴趣。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "iPhone Duo: Apple unsure when more of the foldable devices will be available - BBC",
+          "domain": "bbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3anp4anRNdzRsTlNlRUprNExGelhSOEYtWDhlcjFXT0ZjLXdVN3kwS0NsQlFPbDNEZTJBc1N4bURXVDVkSzhMRTlpY19OaGpwbXo0UktoVUM3dUU?oc=5",
+          "published": "2026-11-03T07:03:03+00:00"
+        },
+        {
+          "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak - 9to5Google",
+          "domain": "9to5google.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnVXcU81Nkp5WU9oemw1VGgxTlN0MDNDLS1pWEtaUDVBcW9mZEQ3Mm51MmZBeTdNUmpZZk5pc3V0NHV4THgzbGYtNWtDRjJtdDN3dEoyb00wSnBKZVc3Yks4WWNGUzhfQUM3Q1NhMFpCVXEyVlNaLXdNaU1EeFBqUTVWUDNRQ0pU?oc=5",
+          "published": "2026-11-02T16:44:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "robot-climbs-mount-tai": {
+      "kind": "micro",
+      "title": "中国的人形机器人在泰山上演了 необычного 攀登",
+      "region": "亚洲",
+      "summary": "在中国，人形机器人参加了一场泰山上的特别测试。Euronews报道称，近90支队伍沿着古老的山路，跨越3100级台阶和约600米的爬升。这展示了机器人在复杂物理环境中的能力。",
+      "picture": "画面中，人形机器人正在陡峭的石阶上攀登。这个形象展示了技术测试，以及机器尝试征服艰难地形的过程。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Humanoid robots climb China’s Mount Tai in unusual challenge",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge",
+          "published": "2026-11-02T13:33:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.214,
+        "r": 0.125
+      }
+    },
+    "gift-for-gardeners": {
+      "kind": "micro",
+      "title": "节日前夕整理出送给园艺爱好者的别致礼物清单",
+      "region": "美国",
+      "summary": "这组内容中包括一篇AP News关于节日园艺礼物的文章，从工具到智能小装置一应俱全。旁边还出现了有关Cotton Festival的新闻，但那与礼物主题无关，也不属于同一事件。这里的主要内容是面向喜爱园艺人士的季节性送礼建议。",
+      "picture": "画面中，园艺工具摆放在盆栽植物旁边。这是送给园艺爱好者的实用礼物形象。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Cotton Festival returns Saturday - mydailyrecord.com",
+          "domain": "mydailyrecord.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb0ljVmJNNXNvRmFrSU9jcFVkQlhLNVpMQXpUVlZ5MW1sZVVCVXB3Um9oTTZsS053WDVzbVB6bzIzQjh3VGVfcGM1ZkJCSTZweWQydnhfSWtYek9PMlhucXIxUFhEUlFNcDkweDVQYkF3RzNJWGNfbUFsSk9jN1FkVGl1Q2ljTmhhNVpLaUwteGdnckY0eGVMZS1hLXl1bEkyS3ZJcmhHd3pJMFBwd2ZHZUhJTDVueWFsTW04V202N1RtT1lvRVcxR2xjMXBjVm84?oc=5",
+          "published": "2026-11-03T05:00:00+00:00"
+        },
+        {
+          "title": "8 gardening and garden-themed gifts for the holidays, from tools to smart tech - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSF9Hc1ZJd1hjWGJIN2hTWmFWUWRLMloyMG82V25yUmtUR3FvZnk3VWlPZFVYZVM2UlRHTTUzbUtDekVpT3pnU016cGFRMlZyRjZOcnJLZUQ4WDBFZ1ZwQ05KMW1Ld3I5Q0lSX01tZktvcUlGWlF2SGpEa25ZOWtQTlVrOXlYZUlxaXFhUGplR1hHUnlxOFk5LQ?oc=5",
+          "published": "2026-11-02T14:22:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "astronomy-books-survive-centuries": {
+      "kind": "micro",
+      "title": "古老的宇宙书籍在学者与时间的争论中存续下来",
+      "region": "世界",
+      "summary": "文章讲述了两本古老的天文学著作如何共同经历了数百年的学术争议。内容涉及伽利略于1610年出版的《星际信使》（Sidereus Nuncius），以及一位反驳他关于木星卫星发现的天文学家的著作。报道强调了这些文本的历史价值及其共同保存的重要性。",
+      "picture": "画面中，两本古老的天文学书籍摆放在桌上。这意味着一场跨越世纪的科学论辩，以及早期天文学的记忆得以留存。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "In 1610, one astronomer challenged Galileo’s discovery; their books survived together for centuries",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/in-1610-galileo-revealed-four-moons-of-jupiter-but-another-astronomer-called-them-an-illusion-their-opposing-books-survived-bound-together-for-centuries-before-the-rare-volume-sold-for-rs-2-07-crore-in-2026/articleshow/135467536.cms",
+          "published": "2026-11-03T08:25:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "one-million-dollar-barramundi": {
+      "kind": "micro",
+      "title": "澳大利亚渔民钓到罕见鱼，赢得100万美元",
+      "region": "亚洲",
+      "summary": "26岁的澳大利亚渔民马修·莫里斯钓到一条带有红色标记、长80厘米的罕见鲈形尖吻鲈后，赢得了100万澳元。印度时报报道称，这份好运来自他与弟弟在北领地的一次垂钓。这是一次在钓鱼比赛或活动中极为罕见的大奖吗。",
+      "picture": "画面中，渔民手捧一条体型硕大的鲜艳鱼类。这个形象突出了罕见收获和意外巨额胜利的瞬间。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Australian fisherman, 26, wins A$1 million after catching rare red-tagged barramundi",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-26-year-old-australian-fisherman-caught-an-80cm-barramundi-with-a-red-tag-while-fishing-with-his-younger-brother-the-catch-earned-him-a1-million-making-him-only-the-contests-second-top-prize-winner-in-12-years/articleshow/135483446.cms",
+          "published": "2026-11-03T07:28:03+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.357,
+        "r": 0.125
+      }
+    },
+    "robot-dumpster-art": {
+      "kind": "micro",
+      "title": "在俄克拉荷马州，人们用报废容器组装出一台巨型机器人",
+      "region": "美国",
+      "summary": "在俄克拉荷马州诺曼市，展出了一台20英尺高的 Hazmatt 机器人，它由报废的垃圾容器拼装而成。Times of India 写道，这件雕塑由回收容器制成，费用略高于1.4万美元，资金来自建筑预算结余。这是一件公共艺术装置，也是材料再利用的范例。",
+      "picture": "图中，一台巨型机器人由垃圾容器组装而成。这一形象意味着回收利用、公共艺术，以及工业废弃物的非同寻常再利用。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Meet Hazmatt: Oklahoma’s 20-foot reclining robot made from discarded dumpsters, built for just over $14,000",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/in-oklahoma-discarded-dumpsters-have-been-transformed-into-hazmatt-a-20-foot-tall-reclining-robot-holding-a-wildflower-the-city-spent-just-over-14000-on-the-public-artwork-unveiled-in-january-2026/articleshow/135483827.cms",
+          "published": "2026-11-03T06:21:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "dog-portraits-find-homes": {
+      "kind": "micro",
+      "title": "囚犯绘制的肖像帮助无家可归的狗找到了家庭",
+      "region": "美国",
+      "summary": "俄亥俄州 Franklin County Corrections Center 的囚犯为收容所里的狗绘制肖像，这帮助18只动物找到了永久家庭。Times of India 写道，这项倡议提高了领养率，也让囚犯有机会参与一项有益的项目。这是一场把艺术与动物救助结合起来的社会行动。",
+      "picture": "图中，一只收容所的狗坐在一幅手绘肖像旁边。这个画面表现了艺术如何帮助动物找到家。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Ohio jail inmates’ portraits help 18 shelter dogs find forever homes",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/in-september-inmates-at-an-ohio-jail-began-drawing-portraits-of-overlooked-shelter-dogs-two-months-later-18-of-the-20-dogs-featured-in-the-artwork-have-found-homes-giving-both-animals-and-artists-a-second-chance/articleshow/135470992.cms",
+          "published": "2026-11-03T07:26:16+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      }
+    },
+    "world-beer-festival": {
+      "kind": "micro",
+      "title": "达勒姆再次举办啤酒节，吸引大批游客",
+      "region": "美国",
+      "summary": "World Beer Festival 在达勒姆再次举行。报道只提到节日回归，没有提供有关活动安排或到场人数的更多细节。这是面向啤酒爱好者的一场本地文化活动。",
+      "picture": "图中，啤酒杯摆放在节日桌面上。这个画面立刻指向啤酒节和品鉴活动。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "World Beer Festival returns to Durham - The Daily Tar Heel",
+          "domain": "dailytarheel.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmV5ZVFxbVVsRThIbHFaaTBVQ0ZwdmROTW81Y2JtWFlRN2dOcXZHZHpITGZsSlpmcGJpVm00RllISXh0QWJETlZTN0xndzhQX0RuN1M5NEs1MDNaTmpxaEc4VUtSSGZOLUFQUXFNNlM3dnV1RlJEc0FVeVhkb1JHRTFKLXpFSWJha1Y0eQ?oc=5",
+          "published": "2026-11-02T22:15:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "olive-festival-idlib": {
+      "kind": "micro",
+      "title": "在经历艰难果园季后，伊德利卜举办橄榄节",
+      "region": "中东",
+      "summary": "伊德利卜在一个艰难的季节后开幕了橄榄节，当地在这一时期损失了150万棵树。Arab News 强调，这场节庆是在果园和农业遭受巨大损失的背景下举行的。这一活动既关乎传统，也关乎对本地生产者的支持。",
+      "picture": "图中展示了木质摊位上的橄榄和枝叶。这象征着收成、乡村传统以及以橄榄为主题的节庆。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Idlib launches olive festival after losing 1.5m trees - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXA3Yk5PNXpBbHdHWUFCbXl6U2NtV1lRQVlNdVN1MHBTNlVydGx5cE9JMjVZb3JMSkdoNTFUa3lnVURpeHhCeUVsdjBxd2RzMGFfSlNpaWM5WGJtOFhGb1B6QS1KUlVOS3pHV2ZTLW4yWmFWUkJxQm1nWkdodVlsMGw1ZHFIMFRNUThUVjZVbUxqbWtTSTJsQUFVRmdQdw?oc=5",
+          "published": "2026-11-02T15:21:02+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.143,
+        "r": 0.125
+      }
+    },
+    "dino-blood-discovery-roundup": {
+      "kind": "micro",
+      "title": "科学家正越来越多地在古老骨骼中发现惊人的生物痕迹",
+      "region": "世界",
+      "summary": "科学家称，在巴西一块恐龙化石中发现了红血细胞痕迹。Reuters 和 The Guardian 报道称，化学测试检测到了血红素——一种与血红蛋白相关的成分，而 The Conversation 将这一发现称为首次同类成果。所有报道都描述了古老骨骼中罕见的生物痕迹。",
+      "picture": "图中，一块化石骨骼正在放大镜下被观察。这一画面体现了科学分析，它有助于在古老遗骸中发现生物痕迹。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYng2emNYbzh4ckJ5Sy02X0x6V3YycjloVHRaQ0VRRE5iWE4yaVRaYklrUklKYkEyMXFfWWFSSTVTN2o2Rl90Y1lrS1Fsb29LQ2FoWjlZTHZYOHUtQjFLbzdLamlwd1VIYkh2RjF4Y2x3R1p5Y2pYendVVlJlUk41cDRvdVVYcnhvOTNKOHRfUzdHUEhXMnhzb3M1U3U?oc=5",
+          "published": "2026-11-02T20:03:44+00:00"
+        },
+        {
+          "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+          "published": "2026-11-02T20:00:27+00:00"
+        },
+        {
+          "title": "Traces of dinosaur blood found in world-first discovery - The Conversation",
+          "domain": "theconversation.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVR6YmVmNFNwcFNTYjVwS0d5UlprcHR6Q3FZXzhON0wwZTNIbXpfVkw5M0Z5M1JyalhGSnc5WXlyYkVYV3VtSjR3c1BwZW9kQXJlTW1PTTFkSm9hSmJIT3p3MVZYTE5YODl3MWUyai1OSTRjVDg5a0lpQmVHckZkVWRhTFBqemVVcG03QXdMX2oyUElI?oc=5",
+          "published": "2026-11-02T19:59:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "festival-of-the-dead": {
+      "kind": "micro",
+      "title": "美国多座城市举行了色彩鲜明的亡灵节庆祝活动",
+      "region": "美国",
+      "summary": "美国多个城市举行了亡灵节纪念活动和节庆：密苏拉的 Festival of the Dead、迪凯特的庆祝活动，以及拉斯维加斯 Winchester Cultural Center 的节日。报道还提到了其他文化活动，但整体主题是带有 Día de los Muertos 象征意义的绚丽秋季庆典。新闻强调了这些节日的地方特色。",
+      "picture": "图中有纸制骷髅和万寿菊。这些元素与亡灵节和节庆追思传统密切相关。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Downtown Missoula hosts annual Festival of the Dead - NBC Montana",
+          "domain": "nbcmontana.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1ByYVplY0dlQ3BMRGhra2I2Zm9fRFpVQWdzU3JZTHB0ZVF3YjItN0JJTFBPajJHRS1IRHlrdTZTVElfY3R1cEZEZnAxWWRLOWdZcFlQQ2VFcHB0aVlyMFFvZklBeXFwUzdSYVdmQ0dlSWg2TFkyWndjZldkR2xKRTVTc1hlMFdCRkh3c0x3?oc=5",
+          "published": "2026-11-03T06:09:40+00:00"
+        },
+        {
+          "title": "Decatur’s Dia de los Muertos festival returns with message of unity - WAFF",
+          "domain": "waff.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFBjVFlYUGU5S25JZkZzcVVaa2NrTVhzRHY2NTVSalZFQXZybWRoMlZ5Tnc5UUdGS2ZWam9nWlExQjl3RFRCVE9GVU9tVE44QWNIeklmemd4eEpPRkFreE9MUng4S0ZQWVdtY255RjVxei1EY0YxaDBadkdGWG9pajJ0Sk5KMFlfRW9LQXhaRkhLaGwzczg0NnZUMVA?oc=5",
+          "published": "2026-11-03T03:54:00+00:00"
+        },
+        {
+          "title": "Day of the Dead Festival happening at the Winchester Cultural Center - FOX5 Vegas",
+          "domain": "fox5vegas.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDNobm1QUjdRZzZYem9aYTI3TjJ6TFV6TDk0MlZJdE5ULXRPb0x3aWJEN2RneHNHNUZ2VzdYRU5rblRqc0RmT0prQjR0MjB2Q1JqQ1J1TjFLaWFrSGtxN2J0dlk3TUI5eFhlR2xwdDk0TDR6a2VubXBTVHFvWGJWN2dScm9JZDdReHZDcDZDaTJOLTJCX05rTldvVm9Ma2s?oc=5",
+          "published": "2026-11-03T03:24:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "zoo-opening-primate-forest": {
+      "kind": "micro",
+      "title": "动物园正在开放新的灵长类动物馆舍和森林空间",
+      "region": "美国",
+      "summary": "克利夫兰和圣路易斯的动物园正在为动物开放新的大型空间。Cleveland Zoo 在迎来150周年之际推出了 Primate Forest，而 Saint Louis Zoo 正准备在 North County 开放 WildCare Park。两篇报道都在讲述动物园扩建，以及为灵长类和其他动物提供新的栖息环境。",
+      "picture": "图中，黑猩猩正在探索一个新的围栏。这个画面意味着动物园新空间的开放，以及更接近自然的动物环境。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Cleveland Zoo opens Primate Forest as it gears for its 150th celebrations in 2032 - Attractions Management",
+          "domain": "attractionsmanagement.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VLRkI2dGRwTXFkY1k4cW1fRU1vQ3Exb0phS0Q4RkpITzJ2X005WWFqbFNLSGQtcnRjOUtWTGlJMG9WQ21SWkQxQkFUM2xVZVlCUmVDZlZEaUlQM0kyUC1lc3MwYmZDZFI4WW4tcUNyOVpxR29YZ3QxMkhQY19aUG5qb0dCLW9lTC1tWTZ4MnhDb09iX3ZZVUZFZy11NHRMMUlSRHI4SVc0NTZqbkluaGRzUTBKZk5jRDhoOGlyWjE0eGpYZW05U1l5cEc1VDVmd2xERTdZN29hRk0?oc=5",
+          "published": "2026-11-03T01:05:40+00:00"
+        },
+        {
+          "title": "‘No place like it’: Saint Louis Zoo prepares to open massive WildCare Park in North County - KMOV",
+          "domain": "firstalert4.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJGOERLT2szSGZBSUUwdE9zbVU0MVladVlqRW9GOTJnOVozQUhsWlJudC1zUlpSZ3NSaUNwYXFRNWdFbkh1dGJYQS1zNVlRcldxNUt3R2JVNGN3NXRkQmRjSk5yLWRZcWRCQWxMOGNUUGxUbkY3eGQ3VjNOQmt2Q0JDYVZTREtxOUNJaUFWamhybV9RZDRYWVlzQUdPUTkxdUV6RmhnMldhX09jcDFOQzItMEQzaHp4aHNvdGVR0gHSAUFVX3lxTFBJSmJ5dDZjNUZMZ2Fxb3p0c05RSEp0QXJ3YVJnSkVmSWQySFhra183Z3dzS1lfa1luVmtiMW5aYzNqbTVUZmdjaE1WSGpmVGhKaDdyTlJ5WUs4Qk5aRDJhOW84X3ZHbVBORFE0RlZwZ1NvdkpyYWQtTmU0Vzd6SmR5QXRFX3I2dkJ4WGJRZ2V5MXpuYWYtZnB3MUVWMlZQMDVjV1pyLTVqR1g3cFhiRzJSaGpzUm9kM2VIZ0xFX1QtV0FuMkRkVnBSVTR0ekU1ck5kQQ?oc=5",
+          "published": "2026-11-03T00:53:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "hiking-adventurer-homecoming": {
+      "kind": "micro",
+      "title": "另一位旅行者在多年跋涉后终于回到家中",
+      "region": "欧洲",
+      "summary": "英国旅行者 Karl Bushby 在完成28年的环球旅程后回到了家。Euronews、PBS 和 Reuters 报道称，他在从智利出发后，经过5万公里，终于抵达位于赫尔的母亲家中。这标志着一段漫长独行环球旅行的结束。",
+      "picture": "图中，旅行者在家中拥抱家人。这个画面意味着漫长旅途后的归来，以及多年跋涉的结束。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "British adventurer returns home after 28-year journey around the world",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world",
+          "published": "2026-11-02T21:25:52+00:00"
+        },
+        {
+          "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGlSVTJ5dDhqLWo4cTNwR3huT3NXUW9lS0Y5ak44SE1uUVpjc0J2R1I2cEsxcXl6REFjWVBaWndmRzF3SnNfaWw2SEp6bVNiLUg0cktFc2FKTVdtSEpMMi1iVVFRcktMX0tfZFd6bEd6ZVZ3UWlYeHhaMk90Zy1IeXpTeXlybF9IMUtFR0tnQVRaN2FSZEp3NG9sZmtlM1FKMkFCNFhfWmVfZzhhOU42OHBB0gG3AUFVX3lxTE5idGxndmlKTWVIMEx4bEdCTC1OS0p3UjZkNUdVdjNGRjk4TW1waFBlSEZCOTAxWmt0eHlxR2w2Z0FhZjBqRTVUZFJ3dXpzZlpIdjRZMTFfYjlLN1ZILUY0dVdHSFFzSmVyY1J5R1p3cG1NMVdleXJ0a2t6NXZwLXljRFFTZEhhNzltQmphWm1kYWlQSTdoZnFvOFdhRWNaZHFiQlNvbFNGUk5SWWV2emwwVlRWdWpaMA?oc=5",
+          "published": "2026-11-02T21:12:12+00:00"
+        },
+        {
+          "title": "UK adventurer returns home after 28-year trek around the world - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnVVTkNTbVVjOUJBUVFXWU5CeUM5SnRxNWgwVkptbkJZUE4wMWh2UUo2WXVkaE5odEJ0emFqYndOVHhlZXdaVUxsZnhHbVdOOVAyS2FhNC12ZnlldHpIMlM2MDhzSWdxWTlDRDFtS3F4aDMxcUx1ejE5TURQRG5CeVhSMkhNWUp5Y3h6Q3gzS3M5eTd4Vk9janVYaDZLZ3kwMlJlNnc3YTVjQQ?oc=5",
+          "published": "2026-11-02T18:58:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "festival-lineups-and-film-events": {
+      "kind": "micro",
+      "title": "音乐和电影节正陆续公布新的阵容与海报",
+      "region": "世界",
+      "summary": "这组报道涵盖了多条关于电影、音乐及其他活动的节庆新闻：Sónar Festival 2027 公布了演出阵容，Morgan Wallen 发布了 Sand In My Boots 的阵容名单，几场电影节——从 Berlin 到 Bushwick 再到 Newport Beach——也公布了各自的节目安排或周年信息。Reuters 还报道了 Robert Pattinson 出席柏林电影节。这是一组关于不同节庆场馆的预告和更新，而不是单一事件。",
+      "picture": "图中是一叠色彩鲜艳的节庆海报。这样的画面展示了多个文化活动和新的节目预告。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Sónar Festival 2027: Yung Lean, Bonobo, Peggy Gou and more lead line-up - The Line of Best Fit",
+          "domain": "thelineofbestfit.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRBQ2JQVldKQ3doNDBUbUZ5d0pSYnUwMzFZczlvWWdwbEZoVllUNFUzd1J4aldPT25tT1IzOUF4c3FfMV9YbmhZeW53c3JDeXhXRkRMMXEwLTQyTWg4dE9za2JqMHJxYzBSRnFqc3RUV2FSNUhYaUQzbkVfX3FscmVaamlETmp0Yl9FWjlPN3E5MlF1MHBWOV9EUTh3SFdMWHlobnVJR1Y?oc=5",
+          "published": "2026-11-03T09:34:32+00:00"
+        },
+        {
+          "title": "Robert Pattinson on true love at the Berlin film festival - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wQUl6U0FRX3R2dWhxTHpIaFRwUVY3NTRfQTU1MUNNZkxzY0hUWGVQZEJiSFM5MjAyQl9rUzVvS1ZPYzBVOWdEdmhRclJPYzhHWVY2S0RXeTRCYTZi?oc=5",
+          "published": "2026-11-03T08:49:07+00:00"
+        },
+        {
+          "title": "2026 Yucca Valley Film Festival holding two additional nights of screenings starting on Wednesday (11/4) - Z107.7 FM Joshua Tree",
+          "domain": "z1077fm.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWU0tUXpRbTBod3lFalE1SEpSQWFDQk1vcXUxN3VYcFhvWUkzZkV2ek92Q05vdk1uaFYtOWFVM1Bma2N1MEVFeXJUQTZQSGZOcVpjaFNmZUZNY0FzSm9sYWc5OWYxSmRCSlVrb2I2TzJxTEtSeVJNZDBxU2J4TVRtbTlHbGtXdHVwbzRidlRQLUU1dFcyQ1Y2VmctQ21UbHlSdktBUFJxSnJxSjdDSUIzaUxJMW1uUlJ3YW9SbjV0QUg?oc=5",
+          "published": "2026-11-03T07:41:15+00:00"
+        },
+        {
+          "title": "Morgan Wallen Unveils 2027 Sand In My Boots Festival Line-up: Kings Of Leon, Ella Langley & More - Countrytown",
+          "domain": "countrytown.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ21nWi04OFF4WGxrYmVjQm5OekdJaVQ5ZWpscldlSFNqaTY3VllpV1FZV1RTU3JLdGpCZGNvb1l0NTR4al92bERPVkhBRTRzdjFoVWl4UUphVnBfcThwMG1fUm5zMWhMeHdsSnljdlh4cGdYT2g5WFBmRFJFaWhDSDY3VDFPNl93U191cDhrV19lNkx3NFFWUURRQVl1bDRqTXZXc1VLMW40aVVQWnREaldfUE10V1V0SkZLUGxHTV9xai1McTVaVw?oc=5",
+          "published": "2026-11-03T03:16:28+00:00"
+        },
+        {
+          "title": "Arava International Film Festival returns for its 15th installment - The Jerusalem Post",
+          "domain": "jpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWHo1N1ZuMEdMNk9OakJyc0xjNFhhR1ZpWHRNa1dxTnR2SGZHZTFGYk4ycTZ2amxvOGZLVkU0Q2ZYc09xczZ1ZVJtMVVRbG1DdVY5WUxMcnhzTUNNdHZVOTBhcFRqM2c?oc=5",
+          "published": "2026-11-02T22:49:05+00:00"
+        },
+        {
+          "title": "Newport Beach Film Festival head Gregg Schwenk hails “pivotal” 2026 edition - Screen Daily",
+          "domain": "screendaily.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0xJNndMOVo3dWxFMzZJX2JJRkRJSHNxLVNCM05aU1FDWXF1djc2eEMxcUZfV0VwWGxIa0pUNXpKWnJ2d3J1VVF2TFVKRm9CT2N1b0RHVHJBMVk3QWJEMzJqbXJWU1YwRllfVkdudDh0dlpiVDhBSDY0d1FfWkZ6ZXhTT0RQRG5rY2VJRVVfMUhhcUIzbWR2TWtxQTlNVHhZbjk0anFzM21QMkNqMjVMSlc5MUY0M2pmQnRQY25XZw?oc=5",
+          "published": "2026-11-02T22:41:12+00:00"
+        },
+        {
+          "title": "Bushwick Film Festival celebrates 19 years of independent filmmaking - Brooklyn Paper",
+          "domain": "brooklynpaper.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRC1TR0t1Ujh4WlFSSWR4eTBGQU9OajRiX2JCeEswNzNjLVpISU9vdHVIRzlubHR4RGozNEVqdGJ5Ykd4bXBBQ3lPMEd4Wm9jV0NxMVJuQklCSVVLRnlzUkZqeVJzQVFvZHZsQUphb1FQMHl1OEE?oc=5",
+          "published": "2026-11-02T21:52:43+00:00"
+        },
+        {
+          "title": "Fredrikstad Animation Festival Announces 2026 Winners - Animation Magazine",
+          "domain": "animationmagazine.net",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEh5eHJXeUluSGxvV3R0TmZQM1R3YzZGZi1ERE4yTHc0YTA1VjJOa1N5ZGxVaEttdnBOZjRLYkhrSU9XR2k4MHVrMm9yeEFJVEk3Z1kwckU2Ml90UDZPdDViSzFrQ2xzcG9sZzR1RzQzZFdBTFVGTXV1Z1JGVXpkb2dWc2FuVUR2dERoVFV6ZGdJcVFJVko1VGd1eDM?oc=5",
+          "published": "2026-11-02T21:09:07+00:00"
+        },
+        {
+          "title": "The American French Film Festival At 30: Building Bridges Between French Cinema & Hollywood - Deadline",
+          "domain": "deadline.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWtrenhMbXFHV2VZMUNOTnZWVFQ5NWlNRk1zaFQwMjVNUXk2OGEyQWRtRmJyeXNmMmcta013azExYUNTcE9ocDEtamdSODJjQTFtZFRyT0oyYWpYbTgyRFFJb0NiTzFObExNUXI3T1VNYjBHQlBTYmFxb1lGSjcxSXBXMkM3Z0YweDhKSU1NRUJabmVETndlVDhNTm8teEk?oc=5",
+          "published": "2026-11-02T20:25:00+00:00"
+        },
+        {
+          "title": "South Beach food festival tickets are now on sale. Here’s how to get them - Miami Herald",
+          "domain": "miamiherald.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zeDFDSnBQeWZ4NEROVHFYMHB0SUUweF9Jck5yQXJueTBqcGJwNDVQNFQ2Zm80czM1ZUhvOWFmMHdGUnl5SjYtbjZsdWxnR1pWSVhBTVVNOVdxdHA4R2FZcG9XblkyX1JwbTRkNzRraVVMSllINVB3a2NWd9IBe0FVX3lxTFBYdktLZEI0dzdSb2wySllkbHgtbnkxLVVza3VlNy1VNktiN2ZLSWowaUg4TzhUWEgzekZSRVRMZ3Vhd2ZkTjFhd1R2TEk3RWhsdVZxdUt0eVFET1hZeURhdVk1UU1WWE53ZzItNFN6WTl3S2FqaDVFSTFZMA?oc=5",
+          "published": "2026-11-02T19:27:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "wildlife-and-weather-feelings": {
+      "kind": "micro",
+      "title": "大自然再次带来笑意：从狐狸和鸟类到采菇者",
+      "region": "世界",
+      "summary": "这组报道收录了多则关于自然和动物的新闻：提醒人们不要过度采摘蘑菇、在弗吉尼亚救下一只鹰、在德克萨斯救下一只浣熊，以及英国一处稀有蚁丘被盗。BBC 还报道了一套新的防虫工具包。整体主题是野生自然、动物救助和生态风险。",
+      "picture": "图中，一只狐狸站在蘑菇旁边。这个画面把森林自然、动物观察和季节性采菇联系在一起。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Charity warns about damage of over-foraging fungi",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T06:37:19+00:00"
+        },
+        {
+          "title": "Look: Hawk found grounded in Virginia driveway was 'too darn fat to fly'",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/02/red-shouldered-hawk-too-fat-to-fly/8221793653698/",
+          "published": "2026-11-02T21:12:28+00:00"
+        },
+        {
+          "title": "Steal My Itinerary for a Perfect Day at the Bronx Zoo with Kids - Mommy Poppins",
+          "domain": "mommypoppins.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTl6V21qRlRPTHBlWjBmRWhwOVhPanJSNklucUx2ejZ0WEtHVVd2UUVWN3NVM3oxWnB0Y1FoNS00amowM2lUREdCQVQ1Sjg5SGlXVExjRFptV1V4V0FHWjZFVGFYcEFUWXc3dTFtYTNQOGx6ek1QMHdLMklMeGR2VXdYdU5ER3lVbVRQYndmQlR4NkY0Unl5X1RfYVNVQW5DRDE0bVlBS21CODdSX2lXQg?oc=5",
+          "published": "2026-11-02T20:00:00+00:00"
+        },
+        {
+          "title": "Watch: Firefighters free raccoon with head stuck in tree hollow",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/02/Austin-Texas-raccoon-tree-hollow/1931793644423/",
+          "published": "2026-11-02T18:35:50+00:00"
+        },
+        {
+          "title": "Watch: Nest of 1,000-5,000 rare ants stolen from England wildlife reserve",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/02/devon-wildlife-trust-narrow-headed-ant-nest-stolen/8801793637542/",
+          "published": "2026-11-02T16:42:49+00:00"
+        },
+        {
+          "title": "'New kit' helps battle against bugs",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cm369dep8jwno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T15:05:59+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.786,
+        "r": 0.125
+      }
+    }
+  }
+}
