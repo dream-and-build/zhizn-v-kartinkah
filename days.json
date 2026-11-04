@@ -1,5 +1,212 @@
 [
   {
+    "key": "2026-11-04-1",
+    "date": "2026-11-04",
+    "image": "img/2026-11-04-1.jpg",
+    "aspect": 1.7778,
+    "people": 8324168386,
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.25,
+        "y": 0.5,
+        "r": 0.26
+      },
+      {
+        "id": "hong-kong-markets-ai",
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "iran-hormuz",
+        "x": 0.759,
+        "y": 0.372,
+        "r": 0.283
+      },
+      {
+        "id": "israel-election",
+        "x": 0.75,
+        "y": 0.655,
+        "r": 0.255
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.652,
+        "y": 0.138,
+        "r": 0.283
+      },
+      {
+        "id": "asia-security",
+        "x": 0.514,
+        "y": 0.843,
+        "r": 0.3
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.652,
+        "y": 0.138,
+        "r": 0.283
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.188,
+        "y": 0.25,
+        "r": 0.239
+      },
+      {
+        "id": "binance-hack",
+        "x": 0.312,
+        "y": 0.143,
+        "r": 0.202
+      },
+      {
+        "id": "us-south-africa-trade",
+        "x": 0.188,
+        "y": 0.75,
+        "r": 0.239
+      },
+      {
+        "id": "palestine-israel-friction",
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "fridge-cyberattacks",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "asia-security",
+        "x": 0.514,
+        "y": 0.843,
+        "r": 0.3
+      },
+      {
+        "id": "voluntary-lifetime-pensions-default-britain",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "man-utd-comeback-roma",
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "barca-villa-champions-league-win",
+        "x": 0.375,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "bayern-atletico-champions-league",
+        "x": 0.5,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "psg-rampant-champions-league",
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.25
+      },
+      {
+        "id": "sporting-fan-protest-tennis-balls",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "de-miguel-tributes",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "djokovic-paris-masters-open",
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "cruise-ship-cambodia-passengers-off",
+        "x": 0.938,
+        "y": 0.286,
+        "r": 0.125
+      },
+      {
+        "id": "singapore-airlines-booking-records-breach",
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "everest-winter-west-ridge-attempt",
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "marine-rescue-iranian-fishing-boat",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "winter-everest-helicopter-crash-trail",
+        "x": 0.906,
+        "y": 0.839,
+        "r": 0.222
+      },
+      {
+        "id": "frog-embryo-charges-dropped-harvard-scientist",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "monarch-butterflies-tiny-trackers",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "blue-butterfly-return",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "tree-snails-return",
+        "x": 0.125,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "rubber-band-ball-record",
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "alligator-bagel-shop",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "google-voluntary-buyouts-several-countries",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-03-1",
     "date": "2026-11-03",
     "image": "img/2026-11-03-1.jpg",

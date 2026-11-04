@@ -1,0 +1,1520 @@
+{
+  "key": "2026-11-04-1",
+  "date": "2026-11-04",
+  "image": "img/2026-11-04-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "us-midterms": {
+      "kind": "major",
+      "title": "I democratici conquistano il Congresso degli Stati Uniti e infliggono a Trump una storica sconfitta",
+      "region": "USA",
+      "summary": "Alle elezioni di medio termine negli Stati Uniti, i democratici, secondo diversi media, prendono il controllo del Congresso e infliggono al presidente Donald Trump una pesante sconfitta politica. NBC scrive che i democratici potrebbero ottenere 258 seggi alla Camera dei rappresentanti, contro i 177 dei repubblicani; altre testate riferiscono che i democratici conquistano anche il Senato. Le pubblicazioni osservano che gli elettori hanno respinto l’agenda di Trump e che il risultato è una risposta all’aumento dei prezzi e alla guerra con l’Iran. Tra i vincitori figurano senatori e candidati di vari Stati, inclusa la prima donna nera governatrice nella storia degli Stati Uniti, come riferisce Africanews.",
+      "picture": "Un’enorme urna elettorale sembra inghiottire una corona rosso-bianco-blu, mentre un’onda blu spazza via un martello spezzato. Questa immagine significa che le elezioni travolgono il precedente potere politico e infrangono i simboli del controllo repubblicano.",
+      "mentions": 100,
+      "significance": 98,
+      "velocity": 72,
+      "domain_count": 33,
+      "articles": [
+        {
+          "title": "NBC: демократы могут получить 258 мест в Палате представителей",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28285513",
+          "published": "2026-11-04T09:55:18+00:00"
+        },
+        {
+          "title": "How America voted in maps and charts",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T09:53:18+00:00"
+        },
+        {
+          "title": "US midterm election results 2026: List of Indian-origin winners",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece",
+          "published": "2026-11-04T09:48:55+00:00"
+        },
+        {
+          "title": "Van 700 anfitriones inscritos en padrón de estancias temporales",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/metropoli/van-700-anfitriones-inscritos-en-padron-de-estancias-temporales/",
+          "published": "2026-11-04T09:47:22+00:00"
+        },
+        {
+          "title": "‘Habibi, call me Senator’: Abdul El-Sayed mocks Trump, Vance in victory speech",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/habibi-call-me-senator-first-muslim-us-senator-abdul-el-sayed-mocks-donald-trump-jd-vance-in-victory-speech/articleshow/135533707.cms",
+          "published": "2026-11-04T09:44:39+00:00"
+        },
+        {
+          "title": "Why the Democrats routed the Republicans in the US midterm elections",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections",
+          "published": "2026-11-04T09:41:10+00:00"
+        },
+        {
+          "title": "Elon Musk jokes about GOP election defeat after spending record sums on party - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORElDWkdMRnM5TTB0aFJsbFNidDZ0TTB1SjFaODlkSU4waWFHNk1YcFhydkpqWWlrcXJ3amhKTDNZVkpxQThfUGFGT1Iza1dKanAzTk9qY3hlNDkwaWpnNDZrRTkzQnU1SWR2STNwZkhDTmlqbWY0YnVBaDBLQTU2NGN3SkhIX21GdC1DZHR3cTd2ODdXZjZZUE42a0g2Zw?oc=5",
+          "published": "2026-11-04T09:40:57+00:00"
+        },
+        {
+          "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+          "published": "2026-11-04T09:34:42+00:00"
+        },
+        {
+          "title": "Democrats take control of US House and Senate in sharp rebuke of Trump, Republicans",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/democrats-take-control-of-us-house-and-senate-in-sharp-rebuke-of-trump-republicans/",
+          "published": "2026-11-04T09:32:16+00:00"
+        },
+        {
+          "title": "Stock futures rise as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2FkNktwbUVRcjhVVWhQaVRWeWpqX25tSHo3WWF1eW55OGZrb0ZpSHpNakQtaWRMZ0N1dXZRajEtby1lOHk2Vl9aZkdfZUc4Z1ZDYkNrZkpGSGZBT1hIdE5jZDhFNW1BU1hzdnBheTBPV0tmcjFB0gF8QVVfeXFMTW1hbnNIQUZVQlU0eEdtb2E2WTZ0OXprLWVqMFI0Nzk0U0IycTFiRjNScTBzak5Ia21WWXhKOHNxTENWRkRzaUpWYnFLM2phc29CT3BaSXpSUGE1N21vYmFsWWhWczNSdlBLTElYcm1UbjJTWktwNTJsellmMA?oc=5",
+          "published": "2026-11-04T09:31:00+00:00"
+        },
+        {
+          "title": "Cuatro victorias clave (y dos sorpresas): repaso de los triunfos demócratas en las elecciones",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/us/2026-11-04/cuatro-victorias-clave-y-dos-sorpresas-repaso-a-los-triunfos-democratas-en-las-elecciones.html",
+          "published": "2026-11-04T09:30:35+00:00"
+        },
+        {
+          "title": "Democrat Keisha Lance Bottoms becomes first Black woman governor in US history",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/04/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-in-us-history/",
+          "published": "2026-11-04T09:26:20+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.5,
+        "r": 0.26
+      }
+    },
+    "hong-kong-markets-ai": {
+      "kind": "major",
+      "title": "I mercati oscillano tra le speranze sull’IA e il timore di una regolamentazione più rigida",
+      "region": "Mondo / cripto",
+      "summary": "I mercati globali oscillano sullo sfondo della vittoria dei democratici alle elezioni negli Stati Uniti e del dibattito sul futuro della regolamentazione della tecnologia e dell’IA. Reuters, CNBC e AFP scrivono che dopo gli esiti delle midterm i futures azionari e parte dei titoli sono inizialmente scesi, per poi recuperare parte delle perdite, poiché la vittoria democratica ha ridotto l’incertezza attorno ai risultati contestati. In vari articoli si afferma inoltre che gli investitori si attendono un approccio più prudente alla costruzione di data center e alla spesa tecnologica. Alcune pubblicazioni descrivono la situazione come una reazione mista dei mercati alla svolta politica a Washington.",
+      "picture": "Nel disegno, un gigantesco microchip si trasforma in certificati di borsa e torri di dati, mentre piccole gru sollevano chip. Mostra come l’IA e l’infrastruttura tecnologica si traducano direttamente in valore di mercato e aspettative di investimento.",
+      "mentions": 80,
+      "significance": 84,
+      "velocity": 92,
+      "domain_count": 24,
+      "articles": [
+        {
+          "title": "Stocks rebound after Democrats’ sweep",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+          "published": "2026-11-04T09:56:46+00:00"
+        },
+        {
+          "title": "Російський удар по Комишувасі забрав життя 37 людей, пошукові роботи тривають",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/04/8061205/",
+          "published": "2026-11-04T09:52:00+00:00"
+        },
+        {
+          "title": "Stock futures rise as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2FkNktwbUVRcjhVVWhQaVRWeWpqX25tSHo3WWF1eW55OGZrb0ZpSHpNakQtaWRMZ0N1dXZRajEtby1lOHk2Vl9aZkdfZUc4Z1ZDYkNrZkpGSGZBT1hIdE5jZDhFNW1BU1hzdnBheTBPV0tmcjFB0gF8QVVfeXFMTW1hbnNIQUZVQlU0eEdtb2E2WTZ0OXprLWVqMFI0Nzk0U0IycTFiRjNScTBzak5Ia21WWXhKOHNxTENWRkRzaUpWYnFLM2phc29CT3BaSXpSUGE1N21vYmFsWWhWczNSdlBLTElYcm1UbjJTWktwNTJsellmMA?oc=5",
+          "published": "2026-11-04T09:31:00+00:00"
+        },
+        {
+          "title": "Most stocks rise, dollar drops as Democrats take control of Congress - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUM4XzMtSW9GU3RsOS1QX0ZNR0YzZEZOQ25mUmFDZkhOV2xqc25tSDZJZDlXRDBISWo1eW80ZnpNSW1kdm1ncE1nbHdaR1BFd29WMS1TZ0FSSFRIN3dCZ3JDZC01MDdxV0pBcVR0ZTdBUFpDdzB1WVpBajgwdUZZcUE4NTUxR3JuTkpHVw?oc=5",
+          "published": "2026-11-04T09:23:51+00:00"
+        },
+        {
+          "title": "Elon Musk jokes about GOP election defeat after spending record sums on party - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0xMdWdUcEotNzdnX1NjTmJ6elNNcm5lb1g5NkxGRV9mZzR1WjVXYjVPQmM1TGVxUWFPT1BoR3V1bUhpX0d0N0JNT096aTc3RS1hVk5hS2RmLVN5aExQU1lTYkJJbTMwb0E0bTVBTW9pWnBEaHluM1lNNF9lMy15VFZ5UG8xa1ZEWEVLRTg5aXROenJlMHNmaVluNDdGUThTOFF5SVliQWtvaG9QWFpvclNTQzhEaGM?oc=5",
+          "published": "2026-11-04T09:11:47+00:00"
+        },
+        {
+          "title": "Fidelity Fund Buys Tech Dip, Adds India After US Midterm Results",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/fidelity-fund-buys-tech-dip-adds-india-after-us-midterm-results",
+          "published": "2026-11-04T09:00:35+00:00"
+        },
+        {
+          "title": "AI-search Results Are Emerging As An Important Influencer and Creator Discovery Tool - HackerNoon",
+          "domain": "hackernoon.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSncxNjNoaG9VaU82cXQ0NmJjSzQ0ZU1KSThib0dJdVFfSWw2eVdfR1FDMFZBRUlKOGpSamxTbmVieC1BSFg2Y19iRzVGbDdWVHIxeHhQa3ZyOXlNTFJJUWdDeHV5bWdlaDA3RFAwaFpHNW9sSnpvUjI1WWpEd2Y4NnNUU2d5RUpmNGZiQllOREttMHl4bjBHeTMtcFJmU3hJczU2aXA3U1Zxc0E?oc=5",
+          "published": "2026-11-04T08:50:06+00:00"
+        },
+        {
+          "title": "How TheBurntPeanut turned a small gaming channel into a streaming sensation after making one major change to his content",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us-streamers/how-theburntpeanut-turned-a-small-gaming-channel-into-a-streaming-sensation-after-making-one-major-change-to-his-content/articleshow/135531820.cms",
+          "published": "2026-11-04T08:34:31+00:00"
+        },
+        {
+          "title": "Rand gains as Democratic sweep of US midterms puts dollar under pressure - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnJ0c2NvaF9KSWp5Q2xRa3d6RWlDX0VrNlRRRnNvck54VGYxeHJ2QUhoQi1MeDFmdDdvSmgwV09aTklRVTh2VTFEbFVOYXh4OHNyWncxUllOaHAyV1M2ZWVWUVRNSTdRT3lFdVdJVnlLa1M3SmpkdWx2a3owTXBtdUNqYTcwelliel9NU0w1TmswdmtFa19tZExPMEMyMW93el9lZ1FRcVFnYy13YWJJOHN1Z0JGd0RVdVBfRFp0Unk0emdf?oc=5",
+          "published": "2026-11-04T08:05:02+00:00"
+        },
+        {
+          "title": "Netflix Launches AI Discovery to Help Viewers Find Something To Watch Based on Their Mood - IMDb",
+          "domain": "imdb.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nX2c5ZU5UVVB0NkNCVUN3SFIwR1lsWFgwQTNqVlRPaFZ3anRPSnczc29UbnVObFp3SWRhd1dTZUZXVENud08xUV9jb0hzQ1NkR0drQVQ2bk9wVnNSWVNTeTJB?oc=5",
+          "published": "2026-11-04T07:47:49+00:00"
+        },
+        {
+          "title": "Asian shares and US futures are mixed as Democrats gain majorities in both the US House and Senate - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
+          "published": "2026-11-04T07:47:00+00:00"
+        },
+        {
+          "title": "BP taps Shell's Emma Lewis to head downstream business - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS05vWlpDYUFXLVk0bHU5bFcwdFlGWU13RjRZT2xBOURDV0hhX0ZhRnJmZjJyOXh6WUh6eVhsSV9zeC1Sdi1mUjk4eGluYTRFdnZXT1d0c2tnUVpHSFI1eWdZWnJPZmhmXzFsRzh1akFwN3FfbFpzUTlBVkdRbGQ3dHBJMUxtUGl6U3RqY0owbjhySnNxbTZCd3dfb3poOG02cUpNLVZR?oc=5",
+          "published": "2026-11-04T07:46:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      }
+    },
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "Gli attacchi degli Stati Uniti all’Iran spingono di nuovo Hormuz verso il rischio di una grande guerra",
+      "region": "Medio Oriente",
+      "summary": "Sullo sfondo delle notizie sugli attacchi degli Stati Uniti all’Iran e dei nuovi avvertimenti su una possibile escalation, sono tornate ad aumentare le preoccupazioni intorno allo Stretto di Hormuz. Bloomberg, BBC, France24, Al Jazeera e altre testate scrivono che l’Iran, secondo i resoconti, potrebbe andare verso un’ulteriore escalation, mentre nella regione proseguono i negoziati e le accuse reciproche. Le pubblicazioni parlano anche di una possibile minaccia chimica da parte dell’Iran e del fatto che i bombardamenti americani e le dichiarazioni di Donald Trump stanno spingendo la situazione verso il rischio di una guerra più ampia. Separatamente, Reuters e France24 hanno riferito che nello Stretto di Hormuz sono andate a fuoco e sono state danneggiate petroliere dopo una detonazione su mine, secondo la versione di Teheran.",
+      "picture": "Una petroliera è stretta tra mine appuntite, mentre due mani incombono dall’alto e attorno sfrecciano navi militari. L’immagine trasmette che la rotta commerciale si trova tra la minaccia di un attacco e il rischio di uno scontro in mare.",
+      "mentions": 75,
+      "significance": 96,
+      "velocity": 60,
+      "domain_count": 22,
+      "articles": [
+        {
+          "title": "Ізраїль попередив США про загрозу застосування Іраном хімічної зброї – NYT",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/04/8061204/",
+          "published": "2026-11-04T09:50:00+00:00"
+        },
+        {
+          "title": "Midterms 2026 : au lendemain du scrutin, la menace d’une reprise de la guerre américaine contre l’Iran",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-au-lendemain-du-scrutin-la-menace-d-une-reprise-de-la-guerre-americaine-contre-l-iran_6806138_3210.html",
+          "published": "2026-11-04T09:42:45+00:00"
+        },
+        {
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T09:40:35+00:00"
+        },
+        {
+          "title": "Iran war, Epstein, impeachment? What will Democrats do with control of Congress?",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress",
+          "published": "2026-11-04T09:26:55+00:00"
+        },
+        {
+          "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+          "published": "2026-11-04T09:16:57+00:00"
+        },
+        {
+          "title": "Trump, conceding stunning midterm loss, admits Iran war and gas prices hurt Republicans",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/trump-conceding-stunning-midterm-loss-admits-iran-war-and-gas-prices-hurt-republicans/",
+          "published": "2026-11-04T09:10:31+00:00"
+        },
+        {
+          "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-04T08:52:00+00:00"
+        },
+        {
+          "title": "Four oil tankers destroyed in Hormuz after hitting mines, Tehran says",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says",
+          "published": "2026-11-04T08:43:31+00:00"
+        },
+        {
+          "title": "Iranian speaker says US vote shows Americans have rejected Iran war - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTlCaV9fOU55ZnJCQS12TDA0RmJrSmNlWkg1NWhsVWVVSHpZb1JfSER2aDhtUlF3OElvMUE2M2QtdEI5SkVmUHNhcG40TkVrdDFyN2tDenhxM3RBTkpyakpLWHAxU3lOd3JDSWxIdjZzczVGdGx6dzJKWjJGRzlCalFzZ2Voel9BTjBYU05uQ1FoX05NbFByQ3ZUSnQzNFR3Y3NIR21qTU4zVHhNcndINlhn?oc=5",
+          "published": "2026-11-04T08:39:03+00:00"
+        },
+        {
+          "title": "As US-Iran war shows, China’s influence can’t secure its line to Gulf oil",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3372480/us-iran-war-shows-chinas-influence-cant-secure-its-line-gulf-oil",
+          "published": "2026-11-04T08:30:07+00:00"
+        },
+        {
+          "title": "Китай ведет переговоры Ираном и Саудовской Аравией по открытию Ормуза",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28285347",
+          "published": "2026-11-04T08:29:54+00:00"
+        },
+        {
+          "title": "Trump reacciona a las derrotas de los republicanos; culpa a guerra con irán y a candidatos de su partido",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/trump-reacciona-a-las-derrotas-de-los-republicanos-culpa-a-guerra-con-iran-y-a-candidatos-de-su-partido/",
+          "published": "2026-11-04T06:59:57+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.759,
+        "y": 0.372,
+        "r": 0.283
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "Israele resta impantanato in uno stallo politico e nelle dispute sulla legittimità delle elezioni",
+      "region": "Israele",
+      "summary": "In Israele, dopo le elezioni, permane lo stallo politico e le autorità discutono sulla legittimità del voto. La commissione elettorale israeliana ha respinto le accuse di Benjamin Netanyahu di brogli da parte dei partiti arabi; AFP, ABC ed Euronews scrivono che non sono state trovate tracce di frode. Il New York Times riferisce che il presidente Isaac Herzog potrebbe avere un ruolo chiave nel tentativo di tirare fuori il Paese dallo stallo e aiutare a costruire una coalizione. Secondo i media, nessuno dei grandi blocchi ha ottenuto la maggioranza e la prima seduta del nuovo parlamento dovrebbe riunirsi il 10 novembre.",
+      "picture": "È raffigurata un’urna appesa a una corda, sopra una corona spezzata e persone che tirano le funi in direzioni opposte. È il simbolo di un risultato fragile e contestato, in cui il potere pende a un filo tra campi rivali.",
+      "mentions": 63,
+      "significance": 78,
+      "velocity": 78,
+      "domain_count": 17,
+      "articles": [
+        {
+          "title": "Ізраїль попередив США про загрозу застосування Іраном хімічної зброї – NYT",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/04/8061204/",
+          "published": "2026-11-04T09:50:00+00:00"
+        },
+        {
+          "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+          "published": "2026-11-04T09:43:33+00:00"
+        },
+        {
+          "title": "Blow for Netanyahu as Israeli election body rejects claims of Arab party fraud",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3373260/blow-netanyahu-israeli-election-body-rejects-claims-arab-party-fraud",
+          "published": "2026-11-04T09:24:54+00:00"
+        },
+        {
+          "title": "Cupón Rappi en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/cupones-y-promociones-rappi/",
+          "published": "2026-11-04T09:15:52+00:00"
+        },
+        {
+          "title": "Anti-Israel El-Sayed wins Michigan Senate race, pledges no money for ‘apartheid, genocide’",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/anti-israel-el-sayed-wins-michigan-senate-race-pledges-no-money-for-apartheid-genocide/",
+          "published": "2026-11-04T09:00:53+00:00"
+        },
+        {
+          "title": "Quem é Isaac Herzog, presidente de Israel que agora precisa escolher entre Netanyahu e oposição",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/quem-e-isaac-herzog-presidente-de-israel-que-agora-precisa-escolher-entre-netanyahu-e-oposicao.shtml",
+          "published": "2026-11-04T09:00:00+00:00"
+        },
+        {
+          "title": "No evidence of fraud in Israeli election, commission finds",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-04/israeli-election-commission-fraud-investigation/107347454",
+          "published": "2026-11-04T08:39:00+00:00"
+        },
+        {
+          "title": "Israel election commission rejects Netanyahu charges of fraud - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVC03ZUZwSmcwNDlCQWhKdnUtZDRkeTFMbU52TzNoZkxldkN6RVVBNzlpYkg0SkQtWjVlS2lHUzBJY2pfRGt5M0tERnJhcHE3QkxUZ3FEZjM5dFVKeGVGTlFQRkxBendUOXo4YzVybHBhUklGdWZaWUtfeEQ4MVZ3dHBhVGhZbE1W?oc=5",
+          "published": "2026-11-04T08:37:52+00:00"
+        },
+        {
+          "title": "Israel election commission rejects Netanyahu charges of fraud",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042064/israel-election-commission-rejects-netanyahu-charges-of-fraud",
+          "published": "2026-11-04T08:27:43+00:00"
+        },
+        {
+          "title": "Israel election commission rejects Netanyahu charges of fraud - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTQ5U1Y5VlFKUDlnQnY5SWhJTjFZZWRja3RLMmJvdkZTdTJMTnp1STVkb0tXQmZMLU9KUlNsWkNOZnVUUWFQSy1RNG9WdDJPcC1sN09NTF8wWGpPT2dDMVFGYVhoTGZzN3B4c3NoLW5oQ2E3ZWhVSF9LdDhjbHN5ZllqUUo1TjdLLUVWeTZpazlQQzlOd3REZGE4UlZiUUlfU0E?oc=5",
+          "published": "2026-11-04T08:23:57+00:00"
+        },
+        {
+          "title": "Первое заседание парламента Израиля нового созыва пройдет 10 ноября",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28285335",
+          "published": "2026-11-04T08:23:27+00:00"
+        },
+        {
+          "title": "Israel's election commission says no fraud found in last week's vote",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote",
+          "published": "2026-11-04T07:21:16+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.655,
+        "r": 0.255
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "I diplomatici cercano di rincorrere la guerra: nuovi negoziati per il cessate il fuoco intorno all’Ucraina",
+      "region": "Ucraina",
+      "summary": "Nel sud dell’Ucraina proseguono le operazioni di ricerca e soccorso dopo un attacco russo a Komyshuvakha, nella regione di Zaporizhzhia, il 2 novembre. Le diverse testate indicano numeri diversi di morti e dispersi: Pravda parla di 37 morti, Africanews di 33 morti e oltre 50 dispersi, Euronews di 31 morti e oltre 45 dispersi. In altri servizi si afferma che si trattava di un attacco a un punto di assistenza umanitaria e che soccorritori e superstiti ricevono aiuto dopo gravi ferite. Sullo sfondo di queste notizie, i media scrivono anche dei continui attacchi russi contro il sistema energetico ucraino.",
+      "picture": "Due mani si passano una fragile colomba di carta sopra una trincea distrutta, mentre i colpi restano sospesi nell’aria. Questa immagine significa il tentativo di ottenere la pace nel mezzo di una guerra che continua intorno ai negoziati.",
+      "mentions": 52,
+      "significance": 70,
+      "velocity": 58,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "Російський удар по Комишувасі забрав життя 37 людей, пошукові роботи тривають",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/04/8061205/",
+          "published": "2026-11-04T09:52:00+00:00"
+        },
+        {
+          "title": "Ukraine: 33 dead, over 50 missing after Russian bombing in Zaporizhzhia",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia/",
+          "published": "2026-11-04T09:38:40+00:00"
+        },
+        {
+          "title": "Ukraine: 31 dead, over 45 missing after Russian bombing in Zaporizhzhia",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia",
+          "published": "2026-11-04T09:26:29+00:00"
+        },
+        {
+          "title": "Perros y Burros Promociones en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/perros-y-burros-promociones/",
+          "published": "2026-11-04T09:13:36+00:00"
+        },
+        {
+          "title": "Huge loss for Trump as Democrats take control of Congress",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/news/headlines/922620-huge-loss-for-trump-as-democrats-take-control-of-congress.html",
+          "published": "2026-11-04T09:03:01+00:00"
+        },
+        {
+          "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-04T08:52:00+00:00"
+        },
+        {
+          "title": "'The mood got better and better as the night went on': Dems celebrate midterms victory",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261104-the-mood-got-better-and-better-as-the-night-went-on-dems-celebrate-midterms-victory",
+          "published": "2026-11-04T08:50:00+00:00"
+        },
+        {
+          "title": "S. Korean won slightly weakens after Democrats retake U.S. Congress in midterm elections",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261104009700320",
+          "published": "2026-11-04T07:37:25+00:00"
+        },
+        {
+          "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlZVlROTGNmZDJEZFJ6TndUc0JzVHM2dERBeG5lTWNTVWItM2dxNjgzRkptc2FSRzRVdlBhLVBxbThVYVpTbkpuV2FGTDE5ME9rUkR0bmpJcEt4eU1hVlN2ejVrSXM4XzZva3BQZDZYNFdjRDVfTmVpb2FDdXYtdGdRYmxZcHVMb1JqajZBMV9QY296SXJubFM2T0xlQkJvcHZYTEVSelk2Zw?oc=5",
+          "published": "2026-11-04T05:57:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : 38 personnes pourraient encore être ensevelies sous les décombres de l’école bombardée lundi à Komychouvakha",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-un-entrepot-d-e-commerce-russe-vise-par-une-attaque-de-drones-ukrainiens_6803934_3210.html",
+          "published": "2026-11-04T05:56:28+00:00"
+        },
+        {
+          "title": "Trump willing to accept Democrat landslide result, but says would have won if his name was on ballot - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWUd4eVlVZFJFcnZOLTJFVFJBdHVJSkZfdFB3ZHYyd2ZyWE9qLWhBaVhsbFZMWXZYQ3hsdWNteTRiQnhQMmpWdWFJc2R6YkFMY0VuMkZ1R2I0RkRVTFBEa0U0TGs1M0VCejFQNmxNWkpPd2tnMTJVUU1BenVIakREYjRBTWpFTGJHM2R0bzdERm9nRmdqYlljanhxVlg4d1B6T3djaklRNUJERFF4cndfWDNiaFJCOHN3WktPekdTMWRyOXFDYmVtRXMwUi01cW1BUDF4MQ?oc=5",
+          "published": "2026-11-04T05:48:35+00:00"
+        },
+        {
+          "title": "Eleição de meio de mandato nos EUA ocorre sob interferência eleitoral de Trump sem precedentes",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eleicao-de-meio-de-mandato-nos-eua-ocorre-sob-interferencia-eleitoral-sem-precedentes-de-trump.shtml",
+          "published": "2026-11-03T21:02:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.652,
+        "y": 0.138,
+        "r": 0.283
+      }
+    },
+    "asia-security": {
+      "kind": "major",
+      "title": "La Corea del Nord prosegue i lanci di missili, mentre la Corea del Sud accelera la difesa e la cybersicurezza",
+      "region": "Asia",
+      "summary": "In Asia resta alta la tensione intorno alla Corea del Nord, che secondo i media continua i lanci di missili dopo le controversie con Stati Uniti e Corea del Sud. Times of India, AP e altri scrivono di nuovi lanci di missili verso est e di un peggioramento delle relazioni. Parallelamente Reuters, BBC e SCMP riferiscono di altri rischi regionali: l’aumento dell’attività navale cinese attorno a Taiwan e i dilemmi diplomatici nell’area. La rassegna include anche notizie secondo cui in vari Paesi asiatici cresce l’attenzione per sicurezza e difesa.",
+      "picture": "Un missile si alza da una bussola incrinata, accanto a un blocco di controllo e a segnali radar circolari. L’immagine mostra che la rotta della regione è fuori assetto e che la sicurezza dipende da un controllo rigido e da segnali d’allarme.",
+      "mentions": 19,
+      "significance": 73,
+      "velocity": 29,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "В Казахстане прокомментировали размещение двух АЭС в одном районе",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28285407",
+          "published": "2026-11-04T09:19:55+00:00"
+        },
+        {
+          "title": "Midterms 2026 : « C’est une énorme sanction pour le camp Trump », notre journaliste à New York analyse les résultats",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/video/2026/11/04/midterms-2026-c-est-une-enorme-sanction-pour-le-camp-trump-notre-journaliste-a-new-york-analyse-les-resultats_6806129_3210.html",
+          "published": "2026-11-04T08:34:56+00:00"
+        },
+        {
+          "title": "Drones attack Iranian Kurdish opposition in Iraq, sources say - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTl9SSXJ6Nkxub284Y1g3VGtSb21kUFJwUWtFbUhBSzdOQlRBdXdEWUtjR042OW1WR2VsOXl0cUdVYUxWb09HVmVGUk13R056QlJKNnVlMkRRQkxCVmNRcV9jTGhWaXVxSkdzV0RuSmZyMUlCQUpjQndORjhGT3M5VEN6eGI2X0hyaUNRV0FQTXNoOERIQWFCMm1rYy16QTg4WWR4Vlh3RkQ?oc=5",
+          "published": "2026-11-04T08:30:22+00:00"
+        },
+        {
+          "title": "Taiwan flags massive PLA naval mobilisation, spike in air sorties",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/military/article/3373249/taiwan-flags-massive-pla-naval-mobilisation-spike-air-sorties",
+          "published": "2026-11-04T08:26:37+00:00"
+        },
+        {
+          "title": "S. Korea experiences 5th warmest Oct. this year",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261104009800315",
+          "published": "2026-11-04T08:11:37+00:00"
+        },
+        {
+          "title": "Премьер Канады пообещал не пустить российских хоккеистов на молодежный чемпионат мира",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/04/premier-kanady-poobeschal-ne-pustit-rossiyskih-hokkeistov-na-molodezhnyy-chempionat-mira",
+          "published": "2026-11-04T07:24:52+00:00"
+        },
+        {
+          "title": "Indonesia arrests ex-police chief over alleged illegal wiretapping of President, officials",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/indonesia-arrests-ex-police-chief-over-alleged-illegal-wiretapping-of-president-officials/article71664234.ece",
+          "published": "2026-11-04T06:25:45+00:00"
+        },
+        {
+          "title": "Indonesia president sacks chief of staff over alleged wiretap - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWpIeTNmZXdFelNjT3lrLTVrcF9ZdjJfZV9kcnczLVR6NmhGZ2FZbUpScG9kN0NGTVg2MC1OaE51ZnpGd2VOMU1MUWpYNlR4Q2wtd1NLSXl2bkl6NkIzcm01UXRkTkJTb2xiM282SXlTemI3LS1OYzBDNm41UFptM09lTGlfU2F3azBPNzdaMjZkSE9xN0pKMFhWQng2c01IN0poSHJmREo5RDgwTzFQOFZNWQ?oc=5",
+          "published": "2026-11-04T05:11:00+00:00"
+        },
+        {
+          "title": "North Korea fires missiles hours after rejecting US accusations over Binance hack",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missiles-hours-after-rejecting-us-accusations-over-binance-hack/articleshow/135524084.cms",
+          "published": "2026-11-04T05:01:44+00:00"
+        },
+        {
+          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T03:46:10+00:00"
+        },
+        {
+          "title": "Indonesia detains 3 police generals suspected of wiretapping President Prabowo - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbm9jRTV2OFFITXRpWTRHTHdsQVNPOUVWcXdKX25iNzVoZGJrQUtrUm1qaUNRcTZRRko1T1UzTHZuRk42NEFtdl9jZktjVC1sTFc2VWc1QVJ3WWNlSjA4UmlXSnNKVWVuckdFek9Yd1RZVW5uNUF5ck41aE1qSms2QmwtUzR1bDVpRE9PYV9lanhzWEsxcGMybllGU2tvdE9BcGljUFBnUEpkVmtrU1lwTS1uczhablpTWFNxaDBNdEU?oc=5",
+          "published": "2026-11-04T00:43:00+00:00"
+        },
+        {
+          "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+          "published": "2026-11-03T22:25:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.514,
+        "y": 0.843,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "L’Europa è investita da una ondata di falsi allarmi bomba e disagi nei trasporti",
+      "region": "Europa",
+      "summary": "Un’ondata di false segnalazioni di bombe ha attraversato l’Europa, costringendo diversi voli a controlli, ritardi o deviazioni. NYT, AP, BBC, Reuters e altre testate riferiscono che le minacce hanno riguardato almeno sette aerei, oltre a una nave da crociera; esplosivi non sono stati trovati in alcun caso. Aerei passeggeri in vari Paesi, tra cui Polonia, Spagna, Bulgaria e Italia, sono stati ispezionati, mentre gli aeroporti hanno modificato temporaneamente le operazioni. Le pubblicazioni sottolineano che le autorità considerano le minacce false.",
+      "picture": "In fila, gli aerei restano sospesi accanto a un segnale d’allarme incrinato, con bagagli sparsi e transenne vuote tutt’intorno. Questo indica il caos aereo provocato da una minaccia falsa che paralizza i trasporti senza una vera bomba.",
+      "mentions": 49,
+      "significance": 67,
+      "velocity": 44,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "Bomb Threats Disrupt Several Flights Across Europe",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+          "published": "2026-11-04T07:29:45+00:00"
+        },
+        {
+          "title": "Flights across Europe searched and diverted after hoax bomb threats - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+          "published": "2026-11-04T02:12:00+00:00"
+        },
+        {
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T20:42:47+00:00"
+        },
+        {
+          "title": "Hoax bomb threats disrupt 4 flights - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2OWczdGxkQV9OR2xwc1lXVjRJR2MzSW5Kd2NDcnpON3FfYllQRU5MM0tvblB4cjV2RHlweG9vamZzc00zcF9SZE5wMzN6WjNkUlNoN1o1OW5ObDJKR1pqclhKa01wVlZsRk10eVBwVTM5TjI2elBqVlJhMFN4M2c?oc=5",
+          "published": "2026-11-03T19:41:09+00:00"
+        },
+        {
+          "title": "Siete vuelos en Europa sufren amenazas de bomba y obligan a activar los dispositivos de seguridad de los aeropuertos",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-03/seis-vuelos-en-europa-registran-amenazas-de-bomba-y-obligan-a-activar-los-dispositivos-de-seguridad-de-los-aeropuertos.html",
+          "published": "2026-11-03T19:40:00+00:00"
+        },
+        {
+          "title": "Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3373186/fake-bomb-threats-flights-and-cruise-ship-cause-travel-disruption-europe",
+          "published": "2026-11-03T19:04:21+00:00"
+        },
+        {
+          "title": "Bomb threats on flights, cruise ship cause disruption in Europe, no devices found - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3p6WFp5MDNvNDdBY3d2ekZROTM3REtEZk5fNWdBSS1ZSndENEJkcm5nVUFKOUY0cUNxUkFNWkNQS2swdURVeW8wWThUZFlrUVZNeXozVEp4bWdVV1ZhanpFRGdkWFFNQUZ2cUNsaDJWVHlnWk1QQXdKZzJ4eXNGWkx5aW1hRHdTb0hLeGFGMm5CYkRHQVF1aUJIeURKQzdlcHlidmJhX1hlakxyaC11aUh3WGJueVFJblQ5dHJQQQ?oc=5",
+          "published": "2026-11-03T18:06:04+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt operations at Warsaw airports",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/bomb-threats-disrupt-operations-at-warsaw-airports/article71660977.ece",
+          "published": "2026-11-03T15:33:53+00:00"
+        },
+        {
+          "title": "Multiple flights to European airports targeted by bomb threats",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-03T14:18:00+00:00"
+        },
+        {
+          "title": "В Европе пять самолетов за один день получили угрозы о бомбах на борту",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/03/v-evrope-pyat-samoletov-za-odin-den-poluchili-ugrozy-o-bombah-na-bortu",
+          "published": "2026-11-03T13:53:26+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights, including two from UK airports",
+          "domain": "news.sky.com",
+          "url": "https://news.sky.com/story/bomb-threats-reported-on-multiple-flights-13607460",
+          "published": "2026-11-03T12:37:00+00:00"
+        },
+        {
+          "title": "Ameaças de bomba afetam aeroportos e mobilizam segurança em vários países da Europa",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/dois-avioes-com-destino-a-varsovia-recebem-ameaca-de-bomba-e-aeroporto-suspende-operacoes.shtml",
+          "published": "2026-11-03T12:29:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.25,
+        "r": 0.239
+      }
+    },
+    "binance-hack": {
+      "kind": "major",
+      "title": "Binance svela come un cyberattacco con un falso colloquio abbia minato la fiducia nel mercato crypto",
+      "region": "Mondo / cripto",
+      "summary": "Binance ha rivelato i dettagli del più grande attacco informatico al settore crypto, che l’azienda collega alla Corea del Nord e valuta in circa 6,34 miliardi di dollari. Reuters, AP, ABC e altre testate scrivono che gli hacker hanno usato falsi colloqui di lavoro e codice malevolo per ottenere accesso ai sistemi. Binance ha dichiarato che il suo team di sicurezza nel 2026 ha già individuato e sventato decine di minacce sospette collegate alla Corea del Nord e sta rafforzando la protezione con l’IA. Parallelamente, la parte nordcoreana respinge le accuse.",
+      "picture": "Il disegno mostra un archivio digitale incrinato da cui cadono monete luminose, mentre una figura incappucciata con una catena di token si allontana. È l’immagine di un attacco che distrugge la fiducia nel mercato crypto e sottrae denaro a un sistema protetto.",
+      "mentions": 43,
+      "significance": 89,
+      "velocity": 57,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Binance attributes $6.34 billion cyberattack to North Korea, boosts AI security",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/business/business-news/922602-binance-attributes-6-34-billion-cyberattack-to-north-korea-boosts-ai-security.html",
+          "published": "2026-11-04T08:25:25+00:00"
+        },
+        {
+          "title": "Crypto dips on Democrat midterm wins, Binance hack dents optimism - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ?oc=5",
+          "published": "2026-11-04T07:35:00+00:00"
+        },
+        {
+          "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5",
+          "published": "2026-11-04T05:51:00+00:00"
+        },
+        {
+          "title": "North Korea fires missiles hours after rejecting US accusations over Binance hack",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missiles-hours-after-rejecting-us-accusations-over-binance-hack/articleshow/135524084.cms",
+          "published": "2026-11-04T05:01:44+00:00"
+        },
+        {
+          "title": "Fake jobs and malicious code used by hackers in largest crypto-heist",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-04/binance-released-details-of-largest-crypto-heist/107345208",
+          "published": "2026-11-04T03:28:52+00:00"
+        },
+        {
+          "title": "Disruptions to basic services loom over South Africa's local polls",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/03/disruptions-to-basic-services-loom-over-south-africas-local-polls/",
+          "published": "2026-11-03T20:08:13+00:00"
+        },
+        {
+          "title": "Binance says fake job interviews, AI tool used in US$6 bln theft blamed on N. Korea",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261104000400315",
+          "published": "2026-11-03T18:51:51+00:00"
+        },
+        {
+          "title": "Криптобиржа Binance рассказала, как ее обокрали на шесть миллиардов долларов. Чтобы проникнуть в системы компании, хакеры устроили фейковое собеседование с ее сотрудником",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/03/kriptobirzha-binance-rasskazala-kak-ee-obokrali-na-shest-milliardov-dollarov-chtoby-proniknut-v-sistemy-kompanii-hakery-ustroili-feykovoe-sobesedovanie-s-ee-sotrudnikom",
+          "published": "2026-11-03T17:39:15+00:00"
+        },
+        {
+          "title": "How did Binance recover quickly from the biggest crypto hack in history | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/business/binances-recovery-from-the-biggest-crypto-hack-in-history-explained/article71659637.ece",
+          "published": "2026-11-03T12:58:20+00:00"
+        },
+        {
+          "title": "Coreia do Norte nega envolvimento em roubo bilionário à Binance",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/coreia-do-norte-nega-envolvimento-em-roubo-bilionario-a-binance.shtml",
+          "published": "2026-11-03T11:56:00+00:00"
+        },
+        {
+          "title": "Binance attributes $6.34 billion cyberattack to North Korea, boosts AI security",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/business/business-news/922602-binance-attributes-6-34-billion-cyberattack-to-north-korea-boosts-ai-security.html",
+          "published": "2026-11-04T08:25:25+00:00"
+        },
+        {
+          "title": "Binance attributes $6.34 billion cyberattack to North Korea, boosts AI security",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/business/business-news/922602-binance-attributes-6-34-billion-cyberattack-to-north-korea-boosts-ai-security.html",
+          "published": "2026-11-04T08:25:25+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.143,
+        "r": 0.202
+      }
+    },
+    "us-south-africa-trade": {
+      "kind": "major",
+      "title": "Il Sudafrica vota in un clima di rabbia per i servizi deboli e la crisi dell’ANC",
+      "region": "Africa",
+      "summary": "Il Sudafrica vota nelle elezioni locali in un clima di insoddisfazione per i servizi e le infrastrutture carenti, oltre che per la crisi di consenso del partito al governo ANC. Reuters, AFP, BBC, Guardian e Al Jazeera scrivono che gli elettori scelgono i rappresentanti municipali sullo sfondo di disoccupazione, criminalità, interruzioni dell’acqua e dell’elettricità. Il presidente Cyril Ramaphosa ha riconosciuto che i fallimenti municipali hanno minato la fiducia nel potere. I media osservano che il risultato è considerato un banco di prova per l’ANC, che potrebbe perdere terreno in modo significativo.",
+      "picture": "Un tubo dell’acqua incrinato alimenta un’urna elettorale stracolma, attorno bandiere sbiadite e lampioni rotti. L’immagine mostra che il voto si svolge in mezzo a una crisi dei servizi pubblici che spinge le persone alle urne.",
+      "mentions": 37,
+      "significance": 74,
+      "velocity": 41,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "MTN supports South African election operations with critical connectivity infrastructure - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcGhQRXh1eERDYmVYckNvZk5MSjB1NWUzbmdYSEZ5MXdCWmNDTDltUGRpSXBJUTZRVGowdjNsQk5rckdoS0h0NWtZcy1jSXV3NlFVVjBscVUxa1FhRnVvd0pRVU5FTFlqTVRScl81cEMxa2JHcXV0bmszOC1PQ0xqWlYyWjFDcUpfY0VmVnRNR2F4dXltOWFmazU5eG1FcWQ4aHV0U1VlbEEyZmlaM0NIdXJ3TGE1YVZlVDVlTVJjM0xNZFY1YUVsNUFad2FtQXotQU9nX0x6NkVmaG5ReVVHUEtTU3RNU00?oc=5",
+          "published": "2026-11-04T08:29:11+00:00"
+        },
+        {
+          "title": "South Africans vote amid growing discontent over failing services and infrastructure",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/04/south-africans-vote-amid-growing-discontent-over-failing-services-and-infrastructure/",
+          "published": "2026-11-04T08:17:04+00:00"
+        },
+        {
+          "title": "South Africans vote in local elections seen as test for embattled ANC",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+          "published": "2026-11-04T06:57:06+00:00"
+        },
+        {
+          "title": "En Afrique du Sud, la déconfiture annoncée de l’ANC, en perte de vitesse dans les grandes villes du pays",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+          "published": "2026-11-04T05:00:25+00:00"
+        },
+        {
+          "title": "ANC faces anger over poor services as South Africans vote in local elections",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+          "published": "2026-11-04T04:00:23+00:00"
+        },
+        {
+          "title": "ANC under pressure to reverse South Africa decline",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T00:03:19+00:00"
+        },
+        {
+          "title": "South Africans vote as anger over failing services threatens ANC - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanQ1YlJCTmlKa3JYUVpvQVBpWWtrend0T0VTblJsYXRCWWRLaWdGMmEtM2F3SWVZYlhnWjRObDFpUmtDRV9pTW5LMjJWUFlRc0xLRm05TXozcHFVWnNKbkYxeUFteUt6TkNKamh2QWRxc1BHWElOaU10alJ3SVRIOUFVM1EwdmJ5VEsxU1cxd3pZRklKd3NBWGtrRFdKWWE5YVNkNlV0NjVmN2R2RmhIYVJR?oc=5",
+          "published": "2026-11-03T23:03:00+00:00"
+        },
+        {
+          "title": "Unions urge South Africa to save US duty-free trade deal - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmFOdGlPQ255U1pNLXVFaGJpai1JX25fMW1jVU1sUy1vcDBVY0dIT0JHXzhrYkh5WlFxSm95YUdkZGRoWTdIMkxQWUlFN2ZvdWdPWGFzSDBxWFhya1hzaFlPOHJvTldVTVdvdzJLLVZkOFdSU3hIRU9rVExnSmh1d1NB?oc=5",
+          "published": "2026-11-03T14:17:46+00:00"
+        },
+        {
+          "title": "Top takeaways from the US midterm elections - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0hnMkJSMjdlVHl3X1phS1RkaFREa0F3bkpOTUROaDF3QkZJdGJaYl82aDE3MThzNE54azlBaWFJMmIzcGZXb21FaUtiRWJYOTdodVJqRm9pV2pZa05mWlA5RC1mWTJQclNfUkJXS2NldVpLSHJ4S2VwNGpuV0xKbVBZY1JiV0M3UkZxTHZ6dw?oc=5",
+          "published": "2026-11-04T05:42:33+00:00"
+        },
+        {
+          "title": "Democrats win US House in growing midterms wave against Trump - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFRkVkZ1TmtSaVJ0bU4taXY5UGtRRENTeTNfNGotbnpTaE9VVjVOXzhONmQ2NVJTSlFqNlVjRUpPNDlvczBLcGU4TTVOM2lEa3pkMUE1UGh5OGQxMldwdEpKaDFRZHJZeUhwbkJ1cGlWVG5hcjhYMWpTaGxpY3NXcmpNdk0tYk9QMG1SLWpSUWo0YjBoTlQ1VDZxQ015R3BOR3Bfc1B4VQ?oc=5",
+          "published": "2026-11-04T04:55:56+00:00"
+        },
+        {
+          "title": "South Africa votes: Turnout set to shape the future of municipalities - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXhBLVMxNVJvMnlZRldUMnZIaWQxSzlyeTczV1RwRGZvUTNSN01wR1pCanFQQ3Rjc0k4ODJLV3hzbXk4X1dsTUlzV3RjYmd0WkpoUDFpY0tDOXhQeGt0M05jUTZaNFMzZ2lFbHo5dE1oTlN0LXk5WGdFVlhtSElWd1RkT1FDcVRJbjBkNWItRFFPcjRsWnd3X2JyNFdOZ3BMRnF4ZGxfTmsyR1U0OEQtRVZKcWo?oc=5",
+          "published": "2026-11-04T02:35:30+00:00"
+        },
+        {
+          "title": "The invisible kingmakers: Why Gauteng’s minority parties will decide municipal elections - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaG1DcXNNd0RGVUoxQUR2eWdjRXYySXprZUg1R0FfazdsTmctTVFJWVh5TnNobDVhcXZSUlpaUDVkaXp6MzdVTmM5RWlYb2Iyalo5UFc2anRKSVJnbG5fckVfVEprOWxWSDVQc2o5NVMzU2JBMklFTWk3ZmJIcXgwQUhlTzItdF9INEQ1WmVNeDRQSkJrQjVEMFFVdmcyX3dxMFB1OXp6NnVEa0NOdXhwNzBCRWVGallvS3VycnZRZHJoZmMyRVNCMXVkR2hWQQ?oc=5",
+          "published": "2026-11-04T02:04:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.75,
+        "r": 0.239
+      }
+    },
+    "palestine-israel-friction": {
+      "kind": "major",
+      "title": "Le azioni israeliane nei territori palestinesi e le controversie di risposta aggravano la crisi regionale",
+      "region": "Palestina",
+      "summary": "La tensione attorno a Israele e ai territori palestinesi resta alta sullo sfondo di nuove notizie di violenze, distruzioni e dispute politiche. Al Jazeera scrive che gli abitanti di Hebron stanno tornando in case distrutte dopo un assedio israeliano durato 10 giorni, mentre Reuters, Arab News e NYT riferiscono di controversie in corso su violenze dei coloni, terre e boicottaggi. Negli Stati Uniti, nelle elezioni del Michigan ha vinto Abdul El-Sayed, che nel suo discorso ha parlato duramente di Israele e ha detto che le tasse dovrebbero andare ai bambini, non alle bombe. In Gran Bretagna la Corte suprema ha iniziato a esaminare il ricorso contro il divieto di Palestine Action.",
+      "picture": "Un piccolo ulivo è schiacciato sotto un muro crollato, accanto a una chiave incrinata e pietre sparse. È il simbolo di una terra devastata e di come il conflitto privi le persone della casa e dell’accesso ad essa.",
+      "mentions": 27,
+      "significance": 75,
+      "velocity": 80,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Anti-Israel El-Sayed wins Michigan Senate race, pledges no money for ‘apartheid, genocide’",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/anti-israel-el-sayed-wins-michigan-senate-race-pledges-no-money-for-apartheid-genocide/",
+          "published": "2026-11-04T09:00:53+00:00"
+        },
+        {
+          "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+          "published": "2026-11-04T08:22:15+00:00"
+        },
+        {
+          "title": "U.K. Supreme Court to Hear Challenge to Ban on Palestine Action: What to Know",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+          "published": "2026-11-04T05:01:04+00:00"
+        },
+        {
+          "title": "Israeli ex-generals condemn settler violence, help Palestinian farmers - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbW5UOGpkLVUwbE5YTXBWNVhpWmFqeXBkMlRRdWZLSlVEZHRFUDNKYW8taDRpdUk3dlFIR1FRbU5UZHNSaV9vUDlrLVpCU2FlOWJQM3dBaUc1MkRqVGtmRmQ2UUtfZjNaV0ZTMEE2ZzJTZHd3MDV6OFRWYTg1UWNSVk5ycXgwQlJnU3RlZkJkWVJwdUJWM0xjSVE4Ri1nRV9sODZNNDQ0cjVtUGJIbHFXWFBDRWw?oc=5",
+          "published": "2026-11-03T20:52:48+00:00"
+        },
+        {
+          "title": "В селе под Киевом десятки человек собрались у частного дома, где удерживали мобилизованных и сбежавших военных. Произошли столкновения со стрельбой. На место приезжал глава офиса президента Кирилл Буд",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/03/v-sele-pod-kievom-desyatki-chelovek-sobralis-u-chastnogo-doma-gde-uderzhivali-mobilizovannyh-i-sbezhavshih-voennyh",
+          "published": "2026-11-03T12:32:05+00:00"
+        },
+        {
+          "title": "Providence voters approve ballot initiative that would back divestment from Israel",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/providence-voters-approve-ballot-initiative-that-would-back-divestment-from-israel/",
+          "published": "2026-11-04T04:40:51+00:00"
+        },
+        {
+          "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
+          "published": "2026-11-03T20:58:18+00:00"
+        },
+        {
+          "title": "Hamas member among 4 killed in Israeli strikes: Gaza officials - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzc2SDQ1Y2lOWTZmYXFWbUxzSU9VcGhUbkZGOUdtOWZ6QTAwc2VKZF9vbENYYVZmV2EtUWR0VVBscjR6OEg0SjQ0UlVfY0dzMW94RlFXeTk5eEJWMUxfZlpMMFNGTWstZGtFVmhoY3B1czF6Nl9GOTdBTHFweWl5OWxtTlg5WHZsd3VvSW9nQUVCM3ZIMlZJRkJTeV9lbkN2ZEo3bTNiM1U1QQ?oc=5",
+          "published": "2026-11-03T16:59:21+00:00"
+        },
+        {
+          "title": "Israel seizes land near Jenin for military use amid settlement expansion - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTR2eldTNERPVlNFcUhMRnlfMGVkYmVZbllYeDloVDVIdGM5VXVPQ01Qc0dra2hoNnlHUGdDY0hkMjQwSDJ4UXR0cWU2YU5jVmwydWNxdlpFQ09iYkRmeTh6Q1U4UkpZdE9PZUlUZ3hZMlJnX3ZXSkg5M1p6djl6T0ZsTEFsbE0zMnd1TjBXVWVVQzBjb3pUSlA5d2pLaXFPcUFnbG1jdkE0M0tKNDgyYkNWZzZuWDk3?oc=5",
+          "published": "2026-11-03T15:47:22+00:00"
+        },
+        {
+          "title": "Racist Israeli right riled by Palestinian parties’ success - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVItb3psa2VTc21Sd1F2bllpVEQ2RDRpUmJ6V0g2OGVTbEdSUlJ2NGVuamp4M1RyTjB0QWF4eXFrYlNweW9OY2VYMmpTdTlaeF9rdlBtZ0tGa3dvcTFVS1pnM3FUVl84VmRlYXBOUldzd0w3TnNEa0lBTGVmTVhJM3RmU2t6WnlLd3pNS0RXRmphRU82WWs2VmJOamVxV2s?oc=5",
+          "published": "2026-11-03T13:53:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      }
+    },
+    "fridge-cyberattacks": {
+      "kind": "major",
+      "title": "In Europa si diffonde un attacco ai sistemi di refrigerazione dei supermercati",
+      "region": "Europa",
+      "summary": "In Europa si stanno diffondendo attacchi informatici ai sistemi di refrigerazione dei supermercati e alla logistica del congelamento dei prodotti. Reuters, AFP e The Hindu scrivono che nel mirino sono finite catene in diversi Paesi e che autorità e aziende stanno cercando urgentemente vulnerabilità e risolvendo i disservizi. Si segnala che sono stati colpiti sia punti vendita Carrefour, Spar e Delhaize sia altri impianti della distribuzione alimentare. L’Italia ha già tenuto consultazioni sulla sicurezza dopo una serie di incidenti.",
+      "picture": "File di congelatori da supermercato stanno con le ante aperte e rotte, il ghiaccio è sparso, il cibo è deteriorato e i cavi sono aggrovigliati. Questo rappresenta un attacco a un’infrastruttura quotidiana invisibile ma essenziale.",
+      "mentions": 23,
+      "significance": 72,
+      "velocity": 41,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+          "published": "2026-11-04T08:17:14+00:00"
+        },
+        {
+          "title": "Spoiled by design: How supermarkets became targets of cyberattacks",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/technology/spoiled-by-design-how-supermarkets-became-targets-of-cyberattacks/article71664004.ece",
+          "published": "2026-11-04T04:54:48+00:00"
+        },
+        {
+          "title": "At least 11 European countries snared in freezer cyberattacks - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWJJcWJ5VUgycm94Z285c25BblRmLWZpWTJYX2ppVUhtc1dSb0xKUFdiNWlwT3VhM0YzTXJpa3dpcUZZSEsxV0JTdDBTVFdaMTB6cUZ3azJLdWNjRDl1MUNGODFvd2RHRGJsODZWdXppeTFVVG9FWGpnbGtJRzlHRjdlMkY?oc=5",
+          "published": "2026-11-03T21:00:00+00:00"
+        },
+        {
+          "title": "European supermarkets rush to patch vulnerabilities after region-wide fridge hack - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkQ0YkpOVC13OThlbVFndzBBbUF0S2xvYmdSbzQ0VWY4Q21nRUlFQkh6YTdqNnVEbmNoVEJoQmdIS3ZjM0RMRHVZZzN1SWdUekROY2RqaUdScDlkSHd5dXZGeWFnV19RV0hZb1pZVFROQW1meDBqZXdMZUc5UzJYQjd1VEgwd2dCWTNMVlVIYW94NHRhZXdwWmh1RDhJVkNTLS1RREJHMjZUbWpGNDMyX2UwWmRPdUhHQ0V3dXY0akxpTDVzMVE?oc=5",
+          "published": "2026-11-03T15:53:00+00:00"
+        },
+        {
+          "title": "Italy holds security talks after European freezer cyberattacks - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0dMeDcwUzVHTW9MSjFQd1BneHEtRFNjZ0M1NE5GVVdvbDdmRkdZNjZ5SDRLQ0Z6cTdwSTEyVUlpVlM0NThLVld0Tm5YenNxNEJBYzNKWmVuZGtXNk5wOEwxOW94M1pmX0gwaWR3Ymg3YV9ocDZIc2REc3lBQnEya1J6ZG83dVJwcU44X0hB?oc=5",
+          "published": "2026-11-03T12:21:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "google-voluntary-buyouts-several-countries": {
+      "kind": "micro",
+      "title": "Google amplia le uscite volontarie per i dipendenti in diversi Paesi",
+      "region": "Mondo / cripto",
+      "summary": "Reuters riferisce che Google ha ampliato il programma di uscite volontarie per i dipendenti in diversi Paesi. L’articolo parla proprio di proposte di lasciare l’azienda su base volontaria, senza ulteriori dettagli sulle ragioni e sulla portata.",
+      "picture": "L’icona di Google accanto a una scatola di cartone. È l’immagine di una riduzione morbida del personale attraverso l’uscita volontaria dei dipendenti.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "EXCLUSIVE: Google extends voluntary buyout offers to employees in several countries - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N5M3JKaG93ZWY0OHkzNkZuaXNvcllrWV9EZTJocmdSZ19NTWU5Nzg4aVV3VTF1dUIxdHZoczZkZU1MYjVpaEJRQ0txUG44c214NjFDeFNvN21nbnltZFBUZ0F4YkVobEI2R3F2ZXJqUW56N3psczhCSWM2RXBMMEd2VXJjV1VqeFFsWnA5R1A0dnpOUTZGc2ZEVXNCTWNHME4tSU9yaTdSRzhWbzlaRF9QRXM3OVJSS3N5Q2diU2JKT00?oc=5",
+          "published": "2026-11-04T08:38:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "cruise-ship-cambodia-passengers-off": {
+      "kind": "micro",
+      "title": "Una nave da crociera lascia la Cambogia dopo lo sbarco di centinaia di passeggeri",
+      "region": "Asia",
+      "summary": "Reuters scrive che una nave da crociera ha lasciato la Cambogia dopo che centinaia di passeggeri sono stati fatti sbarcare con la forza. Nell’articolo non vengono forniti ulteriori dettagli sulle cause dell’incidente.",
+      "picture": "Una nave da crociera e una fila di valigie. L’immagine comunica un viaggio interrotto all’improvviso e lo sbarco dei passeggeri.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Cruise ship leaves Cambodia after forcing hundreds of passengers off - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FLZ1d4Y3ZRdzdYaWZFNTBGVk8tckc2ZlJHOTI3NVpkdjZiTjQ1RHRySGJlS3VsMmg1bmw0Wnd2ZkNFTVpGS1RBWElTYjh5MHBsaUFLckQtWkQxdE56YlJIeUN2QkRqejFJazlKVHB5NVFLSjdGN3NQdkNmc3BuTlZSVm9MNnU3WFZsLWVDSGw5NjdXNTNwNkh3bnhWdWZ0OVB4bC1ROXk1U09uTFZlMm1wQnZxWGFDSUVPdw?oc=5",
+          "published": "2026-11-04T05:19:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.286,
+        "r": 0.125
+      }
+    },
+    "singapore-airlines-booking-records-breach": {
+      "kind": "micro",
+      "title": "Singapore Airlines subisce la fuga di dati di 46.000 prenotazioni",
+      "region": "Asia",
+      "summary": "Singapore Airlines ha comunicato che, a causa di un attacco a Amadeus, sono state compromesse 46.000 prenotazioni. Reuters riferisce che l’incidente ha coinvolto dati dei clienti collegati al sistema di prenotazione.",
+      "picture": "Una carta d’imbarco accanto a un laptop incrinato. Mostra la fuga di dati attraverso un sistema digitale compromesso.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHY1TlZBQVBfQnRoa1RwSjFtWmdBdWMtR1Y4UEdVMlp2MzZMVmo4dVJkc1g5NEgweFU4bmkxdGtEem5XQ1c5VW5EamNIXzdURExVYUVpSzlIY01IWkItRHNSZW1SMnNhVVNCSGhDd3VjZnNJM1E5QTZvSXpyd18tVzdIZ2c4M3d4YXNFWUJaYV95YjF0RWlRTHQ3dW1ucFYxWUlfWjlrQmpUU055NzhQQlplcTNCVkxWYURMeGg2Qnk5RGk4SGc?oc=5",
+          "published": "2026-11-04T01:11:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "frog-embryo-charges-dropped-harvard-scientist": {
+      "kind": "micro",
+      "title": "Gli Stati Uniti decidono di ritirare le accuse contro una scienziata di Harvard nel caso degli embrioni di rana",
+      "region": "USA",
+      "summary": "Il Dipartimento di Giustizia degli Stati Uniti ha chiesto di archiviare il caso contro la scienziata russa di Harvard Xenia Petrova, accusata di importazione illegale di embrioni di rana. Reuters conferma che le autorità statunitensi stanno procedendo verso il ritiro delle accuse. Altri dettagli non sono riportati nei materiali disponibili.",
+      "picture": "Un embrione di rana in una capsula di Petri. L’immagine sottolinea che il caso riguarda un campione biologico diventato oggetto di un procedimento penale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Минюст США попросил закрыть дело против ученой из России Ксении Петровой. Ее обвиняют в контрабанде эмбрионов лягушек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/04/minyust-ssha-poprosil-zakryt-delo-protiv-uchenoy-iz-rossii-ksenii-petrovoy-ee-obvinyayut-v-kontrabande-embrionov-lyagushek",
+          "published": "2026-11-04T09:52:58+00:00"
+        },
+        {
+          "title": "US moves to drop frog embryo smuggling charges against Harvard scientist - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0dKN280eVFUYW9OUjJSNHpodGQ3RW5FQkxVZ2dnUEMzWXRoZ0JGQmlGcGd2YVpBVVY3by1XcWIydzVBOWMyY2VRNUozWVdHbEg4dmFEd0ZoV0ZpR1FpZnk4OHFYMkFwU2hzeTZLWjNLNVljV3ZUdEtlNXJQQS1QMS1kUVdYTmJEd1NMamZNdXQ5OUtiZnlwRUlUWHlLTGJi?oc=5",
+          "published": "2026-11-04T00:14:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "voluntary-lifetime-pensions-default-britain": {
+      "kind": "micro",
+      "title": "La Gran Bretagna renderà il reddito pensionistico vitalizio l’opzione predefinita",
+      "region": "Europa",
+      "summary": "Reuters riferisce che la Gran Bretagna intende rendere il reddito pensionistico vitalizio l’opzione predefinita per le pensioni private. Il pezzo parla di un cambiamento dell’impostazione standard dei pagamenti pensionistici.",
+      "picture": "Una pentola per la pensione e un piccolo ombrello. È il simbolo della protezione del reddito a lungo termine.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Britain to make lifetime retirement income the default for private pensions - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWxwSUpNQ2NIcVc0Yy1WaTFDLThSUU12TmlFNVdRLXVFWXBhMDhqNy1oQUlaOUlqR05FZkNTcDB1ZWgxRUZSUTRkYVMzdmdac2EwbEFTZnBRdzdhcWJTejB6OE1CcEdja3Bjd1Y4dU9sZ0FqVV9MUy10YUZNMHN0MHZ4eFJEamVpOWJRbnRKS0RtUFBnYjNvVVpsOUNoUEdhVlRvYlhmdkxJMnZNNnc?oc=5",
+          "published": "2026-11-03T18:27:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "everest-winter-west-ridge-attempt": {
+      "kind": "micro",
+      "title": "Un alpinista tedesco si prepara a un raro tentativo invernale di scalata dell’Everest",
+      "region": "Asia",
+      "summary": "Reuters riferisce che un alpinista tedesco si appresta a compiere un raro tentativo invernale di scalata dell’Everest lungo la via del West Ridge. Nella pubblicazione viene descritto come un’impresa insolita e difficile.",
+      "picture": "Un alpinista con piccozza e maschera per l’ossigeno. L’immagine richiama l’estrema difficoltà dell’assalto invernale alla vetta.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "German climber to make rare winter attempt to scale Everest via West Ridge route - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGFxb09hcXkzbzZyanRITllUYkt0NUxDX0R5RHVNRGRJeDVEUFhEVTdFMXZhQjhJOC1GYS1tbC1VUU42QkFjR3pQYlVGVkdsUmMyVElKM1l4RDhyT0RNQWdIUWpTcl8tcXNER1RMY0FFRG9RN0htU3N5cWI1TUlQNmFYc3NaN3ozT1VVX1pYS1dSSno4dTZJVk9iYzNPT28xaE0wcEU0NGlkRUw1dVpsTHJlVEZxZnc?oc=5",
+          "published": "2026-11-03T14:05:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "monarch-butterflies-tiny-trackers": {
+      "kind": "micro",
+      "title": "Le farfalle monarca iniziano a essere dotate di minuscoli tracker per studiare la migrazione",
+      "region": "USA",
+      "summary": "AP News scrive che alle monarca sono stati applicati minuscoli tracker per consentire agli scienziati di seguire la loro misteriosa migrazione. Fa parte di un progetto di ricerca sui percorsi delle farfalle.",
+      "picture": "Una farfalla monarca con un piccolo tracker. L’immagine mostra come la scienza moderna aiuti a seguire il viaggio dell’insetto durante la migrazione.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Monarch butterflies get tiny trackers to help scientists follow their mysterious migration - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGJlX0czUHF3MUk5bUppcWNSeTBDRmxXTHl2V29vZ1EyNVplVTR1R0ZRZjFmdFh0TC16MGd4WW54OFJ4U1Y5bG51NFNKeUtwbmhLMWx2OXhLVmdveTh2aWUtU3ZwcjVwb1lBdDFSVktLZWExNFRrcmdCREpiaXR1cm9sQ3psUmpmYVVrbXRDSE85WVIwUGlocmQ4QVFVOS12emRRNkI3YnpIZmgtUkY4alF0MTgtNnVWdlBn?oc=5",
+          "published": "2026-11-03T16:17:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "marine-rescue-iranian-fishing-boat": {
+      "kind": "micro",
+      "title": "Marinai indiani hanno salvato 20 persone da un peschereccio iraniano al largo della Somalia",
+      "region": "Asia",
+      "summary": "La marina indiana ha salvato 20 membri dell’equipaggio da un peschereccio iraniano sequestrato al largo delle coste della Somalia. AP e NPR scrivono che all’operazione hanno preso parte una nave militare, un aereo di sorveglianza marittima e commando della marina. I resoconti affermano che l’incidente è legato alla rinascita della pirateria somala nel Golfo di Aden e nella parte occidentale dell’Oceano Indiano.",
+      "picture": "Un mezzo di soccorso accanto a un peschereccio. L’immagine indica un’operazione marittima in cui il salvataggio delle persone avviene sullo sfondo della minaccia dei pirati.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjRaZE9hZDItQmQ0Q2VZU3BhLXhIbmVPSmthVl9ZYUxxSElvZXRyOUswMGxjaURja25DZXZrOWRVWjNYT3NEMTU2YnZ6RW15UFBrV0JkTlFXWldnS0FZYXU4ZmthMnF1YnFtWmZ3U3JEM082SzFWTnVfSXA0WXdIS0duejR3bTlwSGNQWjg0ZTZqM1JybnoyS004UmxLREk2X0VrMng5NjRYalhIaU5jdw?oc=5",
+          "published": "2026-11-03T15:55:00+00:00"
+        },
+        {
+          "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+          "published": "2026-11-03T14:13:58+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "man-utd-comeback-roma": {
+      "kind": "micro",
+      "title": "Il Manchester United firma una rimonta drammatica contro la Roma",
+      "region": "Europa",
+      "summary": "Il Manchester United ha compiuto una rimonta drammatica contro la Roma in Champions League. NYT scrive che Matheus Cunha ha segnato due gol nel finale e ha anche ricevuto un cartellino rosso, aiutando i Red Devils a strappare la vittoria; anche News24 definisce il match sensazionale. I media descrivono il risultato come importante per la squadra dopo un periodo difficile.",
+      "picture": "Un pallone da calcio accanto a una folla in festa. L’immagine rappresenta la svolta improvvisa della partita e la vittoria negli ultimi minuti.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Man United ease troubles with sensational Roma comeback, PSG rampant - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazBISVNGZ3hBOEQtUHRQMkNVbDhRLUhkdzZXNmVYQkxoUGotYk9WcGF1NFg1UGVTLUtLZGJ6aGJuQXlrZVRlbVVBdHVHRDYzc3ZSUmlyYjAwcTZqM1N0RFhKSzlOV0FSSU1mYlc1Ti13YXFsdlN4cHkwSFIyZGo4NzBvZWhjM0pzTTdWRXZnZENlTXpzT19ZaDFFRDB5QlZRblFfR29Sc1BLRlRWNGd4ZmZ4a3M5LWc?oc=5",
+          "published": "2026-11-04T05:46:06+00:00"
+        },
+        {
+          "title": "Matheus Cunha with two late goals and a red as Man Utd secure miraculous Roma comeback - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JDWnRnTEVxWDBFYVBUOHlMd21kdlEtckFMbGFqRFd2VTVBYW5SdWZZXzZpTzBac081bEl2YWZWVUFBTEcxN0pvcW95REdjX0JEenhzTjlfQzR6ZURndnhkNUJ0MjhPUkFlSU5QVkppWDVUb04xanpOd2c3TEdoSlJtOXB4dw?oc=5",
+          "published": "2026-11-03T23:26:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "barca-villa-champions-league-win": {
+      "kind": "micro",
+      "title": "Il Barcellona batte l’Aston Villa in Champions League",
+      "region": "Europa",
+      "summary": "Il Barcellona ha battuto l’Aston Villa in Champions League. AFP, Arab News e Guardian scrivono che a segno sono andati Raphinha e Yamal, mentre i catalani hanno offerto una prova convincente. Per il Villa è stata una serata difficile, per il Barcellona un altro successo nel torneo.",
+      "picture": "Un pallone da calcio e due bandiere di festa. L’immagine trasmette una vittoria costruita con un calcio offensivo e la gioia della squadra.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Raphinha, Yamal power Barca to Champions League win over Villa - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXpFYzF0Q1pENHczbFZCeC1yMDlYYmpDaElpMDNqbW9iQ3JReG1WUG5zM1g5Q01CR2NYRXRoRm1HN1h0OVZUMUo4OEl0akNjck5QTm9wNTU3TWhxZGI1WUhrRkpIc1hZNmFsRmFiRUlqLVlDNHVxSzJLZTg2eGM4MWVuS2I2ZV9USkhHbmM5aHhFSG1mWHZ4SUNxQmJQVjRJQW81VmJ3?oc=5",
+          "published": "2026-11-03T23:33:57+00:00"
+        },
+        {
+          "title": "Raphinha, Yamal power Barca to Champions League win over Villa - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYml1eEVrUmEyTThYMWlUTDcwS3B4czRadld2T0tTdmhtSXNtb3NVcUFWZEI0TGtKM2NfNlBHSm9Bemh1YndWd2VvVTBISjBJWWVIMl9Pc3RpLTRUOEV2Ul84bU1fak5LbVRWbnl1RlZsRTFWZmNaZllyLU1PdWc3NFBDb3h0RzJu?oc=5",
+          "published": "2026-11-03T23:05:21+00:00"
+        },
+        {
+          "title": "Raphinha underlines Barcelona’s class to give Aston Villa a reality check",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
+          "published": "2026-11-03T22:00:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "bayern-atletico-champions-league": {
+      "kind": "micro",
+      "title": "Il Bayern batte l’Atlético in Champions League",
+      "region": "Europa",
+      "summary": "Il Bayern Monaco ha battuto l’Atlético Madrid in Champions League. AFP, Arab News e Guardian riferiscono che i bavaresi hanno ottenuto la vittoria nonostante una formazione descritta come rimaneggiata. Le pubblicazioni affermano che Lennart Karl ha avuto un ruolo decisivo e che la partita è stata importante per la squadra.",
+      "picture": "Un pallone da calcio accanto a una sciarpa rosso-bianca. L’immagine parla di una partita in cui i colori del club e il pallone stesso diventano simboli della vittoria.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Bayern skeleton crew sink Atletico in Champions League - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjN5bURCcmxhN1Noem9tMDFBc0tTRWRSRmtNenhmeDYzd2VrczcxWGtnWkl1NzhhNXBJaDMtaEV3NE93dHlTOVprQmdkVTFYWUZ3aDA4bTh6TVFQT0txRDJyTk52VlBXOTJQZld0TmdsUTgxYkVUNWUtYzN0bnYyYmhrQ1BKdWlRYy03UENHVWlSdVNUNTBmeHBSbnU?oc=5",
+          "published": "2026-11-03T23:19:42+00:00"
+        },
+        {
+          "title": "Bayern skeleton crew sink Atletico in Champions League - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GVUVTbndUODdORlY5bVBBbTRvb21HV3l2bl9CWjhJcEpyVDE4aThmWERiTFlPV2NGREdjUXVORl9hME1JMzltWW00a0luUFRzZHVqX0lBLUktYmNoSmgtZTNKNFZOM3lTTzhhQVhSTmVpbGdMc3N5b3IwSlk2RVU?oc=5",
+          "published": "2026-11-03T23:05:20+00:00"
+        },
+        {
+          "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
+          "published": "2026-11-03T22:28:08+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "psg-rampant-champions-league": {
+      "kind": "micro",
+      "title": "Il PSG torna a mettere in scena uno show di gol in Champions League",
+      "region": "Europa",
+      "summary": "Il PSG ha nuovamente travolto gli avversari in Champions League. AFP e Arab News scrivono che i parigini hanno segnato molti gol e battuto con sicurezza il Villarreal, mentre il Guardian definisce la loro prestazione storicamente potente. Nella rassegna è un altro esempio del dominio del PSG nel torneo.",
+      "picture": "Un pallone da calcio e una pila di maglie. È il simbolo di una tempesta di gol, quando dopo la partita sul campo restano solo le tracce del crollo avversario.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "United ease troubles with sensational Roma comeback, PSG rampant in Champions League - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE44LTFhTEpPMkdBeVFtZHNyVGRVWF9ubGp6aXktV2s0M0Vnd1dZX1Y3eUlRTmRWaXh1aVVjUHhpMHV4N3BDTnRvYkUxdHlULWhhYUUzYk9OTFJtbGFTc0JyLVp1M3YzX0NTVFBXd2R4R25UZWc2QThoSGNEZjlNemxwdW9uY01qRThpa2VTYm1RWjU1R0tHb0xqRnFaeXc?oc=5",
+          "published": "2026-11-04T02:35:35+00:00"
+        },
+        {
+          "title": "United ease troubles with sensational Roma comeback, PSG rampant in Champions League - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWhPWllWTlRXSnRYQ1ptM2VMODRxc3RzaGp6aHdISVR2ZVh5UTdWX1hrczNycDdxS3hjOGVWRkttMUFObzZkbm1tWmE3NVNDVVZuWXVWLWlFTVQxV2g3MWludUN6X1h2SUVpVEFMbXMtaENEdlc1ajJQSWlLU0ZxMnNialRjRnFtQkdsZnJ0aFZaNEM4TmFneTB6d3hhLXU0Z05VNS1LRVFHY2dnZmxjM1hZVzFmTmRYUlROb0hiME5MZWs?oc=5",
+          "published": "2026-11-03T23:07:57+00:00"
+        },
+        {
+          "title": "PSG fly out of blocks to hit sorry Villarreal for six in Champions League - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzFpMS10UXE2SmNmNFN4ZDBTd2VCQlFkZ2lCWmRyYTkycnZzYW4ySmFTMmk4eUpQVUhnSDZRNWVlR21yUVAwdUVvd2FnZDFIaENaWXR4a0RGdFZha1VIVi1TNDRKYnZvbmduU1BVRHAtZkduRTNHY19QQTAxcVhFNnhrYy1jdDhmS0J3?oc=5",
+          "published": "2026-11-03T23:05:21+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.25
+      }
+    },
+    "sporting-fan-protest-tennis-balls": {
+      "kind": "micro",
+      "title": "I tifosi del Manchester United fermano la partita lanciando palline da tennis in campo",
+      "region": "Europa",
+      "summary": "I tifosi del Manchester United hanno ritardato una partita di Champions League lanciando palline da tennis sul terreno di gioco in segno di protesta. AP riferisce che in seguito la protesta si è trasformata in festa. Nel pezzo ci sono pochi dettagli sulle ragioni dell’azione.",
+      "picture": "Palline da tennis su un campo da calcio. L’immagine mostra una protesta che interviene nel gioco e ferma la partita.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Protest turns to cheers after Man United fans delayed Champions League tie by hurling tennis balls - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjZGMFpqeDZxOWV6dVJ1Zjl2TkIxNU5KZmRDQjNKb296NXFSSlpWck5HT2NHcXlEWGJUS1dwNTduYmhxd0kwWHhDek5Zc3BfUGd4OXFCSEdpZ2tJZDJldDhnNVdKRjhEOWo1bjdxMUhrYktVN0djR25Yd3hUNkJHMmZRM1NuWFhYVFoxQ2IzR3dfZVUzdWxGMm9acWc?oc=5",
+          "published": "2026-11-03T22:45:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "de-miguel-tributes": {
+      "kind": "micro",
+      "title": "Il mondo del calcio piange Jesús de Miguel",
+      "region": "Europa",
+      "summary": "Il mondo del calcio rende omaggio all’attaccante del Tenerife Jesús de Miguel, morto dopo uno scontro in campo. BBC, Guardian, Africanews e Al Jazeera scrivono che il giocatore ha avuto un arresto cardiaco dopo un colpo al petto e che la polizia ha avviato un procedimento giudiziario. Durante le partite di Champions League si sono tenuti minuti di silenzio e altri tributi in suo onore.",
+      "picture": "Una maglia da calcio con un nastro nero. L’immagine indica il lutto e il ricordo per l’atleta morto dopo un episodio di gioco.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+          "published": "2026-11-04T05:49:43+00:00"
+        },
+        {
+          "title": "Football world mourns Tenerife striker De Miguel",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T23:37:12+00:00"
+        },
+        {
+          "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+          "published": "2026-11-03T17:17:29+00:00"
+        },
+        {
+          "title": "Tenerife footballer Jesús De Miguel dies aged 30 after match collision",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/03/tenerife-footballer-jesus-de-miguel-dies-aged-30-after-match-collision/",
+          "published": "2026-11-03T16:34:53+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "djokovic-paris-masters-open": {
+      "kind": "micro",
+      "title": "Djokovic supera a fatica il primo turno del Paris Masters",
+      "region": "Europa",
+      "summary": "Novak Djokovic ha superato a fatica il primo turno del Paris Masters. AFP, BBC e Arab News scrivono che è riuscito a battere Vacherot, superando un momento difficile nel secondo set. La vittoria gli mantiene vive le possibilità di qualificarsi alle ATP Finals.",
+      "picture": "Una racchetta da tennis e una palla consumata. L’immagine rende l’idea di un match duro e sofferto all’avvio del torneo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Djokovic overcomes scare late in 2nd set to beat Vacherot in Paris Masters 1st round - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWNndUp1MGZ3SGNsd01zandBWUZIdVExR1NLQjJmSlItdlRQLV9oU0oyM2Z3aGVxOTN1SHFyc280V196WGtjMnlBVW4xYU5xM0NfN1RIajUwUk5KTUNURUF4enpPMWNIQm1RSHpwNlFfUHYzU1NjUDdJZ3U5cDNpNWxaOVZtUTB3bTJmNVBYTVE4ZEktaU9NbmVncXdIYkczd3MtbmFFSWlaRnZ2cEI1YmlQQ1lwYjBQOUlPM3NETVZoZw?oc=5",
+          "published": "2026-11-03T20:57:20+00:00"
+        },
+        {
+          "title": "Djokovic battles through Paris Masters opener - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92b2VNQ1lTOU1hZV9KV0dmMnR3UXVydVYyTnY1bnlYcGVVdjd4VGVDNm81R2Z5d0FNcHAtdGtNOFdQRFB4LU53MWpwWlkxQk1kRnhfN2EzWURjaXI4LUVKdEVTaFI1NENHRGYwNHZ0QTZGQ0doVHl3?oc=5",
+          "published": "2026-11-03T20:08:40+00:00"
+        },
+        {
+          "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c3n04nzv1n21o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T16:57:17+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "winter-everest-helicopter-crash-trail": {
+      "kind": "micro",
+      "title": "Sulla strada per l’Everest si sono scontrati due elicotteri; una persona non è stata salvata",
+      "region": "Asia",
+      "summary": "Due elicotteri si sono scontrati lungo la rotta verso l’Everest, causando la morte di una persona e il ferimento di altre tre. NYT, CBS ed Euronews riferiscono che l’incidente è avvenuto in una popolare area turistica durante la stagione delle ascensioni. L’episodio ha riaperto il tema della sicurezza dell’aviazione in Himalaya.",
+      "picture": "Due elicotteri e la cima di una montagna. L’immagine mostra il pericolo del traffico aereo in alta quota.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
+          "published": "2026-11-03T23:19:17+00:00"
+        },
+        {
+          "title": "1 dead, 2 injured in helicopter crash near Mount Everest base camp",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/mount-everest-helicopter-crash-base-camp-nepal/",
+          "published": "2026-11-03T14:19:38+00:00"
+        },
+        {
+          "title": "Video shows two helicopters colliding in Nepal’s Everest region",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/03/video-shows-two-helicopters-colliding-in-nepals-everest-region",
+          "published": "2026-11-03T12:25:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.906,
+        "y": 0.839,
+        "r": 0.222
+      }
+    },
+    "blue-butterfly-return": {
+      "kind": "micro",
+      "title": "In Ontario è stata nuovamente avvistata una rara farfalla scomparsa da decenni",
+      "region": "USA",
+      "summary": "In Ontario, dopo decenni, si è iniziato di nuovo a reintrodurre in natura la rara farfalla frosted elfin. Secondo il Times of India, la specie è scomparsa dalla regione nel 1988 e ora gli specialisti stanno trasferendo esemplari adulti e uova dal New York. Fa parte degli sforzi per il recupero della specie.",
+      "picture": "Una farfalla blu su una foglia. L’immagine simboleggia il raro ritorno della specie dopo una lunga scomparsa.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "A butterfly disappeared from Ontario in 1988 and has not been recorded there since",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/wildlife/a-butterfly-disappeared-from-ontario-in-1988-and-has-not-been-recorded-there-since-nearly-four-decades-later-scientists-plan-to-bring-eggs-from-new-york-and-breed-the-species-for-release-into-restored-canadian-habitat/articleshow/135462097.cms",
+          "published": "2026-11-04T04:35:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "tree-snails-return": {
+      "kind": "micro",
+      "title": "Alle Hawaii rare chiocciole arboree sono tornate in natura",
+      "region": "USA",
+      "summary": "Alle Hawaii le rare chiocciole arboree O‘ahu tree snail sono tornate in natura dopo 33 anni. Il Times of India scrive che, dopo un lungo programma di allevamento in cattività, la specie è stata reintrodotta nei Koʻolau Mountains. Nel pezzo si sottolinea che un tempo erano rimasti solo 11 esemplari.",
+      "picture": "Minuscole chiocciole su una foglia. L’immagine parla del ritorno fragile ma riuscito di una specie rara in natura.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Just 11 survived after a predator introduced to fight garden pests nearly wiped them out: Hawaii’s rare tree snails return to the wild after 33 years",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/wildlife/in-1991-only-11-of-hawaiis-tree-snails-survived-after-being-hunted-by-a-predator-introduced-to-fight-garden-pests-after-33-years-of-lab-work-the-lost-species-is-finally-returning-to-the-wild/articleshow/135522596.cms",
+          "published": "2026-11-04T06:34:35+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.893,
+        "r": 0.125
+      }
+    },
+    "rubber-band-ball-record": {
+      "kind": "micro",
+      "title": "A Detroit è stato mostrato un gigantesco pallone di elastici del peso di oltre cinque tonnellate",
+      "region": "USA",
+      "summary": "A Detroit è stato mostrato un gigantesco pallone di elastici del peso di 11.578 libbre, riconosciuto come il più grande del mondo. La UPI scrive che un uomo lo ha assemblato per più di dieci anni. È la storia di un record insolito e della pazienza.",
+      "picture": "Un gigantesco pallone di elastici. L’immagine mostra chiaramente l’oggetto da record, composto da migliaia di piccoli elementi.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: Detroit man's 11,578-pound rubber band ball is the world's largest",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/03/guinness-world-records-largest-rubber-band-ball/4121793732579/",
+          "published": "2026-11-03T19:06:25+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      }
+    },
+    "alligator-bagel-shop": {
+      "kind": "micro",
+      "title": "Un alligatore è entrato in un bagel shop in Carolina del Nord",
+      "region": "USA",
+      "summary": "In Carolina del Nord un alligatore è entrato in un bagel shop e ha attraversato il negozio. La UPI riferisce che l’animale è entrato da una porta sul retro e tutto è stato ripreso dalle telecamere. Nessuno è rimasto ferito.",
+      "picture": "Un alligatore accanto a un bagel. L’immagine sottolinea la visita inattesa e quasi comica di un animale selvatico in un normale caffè.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: Alligator walks into North Carolina bagel shop",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/03/alligator-bagel-store-southport-north-carolina/6751793729245/",
+          "published": "2026-11-03T18:12:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      }
+    }
+  }
+}
