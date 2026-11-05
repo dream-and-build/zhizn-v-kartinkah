@@ -1,0 +1,1892 @@
+{
+  "key": "2026-11-05-1",
+  "date": "2026-11-05",
+  "image": "img/2026-11-05-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "russia-state-pressure-assets": {
+      "kind": "major",
+      "title": "Москва усиливает давление на бизнес, активы и информационный контроль внутри России",
+      "region": "Россия",
+      "summary": "В подборке есть несколько материалов, но они не связаны с Россией и давлением на бизнес: речь о расследовании в Нигерии, политике в Бразилии, заявлениях Зеленского, выборах в Израиле, суде в Бельгии и других темах. Ни одна из приведённых статей не описывает усиление давления Москвы на бизнес, активы или информационный контроль внутри России. Поэтому по доступным текстам это событие не подтверждается.",
+      "picture": "На картине государственная рука сковывает цепью заводские трубы, банковские хранилища и документы. Образ означает жёсткий контроль власти над экономикой, собственностью и информацией.",
+      "mentions": 100,
+      "significance": 73,
+      "velocity": 86,
+      "domain_count": 34,
+      "articles": [
+        {
+          "title": "EFCC investigates ex-banker over alleged N515 million diversion",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/news/top-news/923045-efcc-investigates-ex-banker-over-alleged-n515-million-diversion.html",
+          "published": "2026-11-05T19:36:08+00:00"
+        },
+        {
+          "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+          "published": "2026-11-05T19:32:35+00:00"
+        },
+        {
+          "title": "Зеленский заявил, что на Украине повреждены все электростанции",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28290435",
+          "published": "2026-11-05T19:29:21+00:00"
+        },
+        {
+          "title": "Президент Чехії каже, що не має амбіцій стати європейським переговірником щодо України",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061477/",
+          "published": "2026-11-05T19:27:00+00:00"
+        },
+        {
+          "title": "Principais partidos árabes anunciam apoio a Gadi Eisenkot para formar governo em Israel",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml",
+          "published": "2026-11-05T19:12:00+00:00"
+        },
+        {
+          "title": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmZOSjc5SmRRREJURE9pUWViVGJiNzkwdTNjMFRWZ01Wc2xFYmo3Mlh6YlNKNWtUclVBMGtSbUdLN2ZqemkwdlhmSG5tTHJnTG5SdE9oTjV6RnNMcTgybkN1NU1rTHNUdXJNM3NtM1FuOHk2MlV6dFR6RWRrREZySG1QWHp5YmItczB2RkFxaTY1SXlsLXNMRkpXUV9lLU0tYUNEWTlPMEJEbmR4czdxZFZudXFKM28?oc=5",
+          "published": "2026-11-05T18:29:21+00:00"
+        },
+        {
+          "title": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1ItWG1UV0hXcUEyb1BHdG1oVFJadGZYVEYzMVJQNU1ITXdGdE5aZFo4TEZxQ2E0Wk9wWVZBSGlZbEt1MDllRUJWNXJ1STNDdkVwUEgwaW51eFVnZXVoME8xNkZvLVNMMHZFcXhBa1dwUzV0OW5KRkxwVjRpa3FJRXdxZnFQa0lrZTdmNnpTZUZMdFFwcGpJVGdyMWdISHRaMDRLSkNabWJMcWZkV1hlX0FhUV9Pd2s?oc=5",
+          "published": "2026-11-05T18:24:22+00:00"
+        },
+        {
+          "title": "Berterame sobre su ausencia en Selección Mexicana; \"Si no me llaman, es porque me hace falta algo\", dice",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/deportes/berterame-sobre-su-ausencia-en-seleccion-mexicana-si-no-me-llaman-es-porque-me-hace-falta-algo-dice/",
+          "published": "2026-11-05T18:12:37+00:00"
+        },
+        {
+          "title": "Florida's giant Burmese pythons may be spreading seeds, reshaping the Everglades",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/floridas-giant-burmese-pythons-are-not-just-eating-wildlife-they-may-be-spreading-seeds-transforming-the-everglades-in-an-unexpected-way/articleshow/135569911.cms",
+          "published": "2026-11-05T18:00:34+00:00"
+        },
+        {
+          "title": "The Nationals have been around since 1920 — but are they about to wiped out?",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/michelle-grattan-are-nationals-on-life-support/107352856",
+          "published": "2026-11-05T18:00:00+00:00"
+        },
+        {
+          "title": "En Somalie, la Cour suprême juge « illégal » le maintien au pouvoir du président Hassan Sheikh Mohamud",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/05/en-somalie-la-cour-supreme-juge-illegal-le-maintien-au-pouvoir-du-president-hassan-sheikh-mohamud_6807324_3212.html",
+          "published": "2026-11-05T17:56:29+00:00"
+        },
+        {
+          "title": "Northants' Lynn served drugs ban after Blast final",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:47:10+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.464,
+        "r": 0.202
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "Los demócratas consolidaron la histórica derrota de Trump y tomaron palancas de poder en el Congreso",
+      "region": "EE. UU.",
+      "summary": "Los demócratas, según informan varios medios, lograron una gran victoria en las elecciones intermedias de Estados Unidos y укрепieron sus posiciones en el Congreso. Diversas publicaciones señalan que los resultados supusieron una dura derrota para Donald Trump y desataron debates dentro del Partido Republicano sobre las causas del fracaso. Reuters y otros medios también destacan que los demócratas obtuvieron herramientas para intentar frenar a Trump, incluso en política exterior y sobre la guerra con Irán, aunque la Casa Blanca sigue conservando un poder considerable. Algunos artículos subrayan además el aumento del apoyo demócrata entre los votantes latinos y el impacto del resultado en los cálculos internacionales.",
+      "picture": "Una ola azul derriba una corona roja, junto a un mazo roto y pancartas de campaña esparcidas. La imagen muestra el derrumbe del control político anterior y el paso del poder a los demócratas.",
+      "mentions": 98,
+      "significance": 95,
+      "velocity": 52,
+      "domain_count": 33,
+      "articles": [
+        {
+          "title": "Trump's endorsement now a political poisoned chalice after midterms",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/midterms-put-trump-maga-movement-future-in-question/107348864",
+          "published": "2026-11-05T19:29:09+00:00"
+        },
+        {
+          "title": "Trump queda debilitado tras perder el Congreso de EU; voto latino y guerra contra Irán protagonizan cartones de la prensa nacional",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/tendencias/trump-queda-debilitado-tras-perder-el-congreso-de-eu-voto-latino-y-guerra-contra-iran-protagonizan-cartones-de-la-prensa-nacional/",
+          "published": "2026-11-05T19:21:42+00:00"
+        },
+        {
+          "title": "US elections 2026 live: Democrats flip four more House seats as Republicans trade blame for brutal midterms losses",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "published": "2026-11-05T19:06:09+00:00"
+        },
+        {
+          "title": "Division among US Democrats over Schumer’s leadership role",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
+          "published": "2026-11-05T18:53:04+00:00"
+        },
+        {
+          "title": "Trump ally leading Justice Department civil rights unit resigns - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZuRGd1U2tscWdCODBsODdUemhHbzBEV2xpUkRFc19RZ3RmaDl1dGpUSnhycW9TOTUxTm5ZVjhKLURnUzZMYzBlRmNCSllJUVlZc2hUaFJOOUk4eWF5aDhfUnBSWEFxWTdlRXhsTWhVZVNDT0NFRmtQUmZGaWl2RTYyck43djRNZnpjVkszS0FMVnE1a1BpQnVmZ1lneUlWcXNpYlZLeWNZalowcC1CMnVXNkxYMlZHcTlF?oc=5",
+          "published": "2026-11-05T18:45:05+00:00"
+        },
+        {
+          "title": "Зеленський про результати проміжних виборів США: Є надія, що нас будуть підтримувати більше",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061469/",
+          "published": "2026-11-05T18:23:00+00:00"
+        },
+        {
+          "title": "\"Yo vi al enemigo, y somos nosotros\": el histórico colapso del equipo de Trump desde adentro",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/new-york-times-international-weekly/vi-enemigo-historico-colapso-equipo-trump-adentro_0_0RXKuhOEwv.html",
+          "published": "2026-11-05T18:00:43+00:00"
+        },
+        {
+          "title": "U.S. midterm elections 2026 updates: Democrats vow to rein in Trump as he shows off White House ballroom",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+          "published": "2026-11-05T17:50:46+00:00"
+        },
+        {
+          "title": "Midterms done, Democrats dive into a crowded and wide-open 2028 presidential race - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUQ3NDZVX3U1cnRyZVRLXzB1Q0hMOXNaazMwZUJpVURSYmlxRU9UVEJGNEN1N3BLeGVzTy1TUmtLN292TXFwUEdyRjlaMmtkNURwRnVUcFh2THl0Y28zQ01qT1hKQzE4ZExMLV9wTExIRlZ3Q3NkMzRUT0JFOVY5T0FaSmJaR2dtMVpGd1pVRWVsdUlvSzFkNzRBZHBkVGpFMXBjaVZHQ3NIZjEtNGV0cExhQXZ2dWlFbC05d09fYVQ?oc=5",
+          "published": "2026-11-05T17:46:17+00:00"
+        },
+        {
+          "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDU2SG9VT05QdUd0SU1XZTVSdXIwMUZKdFdLOEZOcmt5eG5rQTd1SjRBd3c4RlFLY012WVUxUDJJeEVoV3RQTVFTUXMzZ1FPNXRxSm4wdGJ2dEVjQURNaG9PdWFfaXFkVEh6RUxOMFVJN2VsYXRCS0pBT3pRaHVhU3BOUHZMUnB4YW5TNjZ2Y051OTRmMzFWakxlRjZZWkFYUVhLR2xjT1BUcG5RMlZySmtNZFJqNDhxTjhjNDl4WDZoQTQyb0V5akw5VdIB0AFBVV95cUxNeHdiMzRYcTYySC1BSGFJQVZzUnlmME03V1l6bGc3Z1lHUEJaOEROYWc4Z29GaExSOEJpVmJPTTRlX3N1blJNVDBlV1Y1V2JqcDdVZTVuSi1fUEkwNnZNU0FkREMwQzIwbjR0RkNSR3lxMnZiWVItaF9DVlRyOURxV191cUVWYUhlT0JQbzZtVENac1NBTEtDaXRHR241aVk1RnlJdXVfTkg0X21Rd0E1dVJacjFxcWc5VlpUa2RtaTQ4RkJJa3lZNk1UcU9tUlBy?oc=5",
+          "published": "2026-11-05T17:34:16+00:00"
+        },
+        {
+          "title": "EN DIRECT, midterms 2026 : les dernières informations après la débâcle électorale de Trump et des républicains",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-midterms-2026-les-dernieres-informations-apres-la-debacle-electorale-de-trump-et-des-republicains_6805528_3210.html",
+          "published": "2026-11-05T17:17:48+00:00"
+        },
+        {
+          "title": "Vance lances Trump as MAGA enters week of the long knives",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/vance-lances-trump-as-maga-enters-week-of-the-long-knives/articleshow/135581378.cms",
+          "published": "2026-11-05T17:10:03+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.736,
+        "r": 0.221
+      }
+    },
+    "uk-cyber-justice-resignations": {
+      "kind": "major",
+      "title": "В Британии и США нарастает скандальная турбулентность вокруг правосудия и киберугроз",
+      "region": "Europa",
+      "summary": "В Британии и США одновременно развиваются несколько сюжетов вокруг правосудия и безопасности. Reuters, AP и Guardian сообщают об отставке Хармит Дхиллон, возглавлявшей гражданское подразделение Минюста США, после тяжёлого поражения республиканцев на выборах. CBS пишет о мексиканском судье, которого США обвиняют во взятке по крупному наркокейсу. Кроме того, в Петербурге полиция сорвала вечер писем политзаключённым, а ТАСС передаёт предупреждение о якобы готовящихся кибератаках на холодильные системы критической инфраструктуры в США.",
+      "picture": "На рисунке треснувшее здание суда соединено со светящимся экраном, а из цифрового замка высыпается засекреченное досье. Этот образ показывает, как правосудие и киберугрозы оказываются в одной зоне кризиса и контроля.",
+      "mentions": 76,
+      "significance": 77,
+      "velocity": 86,
+      "domain_count": 23,
+      "articles": [
+        {
+          "title": "¿Quién es Russell Brand?; Del éxito en Hollywood a ser condenado por violación y agresión sexual contra cuatro mujeres",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/espectaculos/quien-es-russell-brand-del-exito-en-hollywood-a-ser-condenado-por-violacion-y-agresion-sexual-contra-cuatro-mujeres/",
+          "published": "2026-11-05T19:20:11+00:00"
+        },
+        {
+          "title": "Mexican judge accused by U.S. of taking bribes in major drug case",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/mexican-judge-arrested-accused-us-bribes-drug-case-ryan-wedding/",
+          "published": "2026-11-05T19:11:46+00:00"
+        },
+        {
+          "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
+          "published": "2026-11-05T19:04:05+00:00"
+        },
+        {
+          "title": "В Петербурге полиция сорвала вечер писем политзаключенным",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/v-peterburge-politsiya-sorvala-vecher-pisem-politzaklyuchennym",
+          "published": "2026-11-05T18:49:57+00:00"
+        },
+        {
+          "title": "Trump ally leading Justice Department civil rights unit resigns - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZuRGd1U2tscWdCODBsODdUemhHbzBEV2xpUkRFc19RZ3RmaDl1dGpUSnhycW9TOTUxTm5ZVjhKLURnUzZMYzBlRmNCSllJUVlZc2hUaFJOOUk4eWF5aDhfUnBSWEFxWTdlRXhsTWhVZVNDT0NFRmtQUmZGaWl2RTYyck43djRNZnpjVkszS0FMVnE1a1BpQnVmZ1lneUlWcXNpYlZLeWNZalowcC1CMnVXNkxYMlZHcTlF?oc=5",
+          "published": "2026-11-05T18:45:05+00:00"
+        },
+        {
+          "title": "WTA takes blame after Pegula comments on Andreeva get livestreamed - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWJON0hEa0Y0a2dSU2ZwOGl0cG9SNjBZYmNJYkdoTjVJZF8zdnZJdklDTE5pcXB5eTRtY0s3aUlZRDFlMEcyRFJBRWwxMmhVMXg2SHh6bTk2MzJCT2xpdUxBLXI2UDhHNWM0NHR2WXQ0QkdIUXBKYUpGc0luLVRsaFctZC1fcWtaWXBWUDU2bEJ5Vk50TDRmSWtpcnlhU1Y5dnpWeF9Nc1kyUQ?oc=5",
+          "published": "2026-11-05T18:36:46+00:00"
+        },
+        {
+          "title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/white-house-reviewing-sec-s-proposed-crypto-broker-rule-changes",
+          "published": "2026-11-05T18:35:08+00:00"
+        },
+        {
+          "title": "В США сообщили о якобы имеющейся угрозе кибератак на холодильные системы",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28290319",
+          "published": "2026-11-05T18:35:07+00:00"
+        },
+        {
+          "title": "У Франції розслідують вчинок пілота, що не приземлився на військовій базі після загрози вибуху",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061468/",
+          "published": "2026-11-05T18:17:00+00:00"
+        },
+        {
+          "title": "Harmeet Dhillon exits after radical overhaul of Justice Department’s Civil Rights Division - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUzRnTi1sd1dMU2hXZ1ZPcC11QWlrcXl1WjZxZXpfSWtlWU1KanJ3MUlyTHVjWGJiODh2UDFTTnlvbS1XMFdiOXVhYm95U2dtWldCVTltaFZuNU5fSVpjeHRLbkQtdUxKZDBPdTRCNlRQQ1gyYndmMDUtSUQtcURTYTFpUDVFdVBDTXFObk1QQTRib1E1bzZxcl9hNUdDRHpYQktwNzdiVENqSEJSYjV3UTlablVVamc?oc=5",
+          "published": "2026-11-05T18:11:01+00:00"
+        },
+        {
+          "title": "L’ancien comédien britannique Russell Brand jugé coupable d’un viol et d’agressions sexuelles",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/l-ancien-comedien-britannique-russell-brand-juge-coupable-d-un-viol-et-d-agressions-sexuelles_6807325_3210.html",
+          "published": "2026-11-05T18:00:03+00:00"
+        },
+        {
+          "title": "British comedian Russell Brand found guilty of rape and three sexual assaults by London jury",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/05/british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-london-ju",
+          "published": "2026-11-05T17:42:23+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.357,
+        "r": 0.151
+      }
+    },
+    "palestine-israel-friction": {
+      "kind": "major",
+      "title": "Газа и палестинские территории выживают среди руин, дефицита и попыток добыть энергию своими силами",
+      "region": "Палестина",
+      "summary": "В Газе продолжаются жертвы от израильских ударов: Le Monde и Arab News сообщают о гибели людей, включая ребёнка. При этом Al Jazeera пишет о финале турнира в Газе, посвящённого погибшим спортсменам, что подчеркивает попытки сохранить общественную жизнь на фоне войны. Другие материалы в подборке к теме напрямую не относятся.",
+      "picture": "Нарисована маленькая ветряная турбина из обломков рядом с треснувшей оливой, разрушенной стеной и пустой канистрой. Это образ выживания в руинах и попытки добыть хоть какую-то энергию своими силами.",
+      "mentions": 76,
+      "significance": 89,
+      "velocity": 93,
+      "domain_count": 23,
+      "articles": [
+        {
+          "title": "Traffic stop leads to discovery of dozen of stolen debit cards; man arrested - Valley News Live",
+          "domain": "valleynewslive.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkNlTi1zT2NYV2h6am1fc3hTTk1fZmlhTzMyZ2FDQTBEUUJGQUpzVlRQRzdWUlp3WWFteW5ZeHdXWTVXcnhQUVJjNGtWM3ZZbnBXd1VScHY1dVctYi04elhXWWlHTjctMVRhY3pVeklaUUtMZlNwVHNNWl9tb2ozYkt4MUNGM25zU2UySEFvXy0zNXYyMlFaYm8xaWtOeWpkSWYwQnQ5UEJWVHBoWWc?oc=5",
+          "published": "2026-11-05T18:44:00+00:00"
+        },
+        {
+          "title": "San Diego’s Wellness-Meets-Music Festival RENEW Might Be the Best Way to Spend a Sunday - Popdust",
+          "domain": "popdust.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHhMaDRCUmF3eDNTR1UtZ3BKcXhSSVZGeEZaWVVhMXJpakpUMzZ2cTR1QW9pX1ZNV21SdzVvaGprNjRNSTNqbGZESlg4UEZBQnpyOGNlc1daQkpjd1hIY2JHTVQzTmdMRDVoZjB1M0JOc1VrUkFaWnotTDV0UjNaR3ZKQQ?oc=5",
+          "published": "2026-11-05T18:18:46+00:00"
+        },
+        {
+          "title": "East Texas Untamed: Caring for Africa’s fastest hooves - KETK.com",
+          "domain": "ketk.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91aDlNenZGOUhRcl9WZTVxa0FYVkNOUmIwUllFSmlyLUdid09xTjg2dGluaFUtNmdwRnk0Qkx6NEpLanpvT21CRXM5VlR6RzFNRHp2NGY3djVKd1NsUThIMkFCbEhGOFFkLS16MW44RHdnTkxpNllZ0gF8QVVfeXFMTWZpR2EzM25UbjR6U3dLYXFYckNqWlA4TEk1UlBYLVlteU8wOEFBaG4zdHRIalZlNXNnQlpxa3pZTnBBUk5RUUU3WHU0WkNicmRzV3dJNnluTmxiTFMwWnZNOTV5YTliYjBMNWdrQXhEYlZhTkVIWkt5a1NnYw?oc=5",
+          "published": "2026-11-05T18:13:48+00:00"
+        },
+        {
+          "title": "Gaza : cinq personnes, dont un enfant, tuées par des bombardements israéliens, selon les services de secours palestiniens",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/gaza-quatre-personnes-dont-un-enfant-tuees-par-des-bombardements-israeliens-selon-les-services-de-secours-palestiniens_6807330_3210.html",
+          "published": "2026-11-05T18:05:29+00:00"
+        },
+        {
+          "title": "Iranians burn giant poster of Trump and allies, demand revenge",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/iranians-burn-giant-poster-of-trump-and-allies-demand-revenge/article71671250.ece",
+          "published": "2026-11-05T17:47:37+00:00"
+        },
+        {
+          "title": "Where's Al? Holy Ghost Creole Festival in Opelousas Preview - Part 1 - KATC",
+          "domain": "acadiananewsfirst.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEFOVi10ZUQ0d3VuY3ZtYWpxZUNDUHdOQUJyZmdtQkgtVk9ZTUpCSnVXLXJROHQ5SmUtMk5SUGFmNU1COW40MXRldHFFTUR2R1Y0V3hWTzhlWWhOOWZkcjZ3M2xiMUc3RGVmcDNuOEF5TDJ1YzhkZml3LWRjQzJhT3ptMkZXZDJDMGYyLXRTdDdDMkp2NHJOY1ZrSDMyaXJUQnpySXZJRjlzMEF0b2VleENEQQ?oc=5",
+          "published": "2026-11-05T17:43:00+00:00"
+        },
+        {
+          "title": "Tampa’s Lebanese Food Festival returns with a weekend of food, music, and dancing - That's So Tampa",
+          "domain": "thatssotampa.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ublB4ME9uUko0Uzk4UmE0S2JQdVRDbTNldGxtUDhyZXJCM2ZMUC1fNGpSbTZEajY3QlBzekFUVnRlMlFENnU4MWMzYXd4cDJHNWVGMFpJTnNadWdOTzRDWG9OMHE?oc=5",
+          "published": "2026-11-05T17:10:45+00:00"
+        },
+        {
+          "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+          "published": "2026-11-05T16:46:34+00:00"
+        },
+        {
+          "title": "Israeli fire kills four in Gaza, including child: civil defense - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc29KNXNaamJkeW9TNm1SUm5Ob3R5SmVXb0xGYUhpU2F4ci1HQ3ZjVnpKcWhMbGQ3bkdrZ0pRNDAyRXdPRGhNVG83MlhHOE55Mkkyb25mcUd0Z1hhWW5KM2tubkdUVjZtdkZQT00yN0JIZHU3Y1NkY0FFaXFTMFZQMHRzQU5VUzdseDBoSTFZUmg2aEQwM2JLa3BocENWNW1LMWtQaEF4TmVHQQ?oc=5",
+          "published": "2026-11-05T16:16:13+00:00"
+        },
+        {
+          "title": "Guterres pide acoger con dignidad a migrantes; llama a defender la identidad cultura iberoamericana",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/guterres-pide-acoger-con-dignidad-a-migrantes-llama-a-defender-la-identidad-cultura-iberoamericana/",
+          "published": "2026-11-05T16:07:01+00:00"
+        },
+        {
+          "title": "‘They’re here forever’: Two Bactrian camel calves arrive at the Alaska Zoo - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2RFX1pQRnFzM2VQaXl5WTY1bmx2dkpxSDc2WkVoZDdDLXBDWktxT1pTRXB3b0pUMlNGTkVhRVRhb2dld21yMUdmUlQ1cVpfYmtTUnFNeERWbWlMZ1hkeldaalBnSHg1RTJoTU5teVJEd3BtVHZ2TkFuNTR2Q1lIaXcwSHJfQm93LVBZM25lcHdoY0JqdEN2VDRodWVxSXdZNG1PLXczSkU2SjRZblE?oc=5",
+          "published": "2026-11-05T16:04:00+00:00"
+        },
+        {
+          "title": "Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens",
+          "published": "2026-11-05T15:55:25+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.713,
+        "y": 0.293,
+        "r": 0.221
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "Amenazas falsas de bomba y actos de sabotaje en Europa perturban el transporte y la seguridad",
+      "region": "Europa",
+      "summary": "En Francia se esperan nuevas manifestaciones y huelgas contra la política de las autoridades. AFP, Reuters, France24 y The Guardian escriben que los sindicatos han convocado acciones a nivel nacional por el aumento del costo de la vida, los problemas en la educación y el descontento con el rumbo del presidente Emmanuel Macron. Según los informes, en las huelgas participarán trabajadores de hospitales, aviación y ferrocarriles. Los medios señalan que las protestas se convierten en una nueva prueba para el gobierno tras las oleadas de disturbios anteriores.",
+      "picture": "Una plataforma de carnaval destrozada, bloqueada por barricadas, y un tren inmovilizado transmiten una vida cotidiana paralizada. Es la imagen de una protesta masiva que corta el movimiento del país.",
+      "mentions": 67,
+      "significance": 72,
+      "velocity": 79,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Во Франции задержали почти 450 участников протестов против роста цен",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28290411",
+          "published": "2026-11-05T19:14:56+00:00"
+        },
+        {
+          "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblN6SXBxQ2x2LUZZYXBQd1ZlLTc5SE9sOXZYV0JyelE0X0p5RlNFOHV2MzR5T1lTTHZORlRzWmdVQndTcjhESjhvbV84eU1IeXZsVmwwV2VNMElhbTlJVFhzMV9fRy02Z01jX2Z0X1hTbFVwV3lzVUhKUURQQkYtU3Voc2RpOHFSNHRDNXUzb2NsWVB0dHRoN19wU0dvTVd6OEhnV1VYclpqdw?oc=5",
+          "published": "2026-11-05T19:04:00+00:00"
+        },
+        {
+          "title": "Passengers Tell of Fear After Bomb Threats Hit European Flights",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+          "published": "2026-11-05T18:42:52+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+          "published": "2026-11-05T18:17:36+00:00"
+        },
+        {
+          "title": "Во Франции — снова массовые протесты из-за роста стоимости жизни. По данным организаторов, на улицы вышли около 1,6 миллиона человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/vo-frantsii-snova-massovye-protesty-iz-za-rosta-stoimosti-zhizni-po-dannym-organizatorov-na-ulitsy-vyshli-okolo-1-6-milliona-chelovek",
+          "published": "2026-11-05T18:10:02+00:00"
+        },
+        {
+          "title": "More than 600,000 join latest protests in France",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
+          "published": "2026-11-05T18:08:53+00:00"
+        },
+        {
+          "title": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+          "published": "2026-11-05T18:06:19+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "Torre Eiffel cierra sus puertas por huelga nacional en Francia; museos de París también reportan afectaciones",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/torre-eiffel-cierra-sus-puertas-por-huelga-nacional-en-francia-museos-de-paris-tambien-reportan-afectaciones/",
+          "published": "2026-11-05T17:49:48+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:39:52+00:00"
+        },
+        {
+          "title": "Largely peaceful marches take place across France as workers stage strike",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042372/largely-peaceful-marches-take-place-across-france-as-workers-stage-strike",
+          "published": "2026-11-05T17:07:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.196,
+        "r": 0.3
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "Израиль входит в новый политический передел, где соперники Нетаньяху собирают большинство",
+      "region": "Израиль",
+      "summary": "В Израиле после выборов не определился явный победитель, и партии начали переговоры о формировании коалиции. The New York Times, Guardian и Le Monde пишут, что президент Ицхак Герцог встречается с соперничающими блоками, а у Гади Эйзенкота появляется поддержка арабских партий и части других сил. Reuters отмечает, что позиции Нетаньяху ослабли, потому что соперник собрал более широкую поддержку для попытки сформировать правительство.",
+      "picture": "На рисунке корона разделена надвое и висит над урной на канате, а руки тянут её в разные стороны. Это образ расколотой политической сцены и борьбы за право собрать большинство.",
+      "mentions": 74,
+      "significance": 84,
+      "velocity": 71,
+      "domain_count": 22,
+      "articles": [
+        {
+          "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+          "published": "2026-11-05T19:15:03+00:00"
+        },
+        {
+          "title": "Principais partidos árabes anunciam apoio a Gadi Eisenkot para formar governo em Israel",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml",
+          "published": "2026-11-05T19:12:00+00:00"
+        },
+        {
+          "title": "Eight dead in mass shooting in rural west Turkiye: officials",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/people-dead-in-mass-shooting-in-rural-west-turkiye-officials/article71671567.ece",
+          "published": "2026-11-05T19:00:38+00:00"
+        },
+        {
+          "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+          "published": "2026-11-05T18:30:09+00:00"
+        },
+        {
+          "title": "Michael Parkinson wasn’t as confident as he looked, documentary reveals",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/michael-parkinson-documentary-parky/107350726",
+          "published": "2026-11-05T18:30:00+00:00"
+        },
+        {
+          "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+          "published": "2026-11-05T18:13:01+00:00"
+        },
+        {
+          "title": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+          "published": "2026-11-05T17:55:44+00:00"
+        },
+        {
+          "title": "Sedgwick County Zoo to bring back holiday retail location at New Market Square - KAKE",
+          "domain": "kake.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMkd0STYtTEIyUTdsU0J6M0dkWWdlUmludUxvLXIydDJMZnFUYk5IWUZ4VXZ2ZkwxSlZLel90Qk1vd3Q4NGxUUFBKSFF3UnBiRUhtbW55Mnk1QTV5WjM0UUtuWHgzMGg4elo4Z2V5SVhlX0pBNnZHeS1xMDZacGhGUGd1QU96b2dBZHRPTnVOQ2JJeUtwY3JtV3FDNFM0YllCS0JTX2VqNGtMTWJGc2hodUVvWk0wT0w4eGV0bjdzYXVKUDVXakFjNEpUR3VNN3hUUGE1RkFsX1JiMHZGUkNRdmpNRkZNcjA0SVE?oc=5",
+          "published": "2026-11-05T17:30:00+00:00"
+        },
+        {
+          "title": "Gadi Eisenkot tipped to seek Israel government with backing of Arab lists",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042371/gadi-eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists",
+          "published": "2026-11-05T17:16:12+00:00"
+        },
+        {
+          "title": "Somalia in turmoil as court declares president’s term extension ‘unlawful - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd203aTlaaHh2UHRBYmlRN3lERm5DLXhDeGlHb1BJNlZJTzBYaGE3QU9BcTdwaWZ4SzVOSE5TWkxTOGVvMXI1UGItRFJHcFlSNnVLbmROeHZNbHhSaTBESk4wZnJuMXRoYXk1NXpFQW1ERTRMaFlQNnBnOHNUWEV2NHQ0czl3VW41dzZ0SkJUcXJ4aEw1Vm9LRkxyN2puZFEtbVZkZUdtUnM5V1B4N3hTbzlyUFpSck5QcENkWUVn?oc=5",
+          "published": "2026-11-05T16:37:28+00:00"
+        },
+        {
+          "title": "Israeli settlers move into homes near West Bank city - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSElCWTJxQk00Qndnc3BUQjd2UW9GLURaWVFjVm52bFhHZDNHeHBIOWJGb0l0WVdPb0tKTGxGT3c4eTEwc1F4RXBkeHcyenBhSG45c1BZSUtIVmR6QjB5Vk1oOTBfQmYxbnJWa0pCbERjcFJCM29lUUFyVUJ4czJCbUE4TkRKMlRYbFEwd0VnQ3pBM3JDVjdSRzlCTmZoUQ?oc=5",
+          "published": "2026-11-05T16:25:57+00:00"
+        },
+        {
+          "title": "Netanyahu's position weakens as rival secures broad backing to try to form government - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
+          "published": "2026-11-05T15:53:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.786,
+        "r": 0.151
+      }
+    },
+    "paraguay-bank-collapse": {
+      "kind": "major",
+      "title": "Президент Парагвая уходит в отставку после банковского краха и давления на власть",
+      "region": "Латинская Америка",
+      "summary": "Президент Парагвая Сантьяго Пенья подал в отставку на фоне банковского краха и давления на власть. Reuters, BBC, AP, NPR и другие издания сообщают, что кризис связан с Ueno Bank, после его краха у миллионов людей возникли проблемы с доступом к счетам и сбережениям. По разным сообщениям, парламент затем запустил процедуру импичмента или одобрил её, а исполнять обязанности может вице-президент Педро Аллиана. Издания сходятся в том, что финансовый скандал быстро перерос в политический кризис.",
+      "picture": "Треснувшее банковское хранилище опрокидывает президентское кресло в провал, а бумаги разлетаются вокруг. Это образ того, как финансовый обвал валит и государственную власть.",
+      "mentions": 67,
+      "significance": 88,
+      "velocity": 86,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Uncertainty over Nigeria vote as court bars opposition leader",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/uncertainty-over-nigeria-vote-as-court-bars-opposition-leader/article71671586.ece",
+          "published": "2026-11-05T19:20:42+00:00"
+        },
+        {
+          "title": "Paraguay President Peña resigns under mounting pressure from bank collapse - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5",
+          "published": "2026-11-05T19:16:10+00:00"
+        },
+        {
+          "title": "Atiku vows to appeal court judgement against his candidacy, seeks stay of execution",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/news/top-news/923035-atiku-vows-to-appeal-court-judgement-against-his-candidacy-seeks-stay-of-execution.html",
+          "published": "2026-11-05T19:07:09+00:00"
+        },
+        {
+          "title": "Com impeachment pós-massacre e assassinato de vice, Paraguai teve outros dois líderes que não terminaram mandato",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/com-impeachment-pos-massacre-e-assassinato-de-vice-paraguai-teve-outros-dois-lideres-que-nao-terminaram-mandato.shtml",
+          "published": "2026-11-05T19:03:00+00:00"
+        },
+        {
+          "title": "Paraguay: Diputados aprueban juicio político a Santiago Peña; llega tras renuncia del mandatario por crisis bancaria",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/paraguay-diputados-aprueban-juicio-politico-a-santiago-pena-llega-tras-renuncia-del-mandatario-por-crisis-bancaria/",
+          "published": "2026-11-05T19:01:12+00:00"
+        },
+        {
+          "title": "Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a",
+          "published": "2026-11-05T18:49:20+00:00"
+        },
+        {
+          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+          "published": "2026-11-05T18:30:16+00:00"
+        },
+        {
+          "title": "Депутаты проголосовали за импичмент подавшему в отставку президенту Парагвая",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28290267",
+          "published": "2026-11-05T18:02:57+00:00"
+        },
+        {
+          "title": "Paraguayan president impeached minutes after resigning following bank collapse - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+          "published": "2026-11-05T17:52:00+00:00"
+        },
+        {
+          "title": "Paraguay : le président Santiago Peña annonce sa démission",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+          "published": "2026-11-05T17:43:42+00:00"
+        },
+        {
+          "title": "Paraguay President Santiago Peña resigns after bank collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:40:40+00:00"
+        },
+        {
+          "title": "Президент Парагвая подал в отставку после краха местного банка",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/prezident-paragvaya-podal-v-otstavku-posle-kraha-mestnogo-banka",
+          "published": "2026-11-05T17:39:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.548,
+        "r": 0.23
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "Rusia golpea la infraestructura ucraniana y aumenta la presión sobre las negociaciones",
+      "region": "Ucrania",
+      "summary": "Los medios informan de nuevos ataques rusos contra infraestructura ucraniana y de graves consecuencias sobre el terreno. Euronews escribe sobre un incendio en una instalación logística en la región de Kiev tras un ataque nocturno con 128 drones, mientras el Ministerio de Energía de Ucrania señala una situación complicada con el suministro eléctrico en Kiev y su región. Al Jazeera informa de que Rusia aseguró haber golpeado un centro postal ucraniano y una embarcación, en medio de ataques nocturnos recíprocos contra objetivos energéticos y logísticos. Medios ucranianos informan por separado de 42 muertos bajo los escombros de una escuela en Kamiševaja y publican un video de la operación de rescate.",
+      "picture": "Un puente estrecho y luminoso conduce a familias con maletas a través de una infraestructura destruida. La imagen muestra con fuerza la evacuación y la supervivencia en medio de los ataques a la energía y la logística.",
+      "mentions": 67,
+      "significance": 97,
+      "velocity": 77,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "VIDEO: Melania Trump recibe en la Casa Blanca a los enviados de Putin y Zelensky; pide una tregua \"duradera\" en Ucrania",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/video-melania-trump-recibe-en-la-casa-blanca-a-los-enviados-de-putin-y-zelensky-pide-una-tregua-duradera-en-ucrania/",
+          "published": "2026-11-05T19:30:00+00:00"
+        },
+        {
+          "title": "Зеленский заявил, что на Украине повреждены все электростанции",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28290435",
+          "published": "2026-11-05T19:29:21+00:00"
+        },
+        {
+          "title": "Зеленський відреагував на перекриття вулиці через відсутність світла: Не можна ремонтувати в розвалочку",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061476/",
+          "published": "2026-11-05T19:20:00+00:00"
+        },
+        {
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T19:08:08+00:00"
+        },
+        {
+          "title": "Guinea expels Burkinabé gold miners, draws Ougadougou's fury",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/05/guinea-expels-burkinabe-gold-miners-draws-ougadougous-fury/",
+          "published": "2026-11-05T18:36:11+00:00"
+        },
+        {
+          "title": "Ukraine's Starshield contract with US expires next year, diplomat says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVZMRzZIQS1pQmxLUWYySklZU1JZX01mSlhxZi0tRGRHQ21hZ0dvRlNaZS15TVhPbE04N0ZUdS1FRjljamJJaFNYcHdOQ2U0WTZyWXFxU1Frc2tPbmNGTDdlRWVtbnZubTZ6Sk42bmY1bUUyQTU1andhdndpNUZzYmN2Y0ZJRm9LTEJSVlJ4UWpDSEE0T1Zpa3h3eHczY1ZzR0Ezb3hiNXJVX2E0dG1POWZHQU5OQzNTSDRMQmoyNGdscDVXZUE?oc=5",
+          "published": "2026-11-05T17:56:48+00:00"
+        },
+        {
+          "title": "Iranians burn giant poster of Trump and allies, demand revenge",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/iranians-burn-giant-poster-of-trump-and-allies-demand-revenge/article71671250.ece",
+          "published": "2026-11-05T17:47:37+00:00"
+        },
+        {
+          "title": "‘Expect new dynamics’: Ukraine hopes for more support after Democrats sweep midterms",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/europe/expect-new-dynamics-ukraine-hopes-for-greater-assistance-after-democrats-sweep-midterms/articleshow/135582124.cms",
+          "published": "2026-11-05T17:24:45+00:00"
+        },
+        {
+          "title": "Russia and Ukraine exchange airstrikes as reconstruction and security talks resume in Brussels - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU8xbTg4VENlQUJjcEpnTzVYNGNSYWFsS2xxS3EtZWhFaDJzOGs5c1Mza1lvNFpDOWx3dlN5NEUzYzBBcEFvSVNoLTlMeDFLdlhQT0daQlFveWp0MFVmbUVxY0xER1F5TkRNbHFnZE8wRXR3TE53emR4cmVlaDJIdGxNbmpKdXN1eHFNakJfZTZLZExQOTVUbWt5bUZLRXV5QjgzSUV1SlRDS1F2RnJv?oc=5",
+          "published": "2026-11-05T17:00:00+00:00"
+        },
+        {
+          "title": "Após derrota nas midterms, republicanos podem apoiar impeachment de secretário da Defesa, diz CNN",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-nas-midterms-republicanos-podem-votar-impeachment-de-secretario-da-defesa-diz-cnn.shtml",
+          "published": "2026-11-05T15:51:00+00:00"
+        },
+        {
+          "title": "Ukraine announces charges against senior security, police officials in criminal ring case - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2hydjBOWU9keEJxM0FrV1B3dVJ6cEJHUVJ0Q1M0MFl2Um1weEUxSTZNT0xPZjBLcWlMazRzQ2ZmOFVKZk15bDZvcC13UTVRbl9RSjI0QURySWpvWC1FRXRyMkloeDg2ZEgyYnNVa3E5UTZPbV9MTFV5UURWNEVlZ19ZdndlUVBEYUhzdDI4QTZOOWhIbUNCRXhHN1JlN0cybEk1cXVOdTZoay1FN0ZETUk3UXhZN25yQmJPYXdTX2IwLUowMlE?oc=5",
+          "published": "2026-11-05T15:10:40+00:00"
+        },
+        {
+          "title": "Govt announces public holiday on Nov 9 for Iqbal Day",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042357/govt-announces-public-holiday-on-nov-9-for-iqbal-day",
+          "published": "2026-11-05T14:53:49+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.787,
+        "y": 0.136,
+        "r": 0.221
+      }
+    },
+    "south-africa-anc-loss": {
+      "kind": "major",
+      "title": "В Южной Африке ANC теряет опору и страна уходит в новую фазу политического передела",
+      "region": "África",
+      "summary": "В Южной Африке продолжается политический кризис вокруг падения влияния ANC. Financial Times пишет, что движение Нельсона Манделы стало партией меньшинства в крупнейших городах, а News24 сообщает о политических убийствах, арестах и инцидентах в ходе избирательного периода. В подборке также есть материалы о протестах во Франции и других темах, но к событию они напрямую не относятся.",
+      "picture": "На рисунке выцветший партийный флаг соскальзывает со стены, а внизу стоят урны и сломанные фонари. Это символ ослабления когда-то доминирующей партии и политического передела.",
+      "mentions": 67,
+      "significance": 74,
+      "velocity": 86,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Golf ball-sized hail thwarts farmers anticipating bumper harvest",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/hail-storm-in-mallee-devastates-crops-just-before-harvest/107349870",
+          "published": "2026-11-05T19:31:39+00:00"
+        },
+        {
+          "title": "Во Франции задержали почти 450 участников протестов против роста цен",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28290411",
+          "published": "2026-11-05T19:14:56+00:00"
+        },
+        {
+          "title": "Melania Trump urges ‘humanity over war’ with Ukraine, Russia officials - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjU0aXU3TWxfMkU5TzVldHZkTjdGSVR6R01kWHp3Vm4zaVA5LXRQZ0YtbHlIT3VGMzJKNVJoWDd2RUgxSGFfUFR6YV90a20ySTduRm0xTmczajJBaVhMMEZGdUNOU2xtVENnbW80QVJIeFBYRTdnek5YdHBySF9jZ29iMk5xVmh1ZHpGejZFN0NfZUZEOTV1X093MGlzVnkxNlJTcWNUdC1YUQ?oc=5",
+          "published": "2026-11-05T18:47:02+00:00"
+        },
+        {
+          "title": "21 political murders, 27 arrests, 85 incidents and 57 dockets opened during election period - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT3RENmhYeV9UdC0tTGRGcGdma0pHSkI2RUZ0MWhIc0lDX01yTjJTb1FXUk16Y1g1SndHUFo2bG0wTVR5a0xzc1BvTFZZQ3hOcEZPUU1INVlkWHpCMHd0aTB5U1Y0QWxENFNIUS1TR0VacFJ0bWplam5wZElKTmpKSnhXZldEVzF3M28xaWJBUG5RbURuZFhtNDZkUXNCaktBZXlDRGo0SGdPVWdmTDJIWHJvbUpzSE9lVWVfb0xIcVd6ellZeGctUk01bmlKc0tWLUJSUWs1c0w4Y3kxVEE?oc=5",
+          "published": "2026-11-05T18:37:42+00:00"
+        },
+        {
+          "title": "Во Франции — снова массовые протесты из-за роста стоимости жизни. По данным организаторов, на улицы вышли около 1,6 миллиона человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/vo-frantsii-snova-massovye-protesty-iz-za-rosta-stoimosti-zhizni-po-dannym-organizatorov-na-ulitsy-vyshli-okolo-1-6-milliona-chelovek",
+          "published": "2026-11-05T18:10:02+00:00"
+        },
+        {
+          "title": "Redadas de migrantes influyeron en el voto latino: Sheinbaum; \"No tengo el dato, pero es como lógico\", dice",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/redadas-de-migrantes-influyeron-en-el-voto-latino-sheinbaum-no-tengo-el-dato-pero-es-como-logico-dice/",
+          "published": "2026-11-05T17:15:22+00:00"
+        },
+        {
+          "title": "South Africa’s incredible shrinking ANC",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/810c4f31-d3dd-43d7-acc0-c75adf42607b?syn-25a6b1a6=1",
+          "published": "2026-11-05T17:09:47+00:00"
+        },
+        {
+          "title": "Elon Musk gambled $445 million to boost Republicans in the midterms and came up short - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1ZTUW9YOFduQ0MyT2xieHdLaEJzQm52UkxVTkEzMlBQYmR3OXJ4Tm96cXVDYTNzZjBUTmsyMG1VNHdpZDY2cUFkZHhVaWlDdnY5aHREaEdYd3pHOEo0OWplYU5fRlYzUmR6cG9HN2UxaWlydTRCVFIwcTBhWWRtOGRvaVBTUFVINzhiN0dLdUU?oc=5",
+          "published": "2026-11-05T16:58:00+00:00"
+        },
+        {
+          "title": "Multiple flights in Europe diverted because of bomb threats",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/multiple-flights-in-europe-diverted-because-of-bomb-threats/article71670503.ece",
+          "published": "2026-11-05T16:36:40+00:00"
+        },
+        {
+          "title": "Photos: Thousands rally in France over rising costs and economic struggles",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
+          "published": "2026-11-05T16:07:56+00:00"
+        },
+        {
+          "title": "Nigerian court voids candidacy of opposition ADC's Atiku for 2027 election - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVJHZF9Sbmowa19tbWZLbVF0SUNUOWFBSS1vWXhYbWV5dU1hQmkzRUlHUGVLUTBNaS15SVVSenB6bFl6VFA1ZFJxSWtHUy00TzNKZHVoTlRoTTNXMGZlcUpQM290MDl4LUN0aUlwT0MwUHdfTUVJLVpHWnFBU3JpZnZEY1pWTTJoTHIzQ1J5N2ZmTWtZcTJyOHppN3ZNN1ZENTFobTE5MHpQLWRYTXF6UWQ0TENLdw?oc=5",
+          "published": "2026-11-05T15:12:09+00:00"
+        },
+        {
+          "title": "Manifestantes voltam às ruas da França e entram em confronto com policiais; Torre Eiffel é fechada",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/manifestantes-voltam-as-ruas-da-franca-e-entram-em-confronto-com-policiais-torre-eiffel-e-fechada.shtml",
+          "published": "2026-11-05T14:30:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.821,
+        "r": 0.202
+      }
+    },
+    "hong-kong-markets-ai": {
+      "kind": "major",
+      "title": "Рынки распродают AI-историю на фоне страхов о перегреве расходов и регуляторном ударе",
+      "region": "Mundo / cripto",
+      "summary": "Рынки резко распродали акции, связанные с ИИ, на фоне опасений перегрева и больших расходов. TASS пишет, что Nasdaq упал более чем на 5%, а бумаги Nvidia просели почти на 9%; AP и Al Jazeera сообщают о сильном падении S&P 500 и о том, что инвесторы переоценивают AI-торговлю. Bloomberg, Reuters и CNBC обсуждают Anthropic и вопрос, заканчивается ли нынешний AI-бум. Финансовые рынки в этот день явно реагируют на страх замедления и возможного регуляторного давления.",
+      "picture": "Схематическая плата высится и прогибается под грудой монет, а ценовые ленты падают вниз. Это образ лопающегося пузыря вокруг искусственного интеллекта и давления денег на технологии.",
+      "mentions": 64,
+      "significance": 93,
+      "velocity": 56,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "How to Get Exposure to Anthropic Through ETFs Before and After the IPO",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/how-to-get-exposure-to-anthropic-through-etfs-before-and-after-the-ipo",
+          "published": "2026-11-05T19:28:34+00:00"
+        },
+        {
+          "title": "Котировки Nasdaq упали более чем на 5%",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28290429",
+          "published": "2026-11-05T19:25:45+00:00"
+        },
+        {
+          "title": "NASA's Hubble studied dwarf galaxies and found they kept just 11% of the oxygen made by their stars",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/space/nasas-hubble-uncovers-mystery-of-missing-oxygen-in-dwarf-galaxies/articleshow/135558760.cms",
+          "published": "2026-11-05T19:22:00+00:00"
+        },
+        {
+          "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
+          "published": "2026-11-05T19:00:09+00:00"
+        },
+        {
+          "title": "CNBC's experts on whether the AI trade is ending and what investors should do next - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTlYemZKWHZrM1prVjdSeWptNFBoaDFoZ3h0aWlEOFR6d21ObDgxWkhDd2hIeEJzc2ZoaHA3LW5PcDF2bVdzTEtaaU1fNGFEN0syRlduM2JFYTJUM2t2RWFrOEVlM1ZXMkw4N0F5RGk0RWtnUk9DcGcyRURhNjhTTV9BVldXTjBnbDVNaXNyMnM1dmVoX0dCQzFmWUlYbTZiZUFfR1lZcFQ2ek02N1BNOHRHQlFzRGVteXfSAb8BQVVfeXFMTVJ5amJCa21EREViSkR0dTNuN2FQc05IcTlzUE1pT0NSVlB6WGJVTi1fTjlCVGl1TG9PcnRKcFNGUldUVkNQVk1KVlVjcWRwcHVqcmdfYi1FdUdlWlllOFRPTE9zSTlNay1kS09WZk5kN21WbWpvSkE5Y1p4Y1NtNk0tMjMzQ2tyTEVTSzVQbG1lbVk3SU55allvZXBQeFFrMGd4QXMxNDlob2x2UXo0bk13QUFHSmQxMWVTLWlEa2c?oc=5",
+          "published": "2026-11-05T18:58:48+00:00"
+        },
+        {
+          "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
+          "published": "2026-11-05T18:53:41+00:00"
+        },
+        {
+          "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3% - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+          "published": "2026-11-05T18:52:00+00:00"
+        },
+        {
+          "title": "Ken Salazar prevé freno de acciones del ICE contra migrantes en EU; apuesta por una mejor negociación del T-MEC",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/ken-salazar-preve-freno-de-acciones-del-ice-contra-migrantes-en-eu-apuesta-por-una-mejor-negociacion-del-t-mec/",
+          "published": "2026-11-05T18:30:03+00:00"
+        },
+        {
+          "title": "MultiChoice introduces new DStv, GOtv packages",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923028-multichoice-introduces-new-dstv-gotv-packages.html",
+          "published": "2026-11-05T18:28:01+00:00"
+        },
+        {
+          "title": "Portugal: Cristiano Ronaldo announces his international retirement",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+          "published": "2026-11-05T18:16:53+00:00"
+        },
+        {
+          "title": "AI stocks plunge after US election, driving down markets",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+          "published": "2026-11-05T17:56:17+00:00"
+        },
+        {
+          "title": "European stocks overtake Wall Street following Democratic sweep",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+          "published": "2026-11-05T17:41:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
+    "ronaldo-retirement": {
+      "kind": "major",
+      "title": "Криштиану Роналду завершает международную карьеру после 23 лет в сборной",
+      "region": "Mundo / cripto",
+      "summary": "Криштиану Роналду объявил о завершении международной карьеры в сборной Португалии. По Reuters, AFP, France24, AP и другим изданиям, он уходит после более чем двух десятилетий в национальной команде и в 41 год закрывает этот этап. Несколько публикаций связывают решение с конфликтом с тренером Жорже Жезушем, но все сходятся в том, что это конец эпохи для португальской сборной.",
+      "picture": "На рисунке рядом с потёртым бутсом лежит выцветший национальный флаг, а трофей рекордов опущен на землю. Это знак завершения долгой и очень заметной карьеры.",
+      "mentions": 67,
+      "significance": 54,
+      "velocity": 73,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Superstar Cristiano Ronaldo retires from international football",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/cristiano-ronaldo-announces-retirement-international-football/107353704",
+          "published": "2026-11-05T19:26:38+00:00"
+        },
+        {
+          "title": "Chinese scientists chill atoms to record low on Tiangong space station",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station",
+          "published": "2026-11-05T19:00:07+00:00"
+        },
+        {
+          "title": "Portugal: Cristiano Ronaldo announces his international retirement",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+          "published": "2026-11-05T18:16:53+00:00"
+        },
+        {
+          "title": "Alan Jones, the Australian who won the 1980 F1 world title with Williams, has died at 80 - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkhQMDJtWmlrWVc3SWpCeUxRY1ItenJwTzBVN2JPT3l2eFJ4Z3p3NlJyTGJiQ2RwR21BYWN5ZXNzYzhta1RNVkNjZjZIN2ZpOW1oQmpNRVJOcmtERXp5Qi15S2gwc0xOcU5JQUFLbWVFV2pRUDZ5SVZJTGRQSHdSOGRiTFB6TEdjejhiVlNSdm9ZNlpwNVJJUVN4OG9tSTRad1hPVUdqTWxiLTF1a1BScXRyOHpCZm5EZHFaWWl0M1doWGlSU2hBWjV3?oc=5",
+          "published": "2026-11-05T17:55:36+00:00"
+        },
+        {
+          "title": "‘Expect new dynamics’: Ukraine hopes for more support after Democrats sweep midterms",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/europe/expect-new-dynamics-ukraine-hopes-for-greater-assistance-after-democrats-sweep-midterms/articleshow/135582124.cms",
+          "published": "2026-11-05T17:24:45+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo leaves the international stage - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pRTEtWVZpWmpwZTZRbnE3cVJwb25od0t2REY0YzZEOVdzMER0S0RONnNFNmVBajM5MU1IekotTmJWNVNmTHl0Q1RHSEx2RHgzSWVLYTdKUDYwc25oV20zSzVOcWk2ajBhQjVmemVTZENTdHg2NGc?oc=5",
+          "published": "2026-11-05T16:45:38+00:00"
+        },
+        {
+          "title": "Portugal's Ronaldo announces international retirement - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
+          "published": "2026-11-05T16:17:39+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo announces international retirement from Portugal",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/05/cristiano-ronaldo-announces-international-retirement-from-portugal/",
+          "published": "2026-11-05T16:11:05+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo announces Portugal retirement after 23 years",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/sports/football/922996-cristiano-ronaldo-announces-portugal-retirement-after-23-years.html",
+          "published": "2026-11-05T15:42:30+00:00"
+        },
+        {
+          "title": "Cinco momentos memorables de Cristiano Ronaldo con Portugal; se despide CR7",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/deportes/cinco-momentos-memorables-de-cristiano-ronaldo-con-portugal-se-despide-cr7/",
+          "published": "2026-11-05T15:27:03+00:00"
+        },
+        {
+          "title": "Why has Cristiano Ronaldo retired from international football?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+          "published": "2026-11-05T15:14:05+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo bows out from national team with emotional message - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmdOVDhtZXE3d3BtWDFmT1RLNEFzRHk5eWh2TUpPc0hrVVRwYkl6SXpqQkRSUnBpeDkzN0d4SGJWYTB5anlUZ0dPS29zQml3SFlJLUFNM2l6am8yMHhUbjUxWXJHLTllX0ZRaW91azg0aVNnUGNLMUphY2hpcFRCMmRTdFVDTGNZSU1GWFZocnhWejA?oc=5",
+          "published": "2026-11-05T15:04:29+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.643,
+        "r": 0.151
+      }
+    },
+    "iran-hormuz": {
+      "kind": "major",
+      "title": "La guerra con Irán provocó un retroceso político y el estrecho de Ormuz volvió a ser un punto de riesgo",
+      "region": "Oriente Medio",
+      "summary": "Los materiales están relacionados con las consecuencias de la guerra contra Irán y los riesgos en torno al estrecho de Ormuz. Medios iraníes y publicaciones internacionales escriben que los resultados de las elecciones en Estados Unidos supuestamente muestran que los estadounidenses rechazan la guerra y que Donald Trump, según informes, reconoce el impacto del conflicto en la derrota republicana. Reuters, FT y Bloomberg señalan que, en medio del retroceso político en Estados Unidos, crecen las esperanzas de un alivio de la situación en torno a Ormuz, mientras los mercados reaccionan con caídas en el precio del petróleo. Al mismo tiempo, los artículos subrayan que no se trata de transferir la política exterior al Congreso, sino solo de abrir nuevas posibilidades de presión sobre la administración.",
+      "picture": "Un petrolero atrapado entre minas, buques de guerra y manos que se ciernen sobre él simboliza la vulnerabilidad del transporte marítimo en Ormuz. Las gotas de petróleo que se convierten en chispas muestran cómo el riesgo bélico se refleja de inmediato en el mercado energético.",
+      "mentions": 62,
+      "significance": 91,
+      "velocity": 57,
+      "domain_count": 17,
+      "articles": [
+        {
+          "title": "California court allows grandfather five-minute monthly calls, rejects mother's $17,193 fee bid",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/california-grandfather-cared-for-his-granddaughter-nearly-two-years-then-sought-visits-after-her-mother-regained-custody-court-allowed-a-five-minute-monthly-call-and-appeal-upheld-denial-of-17193-in-legal-fees/articleshow/135530132.cms",
+          "published": "2026-11-05T19:28:00+00:00"
+        },
+        {
+          "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+          "published": "2026-11-05T18:47:10+00:00"
+        },
+        {
+          "title": "Melania Trump urges ‘humanity over war’ with Ukraine, Russia officials - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjU0aXU3TWxfMkU5TzVldHZkTjdGSVR6R01kWHp3Vm4zaVA5LXRQZ0YtbHlIT3VGMzJKNVJoWDd2RUgxSGFfUFR6YV90a20ySTduRm0xTmczajJBaVhMMEZGdUNOU2xtVENnbW80QVJIeFBYRTdnek5YdHBySF9jZ29iMk5xVmh1ZHpGejZFN0NfZUZEOTV1X093MGlzVnkxNlJTcWNUdC1YUQ?oc=5",
+          "published": "2026-11-05T18:47:02+00:00"
+        },
+        {
+          "title": "Oil prices rebound slightly as Iran claims new attacks on ships",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+          "published": "2026-11-05T18:30:38+00:00"
+        },
+        {
+          "title": "AP Exclusive: Trump administration held talks with Iran on deporting Iranians during the war - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmU3cVBtWk1qRjJuVzQzSVFHM190eGl4U1JjOUNZSVpibWNxcVRqallhSVVXLXRnQkxuNzVqWDZMYkpRR2hFd0ltSTNoSlFjMy1uQTlFaE14SGo5cUUtNjV4dXlDUWVBRllwX25sQlFwamh6aGl6Y0tvSm9PWWVvRG5sVG5wQjVWdm1McHhwUlR4bmlmQ0xBZGROSGdyc05wZUlqWURn?oc=5",
+          "published": "2026-11-05T17:52:00+00:00"
+        },
+        {
+          "title": "Bloomberg: Катар ведет переговоры о закупке допобъемов СПГ у США",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28290227",
+          "published": "2026-11-05T17:41:31+00:00"
+        },
+        {
+          "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue/article71671139.ece",
+          "published": "2026-11-05T17:37:53+00:00"
+        },
+        {
+          "title": "Qatar in Talks to Buy More US LNG, Diversify Supply Outside Persian Gulf",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/qatar-in-talks-to-buy-more-us-lng-diversify-supply-outside-persian-gulf",
+          "published": "2026-11-05T16:56:23+00:00"
+        },
+        {
+          "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
+          "published": "2026-11-05T16:47:29+00:00"
+        },
+        {
+          "title": "Iran says 5 tankers catch fire after striking naval mines in Strait of Hormuz",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3373454/iran-says-5-tankers-catch-fire-after-striking-naval-mines-strait-hormuz",
+          "published": "2026-11-05T15:35:51+00:00"
+        },
+        {
+          "title": "Stock markets diverge, oil prices rebound tracking Trump and AI - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXdoRnhFMENoQTFmZnpoUDlUWUhLTVgtdGl6ZHZXeXVQa2FSdUVSbTFHa0VPbTgzV255bUs5bWJlZU80MG1tSFlDQm9pSlB4Vk51clpmMUhYbTRKNzYtQkZobkd3YjdQZkUwWlh5UTlxSUZIWDlFXzlfZFZWVjRJRjd1eWpFNFA0cmVJQ0xn?oc=5",
+          "published": "2026-11-05T15:30:16+00:00"
+        },
+        {
+          "title": "Crude awakening: how oil has fuelled 150 years of conflict",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/9c6a400c-2207-4b68-8fda-080f1cc30260",
+          "published": "2026-11-05T13:12:42+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.512,
+        "r": 0.3
+      }
+    },
+    "bob-dylan-meets-the-pope": {
+      "kind": "micro",
+      "title": "Bob Dylan se reunió con el papa en el Vaticano",
+      "region": "Mundo / cripto",
+      "summary": "Bob Dylan se reunió con el papa León XIV en el Vaticano. NPR, AP, Reuters y The New York Times informan de que la visita tuvo lugar en la Ciudad del Vaticano y que el encuentro fue breve y sin canto. Los medios enfatizan de distintas maneras detalles de la vestimenta y el protocolo, pero coinciden en el hecho mismo de la reunión. El suceso ha llamado la atención como un episodio cultural poco común con dos figuras muy conocidas.",
+      "picture": "El apretón de manos entre Bob Dylan y el papa es un símbolo sencillo y reconocible del encuentro entre la música y el Vaticano. La imagen subraya la rareza y el carácter simbólico del momento.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Bob the poet, meet Bob the priest: Pope Leo XIV receives Bob Dylan at the Vatican - KSL",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVcxNWZMcllOZ2N1RmlobFFiTWxhUWtRZ3ZzRzE4Q1ZWNktEaWQyVGxsYlNjQnhwbm9tbE5lakQ2cTZDYk1LcHVxNVVVOXcxTFdfN01KZTgxSnQtM0hPaUQxOFE2LVl4enAtbFBrNmkzdVRzaWUwdEJSa2k0SlBIVTc0bDhHcG5yZUVJTHM2X01ram5GVGd1dG5fMFJUak1rZTBhZG1PcnpoUk1WcHliMEI3cXhidkk?oc=5",
+          "published": "2026-11-05T13:45:58+00:00"
+        },
+        {
+          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+          "published": "2026-11-05T07:02:12+00:00"
+        },
+        {
+          "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T02:09:23+00:00"
+        },
+        {
+          "title": "Bob Dylan Meets With Pope Leo",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+          "published": "2026-11-04T23:14:39+00:00"
+        },
+        {
+          "title": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5",
+          "published": "2026-11-04T20:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.429,
+        "r": 0.125
+      }
+    },
+    "zebra-crossing-law": {
+      "kind": "micro",
+      "title": "В Британии суд дал делу «Питт против ER» ход",
+      "region": "Mundo / cripto",
+      "summary": "Британский суд разрешил делу о сходстве сериалов The Pitt и ER двигаться дальше. BBC пишет, что вдова создателя ER Майкла Крайтона утверждает: The Pitt — по сути перезапуск сериала 1990-х годов. Пока речь идёт не о решении по существу, а о том, что иск может быть рассмотрен.",
+      "picture": "На рисунке лежат судебные папки и молоток. Это символ того, что спор о сходстве двух сериалов переходит в юридическую плоскость.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T11:21:35+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "russell-brand-conviction": {
+      "kind": "micro",
+      "title": "Расселу Бренду вынесли приговор по делу о насилии",
+      "region": "Mundo / cripto",
+      "summary": "Британский комик Рассел Бренд признан виновным в изнасиловании и сексуальных домогательствах. AP, Reuters, Sky News, AFP и Al Jazeera сообщают, что приговор вынес суд Лондона, а Бренду грозит тюремный срок. В материалах говорится о четырёх потерпевших и о том, что дело стало одним из самых заметных в британской медиаповестке.",
+      "picture": "Рядом с микрофоном стоит судебный молоток. Этот образ связывает публичную карьеру комика с окончанием дела в суде.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Russell Brand is convicted of rape, and judge says he’ll get a prison term - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHdmLUw5N2gyTG9jUURDdEtNLVVJRmlOcnhEWEJ2OWJrNUQxT1hWWlZFZjNGZWI0LUt5RzVrTzh1X1FGZ29iTGFQWm4yTTR4bHVPSTQ1amxQY1FHdjZuUTRjQmNTNHhaUzEzTFQteXc0YnpETGtzX1pBVzJ6bzlUZTRIQUpPdWVEZE1QRVhBVVg4RFd4Z2VDeVZ4RVJkUWZL?oc=5",
+          "published": "2026-11-05T18:53:00+00:00"
+        },
+        {
+          "title": "Brand leaves court in prison van after guilty verdicts - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1hmcjYzTGZxYkE4R2lweGNOYXAxV016aTVjMWZEUkFTUEpkcWZrQVM2N0dwc1M2a3VYU3JmZWRqMjNXVnQ0LWYwWkx2WjM1WjdOU0Q5SnliZ296MkV0eGdrcDNwMml2YzJjMURVM3U3QVVjUGxKVW5SMjlQQXctSWJ2VnNLcVM5QUdnbkpTNkdVRm5h?oc=5",
+          "published": "2026-11-05T18:14:10+00:00"
+        },
+        {
+          "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDhxQVI1Z010dTJVSjdqZHdheWxsSFpDVk05T1pJZzVPa2FYeHF5cE5DeUk4SVhtbmtBbGJ3UTJsdmlkeXhPb3NJY18wV3NfaGdGbDBJV1FWLW0zc0NLY2VWS0FROC10dTQzWlZUcHRMSkJhSmZnSlRtN1dfV0FCNHdtMTZvOUhteVE?oc=5",
+          "published": "2026-11-05T18:04:46+00:00"
+        },
+        {
+          "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042374/comedian-russell-brand-found-guilty-by-uk-court-of-rape-and-sexual-assaults",
+          "published": "2026-11-05T17:37:40+00:00"
+        },
+        {
+          "title": "Russell Brand guilty of rape, three sexual assaults: UK court - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnVtVXhnelhxZDUxZnRlWWZpMUk2bHhBU21OUGFDVUJCdEl0Ny1jd1JpLWJudmJoaGVXUkdMRjJIUjlveXVtQ29YbFNxU3hVT05NN2N3ay1raUpQUzNINzJUU21OUnVBQUFMZU9BVUZXaGJlckd3cWp4MXJzRjdXNmNfY1JfUQ?oc=5",
+          "published": "2026-11-05T15:30:16+00:00"
+        },
+        {
+          "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+          "published": "2026-11-05T14:43:09+00:00"
+        },
+        {
+          "title": "The rise and fall of Russell Brand - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VeUhnNnh0SnJaTmRJQlRldXJGS1FHX0xnanRwWHdZaG82OHBhWG9KZXdaRWtzQ0F1UVhZeEtmbFNsZDY1LVcxOUswZ0IxSlR4V3huWTRRczFubWhKU3RIVGRMODVtamRfN1A2c0tsTlJZTWZUNUVr?oc=5",
+          "published": "2026-11-05T16:11:00+00:00"
+        },
+        {
+          "title": "Details of Russell Brand's convictions - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFZ0cDliQmlmYXNmVFZqZ1RGMUxfUnFkMmY2ZlJQckV2Z0dJOFhZcjR6a0djM2tJWWEteTV3MDFZakthZnhIR3FzU1RkcWFKakJiVmRBa1djYWRpNU5WRlNfLW02Q0tuNzlzYWFpSmJNa0hnVWVPaEMyN2dDWmIxUjVaN3hKNWZ4NUVDdXI1Vl8yV21pdG9EeQ?oc=5",
+          "published": "2026-11-05T16:10:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "toy-hall-of-fame-classics": {
+      "kind": "micro",
+      "title": "В Зал славы игрушек попали «Монополия» и Pokémon Cards",
+      "region": "Mundo / cripto",
+      "summary": "В Зал славы игрушек вошли Bingo, Care Bears, Pokémon Cards и классическая игровая горка. AP сообщает, что эти предметы признаны знаковыми для нескольких поколений игроков и детей. Это ежегодное культурное событие, посвящённое популярным игрушкам.",
+      "picture": "На рисунке показаны карточки Bingo, Care Bears и Pokémon Cards. Это образ узнаваемой детской и массовой культуры, которую отмечают как классику.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Bingo, Care Bears, Pokémon cards and the classic playground slide make it into the Toy Hall of Fame - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObW04TEU2cXBsTWUzdmVJcTE0dkttczNSWDgydkZTcUJaczhyWU1yWVRUb1dCUkVhSmFhUWlJMTZocjdkSmRFcmI3WmlFVm9RcDdkQ0M3OGNObjlHOWVQMHU3NDB6NlVzenR0cUM4WklKNDJTbW9ZcnBzQkk0M0w2VXExeHpMcFQ2?oc=5",
+          "published": "2026-11-05T14:31:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "grizzly-search": {
+      "kind": "micro",
+      "title": "В Канаде ищут медведей после гибели матери и дочери",
+      "region": "EE. UU.",
+      "summary": "В Канаде после гибели матери и дочери на тропе власти ищут медведей. NYT, AP, Sky News и USA Today пишут, что жертвы, вероятно, погибли из-за нападения гризли в Британской Колумбии; при этом власти не исключают участие нескольких животных. Официальные службы пытаются поймать медведей возле удалённого населённого пункта.",
+      "picture": "На картине только след лапы гризли. Этот простой знак означает поиск животного и попытку понять, что произошло на тропе.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Mother, daughter found dead after suspected grizzly attack - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVYwd2syWTdsNndCWDlPTjZKWkdhemVaZ0RNUWFkVjVRTnBjR1N5SWRsRVMwbV9GTlM0QnpwOUY3UkZySTJ2RHFIbGExajlyeHhyU2VqYlQ3OWZYWW9HRWN5NUZma1F1YXNvNTA5QTlPS2NXOTN3QkdyOFhhSGdmdElvaFJHTHhETE5QY05tUldwMWoweFhJZk5laGN5ODRTcW1j?oc=5",
+          "published": "2026-11-05T15:38:00+00:00"
+        },
+        {
+          "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
+          "published": "2026-11-05T15:02:06+00:00"
+        },
+        {
+          "title": "Una madre y su hija mueren por un ataque de oso pardo en el oeste de Canadá",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-05/una-madre-y-su-hija-mueren-por-un-ataque-de-oso-pardo-en-el-oeste-de-canada.html",
+          "published": "2026-11-05T12:51:51+00:00"
+        },
+        {
+          "title": "Multiple bears may have killed mother and daughter in Canada - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3Ftdi1ZUVR6UU84OGo2dW5rcmhfLS11VFVOSHprdzVEZXpCZDUzNU42aktrUXBpSzNlb1loWThQSW0wYjVyZ2luMlppamFGM0RLa0RFU1dSQmxSSktxUVVuMmtaczhReEQ4QkRmRFRlRV9QR3FYSFR6aENSdVJsTTZ6a0Fnb0dvdHlpWXZRZW1YblBkYXN4eUNQS2w?oc=5",
+          "published": "2026-11-05T04:29:35+00:00"
+        },
+        {
+          "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnhHSjgtSFByNEdJbE1STEozdDdWdDlFMnZFZjY5Ni1qTmlzN3R3UEdST1VueFNpWkZkNnVmQnVoMUhBYXBIajlScDkxWnk2Zllac3JxOEgxU3lIR0d6N092WjNudFhoTHdOME44YVBreVJDR0dobm4wa0dfby0xQ1pZLU9IUmVqWUdtY0hjeGdMcWxrUllfdUJLbnF3V2cxWXlR?oc=5",
+          "published": "2026-11-05T01:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "parakeet-rescue": {
+      "kind": "micro",
+      "title": "Попугайчика спасли из ливневого стока",
+      "region": "EE. UU.",
+      "summary": "В Британии спасли сбежавшего попугайчика, который спрятался в ливневом стоке. UPI сообщает, что его нашли и помогли животному выбраться из дренажной системы. Это локальная история о спасении домашней птицы.",
+      "picture": "Зелёный попугай сидит в ливневом стоке. Образ показывает маленькое спасение в неожиданном и тесном месте.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Runaway parakeet rescued from storm drain",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/05/rspca-parakeet-storm-drain/8061793901713/",
+          "published": "2026-11-05T18:05:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "emu-roundup": {
+      "kind": "micro",
+      "title": "Полиция собрала на свободе сбежавшего эму",
+      "region": "EE. UU.",
+      "summary": "В Коннектикуте сотрудники контроля за животными поймали на свободе эму. UPI сообщает, что птица была найдена во дворе жителя, а власти ищут её владельца. Это короткая местная новость о необычном животном на улице.",
+      "picture": "Эму ведут под контролем офицеров. Это образ того, как крупное экзотическое животное возвращают под надзор.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Connecticut animal control officers round up loose emu",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/05/thompson-connecticut-loose-emu/2581793894149/",
+          "published": "2026-11-05T15:58:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.929,
+        "r": 0.151
+      }
+    },
+    "lottery-gas-pump-win": {
+      "kind": "micro",
+      "title": "Поломка колонки принесла мужчине миллионный лотерейный выигрыш",
+      "region": "EE. UU.",
+      "summary": "Жителю Северной Каролины поломка колонки на заправке принесла выигрыш в $2 млн. UPI пишет, что причиной стало неисправное устройство печати на топливной колонке, из-за которого мужчина купил билет и позже выиграл в Powerball. Это редкий случай, когда техническая неполадка обернулась крупным призом.",
+      "picture": "На рисунке показаны бензоколонка и лотерейный билет. Образ означает случайную удачу, пришедшую через обычную бытовую поломку.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Gas pump malfunction leads N.C. man to $2M lottery prize",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/05/lotto-North-Carolina-Education-lottery-gas-pump-printer/6081793900865/",
+          "published": "2026-11-05T17:50:16+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "window-seat-lawsuit": {
+      "kind": "micro",
+      "title": "Авиакомпания ответит в суде за «окна без окон»",
+      "region": "EE. UU.",
+      "summary": "Delta Air Lines должна отвечать в суде по иску о «оконных местах», в которых нет окон. Reuters сообщает, что пассажиры оспаривают продажу таких мест как оконных, хотя за иллюминатором их не было. Суд позволил делу продолжаться.",
+      "picture": "На рисунке самолётное окно изображено без вида. Это символ жалобы на то, что обещанное место оказалось не таким, как его продавали.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Delta Air Lines must face lawsuit over 'window seats' that have no windows - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhTb1lYRUp1NlpKYnNYaVN4Y29CeDFjaG4yUXNnZEZXdWRhNzR4WFEwM3pWMnB5NDZNTVJRTTAwX2lsZkZhS2k5SXRBNnZSR09nTUVtVWxfbjcycFA3a2VJa0lVRy1VVm9LY3NXVHdqcGdHaVNLb29qd1pLRmFkTnhfUzlfRFhMOHVva3hEczJKTWVjUnFBVzhKaFp5Q0NJRUZnclVza0Q0OGNIWEZQWjJ6ZWtzTmpWc0xVYzNkTnlKQVU?oc=5",
+          "published": "2026-11-05T16:34:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "zoo-atlanta-pandas-return": {
+      "kind": "micro",
+      "title": "В зоопарк Атланты возвращаются гигантские панды",
+      "region": "EE. UU.",
+      "summary": "В зоопарк Атланты возвращаются гигантские панды. The Atlanta Journal-Constitution пишет, что животных привезут в пятницу, и объясняет, что нужно знать об их возвращении. Это заметное событие для зоопарка и посетителей.",
+      "picture": "На рисунке две гигантские панды и бамбук. Это образ долгожданного возвращения редких животных в зоопарк.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Giant pandas are returning Friday to Zoo Atlanta. Here are 5 things to know. - The Atlanta Journal-Constitution",
+          "domain": "ajc.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTNIYlpGWkxySlhFaURzMC1xWnIzWjZzWGJGZTZmUVduX3ZjWl9lVFRHNmE5UXc2UGRhWWNMM2RuMk5RWVlxdm9xRnE5NzJHNjY0SGdyeEdUdTVic3dyaEdvSGZyX3JBRXJVNXN3TWpXbk5GQUljS2tRWXRSZ0NiU1A1NnlFYTE0VHplNmJSQloyVTJpLVRhOEctMWdfTDQ?oc=5",
+          "published": "2026-11-05T17:31:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "mystery-nose-down-jet": {
+      "kind": "micro",
+      "title": "Эксперты разбирают загадочное падение самолёта носом вниз",
+      "region": "EE. UU.",
+      "summary": "Эксперты и следователи разбирают причины крушения малого самолёта Learjet, который упал носом вниз в районе Greenacres. По данным USA Today и CNN, расследованием занимается NTSB; в публикациях отмечается, что среди девяти погибших есть все находившиеся на борту. Случай важен тем, что следователи ищут ключевую улику, которая объяснит, почему самолёт резко вошёл в землю.",
+      "picture": "На рисунке показан небольшой реактивный самолёт, пикирующий носом вниз. Этот образ подчёркивает резкость и загадочность катастрофы.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "'Huge clue'? Experts unravel a mysterious, tragic nose-down jet crash - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWllpX1oxZV9xdkhBTmIzMklOQmJhbWNTcnEzTW96NTRadGZHUVFmRTMtV0FOMUR6UWlRdWhfbUdsbHVJMXBiTFFoUGYxYnJCQmE0Zk9fQmNRZndMNnpoTENjR2JMNHdCX0Z6SElaRGpTYWZsZnkwM1VHcnk2OENvMWNRakdVUVRINi1MQVFZVnNVbXZBZjJLdGJoUWwyVmtkRENyMw?oc=5",
+          "published": "2026-11-05T16:48:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.893,
+        "r": 0.125
+      }
+    },
+    "blue-origin-delay": {
+      "kind": "micro",
+      "title": "Blue Origin снова сдвинула запуск New Glenn",
+      "region": "EE. UU.",
+      "summary": "Blue Origin снова перенесла запуск тяжёлой ракеты New Glenn — теперь на январь 2027 года, тогда как ранее Джефф Безос называл декабрь 2026-го. CNBC пишет, что компания спешит восстановить повреждённую стартовую площадку после разрушительного взрыва, а Financial Times отмечает, что Blue Origin отстаёт от SpaceX. Reuters- и Bloomberg-повестка в пересказе TASS также говорит о переносе старта на январь.",
+      "picture": "Рядом со стартовой башней нарисована ракета, готовая к запуску. Образ передаёт задержку старта и зависимость миссии от состояния пусковой инфраструктуры.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Bloomberg: Blue Origin отложила запуск тяжелой ракеты New Glenn на январь",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/kosmos/28290237",
+          "published": "2026-11-05T17:48:49+00:00"
+        },
+        {
+          "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PRTZfeFNlMUhlSmJES0RmdTJzTkY1alAtMVlKM3Axc0luazJtNGwtX0FRSlMtbTg1dHdOTXY3TGJ5WnRhSmZvOGF3X01OamItRjVicGhSQzUtSjR2TGdWUG4tdFdiN25ud0JOTG5NRmhWeUHSAXhBVV95cUxNSzZ5Y3VnQ2RrRmdTckxXdXdJYmVOQm9SN1M2OGtFeExLSkVGaWd0QU5XTTFBcDRfOHI2Vkx5Y0JVWHQ2T2hsQXBtZUlJZHRJY2FsZWxqZkQzLWZ4dzhybno5ajhCT29NbWZXQm5renA3NDJlbjU1eTE?oc=5",
+          "published": "2026-11-05T17:19:32+00:00"
+        },
+        {
+          "title": "Blue Origin delays launches until 2027",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1",
+          "published": "2026-11-05T16:35:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.714,
+        "r": 0.125
+      }
+    },
+    "crocodiles-arrive": {
+      "kind": "micro",
+      "title": "В зоопарк привезли первую за пять лет пару крокодилов",
+      "region": "EE. UU.",
+      "summary": "Буффало зоопарк впервые за пять лет получил пару крокодилов. Сообщение Buffalo Toronto Public Media не уточняет подробностей о самих животных, но подчёркивает, что это первое такое пополнение за длительный срок.",
+      "picture": "На рисунке — два крокодила на транспортном ящике. Это показывает их недавнюю доставку в зоопарк.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Buffalo Zoo welcomes pair of crocodiles for first time in five years - Buffalo Toronto Public Media",
+          "domain": "btpm.org",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3VHSVNpSTREX1BUN1hUcVJfNE5fenQ4SzNGR1NDZWY3Z2xUZnRmUFB4djZfZzBLM0Z2V2lyN0ZqMnZndXN6U3NWRXphTUdvME5rYmMtc3I4ekxhbEtDYnFYOXRnOEdnV2syZUUtM2R3TktmeC1CMktadXhDaWlaTGRmbDQ5TzV5cGVvam5pY2xuNUxwT3ljV0t0YWYzSm4zbmgyVDJfbVRSdw?oc=5",
+          "published": "2026-11-05T16:57:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "earthquake-drill-robot": {
+      "kind": "micro",
+      "title": "Школьники собрали игру про красную панду для зоопарка",
+      "region": "EE. UU.",
+      "summary": "Подростки создали видеоигру Red Panda Rush для Maryland Zoo. WBAL-TV сообщает, что школьники сделали проект специально для зоопарка; в центре игры — красная панда.",
+      "picture": "На рисунке — игровой контроллер и красная панда. Это связывает цифровую игру с её главным героем-животным.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Teens build 'Red Panda Rush' video game for Maryland Zoo - WBAL-TV",
+          "domain": "wbaltv.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnRNRGhuVmNnSV92SkpGZkFJbHpYZENvWFVsVG51a0o4QzRDSHBSdVhFU2xRTk1JbUVINFprcEIzWXpMT2MtNThLdllFekMxRjBQUXFzemUzZkxOajJVOXFwVkJiNmg3VnJ5MWJ3ZE4zcUs0TF9fMWtiR2pIdG1XSFgtNWJyVjgtYV9xNjB4Ul81UQ?oc=5",
+          "published": "2026-11-05T16:44:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      }
+    },
+    "bob-dylan-vatican": {
+      "kind": "micro",
+      "title": "Папа Лев принял Боба Дилана в Ватикане",
+      "region": "Mundo / cripto",
+      "summary": "Папа Лев XIV принял Боба Дилана в Ватикане. AP, NYT, BBC и NPR сходятся в том, что встреча была короткой; по данным The New York Times, Дилан пришёл в худи и с галстуком в горошек, а пения не было. В сообщениях также отмечается, что визит пришёлся на перерыв между концертами Дилана в Италии.",
+      "picture": "На рисунке — Боб Дилан и портрет папы. Это намекает на редкую встречу музыканта с главой католической церкви.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Bob the poet, meet Bob the priest: Pope Leo XIV receives Bob Dylan at the Vatican - KSL",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVcxNWZMcllOZ2N1RmlobFFiTWxhUWtRZ3ZzRzE4Q1ZWNktEaWQyVGxsYlNjQnhwbm9tbE5lakQ2cTZDYk1LcHVxNVVVOXcxTFdfN01KZTgxSnQtM0hPaUQxOFE2LVl4enAtbFBrNmkzdVRzaWUwdEJSa2k0SlBIVTc0bDhHcG5yZUVJTHM2X01ram5GVGd1dG5fMFJUak1rZTBhZG1PcnpoUk1WcHliMEI3cXhidkk?oc=5",
+          "published": "2026-11-05T13:45:58+00:00"
+        },
+        {
+          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+          "published": "2026-11-05T07:02:12+00:00"
+        },
+        {
+          "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T02:09:23+00:00"
+        },
+        {
+          "title": "Bob Dylan Meets With Pope Leo",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+          "published": "2026-11-04T23:14:39+00:00"
+        },
+        {
+          "title": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5",
+          "published": "2026-11-04T20:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "joshua-wong-sentenced": {
+      "kind": "micro",
+      "title": "Джошуа Вонга снова приговорили в Гонконге",
+      "region": "Asia",
+      "summary": "Гонконгского активиста Джошуа Вонга снова приговорили к тюремному сроку по делу о национальной безопасности. Reuters, AP, BBC, NYT, NPR и другие СМИ пишут о сроке в 10 лет; The Guardian отмечает, что это его второе преследование по этому закону, а в публикациях также говорится об обвинении в сговоре с иностранными силами. Дело важно как ещё один пример давления на продемократическое движение в Гонконге.",
+      "picture": "На рисунке — протестный плакат и тюремные решётки. Это визуально соединяет уличный протест с заключением.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T13:51:03+00:00"
+        },
+        {
+          "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+          "published": "2026-11-05T07:56:21+00:00"
+        },
+        {
+          "title": "Hong Kong condena a otros 10 años de prisión al activista Joshua Wong, que debía salir de prisión el próximo enero",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html",
+          "published": "2026-11-05T07:42:50+00:00"
+        },
+        {
+          "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+          "published": "2026-11-05T06:56:25+00:00"
+        },
+        {
+          "title": "Hong Kong activist Joshua Wong has release hopes dashed - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkFhUHNMb3BXTnhha2ZBbFJpNFZLMGFVbjJIOFk4YUJ0Tk1WV2lJVkd5TDZKaEk2VTliQTVhMUxfZGZjNjE1cUlUalVWYnE4eXhteHlTbzFlczB3WUlHcmhmNXlJb1FGS2RSN2dRZUhvUFlsZllTTDBiSkZEOUdPeFpueGIxSnFWZTdPOW53TWJtc0d4SGc?oc=5",
+          "published": "2026-11-05T06:03:10+00:00"
+        },
+        {
+          "title": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+          "published": "2026-11-05T05:29:56+00:00"
+        },
+        {
+          "title": "Hong Kong activist Joshua Wong sentenced to 10 more years - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHFWanpzWHNZMUZ1dHU3cE12a2hqU0pCU2xhWGhjZ0hHSVZYbDY0a2dnTzQzalhjOWdOcWZLMzhyRHY1V0o3a25KV1VHenJlVVdMQWd4MHVXUXBKMnpDQzNVWmVOSmNDWmZQczF1WjljYnczRWFuQmNzanp1cktHZDJ3VQ?oc=5",
+          "published": "2026-11-05T05:16:44+00:00"
+        },
+        {
+          "title": "Once a teen activist, Hong Kong’s Joshua Wong is spending years of his adult life in prison - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFFxUkZFSlZzMWV2eVpBaDFvcExJZFFyLUFNNnVGOFdxU2ZWUnVyaS10NlRFeFc2RnhWZkc5SjlpcGRCWV9wbTZvdHpZRko3VlB6UDFSNTFSWnRYUE0zREduR0NWZy1zeDItNjh0T1VKbWxsU1ExeDVVai1oaVliQ2YyN2VVZHo1WlI2dXc3amVKQTJtSWllNXc0S0s3UjgyMnc?oc=5",
+          "published": "2026-11-05T03:36:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      }
+    },
+    "meteor-shower-fireballs": {
+      "kind": "micro",
+      "title": "Жители смогут увидеть яркие огненные метеоры",
+      "region": "Mundo / cripto",
+      "summary": "Начался пик метеорного потока Южные Тауриды, и наблюдатели могут увидеть редкие яркие болиды. CNN и National Geographic пишут, что в эту ночь «падающие звёзды» могут быть особенно заметны и даже ярче Венеры.",
+      "picture": "На рисунке яркие метеоры рассекают ночное небо. Образ передаёт редкое и эффектное астрономическое явление.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Spot rare fireballs during the Southern Taurid meteor shower’s peak - CNN",
+          "domain": "cnn.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5cTdjbHY3UjBHMU5XNEJYdVd3UzRiMWJVODNnakxsTExDOEVENkJOVnp3dTRFdG5lNHJVLUFIeUFJbmp1cGtzZE5sX0dMeWxnX3lUZjliXzRDX1dpX0oxdjd4ZUsxUDE0cjRodzFsUHpzN0wtUVJHdw?oc=5",
+          "published": "2026-11-04T21:59:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "mars-volcanic-hints": {
+      "kind": "micro",
+      "title": "Орбитальный аппарат нашёл новые намёки на вулканизм на Марсе",
+      "region": "Mundo / cripto",
+      "summary": "Европейский орбитальный аппарат обнаружил новые признаки возможной вулканической активности на Марсе. Phys.org, National Geographic и Reuters в пересказе сходятся в том, что над марсианскими разломами замечены свежие намёки на выделение газа, что может указывать на продолжающийся вулканизм.",
+      "picture": "На рисунке орбитальный аппарат летит над красной планетой. Это показывает, что открытие сделано с орбиты, а не с поверхности Марса.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "European orbiter detects fresh hints of volcanic activity on Mars - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41YUxUck54ZUFtbGM0dGFyN3NUb3pqNjRLUWdiTXpvaXdRbzRGX1dsZ3p2eE5ia0pRRVpTWElNMXNXMGowalN3aFUtNEFMOGFTbm5jNXRzUzFINFRBclFDaUcxQWFTbFl1SnViWGFPZ3M1cHNzbnlBSlVtTUg?oc=5",
+          "published": "2026-11-05T00:40:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "cern-rare-decay": {
+      "kind": "micro",
+      "title": "Физики CERN нашли следы крайне редкого распада частиц",
+      "region": "Mundo / cripto",
+      "summary": "Учёные CERN сообщили о признаках крайне редкого распада частиц, обнаруженных на Большом адронном коллайдере. Euronews пишет, что такой процесс, по расчётам, происходит примерно один раз на 10 миллиардов случаев, и это даёт физикам новый инструмент для изучения материи.",
+      "picture": "На рисунке показаны треки частиц в детекторе-кольце. Это символизирует эксперимент на ускорителе и поиск редких следов распада.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "‘Zeptoverse’: CERN scientists uncover evidence of extraordinarily rare particle decay",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/05/zeptoverse-cern-scientists-uncover-evidence-of-extraordinarily-rare-particle-decay",
+          "published": "2026-11-05T07:02:53+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "swift-telescope-burnup": {
+      "kind": "micro",
+      "title": "Телескоп Swift сгорел в атмосфере Земли после 22 лет работы",
+      "region": "Mundo / cripto",
+      "summary": "Космический телескоп Swift сошёл с орбиты и сгорел в атмосфере Земли после 22 лет работы. NASA и AP сообщают, что аппарат завершил миссию над Индонезией; в публикациях также сказано, что учёные пытались его спасти, но безуспешно.",
+      "picture": "На рисунке телескоп входит в атмосферу Земли. Этот образ означает конец долгой орбитальной миссии.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Космический телескоп «Свифт» сгорел в атмосфере Земли после 22 лет на орбите. Ученые пытались его спасти, но безуспешно",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/kosmicheskiy-teleskop-svift-sgorel-v-atmosfere-zemli-posle-22-let-na-orbite-uchenye-pytalis-ego-spasti-no-bezuspeshno",
+          "published": "2026-11-05T09:12:32+00:00"
+        },
+        {
+          "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY09VZGZ6VW5RWnBqTktLTE9vSUhlVklrVXY1X09WNHJVbFdBT3VXU01ZYTlUb2JsdnlGODBfeFlLTGlFcWFjdEEtQ2FNSnJqMXlheEpHQWxNR2lzdlhTQUlDVWhKYVltbHQzZ2M4T1RBVkFCUzlWc3p1SjVHVlZQUC1BOWtVYXhSdEs3dGw3MHJCTDdZZkNJc0Nn?oc=5",
+          "published": "2026-11-04T19:41:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "new-zealand-survivors-island": {
+      "kind": "micro",
+      "title": "Пятерых выживших спасли с отдалённого острова после месяцев в море",
+      "region": "Mundo / cripto",
+      "summary": "Пятеро выживших были спасены на удалённом острове после трёх месяцев в море. NYT пишет, что лодка из Микронезии пропала в июле, а люди добрались до острова в Кирибати более чем в 3 тысячах миль от исходного места.",
+      "picture": "На рисунке — пять человек на крошечном острове. Это подчёркивает их изоляцию и длительное выживание в море.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+          "published": "2026-11-05T00:30:34+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "zelda-remake-release": {
+      "kind": "micro",
+      "title": "El remake de Zelda por fin llegó a las tiendas",
+      "region": "Mundo / cripto",
+      "summary": "El remake de Zelda salió a la venta y los jugadores lo recibieron con nostalgia. AFP informa sobre su llegada a las tiendas, y una segunda nota de la misma agencia confirma la expectativa por el lanzamiento. Es una noticia pequeña, pero relevante para el público aficionado a los videojuegos.",
+      "picture": "Un cartucho de videojuego y una espada de fantasía remiten al clásico juego y a su regreso. La imagen resalta la mezcla de nostalgia retro y aventura.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Nintendo producer 'all nervous' as Zelda classic remake hits shelves - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenV4MF9sUGVURXQ5TjV4WHNpdzJNbm1tY2UxaU90YzgyVlRSSm1jZ2dRRWRmMVcwQUJ6eUhZdzBONWIyQTJlRGlVRHRSWm5lUHVYZ1ktcUNoZnhjME8wSW9BaFRZOGp6WE04eWN6VnYyQTBCWUotTW5CS25JTjh5MzhZZW5NME5jTThtdHBuUQ?oc=5",
+          "published": "2026-11-05T10:08:45+00:00"
+        },
+        {
+          "title": "Gamers get nostalgic as Zelda remake hits shelves - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yb2lCMEpsZzlXTFZJcnJUZnVRM1A3MzlqWXlfTUt6SThnWVhSUzJZZWZqZVlGTlN4M0NjNVJ4NzFUTUFONExZRllkR2YyZkxkSjR4WjY5aXQ5dlRUblB6OWJ0YWxya21UcnZHNlFncXNlVGFlMlctRw?oc=5",
+          "published": "2026-11-05T09:10:20+00:00"
+        },
+        {
+          "title": "Gamers set for Zelda remake to hit the shelves - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xNlRPMm1iMjJ3MEc5U3RSVFJCSDhYRmlvVF9PNzBVazlEdWY4bkF5OHdCYzczN2R0U1VxckFTc3RpbzM2aEhhLXFRd2tsQ2NDMDZIckI0MFdCeHpTQnF5Qk5wMHd1XzFuWFE?oc=5",
+          "published": "2026-11-05T04:18:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.214,
+        "r": 0.125
+      }
+    },
+    "nintendo-profit-slowdown": {
+      "kind": "micro",
+      "title": "У Nintendo замедлились продажи Switch 2, но игры держат результат",
+      "region": "Mundo / cripto",
+      "summary": "У Nintendo замедлились продажи Switch 2, но результаты поддержали продажи игр. WSJ пишет, что полугодовая прибыль выросла благодаря более сильным продажам софта и новому фильму про Mario, тогда как CNBC и AFP сообщают о падении продаж консоли и снижении квартальной чистой прибыли.",
+      "picture": "На рисунке — портативная консоль и монеты. Это показывает связь между продажами устройства и финансовым результатом компании.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Nintendo’s First-Half Profit Rose on Stronger Software Sales, New ‘Mario’ Movie - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVpaUFZuM0c0Q3ZzaDg3SmJBdm1VUFlxRjh4dmFyalBNdHJHcXdmMEZDR0VhT25VWjVFdEJkaHlaempaSXZlSXE1c21lMnZwbnFPamVKbHVMOGhPY1ZhSVBUR01QM3FsQmtCMF9FbUdOcEVxTXExREQyVklQU0ZSUjZJRnBhMUVNT194eFJPdjEwQUM0WkVBMFpmQU5BdjAyMHgwSUdQbkNWb3pXYjloNTY1dFV4QlBjRXlLZWExTQ?oc=5",
+          "published": "2026-11-05T13:33:00+00:00"
+        },
+        {
+          "title": "Nintendo quarterly net profit drops as Switch 2 unit sales slow - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3VBMHptNk11d2s3ZndVODZ0YzlKV096TjJ0R1RKNzR3RjFaYnpIX2U4ZXZNMDNqRGFEOVFCV29NN1BaZUgxa0hjMTIwNVBoMEkzRGpsTlkwSFgzY2dVUmFtWWVObDVucU5JSlRhZTlMb2NZc1ZQM1M2OFVlbnE1YWdLbHpXRlYxeDdF?oc=5",
+          "published": "2026-11-05T08:11:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.286,
+        "r": 0.125
+      }
+    },
+    "golf-liv-collapse": {
+      "kind": "micro",
+      "title": "LIV Golf сворачивает планы после ухода ключевого инвестора",
+      "region": "Mundo / cripto",
+      "summary": "LIV Golf сворачивает работу после ухода ключевого инвестора и срыва планов перезапуска. BBC, AP, CNBC и другие СМИ сообщают о намерении закрыть или ликвидировать проект, а The Guardian пишет, что в ходе банкротного процесса ожидают переход игроков в другие турниры. В публикациях отмечается, что у лиги не хватило поддержки игроков и финансирования.",
+      "picture": "На рисунке — мяч для гольфа рядом со сложенным баннером. Это означает сворачивание проекта и конец прежних планов лиги.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "DP World Tour ready to extend olive branch to rebels including DeChambeau after LIV Golf collapse",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/05/liv-golf-to-liquidate-after-financing-rescue-deal-collapses",
+          "published": "2026-11-05T19:24:23+00:00"
+        },
+        {
+          "title": "LIV confirms intention to wind down after five years",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T18:12:32+00:00"
+        },
+        {
+          "title": "LIV Golf is winding down operations, lawyer says in bankruptcy hearing - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVhMHFoanN4WGUwMjJsNXNiNXozbUN0ZHhseFE0Z2M5eE1NdlZpSW55OF80SGZ6bWU0am1NWlJoWDhCSkljU2NQTUFPSXg5NklwU2JXUVdjNGRNMkZ5cGZOcURDSWF5Y1BaYXkzQThNSnNmTDRUUldhUWVKZUswbGRNOXRiZw?oc=5",
+          "published": "2026-11-05T16:48:00+00:00"
+        },
+        {
+          "title": "LIV Golf relaunch collapses as key investor withdraws: reports - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbml6TmNXLVpmTXc2M0hGaHU0VElFZzdSSW80T19IUVFvY3QtU0ItbUcwSm12d1QwNmp2M0Z1blB4VzYxRERQVjlZM0szZFJxRVhzNTJzMy1LbFkxU1lWZ0c2eWdXWEpjdGhFOVA1bDhCVmRFeWlEcHNjT0JfNS1NdkpUdXBGLVpmQTJFa2hUWU5XMzF5ZHREWk5XVTl2bHVQ?oc=5",
+          "published": "2026-11-05T05:01:50+00:00"
+        },
+        {
+          "title": "LIV Golf faces liquidation after BC Partners scraps rescue plan - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SHhfaG5oMmdxNVBJQ2VwX0ZhY2JDV1puLUo1VGozMl9PRVlhQnphOEk3bmg3c0lPam1OWTB6bWd6RDRIWWxOSnJBTjFZUkVMRThKRFAtaDF4QnJQQTlqOWh2THExRnBCWllNNkpMajJ2Xy1QajBYa9IBfkFVX3lxTE9zSjVmb1p1VlVNZTFnUE1yUU1nd01fMV9YT1c5NUx6cDVmX3h2azczMVZVNlkzVmtwQnJyZi13SXJfcVh0ZjRSM1pSYXhOZnlNSm1hS3ZxQkZONHFJY05qTWI1cTBvdGV5a1MzTndTcU1DdnVjdDZtMC1wRmlfUQ?oc=5",
+          "published": "2026-11-05T03:11:00+00:00"
+        },
+        {
+          "title": "LIV Golf relaunch collapses as key investor withdraws: reports - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnRVZUhvYjc2dUJHY01QaUlEVkhUQmliUmlBS0p1ZVl6NHI0WXJRNHlTa2NPcGpac01iSUwyQlRKdTRaenFnWm5DVElkTTdleUVLbnVyanJ3aFI1Nld1Q3lsZGM5UmIwOUhuS1Z6Mm5ZSmVqaDluVVVnc1NHU0hrSmQ4U1I1SU9w?oc=5",
+          "published": "2026-11-04T23:26:58+00:00"
+        },
+        {
+          "title": "Report: LIV’s financial backer dropping plan for new league in 2027 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0NHWkg2Mk5TaG81ODBNdnYxbmljOWVfaTNreGZLZ3d5Zl9tamx1WHRmLTdHWVBvV0ZMYm1pakVOOWtYNnZXMnRhN3BqVFRIMXdYRmNxZHpOQWRleEhzaFotcVRCaUMteUdBWUZnUlpicmhhUTIzbkk1TVhJRXhzbWszMlZvdVpGc05ITmUwVzUtZjVHLVkyRTJlMEs?oc=5",
+          "published": "2026-11-04T23:23:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.321,
+        "r": 0.062
+      }
+    }
+  }
+}

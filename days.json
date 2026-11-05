@@ -1,5 +1,242 @@
 [
   {
+    "key": "2026-11-05-1",
+    "date": "2026-11-05",
+    "image": "img/2026-11-05-1.jpg",
+    "aspect": 1.7778,
+    "people": 8324357061,
+    "spots": [
+      {
+        "id": "russia-state-pressure-assets",
+        "x": 0.5,
+        "y": 0.464,
+        "r": 0.202
+      },
+      {
+        "id": "us-midterms",
+        "x": 0.263,
+        "y": 0.736,
+        "r": 0.221
+      },
+      {
+        "id": "uk-cyber-justice-resignations",
+        "x": 0.25,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "palestine-israel-friction",
+        "x": 0.713,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.312,
+        "y": 0.196,
+        "r": 0.3
+      },
+      {
+        "id": "israel-election",
+        "x": 0.75,
+        "y": 0.786,
+        "r": 0.151
+      },
+      {
+        "id": "paraguay-bank-collapse",
+        "x": 0.229,
+        "y": 0.548,
+        "r": 0.23
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.312,
+        "y": 0.196,
+        "r": 0.3
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.787,
+        "y": 0.136,
+        "r": 0.221
+      },
+      {
+        "id": "south-africa-anc-loss",
+        "x": 0.5,
+        "y": 0.821,
+        "r": 0.202
+      },
+      {
+        "id": "hong-kong-markets-ai",
+        "x": 0.5,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "ronaldo-retirement",
+        "x": 0.5,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "hong-kong-markets-ai",
+        "x": 0.5,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "iran-hormuz",
+        "x": 0.812,
+        "y": 0.512,
+        "r": 0.3
+      },
+      {
+        "id": "joshua-wong-sentenced",
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "grizzly-search",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "parakeet-rescue",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "emu-roundup",
+        "x": 0.75,
+        "y": 0.929,
+        "r": 0.151
+      },
+      {
+        "id": "lottery-gas-pump-win",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "window-seat-lawsuit",
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "zoo-atlanta-pandas-return",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "mystery-nose-down-jet",
+        "x": 0.125,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "blue-origin-delay",
+        "x": 0.062,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "crocodiles-arrive",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "earthquake-drill-robot",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "bob-dylan-meets-the-pope",
+        "x": 0.062,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "zebra-crossing-law",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "russell-brand-conviction",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "toy-hall-of-fame-classics",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "bob-dylan-vatican",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "meteor-shower-fireballs",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "mars-volcanic-hints",
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "cern-rare-decay",
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "swift-telescope-burnup",
+        "x": 0.812,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "new-zealand-survivors-island",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "zelda-remake-release",
+        "x": 0.938,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "nintendo-profit-slowdown",
+        "x": 0.938,
+        "y": 0.286,
+        "r": 0.125
+      },
+      {
+        "id": "golf-liv-collapse",
+        "x": 0.938,
+        "y": 0.321,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-04-1",
     "date": "2026-11-04",
     "image": "img/2026-11-04-1.jpg",
