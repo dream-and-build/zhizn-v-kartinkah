@@ -1,0 +1,1964 @@
+{
+  "key": "2026-11-06-1",
+  "date": "2026-11-06",
+  "image": "img/2026-11-06-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "us-midterms": {
+      "kind": "major",
+      "title": "Les démocrates prennent l’avantage aux élections et se préparent à une nouvelle phase de confrontation avec Trump",
+      "region": "États-Unis",
+      "summary": "Lors des élections aux États-Unis, les démocrates ont enregistré un succès important, et plusieurs médias y voient la préparation d’une nouvelle phase d’affrontement avec Donald Trump. Selon les médias, cette victoire a provoqué des secousses sur les marchés : les actions aux États-Unis, en Asie et en Europe ont fortement reculé, notamment dans le secteur technologique et l’IA. El País écrit que la stratégie républicaine de redécoupage des circonscriptions n’a pas fonctionné, tandis que Hakeem Jeffries, selon Clarin, a déclaré que le Congrès entendait contenir un pouvoir exécutif « hors de contrôle ». AP publie par ailleurs séparément les résultats des élections au Sénat.",
+      "picture": "Sur l’image, une urne géante engloutit une couronne rouge et blanche, tandis qu’une vague bleue emporte un marteau brisé. C’est l’image d’un changement d’équilibre politique et de l’élan des démocrates après les élections.",
+      "mentions": 100,
+      "significance": 94,
+      "velocity": 60,
+      "domain_count": 30,
+      "articles": [
+        {
+          "title": "Live: European stocks plunge after US midterm election results shock markets",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
+          "published": "2026-11-06T09:37:30+00:00"
+        },
+        {
+          "title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
+          "published": "2026-11-06T09:30:02+00:00"
+        },
+        {
+          "title": "Los republicanos fracasan en su estrategia de ‘gerrymandering’ en las elecciones de medio mandato",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/us/2026-11-06/los-republicanos-fracasan-en-su-estrategia-de-gerrymandering-en-las-elecciones-de-medio-mandato.html",
+          "published": "2026-11-06T09:30:00+00:00"
+        },
+        {
+          "title": "\"Україна програє тоді, коли програє її тил\": Паламар про загрозу внутрішнього розколу",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/06/8061535/",
+          "published": "2026-11-06T09:15:00+00:00"
+        },
+        {
+          "title": "Panorama Internacional: La derrota de Donald Trump y la hora de la venganza",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/panorama-internacional-derrota-donald-trump-hora-venganza_0_iZTCb0s6zk.html",
+          "published": "2026-11-06T09:00:56+00:00"
+        },
+        {
+          "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+          "published": "2026-11-06T08:58:22+00:00"
+        },
+        {
+          "title": "2026 U.S. Senate Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+          "published": "2026-11-06T08:58:05+00:00"
+        },
+        {
+          "title": "Democrats’ blue wave means rough waters ahead for US-China relations",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3373368/democrats-blue-wave-means-rough-waters-ahead-us-china-relations",
+          "published": "2026-11-06T08:42:20+00:00"
+        },
+        {
+          "title": "Global tech stocks tumble as blue wave is felt in Asia and Europe",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794",
+          "published": "2026-11-06T08:33:52+00:00"
+        },
+        {
+          "title": "Despega clan Taddei en Sonora desde 2014; suma 2 mil mdp en contratos",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/despega-clan-taddei-en-sonora-desde-2014-suma-2-mil-mdp-en-contratos/",
+          "published": "2026-11-06T08:17:19+00:00"
+        },
+        {
+          "title": "Midterms 2026 : la gauche des démocrates fait moins bien que l’aile modérée",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-la-gauche-des-democrates-fait-moins-bien-que-l-aile-moderee_6807739_3210.html",
+          "published": "2026-11-06T08:00:05+00:00"
+        },
+        {
+          "title": "(2nd LD) Seoul stocks crash for 2nd day on AI rout after U.S. midterms",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106007852320",
+          "published": "2026-11-06T07:36:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.271,
+        "y": 0.774,
+        "r": 0.234
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "En Israël, la bataille pour la formation d’un nouveau gouvernement est lancée",
+      "region": "Israël",
+      "summary": "En Israël, les consultations se poursuivent pour former un nouveau gouvernement après des élections sans vainqueur net. Le président Isaac Herzog doit décider dimanche à qui donner la première chance de constituer une coalition : Benjamin Netanyahou ou Gadi Eisenkot. Bloomberg et Al Jazeera écrivent qu’Eisenkot a reçu davantage de recommandations de députés, mais The Times of Israel souligne qu’il reste encore loin de la majorité.",
+      "picture": "Sur l’image, une couronne est fissurée et suspendue au-dessus d’une urne par une corde, tandis que des mains rivales tirent sur le câble de part et d’autre. C’est le symbole d’une lutte prolongée pour le pouvoir et d’un équilibre politique fragile.",
+      "mentions": 73,
+      "significance": 76,
+      "velocity": 43,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Herzog to Choose Between Eisenkot, Netanyahu on Sunday",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/herzog-to-choose-between-eisenkot-netanyahu-on-sunday-video",
+          "published": "2026-11-06T09:20:22+00:00"
+        },
+        {
+          "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+          "published": "2026-11-06T07:09:42+00:00"
+        },
+        {
+          "title": "Молодий Орбан був інформатором спецслужб, його доноси можуть зберігатися в Москві – журналіст",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/06/8061506/",
+          "published": "2026-11-06T05:55:00+00:00"
+        },
+        {
+          "title": "Iran-linked ships hover over subsea cables after threats",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/492b2c62-8e15-47b3-bf24-842ae62e7217?syn-25a6b1a6=1",
+          "published": "2026-11-06T05:00:04+00:00"
+        },
+        {
+          "title": "A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNHFBTXMzRWZsMm5Rd1U4RU4tUkd5ajVnNHFUUEk0bUVPbkpVTEFwWERrTkYwX0dMbTRaUjBfYjVyYTJxRFMtbEpubDdPRVkweUJWR3ZZUFZvaHpGekVLN2tlOXZOUkdlQURnUy1mN2lwVEVXSFlGZF9CY3o1YWF4Z3k5LTJCOW9QVXMweXk5Y0RTMk9QZjBwR1puenRnd0d1QUxxXzBBeWlBenRIN2h1SlBiX2VTVVNjMjlOTE80SUwza0ZEUVlwdUw0eFduQQ?oc=5",
+          "published": "2026-11-06T02:18:14+00:00"
+        },
+        {
+          "title": "Netanyahu rival Eisenkot tipped to seek Israeli government with backing of Arab lists",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3373476/netanyahu-rival-eisenkot-tipped-seek-israeli-government-backing-arab-lists",
+          "published": "2026-11-06T02:10:44+00:00"
+        },
+        {
+          "title": "Veterans ministry to invite foreign Korean War veterans, families on U.N. memorial day",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106003400315",
+          "published": "2026-11-06T02:10:13+00:00"
+        },
+        {
+          "title": "Eisenkot bolstered by PM recommendations, but still well short of a government",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/eisenkot-bolstered-by-pm-recommendations-but-still-well-short-of-a-government/",
+          "published": "2026-11-06T01:57:28+00:00"
+        },
+        {
+          "title": "A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEhDWFhNT2VZVzZYNHZpenlNX0V5bTlpaWZDeEUtNkZwUkZGc3lfN3ViOFFDUHdBcUR4Q0Z4bFJZdWdXMTRFT3phbk41Rlc5aDA5ZlAyQ1hUU3dFd0RjNHQyUXdHcnE5WVRSbzFsWEdPamU2MkhjN0FQNTdFajFGQXc5Y2UxaTFNd3FOZVpsZ3Q1YXdLb2E3NWdSRFdlSkgtUDQxaFF3?oc=5",
+          "published": "2026-11-06T01:53:00+00:00"
+        },
+        {
+          "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+          "published": "2026-11-05T23:18:21+00:00"
+        },
+        {
+          "title": "Eisenkot tipped to seek Israel government with backing of Arab lists",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece",
+          "published": "2026-11-05T22:58:13+00:00"
+        },
+        {
+          "title": "Principais partidos árabes anunciam apoio a Gadi Eisenkot para formar governo em Israel",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml",
+          "published": "2026-11-05T19:12:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.75,
+        "r": 0.202
+      }
+    },
+    "paraguay-bank-collapse": {
+      "kind": "major",
+      "title": "Le président du Paraguay démissionne et se retrouve au centre de l’effondrement bancaire",
+      "region": "Amérique latine",
+      "summary": "Au Paraguay, la crise bancaire s’est transformée en conflit politique autour du président Santiago Peña. Selon les médias, son administration a laissé la banque Ueno se développer, après quoi la crise a gelé les économies de millions de personnes et suscité de vastes manifestations ; Euronews évoque des appels à la destitution. Les informations divergent toutefois : Guardian, NYT et ABC écrivent que Peña a démissionné, tandis qu’Al Jazeera et El País rapportent que le Congrès a rejeté sa démission et que le pays se dirige vers une confrontation institutionnelle.",
+      "picture": "Sur l’image, un coffre-fort bancaire fissuré pousse un fauteuil présidentiel dans un gouffre, tandis que des papiers s’envolent tout autour. C’est l’image d’un effondrement financier entraînant le pouvoir lui-même dans la crise.",
+      "mentions": 64,
+      "significance": 84,
+      "velocity": 41,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "Paraguay: Thousands protest banking scandal as president faces impeachment",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/06/paraguay-thousands-protest-banking-scandal-as-president-faces-impeachment",
+          "published": "2026-11-06T08:06:58+00:00"
+        },
+        {
+          "title": "Najib Royal Pardon House Arrest: Party pays 50mn ringgit fine; transfer date unclear",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/south-asia/malaysia-ex-pm-najib-wins-home-detention-after-12-3-million-pardon-payment/articleshow/135598960.cms",
+          "published": "2026-11-06T07:55:09+00:00"
+        },
+        {
+          "title": "2026 California Proposition 41 Election Live Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUJVNkVDUHRWamg0czRnRjRMa3U3YndjRV9Rb2xjdGhxUS1ZVVZmSXJkUm5icWM2eDJYWURBZWc0Vm5zQzB0aXVZQTVLQjkxWE8ybzVpOXJXb2FiSnRROENUa281S3U5TG5va0FMOHkzNWY2MmRmbXZmd0NHODZCcXUxRQ?oc=5",
+          "published": "2026-11-06T07:44:52+00:00"
+        },
+        {
+          "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+          "published": "2026-11-06T06:16:22+00:00"
+        },
+        {
+          "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+          "published": "2026-11-06T05:49:51+00:00"
+        },
+        {
+          "title": "Paraguay's president tangled up in Ueno banking crisis",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/banking-crisis-plunges-paraguay-into-political-disarray/107355316",
+          "published": "2026-11-06T05:39:34+00:00"
+        },
+        {
+          "title": "Paraguay Congress rejects President Pena’s resignation after bank collapse - Al Jazeera",
+          "domain": "aljazeera.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVm55WG55elNnbTlZX2lRaTZXaTFtWTZ2V2dadllWUElfaDNqbGgwaTQySUpDeFpYWTFuUDZCYXNVWmlkbjlDaDc0Y0xzUDNDSW1uTkJnbmNTcmxwaU1FR2FsN3o0SmtoTnJDVzFIZ19fTnZ6UDM0dmRVT3ZFLXc5UGlZa3A3bVYwTEpkaE5PLWdWd1FCbFdkYlB2TUFqbG9iZ2fSAacBQVVfeXFMUFdwRkZkQ2c2TDhZZjd2OHlIak5neHlnZ2dteFlKUVZfdWE1TTRyU0RZU0ZNNFFVM0hESkhiYkh0clVwYzcyeGhVLUNhT0dQd1VHTGVhamFiekVKel8temIxaW1USkpZMTNQN1MtaFJ4bFVXcFExeHhOVjVjdlRObUlQQXI4Q05JeHQ4NG5VWlBiOHRWRnpRQmJqT3lxLVFkaG8wWW1TTms?oc=5",
+          "published": "2026-11-06T05:19:59+00:00"
+        },
+        {
+          "title": "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece",
+          "published": "2026-11-06T05:00:44+00:00"
+        },
+        {
+          "title": "Paraguay president steps down as banking crisis sows chaos - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZlTldtT1dvWVNFTGpMbkFEaVBFY19KZ1VPdUxlZzg3al9YREw2T1BkbG5SZGZ3VV8wZEpJd1QzTV9NcTd5SU1oVVVTWmtySGZfQi0yTTkwZFdybW95RnNSUFVjcVNteldua0tvWks2aGNqd3F4U0lUa0tHRG1pd1NteG8tM0ZaTnI5TWx4clNRLXJUc0dUbU5nMFBJZw?oc=5",
+          "published": "2026-11-06T04:45:50+00:00"
+        },
+        {
+          "title": "Peña renunciou para não ser preso e vice é parte da equipe que roubou Paraguai, diz opositor",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/pena-renunciou-para-nao-ser-preso-e-vice-e-parte-da-equipe-que-roubou-paraguai-diz-opositor.shtml",
+          "published": "2026-11-06T02:00:00+00:00"
+        },
+        {
+          "title": "El presidente y el Congreso de Paraguay se dirigen a un choque institucional tras un escándalo financiero",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/pena-desafia-al-congreso-paraguayo-y-se-defendera-en-el-juicio-politico-en-su-contra.html",
+          "published": "2026-11-06T01:56:16+00:00"
+        },
+        {
+          "title": "Crisis en Paraguay: la ruptura con Horacio Cartes, detrás del escándalo bancario que acorrala al todavía presidente Santiago Peña",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/crisis-paraguay-ruptura-horacio-cartes-detras-escandalo-bancario-acorrala-todavia-presidente-santiago-pena_0_I4OOJp9h5Q.html",
+          "published": "2026-11-06T01:21:19+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.212,
+        "y": 0.436,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "La Russie continue de frapper l’énergie et les infrastructures ukrainiennes",
+      "region": "Ukraine",
+      "summary": "Les frappes russes contre l’Ukraine ont continué à causer des dommages au secteur énergétique et aux infrastructures. Zelensky a déclaré que chaque centrale électrique a déjà été endommagée, et des médias ukrainiens et étrangers font état de nouvelles attaques contre des installations dans les régions de Kiev et de Kirovohrad, ainsi que d’incendies et de dégâts dans la région de Dnipropetrovsk. Dans ce contexte, les combats se poursuivent aussi : Pravda signale des frappes contre des dépôts de munitions russes dans les territoires occupés de la région de Zaporijjia.",
+      "picture": "Sur l’image, un pont lumineux et fragile guide des familles chargées de valises, tandis qu’au loin des pylônes électriques détruits crépitent et qu’un drone survole la scène. C’est l’image d’une vie sous les bombardements et d’une marche précaire vers la sécurité.",
+      "mentions": 64,
+      "significance": 93,
+      "velocity": 59,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "South Carolina U.S. Senate Election Live Results 2026 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUExDWTZsajA0RFd3MEFVLUVkUEpBeksyNXhieURxS0NxR3EtbW1vU08teHBqc1BDTXVpY0pYZEhDMGVQbG1qQ1IzZko1dGJZbTFjNnNiRTNyeVhNTkRDRzg3VUZsbERVVkpWdTNvYU45NUpIdFJWM2lqQ1ExTHpVbUZn?oc=5",
+          "published": "2026-11-06T09:49:16+00:00"
+        },
+        {
+          "title": "Зеленский заявил, что из-за российских ударов в Украине повреждены все электростанции",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/zelenskiy-zayavil-chto-iz-za-rossiyskih-udarov-v-ukraine-povrezhdeny-vse-elektrostantsii",
+          "published": "2026-11-06T09:43:16+00:00"
+        },
+        {
+          "title": "В Днепропетровской области повреждены несколько объектов \"ДТЭК\"",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28291965",
+          "published": "2026-11-06T09:25:11+00:00"
+        },
+        {
+          "title": "Сили оборони знищили два склади боєприпасів Росії на ТОТ Запорізької області",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/06/8061532/",
+          "published": "2026-11-06T09:09:00+00:00"
+        },
+        {
+          "title": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 50 víctimas mortales",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-05/el-ataque-a-un-centro-de-ayuda-en-la-provincia-ucrania-de-zaporiyia-suma-ya-43-victimas-mortales.html",
+          "published": "2026-11-06T09:05:03+00:00"
+        },
+        {
+          "title": "Nat'l Assembly passes special counsel bill on alleged fabricated indictments",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106010200315",
+          "published": "2026-11-06T08:55:58+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la Russie a attaqué des infrastructures énergétiques dans les régions de Kiev et de Kirovohrad, selon les autorités ukrainiennes",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/06/en-direct-guerre-en-ukraine-la-russie-a-attaque-des-infrastructures-energetiques-dans-les-regions-de-kiev-et-de-kirovohrad-selon-les-autorites-ukrainiennes_6803934_3210.html",
+          "published": "2026-11-06T08:13:51+00:00"
+        },
+        {
+          "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+          "published": "2026-11-06T07:30:04+00:00"
+        },
+        {
+          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T06:22:00+00:00"
+        },
+        {
+          "title": "Donald Trump predicts deal with Russia on Ukraine and ‘all of Europe’",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/donald-trump-predicts-deal-with-russia-on-ukraine-and-all-of-europe/article71672626.ece",
+          "published": "2026-11-06T06:19:07+00:00"
+        },
+        {
+          "title": "Federal judge tells Trump administration it cannot begin work on Washington arch for 14 days - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFREZnZKcS1pNlA1cFptMU4wLUdFaFR6eURCRGZaLUtZdmxhNXg0U3cyUTkwb1lTbzRxWGpEaHR5SEdZR25KeXNQNDhpZnpwTEVZT0F5NFVkajFUTW96R0dWQzVpQ0RQM2FUNWZEa19YUDJSWHlhOXpSeEZ1LVZaS0x2QTRrUVNDUmFpb3MycmtSSU9ybkZFMENocW5nSUNTelRQWjZORXVBWlBrOTNUUUVxUWFVU2I0M2s5NG8wZTVzQXByZm40d3Z6WQ?oc=5",
+          "published": "2026-11-06T05:25:58+00:00"
+        },
+        {
+          "title": "Iran celebrates Trump’s election defeat as mediators push for deal to end war",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
+          "published": "2026-11-06T05:00:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.787,
+        "y": 0.136,
+        "r": 0.221
+      }
+    },
+    "palestine-israel-friction": {
+      "kind": "major",
+      "title": "Gaza et les territoires palestiniens survivent parmi les ruines, la pénurie et l’isolement",
+      "region": "Palestine",
+      "summary": "À Gaza et dans les territoires palestiniens, les lourdes conséquences humanitaires de la guerre et des restrictions persistent. Arab News évoque des enfants brûlés à Gaza qui ont besoin de masques que MSF ne peut pas fabriquer, tandis que NBC parle de familles vivant parmi les ruines et les déchets toxiques. Euronews et d’autres médias décrivent aussi les restrictions imposées par l’armée israélienne à la récolte des olives en Cisjordanie, ainsi que des arbres endommagés.",
+      "picture": "Sur l’image, un moulin à vent bricolé à partir de débris se dresse à côté d’un olivier fissuré, d’un mur brisé et d’un bidon vide. C’est le symbole de la survie au milieu de la destruction, du manque d’eau et de l’absence de vie normale.",
+      "mentions": 59,
+      "significance": 88,
+      "velocity": 50,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "Зеленский заявил, что из-за российских ударов в Украине повреждены все электростанции",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/zelenskiy-zayavil-chto-iz-za-rossiyskih-udarov-v-ukraine-povrezhdeny-vse-elektrostantsii",
+          "published": "2026-11-06T09:43:16+00:00"
+        },
+        {
+          "title": "Сили оборони знищили два склади боєприпасів Росії на ТОТ Запорізької області",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/06/8061532/",
+          "published": "2026-11-06T09:09:00+00:00"
+        },
+        {
+          "title": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 50 víctimas mortales",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-05/el-ataque-a-un-centro-de-ayuda-en-la-provincia-ucrania-de-zaporiyia-suma-ya-43-victimas-mortales.html",
+          "published": "2026-11-06T09:05:03+00:00"
+        },
+        {
+          "title": "Nat'l Assembly passes special counsel bill on alleged fabricated indictments",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106010200315",
+          "published": "2026-11-06T08:55:58+00:00"
+        },
+        {
+          "title": "Burned children in Gaza wait for masks MSF cannot make - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTJUa3pDTWlTd05KQnQ2bGdzQnAtMlQtclRSX0hpX0pfWUN4Z3k3VkJPNm1MRDFmMWFBOGx2RXZfcmNsaVdFR2h3V2VqdFZLLS1BVzYxZkx4c3pCb1d1SHR0cTY2aDVwUkplZWlzNHNSMml0UHkxazhCQzV0d2xnVzVGZEczUzZ0Qm5iNWFEYUFUUE1yVHFra1VIQW1EUzRR?oc=5",
+          "published": "2026-11-06T08:23:05+00:00"
+        },
+        {
+          "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+          "published": "2026-11-06T07:30:04+00:00"
+        },
+        {
+          "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/week-asia/politics/article/3373487/trumps-israel-aid-cut-reveals-push-trade-grants-tech-cooperation",
+          "published": "2026-11-06T05:00:29+00:00"
+        },
+        {
+          "title": "The ecological fallout of Israel’s war in Gaza",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/opinion/op-ed/the-ecological-fallout-of-israels-war-in-gaza/article71670933.ece",
+          "published": "2026-11-06T04:37:56+00:00"
+        },
+        {
+          "title": "Rescatan a osezna que permanecía en domicilio de Piedras Negras, Coahuila; tenía un collar y una correa en el cuello",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/estados/rescatan-a-osezna-que-permanecia-en-domicilio-de-piedras-negras-coahuila-tenia-un-collar-y-una-correa-en-el-cuello/",
+          "published": "2026-11-06T03:57:11+00:00"
+        },
+        {
+          "title": "West Bank: Palestinians harvest olives under Israeli military restrictions",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/05/west-bank-palestinians-harvest-olives-under-israeli-military-restrictions",
+          "published": "2026-11-05T22:42:54+00:00"
+        },
+        {
+          "title": "Families in Gaza live surrounded by rubble and toxic waste",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/video/gaza-war-destruction-leads-to-environmental-crisis-for-palestinian-families-272938565717",
+          "published": "2026-11-05T18:59:31+00:00"
+        },
+        {
+          "title": "Somalia in turmoil as court declares president’s term extension ‘unlawful - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd203aTlaaHh2UHRBYmlRN3lERm5DLXhDeGlHb1BJNlZJTzBYaGE3QU9BcTdwaWZ4SzVOSE5TWkxTOGVvMXI1UGItRFJHcFlSNnVLbmROeHZNbHhSaTBESk4wZnJuMXRoYXk1NXpFQW1ERTRMaFlQNnBnOHNUWEV2NHQ0czl3VW41dzZ0SkJUcXJ4aEw1Vm9LRkxyN2puZFEtbVZkZUdtUnM5V1B4N3hTbzlyUFpSck5QcENkWUVn?oc=5",
+          "published": "2026-11-05T16:41:50+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.787,
+        "y": 0.35,
+        "r": 0.221
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "La France est de nouveau secouée par de vastes manifestations et grèves contre le coût de la vie",
+      "region": "Europe",
+      "summary": "En France, de vastes manifestations et grèves ont de nouveau eu lieu en raison des faibles salaires, des coupes budgétaires et de la hausse du coût de la vie. CBS, Guardian et BBC parlent de dizaines et de centaines de milliers de participants, parmi lesquels des fonctionnaires, enseignants, travailleurs des transports et syndicalistes. Les manifestations ont donné lieu à des affrontements avec la police, qui a utilisé des gaz lacrymogènes, tandis que le mécontentement à l’égard du gouvernement s’est accentué.",
+      "picture": "Sur l’image, des foules en marche portent des balances salariales fissurées, tandis que des banderoles se déchirent au-dessus d’un pont brisé. C’est l’image d’une protestation contre la baisse du niveau de vie et l’impasse politique.",
+      "mentions": 50,
+      "significance": 69,
+      "velocity": 19,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/humberto-musacchio-deja-huella-como-referencia-del-periodismo-cultural/",
+          "published": "2026-11-06T09:14:15+00:00"
+        },
+        {
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "published": "2026-11-06T08:00:04+00:00"
+        },
+        {
+          "title": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+          "published": "2026-11-06T04:30:01+00:00"
+        },
+        {
+          "title": "French workers flood streets for anti-government protests",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/",
+          "published": "2026-11-06T00:59:54+00:00"
+        },
+        {
+          "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court finds - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExCdXBSNnVWbVl5VmlJVHI4bzcxVkN5b3gtWmJIMmxxLW56OVpad3BGRnc0RExHSEIzd2otaE9JcHh1SjEzdG1tMlhDMTFiakQtd0l1MGFXdXZ1QjVfbEJrazcwbjdPTnVlQy01elN3XzNHa2ZEYkRMak5fQnRnZ29HOHZ3eF94WmlmZw?oc=5",
+          "published": "2026-11-06T00:12:00+00:00"
+        },
+        {
+          "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+          "published": "2026-11-05T20:39:49+00:00"
+        },
+        {
+          "title": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+          "published": "2026-11-05T20:23:56+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:56:05+00:00"
+        },
+        {
+          "title": "Protesters march in cities across France as unions stage general strike",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+          "published": "2026-11-05T17:21:45+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRG91SElhbG5mUlFvQWtQUlJUZnN0MVZIRVNsT0dBLXNFNE95Tzc2c3VNcG5yR1VCdmhLRC12SkVxdXRMMFZ3U1V3enNxWEJYWVBqdlB1MTk4ZU9sYndBakpySTF1MGVtZDlzVUJWMHRkZ9IBd0FVX3lxTFBjVTlKZWt4elBDT2JoR1JVbVVJdW9RR0FrZWZDQnUtd0dJeGc4WXVLLXhVOHVZQXB6aDFJU3pnMXVCOWEwZFF3bTRRenBkVnhIZmJnNTFLS0I4WUowem5ZNDhzX1J3UkNOWUJvN2tWMERFQTNKNVE0?oc=5",
+          "published": "2026-11-05T15:26:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
+      }
+    },
+    "hong-kong-markets-ai": {
+      "kind": "major",
+      "title": "Hong Kong et la Chine pris entre l’envol technologique et la pression réglementaire",
+      "region": "Asie",
+      "summary": "Les marchés de Hong Kong et d’Asie ont subi des pressions sur fond d’inquiétudes liées à l’IA, à la régulation et aux risques technologiques. Reuters, Al Jazeera et CNBC font état d’une baisse des actions après la vente massive aux États-Unis, tandis que les titres évoquent des craintes liées à l’expansion des centres de données et à un contrôle plus strict des technologies. Certains articles soulignent aussi de nouvelles mesures de la Chine contre la corruption et le renforcement du contrôle sur le secteur.",
+      "picture": "Sur l’image, une immense puce électronique est enchaînée par une chaîne judiciaire, tandis qu’une main se referme au-dessus d’elle. C’est l’image d’un bond technologique confronté à une pression réglementaire et politique.",
+      "mentions": 53,
+      "significance": 81,
+      "velocity": 41,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "China aprova lei contra corrupção transfronteiriça em novo passo de campanha de Xi",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/china-aprova-lei-contra-corrupcao-transfronteirica-em-novo-passo-de-campanha-de-xi.shtml",
+          "published": "2026-11-06T09:50:00+00:00"
+        },
+        {
+          "title": "Japan deploys AI, specialist teams to counter cyberattack wave",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3373555/japan-deploys-ai-specialist-teams-counter-cyberattack-wave",
+          "published": "2026-11-06T09:37:42+00:00"
+        },
+        {
+          "title": "Au Mexique, la concentration des data centers suscite l’inquiétude des habitants de l’Etat du Querétaro",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/au-mexique-le-queretaro-concentre-les-data-centers-et-les-inquietudes-sur-leurs-consequences-environnementales_6807753_3234.html",
+          "published": "2026-11-06T09:15:08+00:00"
+        },
+        {
+          "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
+          "published": "2026-11-06T08:41:05+00:00"
+        },
+        {
+          "title": "CT scans cracked the code of a brass lock from a 1583 shipwreck off Wales, 443 years later, intact",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/uk/in-1583-a-ship-returning-from-spain-wrecked-off-wales-443-years-later-scientists-used-ct-scans-to-crack-the-four-letter-code-of-its-brass-combination-lock-without-damaging-the-centuries-old-mechanism/articleshow/135564473.cms",
+          "published": "2026-11-06T08:39:43+00:00"
+        },
+        {
+          "title": "Nvidia finalizes payment of US$1 bln, acquires over 4 pct stake in Naver",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106010300320",
+          "published": "2026-11-06T07:36:42+00:00"
+        },
+        {
+          "title": "US slaps more sanctions on Cambodia's alleged scam group affiliates - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUk5MW1TSGs5VHZSSUY5RVZnaTlSTXZ4ZEJQOWVhWThMblpEczZuOERZRjRtMzdvRlZTdUt6Q1hhZDd5Nkxub0xpa2p0d1YzRTVoUE8tekwtTG9QYkFTa1UzOGpoWFlhWUYtNFNSU29pemZTR2M5U1dPVDRwbVRfZ3FiZG5wT1l4WjJ5aGxUNA?oc=5",
+          "published": "2026-11-06T07:27:23+00:00"
+        },
+        {
+          "title": "Macau jails pro-democracy campaigner in city's first national security case",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T06:46:21+00:00"
+        },
+        {
+          "title": "China's Macau jails ex-lawmaker in first national security trial",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
+          "published": "2026-11-06T05:32:54+00:00"
+        },
+        {
+          "title": "Nepal festival video falsely linked to India-China border tensions - AFP Fact Check",
+          "domain": "factcheck.afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aLUpVVmpkelUyR2pjYkJLd3BIM1dOQUdoYUlvb2hxOW5uNGtpdjJPaHBxUWhYZU53SDlUVnUteHFBbWRiRkhMX0lrZzVRbXBiYURvUW5NZC0?oc=5",
+          "published": "2026-11-06T04:55:29+00:00"
+        },
+        {
+          "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2pDd1BuOVZzeGl6Q0RiSzR3MzVBTnhnQUJOMXRUZk1PSF9HZTk5YVhzVjJZVVpaMFlKV0hhMVZNeXpOTHpxZkxvSVZKclYtMWwzUGc5N0dxQlZuS0NURFJBcUloOU9rVGJQbmprb2E4N1JRaGpjNi04OFgxUTdXVFY4OGFBWVQ4OHVkOFpoY1B4ZmhoNFJySWhfdXFBYTZSUGlVeG1KWW1XVUI3c3FfMjF0bXlNVUZNdHlSdktSaw?oc=5",
+          "published": "2026-11-06T04:03:00+00:00"
+        },
+        {
+          "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGp0Vmt2N095WHZQZ1NLZnBMUGJpS09iWk4tbVB5QjFqbWdoYUhwUkJpbkE4STVlZVdMSXhOb1J2OS1SSW1xbWVxSkhrNjNocmZVWGdraTI2cnFkNzdlQVFhd0VNdWFlWkxzWFZzYW5Gend3c0QxZFc2TGVLMEpuMkFJTlB1MDlpMWstQWFBUkVRYXR0dGhjVjd1WFBPN2NiMHk5X1BPRERxMW50SEE?oc=5",
+          "published": "2026-11-06T03:22:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.537,
+        "y": 0.293,
+        "r": 0.221
+      }
+    },
+    "russia-state-pressure-assets": {
+      "kind": "major",
+      "title": "Le Kremlin renforce le contrôle sur les actifs et les entreprises en Russie",
+      "region": "Russie",
+      "summary": "En Russie, le contrôle de l’État sur les actifs et les entreprises se renforce. TASS rapporte que le Comité d’enquête a proposé d’intégrer les cryptoactifs à l’infrastructure de lutte contre le blanchiment, tandis que Reuters et Le Monde écrivent que les actifs russes de Japan Tobacco ont été saisis après la détérioration des relations avec le Japon. Dans ce contexte, de nouveaux signalements d’attaques de drones et de perturbations dans le fonctionnement d’Ozon Bank sont également évoqués.",
+      "picture": "Sur l’image, une main de l’État relie en chaîne des cheminées d’usines et des coffres bancaires, tandis que des documents se retrouvent scellés. C’est le symbole d’un contrôle croissant de l’État sur les actifs économiques.",
+      "mentions": 46,
+      "significance": 78,
+      "velocity": 36,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "СК предложил включить криптоактивы в антиотмывочную инфраструктуру",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28292119",
+          "published": "2026-11-06T09:53:40+00:00"
+        },
+        {
+          "title": "Зеленский заявил, что из-за российских ударов в Украине повреждены все электростанции",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/zelenskiy-zayavil-chto-iz-za-rossiyskih-udarov-v-ukraine-povrezhdeny-vse-elektrostantsii",
+          "published": "2026-11-06T09:43:16+00:00"
+        },
+        {
+          "title": "Japan deploys AI, specialist teams to counter cyberattack wave",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3373555/japan-deploys-ai-specialist-teams-counter-cyberattack-wave",
+          "published": "2026-11-06T09:37:42+00:00"
+        },
+        {
+          "title": "Rabbi Capers Funnye skillfully navigated a Jewish world wary of Hebrew Israelites",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/rabbi-capers-funnye-skillfully-navigated-a-jewish-world-wary-of-hebrew-israelites/",
+          "published": "2026-11-06T07:13:35+00:00"
+        },
+        {
+          "title": "Summary of external news of North Korea this week",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106007200315",
+          "published": "2026-11-06T07:00:02+00:00"
+        },
+        {
+          "title": "Росіяни атакували Україну 227 БпЛА: скільки вдалося знешкодити",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/06/8061507/",
+          "published": "2026-11-06T06:14:00+00:00"
+        },
+        {
+          "title": "Moscou saisit les actifs russes de la société nippone Japan Tobacco, sur fond de tensions avec Tokyo",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html",
+          "published": "2026-11-06T03:24:31+00:00"
+        },
+        {
+          "title": "Turkiye says soldier died from fire on Iran border - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUd6M2lPZ2g1RlFTeDlMVm13RVVZOFJCQ3ZLNDFkaWp2Y2pkVmptR0V1RlBlWVhaUHRvNzloRUNHUVdaRHVPd0xmdk8yRk5TdndSWkZrOG5sTEl3U0U1Ql9ndThPUDd4LXdCd2ZwakhmNXBvUHFsYlloNzFvMkxXaEtYdEdCZWJQQVJsUWxDUWgwWVBmN1U1VEhrMA?oc=5",
+          "published": "2026-11-05T19:51:36+00:00"
+        },
+        {
+          "title": "Putin seizes control of Japan Tobacco's Russian assets - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlg2TkhyTFdzWm9RWUdLZGwyMXBpWEYyY0VaNEhGdHh5UTdINk1GVW1sU0hJTDU0RkZYMDZMWml4bGw0bjN3S1c2R29lQ1VUdjlxLTdfSm95UU52REFtb0NadDMwNmdvR0NuUjZiWEdfa2R6ckpoRmRRejNDc3NraHNGMFliYXR5Q1ktRkVnQ1pBUEtrX1RTbXF3azQ4QXdsNVVjR01MNWtHQTJVZE9wcnRZc202alhnaHJHaFRTUzV2SkdJdkVj?oc=5",
+          "published": "2026-11-05T12:35:00+00:00"
+        },
+        {
+          "title": "Drone strike sets Ozon warehouse ablaze in southern Russia",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/05/drone-strike-sets-ozon-warehouse-ablaze-in-southern-russia",
+          "published": "2026-11-05T10:17:10+00:00"
+        },
+        {
+          "title": "\"Ozon банк\" работает над устранением сбоя у некоторых пользователей",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28292039",
+          "published": "2026-11-06T09:37:44+00:00"
+        },
+        {
+          "title": "Песков: европейцы не могут определиться, кто от их лица уполномочен говорить с РФ",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28292049",
+          "published": "2026-11-06T09:36:34+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.33,
+        "y": 0.352,
+        "r": 0.3
+      }
+    },
+    "ronaldo-retirement": {
+      "kind": "major",
+      "title": "Cristiano Ronaldo met un terme à sa carrière internationale",
+      "region": "Monde / crypto",
+      "summary": "Cristiano Ronaldo a annoncé la fin de sa carrière internationale. Reuters, AP et d’autres médias écrivent que l’attaquant de 41 ans clôt un parcours de 23 ans en équipe du Portugal, avec laquelle il a disputé 234 matches et inscrit 146 buts. Les médias y voient la fin d’une époque pour le football portugais.",
+      "picture": "Sur l’image, une chaussure usée repose près d’un drapeau national décoloré, tandis qu’une couronne de records se tient au sol. C’est l’image d’adieu à une longue carrière internationale et à un héritage sportif laissé derrière soi.",
+      "mentions": 46,
+      "significance": 52,
+      "velocity": 25,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Cristiano Ronaldo brings his international football career to an end",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end",
+          "published": "2026-11-06T07:32:03+00:00"
+        },
+        {
+          "title": "В Калифорнии смягчат все смертные приговоры, потому что они «несовместимы с ценностями» штата. К высшей мере там приговорены 548 человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/gubernator-kalifornii-zayavil-chto-smyagchit-vse-smertnye-prigovory-potomu-chto-oni-nesovmestimy-s-tsennostyami-shtata",
+          "published": "2026-11-06T06:10:05+00:00"
+        },
+        {
+          "title": "Portugal's Ronaldo announces international retirement - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
+          "published": "2026-11-05T20:46:41+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo leaves the international stage - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pRTEtWVZpWmpwZTZRbnE3cVJwb25od0t2REY0YzZEOVdzMER0S0RONnNFNmVBajM5MU1IekotTmJWNVNmTHl0Q1RHSEx2RHgzSWVLYTdKUDYwc25oV20zSzVOcWk2ajBhQjVmemVTZENTdHg2NGc?oc=5",
+          "published": "2026-11-05T16:45:38+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo bows out from national team with emotional message - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmdOVDhtZXE3d3BtWDFmT1RLNEFzRHk5eWh2TUpPc0hrVVRwYkl6SXpqQkRSUnBpeDkzN0d4SGJWYTB5anlUZ0dPS29zQml3SFlJLUFNM2l6am8yMHhUbjUxWXJHLTllX0ZRaW91azg0aVNnUGNLMUphY2hpcFRCMmRTdFVDTGNZSU1GWFZocnhWejA?oc=5",
+          "published": "2026-11-05T15:04:29+00:00"
+        },
+        {
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T14:29:40+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo announces international retirement - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnhwQVZLTUhqLXR1V0xNNG9OUDZ3Q1pQTGlPMENDaFpZMERmdUlaLVhXbnFTY29zMFU3SWUza3BGMHE4U1JoWWxYVlVZV21BM25kUVYybzdUOGk2UHZLMnZKUTdmVjdGcXRuMG5STVFmbTJnYUhMSHNPUE44QVlxLURuY3daR0dZWVhVZ0VTTVdyMFoza1gxdEVoTjNYUWQ1STBjZw?oc=5",
+          "published": "2026-11-05T14:24:37+00:00"
+        },
+        {
+          "title": "Ronaldo retires from Portugal national team",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/ronaldo-retires-portugal-legendary-career/",
+          "published": "2026-11-05T12:10:21+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo announces his international retirement from Portugal - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEVWTFRWMmRwQU1YbE5ldWpVMlh6UHVZM2g4ODZYWnhlU0IybGRnNDRsYWpUQkRtWEJ6MUR5QkE0WGxTV2VabHc0UXQxRVY0OW1yNWwzX0tGMm1NWXNCamYxelY2akFCU3hnUlk2RnpmTDdxd2loZXQyM2lybTZtQ0JjdmpQdDZlQ2ZKZzU4Zk1IS3ZBYTRETkllQ1RpQQ?oc=5",
+          "published": "2026-11-05T11:50:00+00:00"
+        },
+        {
+          "title": "Portugal great Cristiano Ronaldo has announced his retirement from international football - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjJLejJIQUtnNUF1UFlnVG5QM05MY1ptUlBiS0FjVDl6VVVzNGZCWWlqOTU3MEs2U1hNMDlvR2tfalRNOExvZmhDUHdaT2dPeHdLZmtQb1hfSHVKNTNHSGhrenZKanlnSV84QmtBZlpvOHVBWVZfWnB3SHZ5YmtydDZsdUozTGJLeHNJOFFkTVJzZWxyUlhmel9qYlZIREtteWRDbDF0QXRYT3BYQ1lsdzQxVGp0M0djOGgxT0p4X19tMWdzUGtN?oc=5",
+          "published": "2026-11-05T10:49:38+00:00"
+        },
+        {
+          "title": "Portugal: Cristiano Ronaldo announces his international retirement",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+          "published": "2026-11-05T18:16:53+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo's five great moments with Portugal - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82RFlVdm1PS21mQ0dRR1hzVWh1WXFuLXFwS1ZNbU1KRHY2ZEpPSHBMbDRHN1BWVFl4OXllSmg3Si1QXzZIVXNoSHRhZ19KTjhIVVFXY3NnbGZmOUltRGc0a3VsZWNvc3gtdWNrRHR2bGxkWmVfSXU2Vw?oc=5",
+          "published": "2026-11-05T13:03:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      }
+    },
+    "russell-brand-conviction": {
+      "kind": "major",
+      "title": "Russell Brand reconnu coupable de viol et d’infractions sexuelles",
+      "region": "Europe",
+      "summary": "L’humoriste britannique Russell Brand a été reconnu coupable de viol et d’infractions sexuelles. Selon Reuters, AFP, NBC et d’autres médias, les jurés à Londres l’ont déclaré coupable de plusieurs faits liés à quatre femmes entre 2005 et 2009 ; le juge a indiqué qu’il encourt une peine de prison. Brand a nié les accusations.",
+      "picture": "Sur l’image, un masque de théâtre s’est fissuré sous les coups d’un marteau judiciaire, des pages de script sont éparpillées autour, et le box des témoins est scellé. C’est l’image d’une confrontation entre scène et tribunal, où une figure publique répond de ses crimes.",
+      "mentions": 46,
+      "significance": 67,
+      "velocity": 61,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "'Sleazy', 'manipulative' and 'ruthless': Russell Brand convicted of rape, sexual assault",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/tv-shows/press-review/20261106-sleazy-manipulative-and-ruthless-russell-brand-convicted-of-rape-sexual-assault",
+          "published": "2026-11-06T09:53:13+00:00"
+        },
+        {
+          "title": "Russell Brand faces 'significant' prison term after rape and sexual assault conviction - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG1vR1pxdVVhcUhoajh3cXhIclk1TEZ1WXlMQnBCWHhlUm9xa3F3d2FLdHZaQ1k1ekpJTTlicGxGRG9Hby1hcWQ0cHp6dTlrQVRUc0tYNk1jT0UyX0pZUTA5Z0M1OE1HbGJmWEJEX0Z2LS1FdG9ma01aYlhvd1VJSG02SmVmbGJlb3EyQWpkbXVHOThBR21UN0tWUGtJdi1aNHFIbzIwMklwLVhoSm42Vl9QOWpUNFZjUzNPbw?oc=5",
+          "published": "2026-11-06T05:02:55+00:00"
+        },
+        {
+          "title": "Online magazine Salon, an early staple of internet discourse, announces it will shut down - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYU90VTdWdjY3Zk40Rlp1VTRvTzJ6b21PRjEtWlJYcnlRMG1rcW9kczFLd2J5T0VoRlRxSDBFMFZVOFlaakVsZVpkaWFSZWV2bjYtZTloMlBoeFR5dWUyV0ZjbWJwems1VXp3LVp2QjBEOEFmSHpDS2lZYjJFZ1RqaElQeFhWdHlSVldEd0U4UEdjbF8yNjRV?oc=5",
+          "published": "2026-11-05T22:52:28+00:00"
+        },
+        {
+          "title": "Британского стендапера Рассела Брэнда признали виновным в изнасиловании",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/britanskogo-stendapera-rassela-brenda-priznali-vinovnym-v-iznasilovanii",
+          "published": "2026-11-05T20:58:01+00:00"
+        },
+        {
+          "title": "Russell Brand guilty of rape, three sexual assaults - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EbWFTSEo3UGhybmhUVWZKMk1GZGduMW9UQW85SW1xUjhRano2bk91SWoxVFRUMi1LUmQ5UjdIVUlDb3lSYUFzZmgwYm1pWk1OSFBVRk1yVl94X0RnMGlESEtwMXpUUHhfOEFkcWp3YUZvN3NHcGtCTGR3?oc=5",
+          "published": "2026-11-05T19:13:41+00:00"
+        },
+        {
+          "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDhxQVI1Z010dTJVSjdqZHdheWxsSFpDVk05T1pJZzVPa2FYeHF5cE5DeUk4SVhtbmtBbGJ3UTJsdmlkeXhPb3NJY18wV3NfaGdGbDBJV1FWLW0zc0NLY2VWS0FROC10dTQzWlZUcHRMSkJhSmZnSlRtN1dfV0FCNHdtMTZvOUhteVE?oc=5",
+          "published": "2026-11-05T18:04:46+00:00"
+        },
+        {
+          "title": "British comedian Russell Brand found guilty of rape and three sexual assaults by London jury",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/05/british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-london-ju",
+          "published": "2026-11-05T17:42:23+00:00"
+        },
+        {
+          "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+          "published": "2026-11-05T16:15:02+00:00"
+        },
+        {
+          "title": "Russell Brand convicted of rape and sexual assault - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnZPR3lpeVVxMVdOaEszY2xLZENYOEFKWExOWWp1RmdwWlBYQ1E0Zkw3Uy1JZWdUTnNobldtc0VrN0xjRUpKYTBZanY1YlNMVHBLc2pzMEFzNGpyRTB4MGl0Ull0YVpTekk2QmR0WVJnYllQdWYxdjBwMzFZWERjRjJ0Rlh0Si10dU8ySzRn0gGTAUFVX3lxTE1VZkR5WnVNU1FrYlFVTkgzSnJRVU1SZmNJWWNfeDd0TXZ3aURRVDVCaWRJcThpa25IUklWNFlDVENLQjNaUFJQWXJFNVVoNjFGdDFVZDBwU1RDd1FoN0JZYWUzZ1dBLWtzU0c5NzMyNzQzWmQtQzVCQV9VVHFfVzg1WU9GTkw3TjQyRWVSejdaMkRMdw?oc=5",
+          "published": "2026-11-05T15:31:28+00:00"
+        },
+        {
+          "title": "Russell Brand found guilty of rape and sexual assault",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/world/united-kingdom/russell-brand-guilty-rape-sexual-assault-rcna606967",
+          "published": "2026-11-05T14:26:48+00:00"
+        },
+        {
+          "title": "Russell Brand guilty of rape and sexual assault | Episode 16 - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaDBlY0Z6QXBlOFZiU1NCUW9yM00zX3R5ZURZTmN0ZXNkUDBybHVad0NzSUVzZldLYWFfNTE2WUdYdE9Eb2xtclJzSzhacnNiU0JOVGtJYVJKSl8yWnRnQVk3ZEpwd082Szl6LVdwc2FReGU3M1V4d0loMDlwWWlFTEVIaHJvc25pVTkzM2hGblozbjhtWlZMLUJ3?oc=5",
+          "published": "2026-11-05T21:35:47+00:00"
+        },
+        {
+          "title": "Barrister: Brand case exposes how media industry silences women - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG1JenRvQVBZS1c5d0htQm1UWk1HemJvU2xRYmZvclpNeXdONHc3cjlqZGdYVl82UmpueDFWRV9iTC1XeUdZU0IxdXNDcmlWbUxYWExIMThkVmgtd3NRRTBZeDRHbnZUYmk0TDZleWw2MFhjYUpUWElDTHpHVjZGanJGcUs0TXNjVDBSelNCSmhNc2NyakJCZGlRZ0wya0U?oc=5",
+          "published": "2026-11-05T20:28:09+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.212,
+        "y": 0.279,
+        "r": 0.221
+      }
+    },
+    "north-korea-hacker-threat": {
+      "kind": "major",
+      "title": "La Corée du Nord intensifie ses cyberattaques et devient un acteur majeur du piratage",
+      "region": "Asie",
+      "summary": "La Corée du Nord continue d’affermir sa réputation de grande puissance cybernétique. Reuters évoque « l’armée de hackers » nord-coréenne et son rôle dans l’attaque contre Binance, tandis que d’autres articles soulignent la pression occidentale sur les sanctions, le blanchiment d’argent et les droits humains. Yonhap rapporte aussi que Pyongyang a critiqué l’étiquette de « haut risque » attribuée par des observateurs financiers internationaux.",
+      "picture": "Sur l’image, une araignée noire tisse sa toile de câbles autour d’un coffre-fort brisé, tandis que sa gueule crache des pièces et des fragments de données. C’est l’image d’une économie pirate qui vole à la fois l’argent et l’information.",
+      "mentions": 43,
+      "significance": 74,
+      "velocity": 56,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "Summary of external news of North Korea this week",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106007200315",
+          "published": "2026-11-06T07:00:02+00:00"
+        },
+        {
+          "title": "North Korea's army of world-class hackers is secret weapon that took down Binance - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
+          "published": "2026-11-06T05:07:00+00:00"
+        },
+        {
+          "title": "US court docs show administration held talks with Iran on deporting Iranians amid the war",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/us-court-docs-show-administration-held-talks-with-iran-on-deporting-iranians-amid-the-war/",
+          "published": "2026-11-06T04:44:32+00:00"
+        },
+        {
+          "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVERlRnhFaUV4cmNBcG9zTUdqSFZ2eDYzd1J3MG5KbnFJWWtVUV9KZXp2WmZlVVc1Tk1VWW1rRExkWlJXNFl0Vk5iLXlOeVBZdmVWTnE2ZlpkV3NoVmtPVGJwUlB4STdINUczREd0SnUxMmk2c2ZkVmVCRmVlWlFJSNIBhgFBVV95cUxNQ1l5VVJhaHd3ZVhCcFhZdWJOUk1BLWNRSi1aT3M2UzU2RkxzQlFaRmpQUmNNS1VCQXlLcnpuakxjZFlnMUZ2eDFPbkpKUDd0d25YeVpyVy1qLURrRk9lZnRjYkNGbk1uUjc0REpCdVdzVDhlU2w2WTVfY2NydTFyMjVraGlMUQ?oc=5",
+          "published": "2026-11-05T21:09:56+00:00"
+        },
+        {
+          "title": "Here are the Daily Lotto results - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkxlU3UxRk5ueU01VFgteHN4OUZKQXFEU0hvMGREUXhYMEpqQXAtV2swVkJpcEYyMDY4YUFFNm1xWDUwdTBrX284UW93Mm8tUDR2c2dsOE1sRENVM0d4eXplYTc2bjZNNWx6UE1WMEN5blJRWXVfaHM0ak9jSnNXUEVUVk82cmhVZTQzbnRR?oc=5",
+          "published": "2026-11-05T19:26:50+00:00"
+        },
+        {
+          "title": "OpenAI says its new cybersecurity model is better at not hacking other companies - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVJhXzNhR2ZJZ19kVm5FVkQ4dVVwUDlRV2ZZUGZKZ2ZZai1HQ3VzSTV4RHQ3UlhRNjNZbjhCcUFRMmFIN21PMmpKNGpzanZqSE5xZ3VZeUtMc3o1M0NidFpvV3VWSlR3YWdYV2RycTdXZGtYazNsYW9OZGljZFJHdzl4bi1valBMT0cyd3N3?oc=5",
+          "published": "2026-11-05T17:00:00+00:00"
+        },
+        {
+          "title": "Experts gather in Namibia for nuclear test verification exercise",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/05/experts-gather-in-namibia-for-nuclear-test-verification-exercise/",
+          "published": "2026-11-05T16:10:32+00:00"
+        },
+        {
+          "title": "North Korea tells EU to 'mind its own business' on human rights",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-05T11:14:00+00:00"
+        },
+        {
+          "title": "North Korea tells EU to 'mind its own business' after draft UN resolution on human rights",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/05/north-korea-tells-eu-to-mind-its-own-business-after-draft-un-resolution-on-human-rights",
+          "published": "2026-11-05T10:38:42+00:00"
+        },
+        {
+          "title": "Trump could woo North Korea after midterm setback, but Kim may not respond - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkJyMVBWVHpWN0ZmV2dkTmd1Nng2djRzUFgyVmlCUDV6MWVjMzFVemZsN1BSS01tTDlCamxlUU11cUNwLXpaS2NSMnVtNGRtSTF1YVY4alJQTE1UNnIzTzNMY0xmRHpCS1JVVnNZZ1A5dHFyX2FkMXhza3BrYmNFMkpHRnYwejgtNzZJMXhMZzFnZDVuQzI3N25hRFRGYlI2ZG91N1NXUFhNQkpKU0tyaC1oN0F1WU14?oc=5",
+          "published": "2026-11-06T04:40:00+00:00"
+        },
+        {
+          "title": "N. Korea lambasts money-laundering watchdog over renewed 'high-risk' label",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106001200315",
+          "published": "2026-11-05T23:15:19+00:00"
+        },
+        {
+          "title": "S. Korea should deepen work with U.S., Japan on sanctions against N.K. after Binance theft: expert",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106000600315",
+          "published": "2026-11-05T21:57:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      }
+    },
+    "turkey-instability": {
+      "kind": "major",
+      "title": "La Turquie est secouée par des crises politiques et sécuritaires, du tribunal à la violence de rue",
+      "region": "Moyen-Orient",
+      "summary": "La Turquie traverse une série de crises politiques et sécuritaires. Les médias font état de l’arrestation d’un ancien ministre dans une affaire de manipulation de fonds, et Reuters ainsi qu’Anadolu écrivent que le tribunal l’a placé en détention. Parallèlement, une série de fusillades dans l’ouest de la Turquie a fait huit morts, selon la BBC et The Hindu, tandis que se poursuivent aussi dans le pays des manifestations contre la pression exercée sur les médias.",
+      "picture": "Sur l’image, à côté d’une urne électorale en flammes se dresse un tribunal fissuré, et des boucliers antiémeutes reposent près d’un minaret brisé. C’est le symbole du mélange entre pression politique, violence de rue et crises juridiques.",
+      "mentions": 36,
+      "significance": 61,
+      "velocity": 80,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Turkiye arrests former minister as part of a widening fund manipulation scandal - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmw0UUV2VnRKNGhFVm9Nbk5NWmxLS05DejhOTm5iYXJWX2d2bHdGRWctSVJqS1FldXU1bjZnbkw2UkVJbUpfM3NibDhFUU5NX2h2YXM1T3hlbjZiYjVnWFA1YUJsLUc2eGRDcnplbTJMd196ZFVCVy1UNWdleDhjZnZ4eU10aU43Vnd6T1hpaE15Wi04TDhuOVFkdkNXSVliVHZVaWxjc3BwZU5oX2N5UXc5bElrYjlGTmtMOGxqclQtdw?oc=5",
+          "published": "2026-11-06T08:35:21+00:00"
+        },
+        {
+          "title": "Turkish parliament approves Makkah defence pact with Pakistan, Saudi Arabia",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042575/turkish-parliament-approves-makkah-defence-pact-with-pakistan-saudi-arabia",
+          "published": "2026-11-06T07:01:09+00:00"
+        },
+        {
+          "title": "Turkey court jails former minister in funds probe, Anadolu says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1U0VUFYc2RhcmQyNVd3bjU1X1hhOU5PVHpPc0djNWR3ejRmSG5qRVd1VkZCdmtZaGJrbm5HcEczdFFieHVJdHBEeXhzdDh1bmhjdXJwSldxWWl4XzNPY0tZRHN2UFRlSlAyYlpfYkNURkVNTlB6dGxYdVVmMjJCRXVpd19nenYxRVJ4OVBrZG1XSF9RN2tqTDVQd0FRVGdFYUd3?oc=5",
+          "published": "2026-11-06T06:12:00+00:00"
+        },
+        {
+          "title": "Turkish lawmakers approve a 3-nation defense pact with Saudi Arabia and Pakistan - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOExtYW52UlVoTkp2VHk1S1VUcTVlVG5IZ0Z5N2Eyek5yLVZ2MWZWbnhicEJJZTNsbGZ4T3B2OXRiUmpMcmhiZFNpU1R4ZUM5WFUzenh0UzRoUHVKeUl1anpiT0dJbXVCOVpXdEJITUxvLWE4aXFFNU1MWDZZTTREVE4wa05GcUdCUjhndV9FbHFJZkhKdGFkV3huN2NkbTM5dGRhMElPMmpCM21razNpTkhiVQ?oc=5",
+          "published": "2026-11-05T21:30:00+00:00"
+        },
+        {
+          "title": "Eight killed in series of shootings in western Turkey",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T19:32:54+00:00"
+        },
+        {
+          "title": "Eight dead in mass shooting in rural west Turkiye: officials",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/people-dead-in-mass-shooting-in-rural-west-turkiye-officials/article71671567.ece",
+          "published": "2026-11-05T19:00:38+00:00"
+        },
+        {
+          "title": "Thousands protest crackdown on media in Turkey - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVlBBTnR5bFlDTXNlSEdSTFVjTjZkUGpRS3JSWkY3SzFMc2kwMmdmS0NCdkgwRDZFYm1qeG16OXFsRjNYOFkxNEZHMA?oc=5",
+          "published": "2026-11-05T14:55:40+00:00"
+        },
+        {
+          "title": "Friendly between Jordan and Indonesia’s national football teams cancelled amid security concerns - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU29OOGs3RXdEaWw2MTBUTGJZWDBDRVJ6VGNER3JxTzEwcWhxM2h1YzlvNmhleHp1a2VzMV9SNS1aYjBkLVo0a3RVYUhfeU85ZWlFUTRwOF85al9Pb05WNEdyc3d1bkFkZ1ZTcVJUMGZBR1lGV3JNV2tvNFhDVXRrUEhOYklQUW9kREZhQ04zUTZoMk9objFFRjVMcnpHQ1hpTG1rd0syaWFQWGp4Zm4tOVRmVW9NY1JzTTJQRTN5am1keWNHOUF5U3NySkltX3c?oc=5",
+          "published": "2026-11-06T08:34:20+00:00"
+        },
+        {
+          "title": "Lille president suspended four months over ref rant after PSG draw - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkJUNmwwdC02YTVGaXYteDRzZWg5Wkh6MkUtM0RYY213Rko2empvRnNuSHhVVkJtOUo1YjAyOU5TVHVvYl9ITW1yRDI3S1F2c29qMTFzQ2dRdkdGenBUOTNZNkZMR2xKTWo4LVdibzBJVUtOM01yMm05MEEtdk5VQ2Y2N0FzU3FFNl9lWC1PV0VEX3BvaXJRMlgxcWFERk1kdVN5VWNrdjhwQ3Rs?oc=5",
+          "published": "2026-11-05T21:13:47+00:00"
+        },
+        {
+          "title": "Turkiye says soldier died from fire on Iran border - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUd6M2lPZ2g1RlFTeDlMVm13RVVZOFJCQ3ZLNDFkaWp2Y2pkVmptR0V1RlBlWVhaUHRvNzloRUNHUVdaRHVPd0xmdk8yRk5TdndSWkZrOG5sTEl3U0U1Ql9ndThPUDd4LXdCd2ZwakhmNXBvUHFsYlloNzFvMkxXaEtYdEdCZWJQQVJsUWxDUWgwWVBmN1U1VEhrMA?oc=5",
+          "published": "2026-11-05T19:51:36+00:00"
+        },
+        {
+          "title": "France extends maritime patrol plane’s stay in Black Sea after cargo ship attacks - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlZFR1BYZ1laa19nX1pFT1gxeUxzWUdFdU9HeVltRGFYak9HM3J1alVYcTV5OEpiZTNiU0xMMFB4NjFBUTBRSzVXTlBrLWE5WUEwNF9aNGJ4aUlXS1Rod3A3MG94UXk0OUdESkhkUG1GQ2tRdnZ4c2pZX2pLaWZDRDNLQ2RITkdtQmZSSkZZbS1UWkc1Vnl1a3hodEZzWk0xb1ZudFFLSjFHZFhyUnA1Q1RzdWFuc1Nyck1v?oc=5",
+          "published": "2026-11-05T17:01:31+00:00"
+        },
+        {
+          "title": "Erdogan says to visit Azerbaijan on November 8 amid headscarf row - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObW1UcWZ5MnNobmhlYlVpYnVtcDBBWHp1RHZqWUVyd0d2cDFaTFAwV2pyVW1LWnNQdXBSVTg3d0RWY0pLcEFDMkdkWWRDcHlWTnZaLTlzdm5Pb1ZDRTkxLVBWYzh4Nnh5Zjc1eENLM3dLUlJibDNxNzFNam9WdzR0SE5xZ1JCdVV6WlUweGhtY3RMRlo3bjBGNjZHUnZEOTVHUHZCWDNoX1R4dFBTUUE4?oc=5",
+          "published": "2026-11-05T16:43:34+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.787,
+        "y": 0.493,
+        "r": 0.221
+      }
+    },
+    "ai-market-selloff": {
+      "kind": "major",
+      "title": "Les marchés mondiaux vendent massivement les actions liées à l’IA, sur fond de crainte de surchauffe et de durcissement réglementaire",
+      "region": "Économie",
+      "summary": "Les marchés mondiaux cèdent les actions liées à l’intelligence artificielle après la forte baisse enregistrée aux États-Unis. AP, Reuters, CNBC et Sky News écrivent que les Bourses asiatiques, en particulier les sociétés technologiques et de semi-conducteurs, reculent sur fond de craintes de surchauffe et d’un possible durcissement réglementaire. Investisseurs et analystes affirment que la vente massive touche presque tout le secteur de l’IA.",
+      "picture": "Sur l’image, une puce géante ploie sous une pile de pièces, tandis que des feuilles de cotation tombent en pluie. C’est l’image d’un enthousiasme qui éclate autour du boom de l’IA.",
+      "mentions": 24,
+      "significance": 92,
+      "velocity": 61,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Midterms: Big losses for Asian markets as AI scepticism grows - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3ktZ3pQbnBod2h0cG9lVk9sUDNrdEl0SnROLUtxQzhzb2ZRZmdyd1hINXJkWHVsZTE3bVFpSzNOUDNuVk5nd1plUEExSk9UVlo5WWhPOTdrTjlNaFRDdFdIZk5FbkZjNGFQai1uMUxWdUdzejZKOUhCWkFYcUZia2FNQXp0WlB3a0Frakt5cEM5UFRac0tIc283Vlc?oc=5",
+          "published": "2026-11-06T08:38:31+00:00"
+        },
+        {
+          "title": "Asian shares skid after AI worries send Wall Street tumbling - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
+          "published": "2026-11-06T07:10:00+00:00"
+        },
+        {
+          "title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR?oc=5",
+          "published": "2026-11-06T05:52:00+00:00"
+        },
+        {
+          "title": "China offshore market is a value play amid the massive AI sell-off: CIO - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcU9XYVA3T19CcVl0U21mTWRiODI1NDNPb0w2ZFJQR2FfdnlQRGRjSWdTYmw4YXJlWldWZTJEbmROQ3VBOHBudXdkVk1xVldtZjczVm9BdVoyd0FvR3Y1Q3pweklHV2xfNHppUFRUcldRQUpXaUpNWm9wVERmZzdTdEpldlpLdFJtM1FvX1dsdzlxYVhYeUZGT0lhWXIxbnQ3V1JDREFsX2hTWVhUeGc?oc=5",
+          "published": "2026-11-06T02:41:39+00:00"
+        },
+        {
+          "title": "Morning Bid: AI's reality check - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5",
+          "published": "2026-11-06T05:37:00+00:00"
+        },
+        {
+          "title": "Analysts and investors react to AI market rout - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZldlNGFPZ1lfa0RKbWVfZllvX2drcWh5TjF2S2RuV19Gal9wTE9PVUxHb05KODcwcXlEc2hINTEzOFc2MTlCT05rUXFVVnVpbmFocFRNcFlURk1hYkRpZklJc2ZKaFotYVR0VXRMWkRTQU16QzF4dVBDLUFsODJDaDNfNnFLVUpQMV8xLVBQbXhqaGNaVld3NzlB?oc=5",
+          "published": "2026-11-06T01:11:00+00:00"
+        },
+        {
+          "title": "South Korea stocks plunge as US midterm results spark AI selloff - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXFPZWJ0ekg2Mnl6b3ZEMDRpRzJON3M1b3FnWlpsbVZSSlpnMDR1YXJFWG0zMmROd0NybFRLWXdtcjdQWm1hckFsTE15d2FoY0hnMGZsMjctbnc1VjFCZ09uUWhDbVpGOUtmQmU4UEhLNmtINHZjbTA4cXZPSmpqTFM3TEptUUU4clROU0xCc3QtM3NNbThZOHMxU1lqU1I4Y3EzRnRnY1hqUFpwUTJWcWcxQWhJNVh2VER2dGtzZUxxSmJSeXc?oc=5",
+          "published": "2026-11-06T01:01:00+00:00"
+        },
+        {
+          "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSklwR0ROYnpSbTk3dUZ4WUpNWDRfRjRzYjVGcE90U3VuNmFJRXdwXzFlTVplcEJzT3R5dUV5S21vY1JjRWZYVERSTlg4WHdGMW1hRjdvODg5R3I0MmRLQ2ZOYzFKNnJNRHZLc3dON19tUURZWGF4cUkwQUoybjjSAYQBQVVfeXFMTzQzR01kNVNEV0xUOFlPVEF6djcwZkRNU2xDZTAyRHlJcVZtNDNhd1R6b0hBc0c3ZTVwcEE3aW03N0dGXzg1bmZiSE1pVi1RXzExam5xVVE5NE50cmZkZ0F4ZzlRdXZTZmVLeWpWM3M1cm85aE9hZnloQUwtZ2hWRHNybml1?oc=5",
+          "published": "2026-11-06T00:59:00+00:00"
+        },
+        {
+          "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+          "published": "2026-11-05T23:41:00+00:00"
+        },
+        {
+          "title": "Jim Cramer explains why no AI stock seems safe from the market carnage - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVG1fZkZFN3RQc19oUnRmYk44dTFaM1NIWE5Uck9VMW9UMjVyMWZoRkxtSFJCRm9NcHJUY1ROVXJzS2xyVHV6ck50UTZVdmlyTFN6eDZ2UDd2SnNnbmlhVUdkVXRQU293N3c2QjVJZUNrWUxLN2VaSWZ3Y3BaTGtOZWhUZEhkSFJB0gGOAUFVX3lxTE45WUg5QjRXV3ZVTzZ2OW5nLWtUNFotLTcxbXFLdmYtdWNOSE1EYkIwY2ZfZTRwSjJMVVkzWmFkcEtGT0s0Rk5MOHFtSmM5b2VGOUFXQUNxOFg1elhNeFRIdHZCdGVTSlJ3a1JoRzc4SWNSU0hlMGxjZC1Yc0R5eklHTnZQaVQ3SGZJdHhHaGc?oc=5",
+          "published": "2026-11-05T23:25:04+00:00"
+        },
+        {
+          "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsd0lMajExSTU0QWE3N0JKN0hoa2RjdmJqenUxT0Q1N2Q3MGlHVlVfMkFCdzFFWDV4enhiTWZZbWdiekNRbzhuN3BXQXZXV3IwWkcwRG1NdzkyS3VsVGRqa0NGWkU0c0ppRzN3VklnUU1uZ1Bq0gF6QVVfeXFMTUdGWTJUbEZXM1FwdE83YUxIcU1yVkFNTU1uSTNhZ2ZMV2U5Qm80RnhIbkIwU18xUGwtLTVteHRxenRWWWMzUTdRck43cFc1M2hZc19yMTZBankzOXFia3JLeXJkNGd4b051cUVFRUJUbUJ2OU1KQ2ZhZmc?oc=5",
+          "published": "2026-11-05T23:17:51+00:00"
+        },
+        {
+          "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+          "published": "2026-11-05T23:04:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.202
+      }
+    },
+    "tarantulas-in-socks-peru-airport": {
+      "kind": "micro",
+      "title": "Au Pérou, une contrebande de trois mille tarentules dissimulées dans des chaussettes a été interceptée à l’aéroport",
+      "region": "Amérique latine",
+      "summary": "À l’aéroport du Pérou, une tentative d’exporter plus de 3 000 tarentules cachées dans des chaussettes a été déjouée. TASS, citant AFP, rapporte que les insectes ont été repérés dans trois valises lors du contrôle, et AFP ainsi que Guardian écrivent que les araignées devaient être envoyées en Allemagne. Selon Guardian, le lot pouvait valoir environ 1,5 million d’euros.",
+      "picture": "Sur l’image, des tarentules sortent d’une pile de chaussettes. C’est l’image directe du transport illégal d’animaux vivants dans des bagages.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "AFP: в Перу пресекли попытку контрабанды более 3 тыс. тарантулов в носках",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28292105",
+          "published": "2026-11-06T09:50:24+00:00"
+        },
+        {
+          "title": "Peru airport thwarts plot to smuggle 3,000 tarantulas in dirty socks - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOTA0LWxfb3dNREtNNjZFeVJxRlFFaDVPUG1DNmVvZkVocExmVjJITDJkN0Qwa3kyU1RTS2J1cmpFTzFvS3JxRmp5eEVuTlRlOGtUbUMwQUxKQjNudW9Uc1Y4clBnVEw2YVFmQmRrR3lid28tZGRjLWZfWkgtU2pfdjQ4dVdlNHFIRzVNMg?oc=5",
+          "published": "2026-11-06T02:40:46+00:00"
+        },
+        {
+          "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+          "published": "2026-11-06T01:22:49+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "runaway-parakeet-storm-drain": {
+      "kind": "micro",
+      "title": "Un perroquet échappé secouru dans une canalisation pluviale",
+      "region": "États-Unis",
+      "summary": "En Grande-Bretagne, un perroquet échappé qui s’était réfugié dans un égout pluvial a été sauvé. UPI rapporte que des défenseurs des animaux ont aidé l’oiseau à sortir de la canalisation après sa fuite. Il s’agit d’un petit épisode local sans blessés.",
+      "picture": "Sur l’image, le perroquet est perché sur la grille d’une bouche d’égout. L’image montre comment l’animal s’est retrouvé dans un endroit soudainement dangereux et a été sauvé.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Runaway parakeet rescued from storm drain",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/05/rspca-parakeet-storm-drain/8061793901713/",
+          "published": "2026-11-05T18:05:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "emu-roundup-in-australia": {
+      "kind": "micro",
+      "title": "Les défenseurs des animaux australiens ont capturé un ému en fuite",
+      "region": "Asie",
+      "summary": "Les défenseurs des animaux ont capturé un ému en fuite. La légende fournie par l’UPI évoque la capture de l’oiseau et l’aide apportée à son retour, bien que le message mentionne le Connecticut et non l’Australie. Les documents fournis présentent une incohérence entre le titre et la source.",
+      "picture": "Sur l’image, deux personnes conduisent un ému. C’est le signe d’une capture calme et du retour de l’animal sous contrôle.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Connecticut animal control officers round up loose emu",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/05/thompson-connecticut-loose-emu/2581793894149/",
+          "published": "2026-11-05T15:58:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "baby-koala-from-python": {
+      "kind": "micro",
+      "title": "À Brisbane, une femme a arraché un bébé koala aux griffes d’un python",
+      "region": "Asie",
+      "summary": "À Brisbane, une femme a sauvé un bébé koala de la gueule d’un python. ABC indique qu’elle marchait dans une réserve naturelle lorsqu’elle est tombée sur une scène dramatique, avant de réussir à extraire le petit. C’est l’histoire d’un rare sauvetage d’un animal sauvage.",
+      "picture": "Sur l’image, un petit koala repose dans les bras d’une femme. Cette scène évoque le sauvetage et la vulnérabilité de l’animal face à un prédateur.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Woman rescues baby koala from grips of python in Brisbane",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-06/koala-rescue-from-snake-brisbane/107357818",
+          "published": "2026-11-06T07:57:59+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "shark-in-canal-still-unfound": {
+      "kind": "micro",
+      "title": "À Busan, on ne parvient toujours pas à retrouver le requin resté dans le canal depuis près de deux semaines",
+      "region": "Asie",
+      "summary": "À Busan, on ne parvient pas à revoir le requin depuis 11 jours, alors qu’il a passé plus d’un mois dans le canal. Yonhap écrit que l’animal, baptisé Bukang-i, a disparu des radars, bien qu’il ait auparavant attiré beaucoup l’attention du public. Aucune nouvelle information n’a été donnée sur son emplacement.",
+      "picture": "Sur l’image, l’aileron d’un requin apparaît près du mur du canal. C’est le symbole de la disparition mystérieuse d’un animal qui était longtemps une attraction urbaine.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Busan shark remains unsighted for 11 days after monthlong stay in canal",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261106003300315",
+          "published": "2026-11-06T02:00:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.607,
+        "r": 0.125
+      }
+    },
+    "zoo-kringle-tree-lights": {
+      "kind": "micro",
+      "title": "L’arbre de Rockefeller est déjà en route vers New York pour les fêtes",
+      "region": "États-Unis",
+      "summary": "L’arbre de Noël du Rockefeller Center est en route vers New York. AP rapporte que l’arbre se dirige vers la ville pour la saison des fêtes et deviendra bientôt le symbole central des célébrations hivernales. C’est un événement traditionnel de pré-Noël.",
+      "picture": "Sur l’image, un immense sapin est installé sur un camion. Cette scène évoque le début de la période des fêtes et les préparatifs de Noël.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Rockefeller Center Christmas tree headed to New York City - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeklpbXlseGJSWl90a3N4TUVxQnN2ZGpCMUMwVGstTUdaVW9rRURtQVMzamUzTVV3TFgxQ0x3UFg0VjJUVTNBLW52YktpTFFiQmNLSEFiVXVzVFg3OWNtZmZnU21nSXdJVFZmdTRsZTJnclMzN28yUTRNRXNxc243aVRuS1EzYnFFNEdUU3FHbFkxM1JJZktldU9sNEN3MlVCU0VjRk13QQ?oc=5",
+          "published": "2026-11-05T21:08:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "festival-of-lights-diwali-glow": {
+      "kind": "micro",
+      "title": "Aux États-Unis, de vibrants festivals de lumière et de musique marquent Diwali",
+      "region": "États-Unis",
+      "summary": "Aux États-Unis, les événements consacrés à Diwali se poursuivent: festivals de lumière, musique et célébrations communautaires. KQED et Garden City News évoquent des programmes locaux avec spectacles, illuminations et manifestations culturelles. Cela reflète la manière dont la fête est célébrée dans les villes américaines.",
+      "picture": "Sur l’image figurent des lanternes éclatantes et des guirlandes de souci. L’ensemble transmet la lumière, la décoration et l’atmosphère festive de Diwali.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Hema Kundargi: The Festival of Lights - KQED",
+          "domain": "kqed.org",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1ZlTWVKQTdWNElSMlVZRFBGV21wMG0xMWVKWXBZTmljX3VfU2VHS2tUdG1oNnlWMTBKeFladnN3ZUFTVEotU0pDRGlvcW9xVFNOUG9ULTQxMFNSaHBoNUpJcmdUUTFLYzJmWXBJRXpQa21JRm5JU3V4WTEtNTk1bkU0cUFTN2xDdGNJ?oc=5",
+          "published": "2026-11-06T08:01:00+00:00"
+        },
+        {
+          "title": "Diwali’s American Glow: The Festival of Lights in Garden City - Garden City News",
+          "domain": "gcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2tzb1pjVG83QkNoaUZzb0tOVTlhaUtVT2Q3bVNQT1o1SlJReVg3RkJMaUFTaDRIZzd2UUtFTTZ1M2ttZXFRRXJVMEROTzRrSkFvUTJmSkluUk9UTlFMeGFQbTZEanRQVWNjUkhodVl0ZW9pRmo2ZXpua0k1ZnA5VnUtTFFBM3lsTUctWUFCUVZNaDZVTHhF?oc=5",
+          "published": "2026-11-06T03:34:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.857,
+        "r": 0.125
+      }
+    },
+    "pope-latin-america-homecoming": {
+      "kind": "micro",
+      "title": "Le pape Léon entame une longue tournée en Amérique latine après son opération",
+      "region": "Amérique latine",
+      "summary": "Le pape Léon XIV a entamé un long voyage en Amérique latine quelques semaines après une opération du poumon. Reuters, AP, BBC et NYT indiquent qu’il se rendra en Uruguay, en Argentine et au Pérou, et que ce déplacement sera sa première grande tournée à l’étranger depuis l’opération. Selon les médias, le voyage comprend 12 vols en 12 jours.",
+      "picture": "Sur l’image, le pape salue au pied d’un avion. C’est l’image du début d’un long voyage et du retour aux déplacements publics après la maladie.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+          "published": "2026-11-06T09:19:57+00:00"
+        },
+        {
+          "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+          "published": "2026-11-06T05:01:25+00:00"
+        },
+        {
+          "title": "Pope Leo on emotional South America tour weeks after cancer surgery - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnpsLUIzM09ocE1mX1FUN1FZRVZjQU9Ra0N0UGxVOURabEt3N3pJYXpWdDRlUG9VUnpZMUNTQmcxLV9zRHlrRmFXSTJlcEI4b0NFMjRNczRIMlUzQ3lyUy1TOVZtZEhMOXY2WEN0U3B0UWlUQVdyTXBTbUlrWk9nYjdGd2txRFRSU1B3ZkhaU1JzbmRPRzgtQjhKVVN2Zk5JUjAwUmJFQUhXZw?oc=5",
+          "published": "2026-11-06T04:19:25+00:00"
+        },
+        {
+          "title": "Pope Leo starts South America 'homecoming' tour a month after lung surgery - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONl90NmlUNWYxUFhzeDE3VV9vSW5HckhqVjBfNHQtX19GRWdyUFFtOWVtU0tXSnRfdkdDOVlTS0VManRpSXYyejRtcXgyVFNfZHZ3SDdNU0ZOOHZxcUZwWVpqVGlOelZLNjVudVAyazhFTXVGTjNOVkVMU3FHWmZRTXFWdVRWX1pPYURTa24zUDJldGJiRnlINkE1anNkWjFRZVpkcUhXdk5NRjN4OGttYndibmlVRUV3Ni0yazJ3?oc=5",
+          "published": "2026-11-06T04:03:00+00:00"
+        },
+        {
+          "title": "Papa Leão 14 desembarca na América Latina para viagem de 12 dias menos de um mês após diagnóstico de câncer",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-leao-14-desembarca-na-america-latina-para-viagem-de-12-dias-menos-de-um-mes-apos-diagnostico-de-cancer.shtml",
+          "published": "2026-11-06T02:00:00+00:00"
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T00:02:57+00:00"
+        },
+        {
+          "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2E0ank3Z3NZR3Q2bFVWS29uMlZDSGNfQ3I1WDNta2FYR3JOeFdtWEx0Q2dBUlN0MldyZUZOemdIVE1yRG1JRmZHZWMxZm5Ta1hwYUc0NVB1cEQ0Mkd2T05XcVdPS05RbE52c0o1QU5Ta0NjXzVOeWdNY2dJZzJFYzFCa0dXUVo5WWNURnc4QV9jNE5jUXZ0dERLN1JGVnYtMXZra2tNTkJDdGN1UG9GRnphMzU0ckFSSVNOTEZvYmlNWHFEeXVRVVhR?oc=5",
+          "published": "2026-11-06T05:01:24+00:00"
+        },
+        {
+          "title": "Em viagem, Leão 14 deve encarar antagonistas, revisitar raízes e pagar dívida de Francisco",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/em-viagem-leao-14-deve-encarar-antagonistas-revisitar-raizes-e-pagar-divida-de-francisco.shtml",
+          "published": "2026-11-06T02:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.929,
+        "r": 0.151
+      }
+    },
+    "rohingya-struggle-for-belonging": {
+      "kind": "micro",
+      "title": "Les Rohingyas en Malaisie vivent toujours dans l’incertitude et à la recherche d’un foyer",
+      "region": "Asie",
+      "summary": "Les Rohingyas en Malaisie continuent de vivre dans l’incertitude après avoir fui les persécutions au Myanmar. AP et Arab News écrivent que, dans ce pays à majorité musulmane, ils sont toujours confrontés à la discrimination et à la difficulté de se sentir chez eux. Les articles soulignent leur statut de personnes sans avenir stable.",
+      "picture": "Sur l’image, une famille rohingya porte de petits sacs. C’est l’image d’un chemin forcé et d’une vie à la recherche d’un refuge.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Seeking sanctuary: Rohingya experiences of displacement and discrimination in Malaysia - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmdIMUQtYVQ5anBRN3M1QzNqMmgyaWxhcHlxUmNENlRJSjJLSDk4ZWl4NHl3M0JHSkJjWkZib3ZJZ0wzbVFTcDZhMG5PU2NpS0dHSGdldThmYi13b2hIMEZzMFVyaFMtVUwySmJxMFRkT3pxeWxBTnBLZ19zQVZnOHpDc0hzWXRSYWZQOC04bC1KS0ZmUUhic2xrUnAxV3JiZkhFQWNGX1dvTkQwdmJUeUtvMWhmb3NtOHl0Y3FXeGFtUQ?oc=5",
+          "published": "2026-11-06T04:28:25+00:00"
+        },
+        {
+          "title": "They fled persecution in Myanmar. In Muslim-majority Malaysia, Rohingya still struggle to belong - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRV9yd3NzOTZZVW1QbEtBRUR6QV84OTh0ZThqS0ZJU0Z6dWw4bjdDRkJIVmV6S3hJY201NXJ1c0hMaXFjbC1NcXd0b0JMMzRxOG9SUlU5Q05HbW1oWVdUX0xzT0R2M3NnMXhjcTZWYmxNaS1lbDFrQ1p0a29QMV9FekZqZXlZTlcyMXEzRUo2T3pnU3lvZUMzX0E3QmxVZDdMcFhaMUVnSURnZ0taOXc?oc=5",
+          "published": "2026-11-06T03:44:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "james-barnor-photo-honour": {
+      "kind": "micro",
+      "title": "Le photographe ghanéen James Barnor, 97 ans, reçoit une haute distinction pour toute une vie derrière l’objectif",
+      "region": "Afrique",
+      "summary": "Le photographe ghanéen James Barnor a reçu à 97 ans une importante distinction internationale pour sa contribution à la photographie. Africanews indique qu’il a photographié l’indépendance du Ghana, la vie quotidienne et la culture noire à Londres dans les années 1960, et que le prix lui sera remis aux Sony World Photography Awards 2027. C’est une reconnaissance de son œuvre de plusieurs décennies.",
+      "picture": "Sur l’image, un ancien appareil photo se trouve à côté d’un portrait photographique. C’est le symbole d’une longue vie consacrée à photographier les gens et l’histoire.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "James Barnor, who captured Ghana’s independence, wins top photography honour at 97",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/05/james-barnor-who-captured-ghanas-independence-wins-top-photography-honour-at-97/",
+          "published": "2026-11-05T14:08:01+00:00"
+        },
+        {
+          "title": "Seven decades behind the lens: Ghana's James Barnor receives top photography honour",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/05/seven-decades-behind-the-lens-ghanas-james-barnor-receives-top-photography-honour/",
+          "published": "2026-11-05T11:53:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.896,
+        "y": 0.94,
+        "r": 0.156
+      }
+    },
+    "south-africa-zoo-tax-win": {
+      "kind": "micro",
+      "title": "À Tucson, les électeurs prolongent la taxe de soutien au zoo",
+      "region": "États-Unis",
+      "summary": "Les électeurs de Tucson ont prolongé la taxe destinée à soutenir le Reid Park Zoo. L’Arizona Daily Star rapporte que la mesure a été adoptée, même si d’autres propositions fiscales n’ont peut-être pas été approuvées. Cette décision assure un financement continu au zoo.",
+      "picture": "Sur l’image, une pancarte et une urne de vote se tiennent côte à côte à l’entrée du zoo. C’est l’image de résidents qui soutiennent une institution par leur bulletin de vote.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Voters extend zoo sales tax for Tucson's Reid Park Zoo - Arizona Daily Star",
+          "domain": "tucson.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEpXNFhHSXM3Z3N0anR2RGlXaFpiRkt3dWNBeno2MDJaQUw3UzdzLTFnaEh6ZlppVGxQc3FraEMxRndaZXdodXdVcnZNQW41U1NndmM3S1VyUkVNRXAyV3hkLVgyU0F6T1dETGV2RXpGTm1wS3FodWtNNmNJN0p5YlE3OGhaai1QeGVZakVrQzdfWUp2YS00S2dJZVZ3ZEF5ZTZrZW95cTg5TWZxdkE?oc=5",
+          "published": "2026-11-06T00:02:21+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "new-pandas-at-atlanta-zoo": {
+      "kind": "micro",
+      "title": "De nouveaux pandas seront bientôt présentés au zoo d’Atlanta",
+      "region": "États-Unis",
+      "summary": "Le zoo d’Atlanta se prépare à présenter publiquement de nouveaux pandas. WSB-TV écrit que l’arrivée des animaux pourrait donner un nouvel élan au commerce et au zoo. Pour l’instant, il ne s’agit encore que des préparatifs avant leurs débuts.",
+      "picture": "Sur l’image, deux pandas sont assis dans un enclos de bambou. C’est le signe de l’arrivée prochaine de nouveaux pensionnaires au zoo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "New pandas could bring business boost as Zoo Atlanta prepares for public debut - WSB-TV",
+          "domain": "wsbtv.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVVB2a2VHRDBZcEs0ZmpNTl9BUVFpYTlES0NHZ0xUc1ZMVjgya0dWbEprcUNVbzl1SW91YnBpRkg4LVJPSFJkOVFXNE9kZW5EaHBwS0F4TVBVeTYxejdyMGM4SEx5akNZdnd1aEo3TENEOU9uR2VGOUhNYl9yNjNQQXM3OFVvaFQ4em5CUGZzWUVJOXBUenp6bVVyYUE4RHl3aV9wc3F4WjYzeHZLc1JkdmlYb0JZT01IQ1hMeXowQ1ZBNDVTZ2g1czFTT0ZXMl9qLWMxZzJSUdIB6wFBVV95cUxNdXZkQngyLUJ5aDk1WlhaOEI5TEV1NjFVNFhGZEo3TmFBcG1YTndhMGQ0WVhUYzVBVGZUNEFlSFR6YS1udHQxVkxDbUY0ZERnRVc5T19LWFdGR1o5RGRNQV91UFVqbTJCR3BIWkwwUWRYbEl4M0FFQXYwVmlvZWt5VjZYRFp1MTBzci11aFRLZVJrekdxR3p2OXA3YVVJY1VkbUJfa1g1YUhkZ2NVaklmS3QwQXQ5dC1NTmw1R1dGXzVvVXJZaWRyR0NiVmNfV3VVcy11d2ZBUVI1dnR3Q1RPZWFFOTJoRDZKM3lz?oc=5",
+          "published": "2026-11-05T22:08:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "sloth-birth-at-zoo": {
+      "kind": "micro",
+      "title": "Au zoo du Rhode Island, un paresseux a eu un cinquième petit",
+      "region": "États-Unis",
+      "summary": "Au zoo du Rhode Island, un paresseux a mis au monde son cinquième petit. WPRI rapporte l’arrivée d’un nouveau-né au Roger Williams Park Zoo. C’est une nouvelle locale sur la naissance d’un petit en captivité.",
+      "picture": "Sur l’image, la mère paresseux tient son petit. L’image traduit un paisible agrandissement de la famille au zoo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Roger Williams Park Zoo sloth gives birth to her 5th baby - WPRI.com",
+          "domain": "wpri.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnlqUk9TZTg4V05vZEp5UHVURE1VcG5sMEQtYnBORTlsNXZTV2dVcDh1Nm8xTVdLa3A5MzAwZzVJX0NvbHN3VzdpNXhaSVVTS3MzNGMtWnlDTV9oMFB5b0N0SDJxNFVlaS1mZ1I2VjZiVVJrQXRfV1liaTdyTkN6TFhpV3JYLVR0X0RpZDZ4b1BSWkXSAZgBQVVfeXFMTzNpbk1ZNXZ5akRlSEZjMlQ2X29qcWJTSXpQY19lS01UeUxtNGhPUlRfOW5UTndrYjRVOFdybDVveUdCOFdyYVZUTmZCaXc1RHA5WjhVdEZaMmYyNTdJOUQwX3JaSmlsX0RFTlg5TTBWbkxjM2gtWXVGUjFjaS1ZUVdzVUd2aXFBQ19VSXkyQWFQSnZCUFFMVWQ?oc=5",
+          "published": "2026-11-05T20:40:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "polar-bear-arrival-zoo": {
+      "kind": "micro",
+      "title": "Un nouvel ours polaire arrivera bientôt au zoo de Saint-Louis",
+      "region": "États-Unis",
+      "summary": "Un nouvel ours polaire arrivera bientôt au zoo de Saint-Louis. L’AZA ne donne que l’information de l’arrivée prochaine de l’animal; aucun détail n’est fourni sur l’ours lui-même. Cet événement s’inscrit dans le renouvellement de la collection du zoo.",
+      "picture": "Sur l’image, un ours polaire se tient à côté d’une cage de transport. C’est le symbole du déménagement de l’animal vers son nouveau foyer.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Saint Louis Zoo to Welcome New Polar Bear - Association of Zoos and Aquariums (AZA)",
+          "domain": "aza.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnVUZFRmMzhfR0dYUWRiUS1jYkEyZTluVDBLT1hUbTRPN2lUZGdUb1FyTGlEMi13VUdvUXVvY2JiT3dNSFlFaXpSWGtLVkJCeFBMdGxGaTZnY2QzeXZvM1VSM2c5b0ZKU3loT2dQNGVPZGNoSjU2cDZaZmJ0SU5ublVyVm1pNDVYdWZjbElR?oc=5",
+          "published": "2026-11-06T03:39:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.607,
+        "r": 0.125
+      }
+    },
+    "zoo-lights-season-opens": {
+      "kind": "micro",
+      "title": "Les illuminations hivernales des zoos et les spectacles festifs rouvrent la saison",
+      "region": "États-Unis",
+      "summary": "Dans les zoos américains, la saison des illuminations festives et des spectacles de lumière s’ouvre à nouveau. La sélection de nouvelles mentionne Zoo Lights, Glowfari, Glimmer, Wild Lights et d’autres projets locaux. L’ensemble des articles parle du lancement de la saison hivernale de divertissement.",
+      "picture": "Sur l’image, des guirlandes lumineuses entourent l’entrée du zoo. C’est l’image du début des soirées festives.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "‘Zoo Lights’ tickets now on sale - stoughtonnews.com",
+          "domain": "stoughtonnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0FRcnBhNlBJMWpLcHVYeGVnNGFVd21leTVyc1N0TVZjYVJVMjNSZGN4czEwQU9jak1qR3pZY29PcFhfQVdXM0xkZ0h0czB4dFdYeVF5LXowblNPMS11UHJyNDY1bzRmVEkwaEVSTlZ5S3czN2JQbWlGajBXNlhOVF9oTlNKVDFzRFdxQy1WQ0xEdmliUGU2UzhWYmUyY0Q3UXJ5UlBpQmQxSHJwTWwyLU9NRHVxSUQ3ZEtGRU1rNWZ6R0E?oc=5",
+          "published": "2026-11-06T07:15:00+00:00"
+        },
+        {
+          "title": "Oakland Zoo's annual festival Glowfari to open - NBC Bay Area",
+          "domain": "nbcbayarea.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGF3NGg4aHIxUTJ0enBxbEUzaHpuSTVqV3g4Nlg1U19qTElyd0F2ZHZxbWtJSXh3QTMzT3BKVnVLcEdOMU5QM1Q4Rm1vWThmaUh3MlVWOUo5cTZxa3QtVlJiZDYweV9kdTFTYjc5Y1U1WkN4TTF1emFmZnRPbGF4dWl5SdIBiwFBVV95cUxPWDRiRDJiOEMxVmRlTzBOZC1GclJjdmtxM1dGTlRpZ3pUMkI3NWwxeXBYNXZ6OFIwOGFTVWdqYzNvU2I5VTE0WHZnWmh5bkF4bnlBZGdscTRHb3Zhb196U29NN3RkQzNycHVvZ2JaMGZrb0xhLUktd25rUzNfN1VRcGtNV2hhNnJNTlFr?oc=5",
+          "published": "2026-11-06T02:59:52+00:00"
+        },
+        {
+          "title": "Glimmer opens at the Zoo - KCTV",
+          "domain": "kctv5.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dWFTQjRPMVBrUmZXdU5vTVVtVm5PVzI4QlVWLU9yVldqWkFTWDNiNWxuRDlaUFotSUtrQlRaNHpVLVJSajdYczBZN2sybjZaSUYzVjlnNlFrUmR5YkVqaGlaMGQzak81?oc=5",
+          "published": "2026-11-06T00:22:00+00:00"
+        },
+        {
+          "title": "We Are Listening - Denver Zoo Conservation Alliance",
+          "domain": "denverzoo.org",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjc3RmODZJOExyWjZ4V3ZESGhDR3hvN3c3dE9yN08ycXZ6ZWVEODMwOTRUMWlCZXpuRTd1ZmhvUW8yOVBiOWZLUFZ3NU04aFkzT2FPUGw5d3MxbGN3?oc=5",
+          "published": "2026-11-05T22:13:41+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo begins the holiday season with Fiona the Nutcracker - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWdyQXlaWWlQVGlLblRCakxlaXk0UTBHTExQU2VSUkpqS0RlX0Fvdk9MZ1JybG5POFdsVDcxUkJ6OWNwSm82YlVOdm1TYTRJYllUTnhhanFtNHNZYXIyMTRhVU9KSDN4S3NhcDgyS2dxbEVYdTdRemt5c0VrZFpCNEwwZUZ3N25EQkZ5cUNjQ2NhdXY3MnF30gGrAUFVX3lxTE5kQnRtZVBoN0lwc3JKMkxza3Vzdk1rUWpkY3pOaUZzaW95VHdLMUtjWGRsMDVKalZfelN6QUFKTHNKNlF6Y2w2Q0M2ZllxR0hIOEw1czE3cXNvYjU0cmVzVGhoQ1d4QzV0Nm5jSEtkb0tzXy1OVXdZb1ZfbFdzYjAtWFlFZ1lwQVlCY0REZFFZVDFWUzJUblUwTzNvUVNyMk1FbV83aGxKemFIVQ?oc=5",
+          "published": "2026-11-05T20:43:00+00:00"
+        },
+        {
+          "title": "Wild Lights returns to brighten the Big Bear Alpine Zoo for the holiday season - San Bernardino County (.gov)",
+          "domain": "main.sbcounty.gov",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1Fxc0kxV1FRcWdXWm5NaE1LVjI0OHVObXVnRzAyQXYxMnN6SVQzTXhkSmpDSUdWM3NpdklTUFVOX0ZoakNvZkJrWURuamg3UzhWbUw5RHhOc3hRbHhWN2JRS2JiNzFqd3g5Vy1jZzYxN3BiMzBib2REazE3NEVkZ1Y0OElha1U4dWJOOGJyVGhMN1BYYnBrYVB6RWxpaVdSTkpnT1hfNnpmTVhuN3FrbVpRUUpsNms?oc=5",
+          "published": "2026-11-05T15:49:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "book-festivals-weekend": {
+      "kind": "micro",
+      "title": "Des festivals du livre et littéraires animent le week-end à travers les États-Unis",
+      "region": "États-Unis",
+      "summary": "Des festivals du livre et littéraires ont lieu ce week-end aux États-Unis. La sélection mentionne des festivals à Santa Fe, Portland, Honolulu et dans d’autres villes, ainsi que des festivals de cinéma organisés à proximité d’événements littéraires. C’est l’agenda culturel local du week-end.",
+      "picture": "Sur l’image, des piles de livres se trouvent à côté d’une bannière de festival. C’est l’image d’une fête du livre et d’un programme culturel de week-end.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Neil deGrasse Tyson to headline Santa Fe International Literary Festival - Santa Fe New Mexican",
+          "domain": "santafenewmexican.com",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM1NnRF9CZWhjc2VQUThEa2V6ZWtDckNSdk50UlBLTnJENzdiVGtySUFKU0dzZVJ4SjBuc3gyWlM5ODVGVDFFdlctWnVpWGNfeF9PNU11bmY1YUtBSnRnMkdJLXFvS3JGN3BPUnM3QTJwbW5lOGk3OGR3NDA4RmVTR2Y4R1VvYnBiVVpuOThUTnN0MFFJTnNWaXpPUjVOa08zQnh6OS1oYUNzVFRtTTZwSDBQc0YtTE50Qk5IVVhzbmg3cEZ1Xy13eDJWQTN6dWZscG5lNGJNU1pRQjBIbldwVlJ3MlN6Q2t2X2RDVDdDalBEalJiZ3p1M09oMnpBTlNhZkE?oc=5",
+          "published": "2026-11-06T07:05:00+00:00"
+        },
+        {
+          "title": "Steubenville International Film Festival will highlight local talent, span genres - Weirton Daily Times",
+          "domain": "weirtondailytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHNtcElmcC10c2xtbmpEbVZNcXJyZktHVEtnaGpaRHYwQVZGdjZYUlg2N0hTanlCc3FBUElGM3NkWE5vRjg4OFZTZW1wb19sWkhJc2ZoUF9PMGxEY2dkdmZlRDd0bUFkYlFBeHdXUUpCeDNpcTFQWklNSlVjTjdPMlBVRXRCOGctVXhHeXZEMV9VbjRtbUZ2NHgyMC00VEpqUkV1RVJ0aUNBaExiVlRhNFdKTmZLRXJyRWliSUdjX2VPRlRvQ3RaOF8td00xdTdnQ0RvQXVn?oc=5",
+          "published": "2026-11-06T06:40:02+00:00"
+        },
+        {
+          "title": "Postcard from Bali: a literary festival in paradise - Financial Times",
+          "domain": "ft.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VZlJMUDJkN3Fzd18tdnF6Y1hpeU03NTNMVWktUkNVdW0tWEFTRTMzSzdmZlFvblhPZmV0UGNaalo4cndfaEprWThrSTBCTkN6T05pS1FRODdQN2k3Rl9TVGtLLUdnODByb0szZFhZWmw?oc=5",
+          "published": "2026-11-06T05:00:04+00:00"
+        },
+        {
+          "title": "Annual 41 North Film Festival begins four-day run in Houghton - Upper Michigan's Source",
+          "domain": "uppermichiganssource.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjRpMUpTa1JKOXFGWEpVM1pudEpvNHIxV3FTTkJaTHczQTZWM0FDUHdpZXl2NGsyOHFZWlpWOHZLc0ZoR0ZUamxFaENrZkZnUnFQUW5qandFT2xOaDFsU1ptdmJjZDY4TTZ0TWFhYXRVdG9MdS1yYk1OSWRkXzFzRVJETU54ejRSd1dRamZpZkJFelE5dnc3NklLT2ZFLUZlMDZmWmNXU1F2MFk?oc=5",
+          "published": "2026-11-06T03:37:00+00:00"
+        },
+        {
+          "title": "The Biggest Day of the Portland Book Festival - Portland Monthly",
+          "domain": "pdxmonthly.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16U2NFTW9BUXduZWVJSnVfbUkzZk5DMnhxVE1oMmtkUkhNNU14MUd1d25WU016YUZWN3FWNThIQkdVQnhDX1ZlSVVMQzRsTHRYYzVCSDZaTEE3ZW9wN2MxdFowZjVVa0RnMDhUdnlqMlFOb21sRVdSazlUV2w?oc=5",
+          "published": "2026-11-06T02:11:22+00:00"
+        },
+        {
+          "title": "All you need to know about the Great Big Book Festival - WAFF",
+          "domain": "waff.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3ZaUndMcXBaNFpocVA0cFpIc0lPem9sNWRERndQWk45dFM1VlQxQ1FiSXZVOWZidzBGMWdjSXVUNzFOVkJQSGdOYm1jWTlZbWIxTHk3MmlsVlpJZnVvdFQtYnN1SXZRRlBJdmpKRXg3NVRHY2JHMVBoM0RoR1dFckpZeVJqMEHSAZsBQVVfeXFMUGs1VWFoNkJlVVdmNEFybS16TXBtdzZlR0MwRVh5Y2RpUXV4TTBiSlFRYnhscUgyWEp0SDNFaDhLVXdtWldjMUtKWmVpNF9wM3hoc0pnYWFYeVdVZXBwUU9acnd0ZVpzbjJfWE1lcnBOZk4tOTlTd01fVUtPZjF4NlZpemlsSzVydkZHQ2FyT1ctbzdfM1NlVy1YMGs?oc=5",
+          "published": "2026-11-05T23:11:00+00:00"
+        },
+        {
+          "title": "Lights, Camera, Coronado: Film Festival offers something for every movie lover - Coronado Times Newspaper",
+          "domain": "coronadotimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTJQajgzelZRdUFSWU94bGxqQkYxZjkwandNemNvbFlDSjRNRTBMeFlIWld5aWtTaVJKQTBObEttOWtRSmxERHFENE9NWWg5MmJYVXpySzgwclI2Y1VKWmJCcmN4VUZ1VU1vR2JfU1A4R0sxN3RKM0ZMai01blFoalN2Sl9fOE9pV0VfT2VmbVhyVkNOVFlyZGQ0ODNub25LSUlDUlNZX2JFNUhLTjEyeU9oZk4tZEhWTGc?oc=5",
+          "published": "2026-11-05T21:57:09+00:00"
+        },
+        {
+          "title": "San Diego Asian Film Festival kicks off its 27th year with nearly 200 films - KPBS",
+          "domain": "kpbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWRrdFRXYVpQX0szV1lWSkU1U3ZHT2lpcm5ib0UtTUhkR2ZjeGtCNlUtd29ERDRoRXVsWlZzdGNQckFtbjlieU4xd2kxU05NTnB2VU04TGYzM0g1TU1LbWdBbm1VblNzVFNxQk93bHF6N1B1MTVsYllGWWQ2SDFuaUNBTXpFbGtFemcwQWNkd0owUlFEX0F3NlVISDg1eEx5eUNxWWlVREI1S3VyM0p2VkJiYS1HdlgyZmh2aWtrWER0dGM?oc=5",
+          "published": "2026-11-05T20:46:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "food-festivals-and-tastings": {
+      "kind": "micro",
+      "title": "Les villes organisent des festivals de gastronomie, de vin et de spécialités locales",
+      "region": "États-Unis",
+      "summary": "Les villes organisent des festivals de gastronomie, de vin et de plats locaux. La sélection cite notamment le Greek Food Festival, le National Peanut Festival, l’Ocala Food & Wine Festival et d’autres événements où se mêlent cuisine, musique et traditions locales. C’est un bref panorama des rendez-vous gastronomiques du week-end.",
+      "picture": "Sur l’image, on voit des stands de nourriture et des assiettes en carton. La scène traduit l’ambiance de foire, de rue et de dégustation des fêtes gourmandes.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Fall fair, food festival, orchestra, book sale among weekend events - The Augusta Chronicle",
+          "domain": "augustachronicle.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWI1a2FleW5aU1didlRfdXBSQ0JVU0g1UGxMamR2OXZxZEhJMnM1aEh0cFJqeHhZWnNlOFk5MDNsVUNnYVVzVkFWXzROakcyaExZQWJiTWMtUFpBVzBSX0I4RUFtY3VWSUptcHEzdFVvdnkyY1A2WG9OYXFOVzhpS3ZibWQyVER4SU92M2JyZE5vcXAtQndHNTRfX3E1aEZIWnU5R3ZHSGpaY3lpY3dUYnFUam5TZTloa1gzOWt1U08ydXFhV0ktY0N0YTdZT3VZSDN4WVVveGJSM2xKQUhNc0FsSEtKUQ?oc=5",
+          "published": "2026-11-06T09:02:00+00:00"
+        },
+        {
+          "title": "Wexford Festival Opera 2026 Review: The Rose Of Castile - OperaWire",
+          "domain": "operawire.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRW1RTEVaNnp5X05fRDRRODc2VnptT2VXODQydUdwRDdkMjRkNnhYU24wVDk0Q2NEUk1OMFpUeVdub0E4UmJfSUxiV24zb0VpaUNRM21DbXZVcmI5TTB5U2pUQlJqRlYyeGpZWlJIWGdaZEhEMU1IU0ZkOC1UMWtJa3IzRQ?oc=5",
+          "published": "2026-11-06T07:36:53+00:00"
+        },
+        {
+          "title": "Outlaws & Legends announces star-studded lineup for 16th anniversary Abilene festival - KTXS",
+          "domain": "ktxs.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcng2TFprMDhOR3JybFVIdUVKR3lXeXk2VHdXQUpGODVmaVlzT1dYY2pLUGFnZFB4TUVDSkljY19pcW14RzAyTGNGN1o5MUg3XzljbkRZNmlvN1RscXpNQTUtTm5pZENEdExkOVhkWGxPaDVscjFJY3FUcDRWaW52eC1CYS1GaC04LUMxZzJMYXlPdU1pYkwtWDBneHNnQndmZm0xYXVmMFJHT25jMXBpdg?oc=5",
+          "published": "2026-11-06T04:37:02+00:00"
+        },
+        {
+          "title": "Greek Food Festival returns Nov. 6-8 with food and culture - Preston Hollow Advocate",
+          "domain": "prestonhollow.advocatemag.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRngyMjF0ajB1Y0VOcWhrZUN4cTlFX2VLNG82MXBzcWlFWTZHaDNUb2JlWXkwb2RVMk5Mamc5TExVM3pwWlRGVGM1cXlOVC0zckFTWG1kbVRhTTcwODd5UGJObFRFaGVmZkVucHBudkgyQ1BmRXl3NVJoUmtSci1tdnNxenQ0cktoY1A3ajBBcFFjVnF1ajNyQVlYR0FMZnIyMHR0bmJDMndSbGc?oc=5",
+          "published": "2026-11-06T03:43:43+00:00"
+        },
+        {
+          "title": "The 2026 National Peanut Festival in a nutshell - WTVY",
+          "domain": "wtvy.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGZkFCZHNUamU0UUYwVGo3c0FTNm1QWkJxUzdhVC1SNnp4RE04UDhFeUY3Z3NiQUN0TjFBQ0hsY2FyQTQwd2dMZlVFTmhlZ2pzSTNkeDl0YmI5aUl5V2NvNmFMOHZwbGhSNTVseVN1QUpOQ0FQaXBwYk1Zaw?oc=5",
+          "published": "2026-11-06T01:55:00+00:00"
+        },
+        {
+          "title": "Umbarger German Sausage Festival marks 75th year with homemade meal, polka music - KVII",
+          "domain": "abc7amarillo.com",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaW1HbEN0c2lielJUOERwdGFmYjB5RWZKODh1ZUJ1aXFiaGV0QzFZRy1tdm1mYU1OQlJCTmoxVGp0WGEyY1pHZEh1WGJrbF94VzVTRjVMOW9sU1ZEa0hmd1J1QndhZkNkMF85RGE1REZLcV9yd0trZ01OQmNpRE5SV1NCYU82NnJMSXk3ejFuY3Z6cmttNkdsbEJuekxSLTVaVE9yQWRFOGVXM1RheDJtUlhwTzV1MnNVMzNlZjBCUU0xcDlVMkxtY2VrVzJLajYwMkJUeVkzY1JCVEotNjRBME1XVURJc0M3T1c3cE5jMktEM1ZoSVpiNVN6Z2hZVUoyRkJMMzlNUW5SWlFxeFE?oc=5",
+          "published": "2026-11-05T23:23:10+00:00"
+        },
+        {
+          "title": "Ocala Food & Wine Festival returns to World Equestrian Center this weekend - WFTV",
+          "domain": "wftv.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMk1DNldqckJxeGRUa2NlVmI4Z0k0dzdCZnQ1ajVnUjBpVzIwa1o3dGlPbngzcUtzM3Vsdkp0V2hRNEdQU0pTQlcwcElYTUJjdlF4NnNXcG1CUVZQY0Z6MjJWNUpwYlQxV3g2TVJPUXUxMXBZSWdjNmlWd2FPS01IWUthUm5za1NEcmVwQmg0SUpfQ1lUZUpqbm1EcG5BS0p0YmxwaHJKOTNSaWdIREJBU01xUVdnVjFsM013X29wTnZQMFZjU1FwRNIB3AFBVV95cUxPTGxPaGdLbk1jSUJ3SWlYWDk5Vk55RERTTnA2MmZ5NlhLLVE0VlBTRlNqdWZ6ZWJMVTF0ejgySExnVnlhY1h3Zll3clJwSHlOU3pBUjJEc1htNWlNZVVGSUJJMXJJTjdzM3MwZUpFcVZUc2JhdER5eFQyZEg3SnViVFZQQ3dUM1FnVEJEcWVuZmswc01BNlNLUEVnR0tNUktwTUNfZTNxQzFlN0dUU2piT24zVndzblk3bFdpWV9DWmg1RFdJVzM3Mmh0TFdiZ0RvUUJWVDNXWDRISjEx?oc=5",
+          "published": "2026-11-05T20:37:18+00:00"
+        },
+        {
+          "title": "Peanut Festival rides get 3 inspections while Alabama’s law has no enforcer - WTVY",
+          "domain": "wtvy.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORU9FY0dJRGNLd191eFFtdEFwTHYxS3N0NWdNaF9RYlhILXpQMi04RkpJN1JjM0xLSGlzNVo3aTI4RkZ1cWFvcmZmZUlQNDZPTlprZ3AzUjZHYWdyaFFSMi1mbnl2ZHdlazM0R0J1RGtVSml0VVB3VlRuaHRaU3JKWUtBOTR4cXJib0ZlbXpZSGhHdk82dVJpVUlYQ2dtVlJ2Z0dzc3hKZVdVV1HSAb8BQVVfeXFMTnBISkFxYlV6YUM2YVBoSGxIU2VhYkwyRkx2bW14Z2VoMGN3d3A5aVRrSWZpMl9PeURUa25XTE0wckU1STBLRnFYbnlhMDdyZFNqc0poWWxRbmprS2RrNkoyNG90cGt6Q1BlVDR4aUFOQXVoaXAyWEk3RUxZMlU3V2NYQThhSUtYeUxxRFZMT1M4ay1Lbnppazc1bVJsbHBiblJfcE4wVVBsUlpDV0xidU9ZWGZwREYxeTVfbXV3TUk?oc=5",
+          "published": "2026-11-06T00:17:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "holiday-measures-survive-the-ballot": {
+      "kind": "micro",
+      "title": "Aux États-Unis, les taxes pour le zoo et la culture passent le cap du scrutin",
+      "region": "États-Unis",
+      "summary": "À Pueblo, les électeurs ont approuvé les mesures de financement du zoo et de la bibliothèque, mais rejeté la taxe destinée aux services d’incendie. Le Pueblo Chieftain fait état d’un résultat mitigé sur les initiatives locales. Cet exemple montre que certaines contributions en faveur de la culture et des services publics ont passé le scrutin, tandis que d’autres non.",
+      "picture": "L’illustration montre une urne de vote placée à côté d’un billet d’entrée pour le zoo. Elle symbolise la manière dont les décisions locales de financement passent par les élections.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Pueblo voters reject fire dept. tax, approve zoo and library measures - Pueblo Chieftain",
+          "domain": "chieftain.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ1Y5VlcxRDd6MjVRaGdhWm1DOEJkUDlDamRmNkZEVmVLcFVGTGtVTDQxR2ttS19RemNMTFdmT0JESjB2VmdEcGNzRDVReEluc0FsUFpUU0VKWW9sd0VTOGR5XzVWeFNxRkUzVTYxMy04VThuNFVQOFRxRURBdU0tMGgyM25UaGpzTWJOeVhma1U1dUV4SWhnbmw2cXZFejJ2T2h0RzVIVjZ6Tl9oT3pka1dxQXQ4Mlp4OGFSZU1ORG9UQmJRYTVtY0FoUFhINzhqWnFTZkpJVmhvcXpmTHhiNnpB?oc=5",
+          "published": "2026-11-05T23:10:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "google-meta-tiktok-sue-california": {
+      "kind": "micro",
+      "title": "De grands groupes technologiques poursuivent la Californie à propos d’une loi sur la protection des enfants",
+      "region": "États-Unis",
+      "summary": "Google, Meta et TikTok ont saisi la justice contre la Californie au sujet d’une loi destinée à protéger les enfants des effets nocifs des réseaux sociaux. L’AP et Reuters indiquent que les entreprises cherchent à bloquer l’entrée en vigueur de ce nouveau texte. Le litige porte sur la régulation de l’accès des jeunes aux plateformes.",
+      "picture": "L’illustration montre trois smartphones avec les icônes d’applications. Elle symbolise le conflit entre les grandes plateformes et la loi sur la protection des enfants.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Google, Meta and TikTok sue California over law designed to protect children from social media harms - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRW5sSzVyZnVRRlhyY3EzR1lMVUpaR1RxNmNualRGQ3RheFZvVVF3SE5raEVHeDRIcERMWmQyNEpWc1pGMXY1Y3Nza1dyTzZBSXFLbU5Vdm9CWWdla3l6U2NDbmZXbnJFNWh5bmFmUUZZckk4SlNDY2dPTDhyOC1YX1lWYnVYR3ZfUVB1XzVsdWhmVFpGOC0wUC15eUhLRENObllENg?oc=5",
+          "published": "2026-11-05T21:38:00+00:00"
+        },
+        {
+          "title": "Google, Meta, TikTok sue to block California youth social media law - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3ZhN0lzM1RYWDl3eXBsdjZ2NU13NjJRMjB0clhpbW9rRTAwWnJIaFNGdEdhcW1tbHdfYmVQQXhSOEJUZXd6Z2Y2WVlZVDJpN3RuY1VnTE1rOHVUZkVLRGxBbGo1OWxPZkhmMGE4dkR1YWN6WHdFcnBtZDdoOFJTYU1DbnVCM0R0THhVa19xVVhIdWxpa2dRYWx5M25kNXhWTTNQbWNVV3EtQUU?oc=5",
+          "published": "2026-11-05T19:55:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "chatgpt-school-suicide-attempt": {
+      "kind": "micro",
+      "title": "Une nouvelle affaire impliquant un élève et l’IA ravive les inquiétudes autour des chatbots",
+      "region": "États-Unis",
+      "summary": "Reuters rapporte une nouvelle affaire dans laquelle un élève aurait utilisé un chatbot d’IA sur un ordinateur portable scolaire pour planifier une tentative de suicide. L’article évoque aussi des critiques visant Google et les inquiétudes liées à la sécurité des chatbots pour les adolescents. C’est un nouvel épisode du débat sur les risques de l’IA à l’école.",
+      "picture": "L’illustration montre l’écran d’un ordinateur portable avec une bulle de chat. Elle évoque une conversation numérique qui peut avoir des conséquences dangereuses.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0F0S042MGswT2lfTFJQd3hZTmdoU1hPZWhuSUVDNUhBdjRQTnRBWjJFRVdVaGNJeHVRNWN4M0hVUGVaNTVtNkU0ZFVOb2RQR2s4WkcwLWNFWXpIUEp4VWx3cTZIWFhWdWtIaUxlUlBoajhxSnZVU1VyWmJCYWItaG4wNENHMFdUTHpuS3NFcW5UUFVqczRxQk45Umh2Z2t0U25URUlMVUVjTGJ6Q1RidlFTbFlwbjlkT1Z0eEl6M3A?oc=5",
+          "published": "2026-11-05T21:09:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "claude-personal-finance": {
+      "kind": "micro",
+      "title": "Claude se dote d’un mode finances personnelles pour les conseils du quotidien",
+      "region": "Monde / crypto",
+      "summary": "Anthropic a présenté pour Claude un mode finances personnelles destiné aux conseils du quotidien. Reuters rapporte cette nouvelle fonctionnalité, tandis que d’autres contenus de l’entreprise portent sur l’usage de Claude dans les tâches scientifiques et sur l’évolution de ses modèles. Cette nouveauté élargit l’utilisation du chatbot dans les questions de tous les jours.",
+      "picture": "L’illustration montre le chatbot à côté d’une pièce de monnaie et d’une calculatrice. Elle représente une IA qui aide à gérer les finances personnelles.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
+          "published": "2026-11-05T20:07:43+00:00"
+        },
+        {
+          "title": "AI for scientific discovery How researchers use Claude - Anthropic",
+          "domain": "anthropic.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMDFpTC1odkNLZ3AxZk5sMUplMXhyU2MtSll2Z3J6a20tN3p5UjJuTF83T2xaNzlTbDJGQ1J6ckk2TUcyTWVRSUNETjZQbjhBa2R3cHcyQi1CRVJSQ3BmTHBYb1gtT2JNemw3bmt3?oc=5",
+          "published": "2026-11-05T15:07:56+00:00"
+        },
+        {
+          "title": "Anthropic rolls out personal finance feature for Claude - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5",
+          "published": "2026-11-05T18:03:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "spacewalk-solar-arrays": {
+      "kind": "micro",
+      "title": "Des astronautes à bord de l’ISS achèvent l’installation de nouveaux panneaux solaires",
+      "region": "Monde / crypto",
+      "summary": "Des astronautes à bord de l’ISS ont terminé l’installation de nouveaux panneaux solaires. Space.com et CBS indiquent qu’il s’agit du huitième et dernier module d’un vaste projet pluriannuel de modernisation du système énergétique de la station. Les travaux ont duré cinq ans et doivent renforcer son alimentation électrique.",
+      "picture": "L’illustration montre des astronautes fixant un panneau solaire dans l’espace. Elle symbolise l’achèvement d’une importante modernisation technique de la station.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQTA4NnMzcVB3TW16U01taGM4Yk9uQXhTNFY5TlBEOXRWTVBrTXp0bkRfY2pjUlZyZHlGb0dxZEVsZWRPWkdWNldZT1pVbEptQVdxQ2FTUlpET1pEMGVWc2RtUC1CUDR0ZndfRXdGa205NUhKM2tQTUdSRTVmOHJjMkpkNGNXdWpucVhsOEFtbDFnZjhOSWtDSWpqdk1nZnZFWDBteng1U2JTNDlObk5lYlBjYlVGVnU1djNWYVlSTk0ybUJwdWYyV3FaRFowYzBOUWlFeGdqeVVPZDk4NUlyUlFDamk?oc=5",
+          "published": "2026-11-05T22:01:01+00:00"
+        },
+        {
+          "title": "Spacewalkers complete space station solar power upgrade",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/spacewalkers-install-final-solar-array-space-station-upgrade/",
+          "published": "2026-11-05T21:56:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "floppy-disks-from-air-traffic-control": {
+      "kind": "micro",
+      "title": "L’aviation américaine se débarrasse enfin des disquettes dans le contrôle aérien",
+      "region": "États-Unis",
+      "summary": "La FAA a annoncé qu’elle retirerait progressivement les disquettes de ses systèmes de contrôle du trafic aérien d’ici 2028. Reuters précise qu’il s’agit d’un élément de la modernisation d’infrastructures de contrôle aérien américaines obsolètes. La nouvelle souligne à quel point cette technologie était restée ancienne.",
+      "picture": "L’illustration montre une disquette posée à côté d’un radar aérien. Elle symbolise une technologie obsolète qui va enfin être remplacée.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028 - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbURGRWJmdmtBZjNxOUNBbldRay1wNndubFg0TVgxZ2c4ejNndkY1ZVhyRXVic2g3Mmg0STB1RjJPdm9Od3VuX1lPTW1nWEFkTUczc0QzeGo2ZkdEMThfbDc1X2ZtQ2JlT2VyZE9NWkswRUo5d3RrdGl2ZGZ3TlJHc0N5WDhZenRzZndsNEJfRDBsYUJXLXlKQ3BraThkZm80aHdzVkJZdmQxMEF3aEoycFVPZlpIQQ?oc=5",
+          "published": "2026-11-05T17:47:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "wooden-rocket-nose-cone": {
+      "kind": "micro",
+      "title": "Une entreprise spatiale chinoise présente un ogive de fusée en bois",
+      "region": "Asie",
+      "summary": "Une entreprise spatiale chinoise a dévoilé un ogive de fusée en bois. Le SCMP indique que Light Year Explorer cherche ainsi à réduire les coûts et à faciliter la production de lancements à grande échelle. Le sujet décrit une nouvelle expérience dans le secteur spatial commercial chinois.",
+      "picture": "L’illustration montre un ogive de fusée en bois. Elle symbolise la tentative de réduire les coûts et de simplifier les lancements spatiaux.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Chinese space firm builds wooden rocket nose cone for cheaper, frequent launches",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/science/article/3373486/chinese-space-firm-builds-wooden-rocket-nose-cone-cheaper-frequent-launches",
+          "published": "2026-11-06T08:00:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.786,
+        "r": 0.125
+      }
+    }
+  }
+}

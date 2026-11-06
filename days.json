@@ -1,5 +1,242 @@
 [
   {
+    "key": "2026-11-06-1",
+    "date": "2026-11-06",
+    "image": "img/2026-11-06-1.jpg",
+    "aspect": 1.7778,
+    "people": 8324545735,
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.271,
+        "y": 0.774,
+        "r": 0.234
+      },
+      {
+        "id": "israel-election",
+        "x": 0.75,
+        "y": 0.75,
+        "r": 0.202
+      },
+      {
+        "id": "paraguay-bank-collapse",
+        "x": 0.212,
+        "y": 0.436,
+        "r": 0.221
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.787,
+        "y": 0.136,
+        "r": 0.221
+      },
+      {
+        "id": "palestine-israel-friction",
+        "x": 0.787,
+        "y": 0.35,
+        "r": 0.221
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
+      },
+      {
+        "id": "hong-kong-markets-ai",
+        "x": 0.537,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
+      },
+      {
+        "id": "russia-state-pressure-assets",
+        "x": 0.33,
+        "y": 0.352,
+        "r": 0.3
+      },
+      {
+        "id": "ronaldo-retirement",
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "russell-brand-conviction",
+        "x": 0.212,
+        "y": 0.279,
+        "r": 0.221
+      },
+      {
+        "id": "north-korea-hacker-threat",
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "turkey-instability",
+        "x": 0.787,
+        "y": 0.493,
+        "r": 0.221
+      },
+      {
+        "id": "ai-market-selloff",
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.202
+      },
+      {
+        "id": "emu-roundup-in-australia",
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "baby-koala-from-python",
+        "x": 0.938,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "shark-in-canal-still-unfound",
+        "x": 0.875,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "rohingya-struggle-for-belonging",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "wooden-rocket-nose-cone",
+        "x": 0.938,
+        "y": 0.786,
+        "r": 0.125
+      },
+      {
+        "id": "james-barnor-photo-honour",
+        "x": 0.896,
+        "y": 0.94,
+        "r": 0.156
+      },
+      {
+        "id": "tarantulas-in-socks-peru-airport",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "pope-latin-america-homecoming",
+        "x": 0.5,
+        "y": 0.929,
+        "r": 0.151
+      },
+      {
+        "id": "runaway-parakeet-storm-drain",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "zoo-kringle-tree-lights",
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "festival-of-lights-diwali-glow",
+        "x": 0.062,
+        "y": 0.857,
+        "r": 0.125
+      },
+      {
+        "id": "south-africa-zoo-tax-win",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "new-pandas-at-atlanta-zoo",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "sloth-birth-at-zoo",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "polar-bear-arrival-zoo",
+        "x": 0.125,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "zoo-lights-season-opens",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "book-festivals-weekend",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "food-festivals-and-tastings",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "holiday-measures-survive-the-ballot",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "google-meta-tiktok-sue-california",
+        "x": 0.312,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "chatgpt-school-suicide-attempt",
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "floppy-disks-from-air-traffic-control",
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "claude-personal-finance",
+        "x": 0.812,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "spacewalk-solar-arrays",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-05-1",
     "date": "2026-11-05",
     "image": "img/2026-11-05-1.jpg",
