@@ -1,5 +1,254 @@
 [
   {
+    "key": "2026-11-07-1",
+    "date": "2026-11-07",
+    "image": "img/2026-11-07-1.jpg",
+    "aspect": 1.7778,
+    "people": 8324734410,
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.188,
+        "y": 0.821,
+        "r": 0.239
+      },
+      {
+        "id": "ai-market-selloff",
+        "x": 0.797,
+        "y": 0.705,
+        "r": 0.3
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.455,
+        "y": 0.128,
+        "r": 0.3
+      },
+      {
+        "id": "pope-south-america-tour",
+        "x": 0.5,
+        "y": 0.393,
+        "r": 0.202
+      },
+      {
+        "id": "iran-us-friction",
+        "x": 0.75,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "paraguay-bank-collapse",
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.75,
+        "y": 0.179,
+        "r": 0.202
+      },
+      {
+        "id": "paraguay-bank-collapse",
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
+      },
+      {
+        "id": "kenya-cult-sentencing",
+        "x": 0.5,
+        "y": 0.786,
+        "r": 0.151
+      },
+      {
+        "id": "cybercrime-and-breaches",
+        "x": 0.25,
+        "y": 0.214,
+        "r": 0.151
+      },
+      {
+        "id": "israel-election",
+        "x": 0.705,
+        "y": 0.872,
+        "r": 0.3
+      },
+      {
+        "id": "france-protests",
+        "x": 0.5,
+        "y": 0.214,
+        "r": 0.151
+      },
+      {
+        "id": "new-zealand-deadlock",
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "russia-state-pressure-assets",
+        "x": 0.25,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "south-africa-election-shift",
+        "x": 0.5,
+        "y": 0.536,
+        "r": 0.202
+      },
+      {
+        "id": "haiti-gang-killing",
+        "x": 0.469,
+        "y": 0.661,
+        "r": 0.222
+      },
+      {
+        "id": "giant-banner-targets-big-tech",
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "kittens-urban-table-art",
+        "x": 0.875,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "bellingham-brothers-callup",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "mbe-meghan-father-arrested",
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "new-forest-wildfire-restoration",
+        "x": 0.75,
+        "y": 0.393,
+        "r": 0.3
+      },
+      {
+        "id": "diwali-smog-in-delhi",
+        "x": 0.938,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "diwali-festival-lights",
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "goats-at-tokyo-station",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "two-goats-tokyo-station",
+        "x": 0.938,
+        "y": 0.643,
+        "r": 0.125
+      },
+      {
+        "id": "pandas-debut-at-zoo-atlanta",
+        "x": 0.875,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "escaped-piglets-caught",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "large-cow-eludes-capture",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "boa-constrictor-found",
+        "x": 0.062,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "baby-right-whale-off-canada",
+        "x": 0.125,
+        "y": 0.929,
+        "r": 0.151
+      },
+      {
+        "id": "new-pandas-debut-photos",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "wurstfest-kicks-off",
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "dia-de-los-muertos-festival",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "film-festival-lake-placid",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "cybertruck-wind-down",
+        "x": 0.125,
+        "y": 0.321,
+        "r": 0.125
+      },
+      {
+        "id": "panda-fans-flock-atlanta",
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "octopus-world-record-hat",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "octopus-squeezes-through-hole",
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "kiribati-drifters-rescued",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "guinness-rubiks-cube-run",
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-06-1",
     "date": "2026-11-06",
     "image": "img/2026-11-06-1.jpg",

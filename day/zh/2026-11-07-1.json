@@ -1,0 +1,2102 @@
+{
+  "key": "2026-11-07-1",
+  "date": "2026-11-07",
+  "image": "img/2026-11-07-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "us-midterms": {
+      "kind": "major",
+      "title": "民主党在选举获胜后加大对特朗普及其议程的压力",
+      "region": "美国",
+      "summary": "在美国选举中，民主党取得显著成功，如AP、France 24等媒体所报道的那样，他们正加大对唐纳德·特朗普及其议程的压力。民主党人士表示，优先事项包括调查涉嫌腐败、加强对ICE的监管，以及解决生活成本上涨问题。洛杉矶？不是——相关报道还指出，这开启了分裂执政的新阶段，并可能影响2028年总统竞选前的政治格局。部分文章把选举后果与白宫的人事决定以及共和党失利已在华盛顿改变议程联系起来。",
+      "picture": "画面中，蓝色“浪潮”席卷红色墙体，背景是白宫轮廓，底部放着法官木槌和选票；滑落的王冠象征特朗普地位受挫、民主党进逼。",
+      "mentions": 100,
+      "significance": 98,
+      "velocity": 61,
+      "domain_count": 38,
+      "articles": [
+        {
+          "title": "2026 Midterm Election Results: Senate, House and Governor Races - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
+          "published": "2026-11-07T09:57:46+00:00"
+        },
+        {
+          "title": "Глава МЗС Естонії: РФ відповідає на мирні зусилля терором, бо вірить у свою безкарність",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/07/8061700/",
+          "published": "2026-11-07T09:43:00+00:00"
+        },
+        {
+          "title": "USA: Democrats vow to investigate Donald Trump",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
+          "published": "2026-11-07T09:36:25+00:00"
+        },
+        {
+          "title": "Sasha Sokol, una lucha que no termina",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/espectaculos/sasha-sokol-una-lucha-que-no-termina/",
+          "published": "2026-11-07T09:32:00+00:00"
+        },
+        {
+          "title": "La marea demócrata abre la carrera por la Casa Blanca, con centristas y progresistas reforzados de cara a 2028",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/us/2026-11-07/la-marea-democrata-abre-la-carrera-por-la-casa-blanca-con-centristas-y-progresistas-reforzados-de-cara-a-2028.html",
+          "published": "2026-11-07T09:30:00+00:00"
+        },
+        {
+          "title": "Who is Stephen Miller, Trump’s new Chief of Staff?",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/who-is-stephen-miller-trump-new-chief-of-staff/article71677475.ece",
+          "published": "2026-11-07T09:12:25+00:00"
+        },
+        {
+          "title": "Корабль Балтфлота \"Перекоп\" прибыл в нигерийский порт Лагос",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/armiya-i-opk/28294547",
+          "published": "2026-11-07T09:08:00+00:00"
+        },
+        {
+          "title": "Sandra Laugier, philosophe : « La leçon des midterms 2026 est d’ordre éthique »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/sandra-laugier-philosophe-la-lecon-des-midterms-2026-est-d-ordre-ethique_6808256_3232.html",
+          "published": "2026-11-07T09:00:08+00:00"
+        },
+        {
+          "title": "ADC appeals annulment of Atiku’s presidential ticket, urges INEC to wait",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/news/top-news/923361-adc-appeals-annulment-of-atikus-presidential-ticket-urges-inec-to-wait.html",
+          "published": "2026-11-07T08:32:40+00:00"
+        },
+        {
+          "title": "U.S. offers $20 million for information on Iran's nuclear program",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+          "published": "2026-11-07T08:26:56+00:00"
+        },
+        {
+          "title": "Texas mayor instructs police to limit cooperation with ICE - BBC",
+          "domain": "bbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdU1NT1VMR3lESjY1ekRRNDhVR2hKWEVtTTlMZGFDSzcyNkNpR2FFWHl1c2VoSlVaNXFfemVQZW0xdEdkWU1jRzgzcUtPT3lhQ09WOXlDTzZoX3c?oc=5",
+          "published": "2026-11-07T08:15:55+00:00"
+        },
+        {
+          "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
+          "published": "2026-11-07T08:00:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.821,
+        "r": 0.239
+      }
+    },
+    "ai-market-selloff": {
+      "kind": "major",
+      "title": "全球市场遭遇新一轮AI股抛售，担忧数据中心过热",
+      "region": "经济",
+      "summary": "在对该行业过热的新担忧下，全球市场正在抛售与人工智能相关的股票。FT称，导火索是投资者对美国选举结果的反应，而其他报道则提到围绕数据中心及AI基础设施需求的日益不满。France 24指出，美国民主党人与欧洲监管机构都要求加强对数据中心的管控，另一些文章则提及围绕这一繁荣背后的能源和环境代价的争论。在此背景下，投资者正在重新评估那些受益于AI涨势的公司。",
+      "picture": "画面中，一块芯片电路仿佛在下坠的硬币压迫下弯曲变形，数据中心塔楼开裂并失去价签。这个形象表现出市场对AI叙事的挤压，以及人们对其持续增长信心的崩塌。",
+      "mentions": 72,
+      "significance": 90,
+      "velocity": 75,
+      "domain_count": 24,
+      "articles": [
+        {
+          "title": "AI Data centres face growing backlash",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
+          "published": "2026-11-07T09:39:55+00:00"
+        },
+        {
+          "title": "Scientists fitted nearly 1,750 monarch butterflies with tiny solar-powered trackers",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/scientists-fitted-nearly-1750-monarch-butterflies-with-tiny-solar-powered-trackers-to-follow-their-migration-across-north-america-about-175-have-been-detected-in-mexico-as-researchers-map-previously-uncertain-routes/articleshow/135565337.cms",
+          "published": "2026-11-07T09:36:43+00:00"
+        },
+        {
+          "title": "I tried local AI on HP’s Omnibook Ultra – it’s a private, powerful beast with zero token fees - ZDNET",
+          "domain": "zdnet.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFJ5bVpXNTkzRi02SDR2OGtsUTFhcmNsdjZsZERSX0xzM2tOakVOOEYxS3o2WEVQUTlQdnM2eEdtbm8yUkxIYnRlY2tPMG1lMHczbkR1ZEktWEVSTlZFU1U0WUhUVlAwT0F4Ung0OGNYWVg4ck5TamZ4RC1tSkdrUFBR?oc=5",
+          "published": "2026-11-07T09:30:41+00:00"
+        },
+        {
+          "title": "Paco Palencia cree que Pumas puede vencer al América; lo consideraría un rival “peligroso” en Liguilla",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/deportes/paco-palencia-cree-que-pumas-puede-vencer-al-america-lo-consideraria-un-rival-peligroso-en-liguilla/",
+          "published": "2026-11-07T09:00:00+00:00"
+        },
+        {
+          "title": "US and China must join hands to measure rising AI tide",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3373279/us-and-china-must-join-hands-measure-rising-ai-tide",
+          "published": "2026-11-07T08:30:05+00:00"
+        },
+        {
+          "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
+          "published": "2026-11-07T08:00:21+00:00"
+        },
+        {
+          "title": "В Камышевахе на шестой день после удара России продолжают находить погибших. По последним данным, погибли 55 человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/v-kamyshevahe-na-shestoy-den-posle-udara-rossii-prodolzhayut-nahodit-pogibshih-po-poslednim-dannym-pogibli-55-chelovek",
+          "published": "2026-11-07T07:33:47+00:00"
+        },
+        {
+          "title": "Environmental groups embrace AI, even as they warn of data center impacts - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
+          "published": "2026-11-07T06:07:00+00:00"
+        },
+        {
+          "title": "Latest news bulletin | November 7th, 2026 – Morning",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
+          "published": "2026-11-07T06:00:32+00:00"
+        },
+        {
+          "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDNZcTFDRkFORlMzQk9FU2wyMVpvY1RPMzRHSUZRSGJ4S2x2cmJKMHgyOHJGSWtXUU9wU2FPWG1xNUg2cVRKOGY1NVNxZldqSnFoTnZCaE1oS0ZuWVVKVkVlUzEzbG5tcGlJZ2VBMGxobGlkSjFRbFRXMXJEeFBMeHpn?oc=5",
+          "published": "2026-11-07T06:00:01+00:00"
+        },
+        {
+          "title": "How Wall Street’s all-in bet on AI blew up",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+          "published": "2026-11-07T05:00:31+00:00"
+        },
+        {
+          "title": "Derrière le piratage de Binance, le savoir-faire redoutable des hackeurs nord-coréens",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/07/derriere-le-piratage-de-binance-le-savoir-faire-redoutable-des-hackeurs-nord-coreens_6808134_4408996.html",
+          "published": "2026-11-07T04:00:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.797,
+        "y": 0.705,
+        "r": 0.3
+      }
+    },
+    "europe-protests": {
+      "kind": "major",
+      "title": "欧洲遭遇一波虚假炸弹威胁，航班和广播接连受扰",
+      "region": "欧洲",
+      "summary": "欧洲持续出现一系列虚假炸弹通报，导致航班取消、编辑部疏散。AP、Reuters、France 24等媒体报道，这些威胁波及航空公司和欧洲媒体，爱尔兰当局认为这是协调一致的破坏行动的一部分。与此同时，法国正准备迎接新的大规模抗议：工会、学生和“黄背心”运动呼吁“集体不服从”，政府则部署数万名安全人员。因此，在同一片欧洲背景下，安全威胁与社会动荡同时交织。",
+      "picture": "这幅图展示了一排悬停的飞机、破裂的警报器和纠缠的广播电缆——一切都像被按下了暂停键。它象征着虚假威胁和抗议浪潮所造成的混乱。",
+      "mentions": 66,
+      "significance": 75,
+      "velocity": 61,
+      "domain_count": 21,
+      "articles": [
+        {
+          "title": "France braces for more protests as Yellow Vest activists urge ‘mass disobedience’",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/france-braces-for-more-protests-as-yellow-vest-activists-urge-mass-disobedience/",
+          "published": "2026-11-07T09:07:34+00:00"
+        },
+        {
+          "title": "France braces for protests as Yellow Vests urge ‘mass disobedience’",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042809/france-braces-for-protests-as-yellow-vests-urge-mass-disobedience",
+          "published": "2026-11-07T07:08:27+00:00"
+        },
+        {
+          "title": "BFMTV: в Париже 7 ноября на демонстрацию могут выйти до 60 тыс. человек",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28294349",
+          "published": "2026-11-07T06:48:20+00:00"
+        },
+        {
+          "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hMlVqaFd1Um1JTFM5S2d3bTFGakcyMnpmU3ZUNHhWNlZwUHZkN25oMXN5bF9YWEhvLUZBQWJyVGEtX3R5cHh3V1FTNm9nZFY3eTRGWno3bnVjTDZ6X3d2S0NwcE9vUm9jODBxbzdqa0xJWldyQXlBZw?oc=5",
+          "published": "2026-11-07T06:00:01+00:00"
+        },
+        {
+          "title": "Europe bomb hoaxes widen",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
+          "published": "2026-11-06T21:22:24+00:00"
+        },
+        {
+          "title": "European flights and broadcasters are targeted with another wave of bomb threats - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWZQMnRNaU1EcUtVVmRJSFpGOE5qZk5vZFE0eWNPVXFWcVRnMnRvdE1jeDBUZkFCUGlHVFhtQndfVVg5RXB3NWlBWjlqV1BTX0JoVVdTSElfQ0l0X3RselczRU5GQURCMzFjR2dOQ2ljak1QM1AxdDNaWk1yUEdJcjBETlhReDJsQzdHUkYtOE0wUE1s?oc=5",
+          "published": "2026-11-06T20:15:00+00:00"
+        },
+        {
+          "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+          "published": "2026-11-06T20:07:48+00:00"
+        },
+        {
+          "title": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+          "published": "2026-11-06T20:03:24+00:00"
+        },
+        {
+          "title": "Bomb hoaxes: Mischief making or credible threat? - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVy1ON1pQQWxUaDluWG5LN0FyY2d6QXNoSW5JTl9wTnk3YWtSanV1OUpkY3Z4OFh6dGw1VUhDY0cyVFV2TlJUNVlJZVRBQU1qcENuM2ViV0Q5WDNzUW16d0lPWDNCSFl6TV9IWDZybjRSaHlPcmN6TmpkS0RNenhFQ28td1dkWVh2YXc?oc=5",
+          "published": "2026-11-06T20:00:12+00:00"
+        },
+        {
+          "title": "Европейские телеканалы вслед за авиакомпаниями получили предупреждения о минировании. Угрозы им прислал «Михаил Андропов»",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/evropeyskie-telekanaly-vsled-za-aviakompaniyami-poluchili-preduprezhdeniya-o-minirovanii-ugrozy-im-prislal-mihail-andropov",
+          "published": "2026-11-06T19:53:50+00:00"
+        },
+        {
+          "title": "Newsroom bomb threats follow escalating European flight hoaxes - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hGX3FNRUVaMDhGcnI2WkxBSk53bDZLT1A3RDZvZFktR0wyZy05Ym8xc2hsTFlQMDJzT3lHeHZkTl9UMkttb3RocE9KSDB6OGNmNG9iNFY0aFdVelhFeXREVWJ1OUpUNG1zWEFMUnZueUVMdGhXNVVuUFBCY2lhMm1EY0pxUEsweDVveC11eF9ZRmwwSEdVUy1Jbndzdi1GWXd3M282NHdpdkdqeU83T1FRcmtXZ2RGSDRFN2pKRzg?oc=5",
+          "published": "2026-11-06T18:30:51+00:00"
+        },
+        {
+          "title": "Más de una quincena de vuelos europeos reciben nuevas amenazas de bomba",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html",
+          "published": "2026-11-06T18:30:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.455,
+        "y": 0.128,
+        "r": 0.3
+      }
+    },
+    "pope-south-america-tour": {
+      "kind": "major",
+      "title": "教皇良在肺部手术后不久开启南美之行，谈健康与医疗可及性",
+      "region": "拉丁美洲",
+      "summary": "教皇良十四世在肺部手术后不久开始了南美之行。根据AP、BBC和France 24的报道，首站是乌拉圭；这位教皇本人表示，他感觉比看上去要好，整体状态相当不错。在首次行程中，他还呼吁确保所有人都能获得医疗保健；另有报道补充说，他在乌拉圭谈到，人工智能的发展应扩大人们的机会，而不是把工人变成“消耗品”。这次行程为期12天，涵盖该地区多个国家。",
+      "picture": "画面中，朝圣者手杖、医疗口罩和一串小爱心围绕着被突出显示南美洲的地球延展。这象征教皇病后旅行，以及贯穿此行的关怀人民主题。",
+      "mentions": 66,
+      "significance": 62,
+      "velocity": 69,
+      "domain_count": 21,
+      "articles": [
+        {
+          "title": "Pope urges healthcare for all in Uruguay",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
+          "published": "2026-11-07T09:41:23+00:00"
+        },
+        {
+          "title": "ЗМІ: Британія готується до приїзду Зеленського наступного року",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/07/8061699/",
+          "published": "2026-11-07T09:36:00+00:00"
+        },
+        {
+          "title": "In Miller’s own words: Incoming White House chief is immigration hardliner, vaccine sceptic",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/in-millers-own-words-incoming-white-house-chief-is-immigration-hardliner-vaccine-sceptic/",
+          "published": "2026-11-07T08:38:58+00:00"
+        },
+        {
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T06:59:48+00:00"
+        },
+        {
+          "title": "Meghan's father in court charged with possessing child abuse material",
+          "domain": "news.sky.com",
+          "url": "https://news.sky.com/story/meghans-father-thomas-markle-appears-in-court-charged-with-possessing-child-abuse-material-13609134",
+          "published": "2026-11-07T05:42:00+00:00"
+        },
+        {
+          "title": "China's giant pandas Ping Ping and Fu Shuang make public debut at US zoo - CGTN",
+          "domain": "news.cgtn.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1FidjlBMDdxOWJDb19BbUNHVjE0OWw5NzRXdFpwM3B3bFpBRUs4WDlkZzdVUGplOXpGSGw4eWhZa1hrRGp2UEVKVTlrMm1jdS0wQUwwVVpOUUYzUkoycTg5cTFRZDIyYkd4NzZDUzdONkRIR0xpWEp3YWlQMGZJY1B0cW1TZkVEaUM1UG1FX3NOWTZ3aDktMHVWMG5OSmtFT1RVczdZR0ZQTGRWaXdZdUtObkhSOWFjd3p0X0Rn?oc=5",
+          "published": "2026-11-07T04:29:22+00:00"
+        },
+        {
+          "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5",
+          "published": "2026-11-07T02:53:00+00:00"
+        },
+        {
+          "title": "Pope Leo begins 12-day South America trip following cancer surgery",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/pope-leo-begins-12-day-south-america-trip-following-cancer-surgery/",
+          "published": "2026-11-07T01:29:05+00:00"
+        },
+        {
+          "title": "Pope Leo begins South America tour in 'fairly good shape' - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTFBLTQ0czYydW1WcEw2WjVXbHVhbkx3bDByTXVwcWNrZHJvNHBfU0htVi03bExibFBoV3lUVDJpbklRZkNXbGNLTnVfYlNfQXdka2tHM01rd0JQLWtLUkpVeUs3YWdQcng3RU9aSWZvUjJQbVMtZnJxZDNsX0pEaA?oc=5",
+          "published": "2026-11-07T01:10:51+00:00"
+        },
+        {
+          "title": "‘Really, really cute’: Families flock to Zoo Atlanta to see new pandas - WSB-TV",
+          "domain": "wsbtv.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDYzTGhNVVMxM2xrckVvZ2RnQW9SVzlnYlhUV0U2MW1BR2NIYTNzUno3d0ptTVpMY0dBSHZJdC05QlFDeXk4ekdUMzJVY09najFzSUxCQ292d2E0ZllJeUJzVGg2N0hrOWhGUGVCZVY2SXotcUxKcm03bTVUQWV3d0hSVF9DSXUtR3lTeS1LM3ZrM09UZFdVUFE5QS1VMkdBRlBHUV9rQXB3emdIejZmaFcyQWs0ZnB1SFZwQjBZb2hDbThRQ21nQdIB3AFBVV95cUxQanE1OVZ5RW5xM0w0V0JhSm1iMFV5bGZkOHFsamlDeWxPMXpsQkUwUGFWVFFESXhRVXVHWGhsUEJJY21MVXZqQTdNNDlKWGtiYVNpdkZjeVRXSS1uTkFiMDZkaTNmMXdXMDlhMkdNTnQ2NTN0WkhBS0R0eVp3d1hkdEMwTENxb3lYSVJRaVlXMlZINkZaNFpGWGpzVkJEY1BpczR0U3BJQTJBZTBTbmNYZlV6NUc0c21HV1JsTGlKZUpTclY4NmJuaExxNWpYenU5WTR5NENDREVZQkxY?oc=5",
+          "published": "2026-11-07T00:37:00+00:00"
+        },
+        {
+          "title": "Así le contamos el primer día de la gira del papa León XIV en Sudamérica",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
+          "published": "2026-11-07T00:19:56+00:00"
+        },
+        {
+          "title": "Pope Leo voted in US midterms because 'I'm proud to be an American' - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FvZXNaNFI4TGtadFQ4NkF6bGc4SjQyQWtTQmZXN3lvQ3piVUNmeDFkb0JlZE9WZEZrbjBSTzB5MzIxbHRLaS1UalhfdEYyTi1Ja3UzMmtpZTZackc0VzI0R3VHMFdydWVJRVdaN0ZzR0Z5ZGdFaWtNaDRCdE44OElqZ1RtMjEzOE91WWljTDRDMG1EMnBDcUVCR293MHVaWGc?oc=5",
+          "published": "2026-11-06T23:34:23+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.393,
+        "r": 0.202
+      }
+    },
+    "iran-us-friction": {
+      "kind": "major",
+      "title": "在卡塔尔斡旋下，美国与伊朗正处于新一轮升级边缘",
+      "region": "中东",
+      "summary": "美国与伊朗仍处在新一轮升级的边缘，而卡塔尔正试图充当调解人。Reuters、CBS、AP等媒体报道，华盛顿悬赏2000万美元获取伊朗核计划相关信息，而卡塔尔则劝说双方不要等待所谓“更好的时机”来解决问题。在此背景下，又出现了新的打击与强硬表态：特朗普就可能的袭击释放出矛盾信号，而伊朗则表示其力量比战争开始时更强。部分报道还把紧张局势与美国总统在中期选举失利后发出前后不一的信号联系起来。",
+      "picture": "画面中，调停者的天平在燃烧的油桶与开裂的核球体之间保持平衡，周围战舰环绕。这强调了脆弱的均势以及谈判破裂的风险。",
+      "mentions": 64,
+      "significance": 93,
+      "velocity": 86,
+      "domain_count": 20,
+      "articles": [
+        {
+          "title": "2026 Midterm Election Results: Senate, House and Governor Races - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
+          "published": "2026-11-07T09:57:46+00:00"
+        },
+        {
+          "title": "Iran executes man convicted of attack on police station - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUdVRDFUeU03RDBpMlBTaVlsYXp2YmlfZm03OHliYXhadFcyWEVlTUdPRk5RSlRRbHFOWkpDSF9XQldqeXU5bS16Z3lfcXJweEFkaThJdld0NkxDV01zVFhmQllQSlBEUGxKOVQxX0VhSkl3Z21jQmtvbzhlN042ZG1KcG9teWJCTFVtRWlhYWtIZmZfM0Z4V0ljYVpsc0hxOFE?oc=5",
+          "published": "2026-11-07T09:46:51+00:00"
+        },
+        {
+          "title": "Yemen: 30 dead in strikes on Taiz market",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+          "published": "2026-11-07T09:37:16+00:00"
+        },
+        {
+          "title": "Премьер Катара призвал США и Иран не ждать лучшего момента для урегулирования",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28294585",
+          "published": "2026-11-07T09:27:46+00:00"
+        },
+        {
+          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+          "published": "2026-11-07T08:45:36+00:00"
+        },
+        {
+          "title": "США пропонують $20 млн за інформацію про \"ядерну програму Ірану\"",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/07/8061692/",
+          "published": "2026-11-07T08:27:00+00:00"
+        },
+        {
+          "title": "U.S. offers $20 million for information on Iran's nuclear program",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+          "published": "2026-11-07T08:26:56+00:00"
+        },
+        {
+          "title": "US Central Command announces $20M reward for info on Iranian nuclear program",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/us-central-command-announces-20m-reward-for-info-on-iranian-nuclear-program/",
+          "published": "2026-11-07T08:00:52+00:00"
+        },
+        {
+          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+          "published": "2026-11-07T07:37:36+00:00"
+        },
+        {
+          "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+          "published": "2026-11-07T07:00:04+00:00"
+        },
+        {
+          "title": "Iran says forces 'stronger' than at beginning of war - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VbDRaWkhwdzFjQVlCZlZPeHNXWkZPeTYxYlJFQWNwSHRxMjBPb0hobTJJUkg3TUR5bWExYV9CUGVUMEYyMFNTWmZqc09vSDJ2RjNPNXJEZEV1ZEYxRWxjdTVGQjlVUnY0dzJiTGtvZw?oc=5",
+          "published": "2026-11-07T06:04:21+00:00"
+        },
+        {
+          "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+          "published": "2026-11-07T05:12:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.357,
+        "r": 0.151
+      }
+    },
+    "paraguay-bank-collapse": {
+      "kind": "major",
+      "title": "巴拉圭在弹劾和前总统被捕后开始新的权力重组",
+      "region": "拉丁美洲",
+      "summary": "在巴拉圭，银行危机导致总统圣地亚哥·培尼亚被弹劾、被捕，并将权力移交给副总统。AP、BBC、Reuters、The Guardian和Le Monde报道，银行倒闭后，数百万客户失去了账户和积蓄的使用权，从而引发政治崩盘。根据不同消息，培尼亚先被议会罢免，随后被软禁；新国家元首佩德罗·阿利亚纳已宣誓就职。各家媒体一致认为，这场金融丑闻暴露了该国政治与金融之间的紧密联系。",
+      "picture": "画面中，翻倒的总统座椅旁站着新统治者的基座，周围散落着破裂的银行印章和司法文件。这是旧权力倒塌、银行崩盘后政治结构更替的象征。",
+      "mentions": 50,
+      "significance": 84,
+      "velocity": 39,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+          "published": "2026-11-07T09:42:52+00:00"
+        },
+        {
+          "title": "Сенат Парагвая объявил импичмент президенту, его отправили под домашний арест. Он ушел в отставку после краха банка, обслуживавшего большинство жителей страны",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/senat-paragvaya-ob-yavil-impichment-prezidentu-ego-otpravili-pod-domashniy-arest-on-ushel-v-otstavku-posle-kraha-banka-obsluzhivavshego-bolshinstvo-zhiteley-strany",
+          "published": "2026-11-07T08:53:59+00:00"
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:20:00+00:00"
+        },
+        {
+          "title": "Au Paraguay, la destitution du président, Santiago Peña, met en lumière les collusions entre le pouvoir politique et celui de la finance",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html",
+          "published": "2026-11-07T06:41:20+00:00"
+        },
+        {
+          "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+          "published": "2026-11-07T06:18:38+00:00"
+        },
+        {
+          "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+          "published": "2026-11-07T05:51:23+00:00"
+        },
+        {
+          "title": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+          "published": "2026-11-07T02:14:00+00:00"
+        },
+        {
+          "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "published": "2026-11-07T01:55:11+00:00"
+        },
+        {
+          "title": "Crisis-hit Paraguay impeaches Pena, replaces him with VP Alliana - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDZ1MzUtNmx6bHZianRVSzVqV0VNT0J0Wk5kcnJiWldqbE5sOG5VbWh3eUYtNzFBNzdLcjhuQWVIT0t4cHFrRjUtaEcweUVtbXQyRjExak5qblBldlBnRE8wSjU2cVhZcFFhYlNzQVQxNjJSVDZFclBZWVE1NDFPQUI5a0pOTElu?oc=5",
+          "published": "2026-11-07T01:50:42+00:00"
+        },
+        {
+          "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published": "2026-11-07T01:29:30+00:00"
+        },
+        {
+          "title": "Fuero, clave en la destitución de Santiago Peña; es el segundo presidente paraguayo que sale por un juicio político",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/fuero-clave-en-la-destitucion-de-santiago-pena-es-el-segundo-presidente-paraguayo-que-sale-por-un-juicio-politico/",
+          "published": "2026-11-07T00:11:56+00:00"
+        },
+        {
+          "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+          "published": "2026-11-06T23:56:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
+      }
+    },
+    "ukraine-oleshky": {
+      "kind": "major",
+      "title": "俄罗斯对基辅和乌克兰能源设施发动大规模打击，乌方回应石油基础设施",
+      "region": "乌克兰",
+      "summary": "俄罗斯对基辅及乌克兰其他地区发动大规模打击，损坏能源设施，并造成停电、停水和供暖中断。ТАСС、DW、France 24、Reuters及乌克兰媒体报道称，基辅及基辅州遭到破坏；根据不同数据，已有人员死伤，其中包括一名被从废墟中救出的男子。弗拉基米尔·泽连斯基表示，首都的供给情况很复杂，并称莫斯科正试图让乌克兰陷入全面停电。作为回应，报道还提及乌克兰对石油基础设施的打击，以及美国和俄罗斯参与的谈判。",
+      "picture": "画面中，断裂的输电线在一座坍塌桥梁上方迸出火花，旁边可见无人机和被击中的石油塔。这象征对能源系统的打击以及基础设施之间的相互攻击。",
+      "mentions": 59,
+      "significance": 97,
+      "velocity": 69,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "В пяти областях Украины повреждены объекты энергетики",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28294599",
+          "published": "2026-11-07T09:35:44+00:00"
+        },
+        {
+          "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-07T09:21:00+00:00"
+        },
+        {
+          "title": "LPG availability, fair pricing among govt priorities, says petroleum minister",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042814/lpg-availability-fair-pricing-among-govt-priorities-says-petroleum-minister",
+          "published": "2026-11-07T09:19:35+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : cinquante-cinq personnes tuées à Komychouvakh après le bombardement russe de lundi, selon un nouveau bilan",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-cinquante-cinq-personnes-tuees-a-komychouvakh-apres-le-bombardement-russe-de-lundi-selon-un-nouveau-bilan_6803934_3210.html",
+          "published": "2026-11-07T09:18:55+00:00"
+        },
+        {
+          "title": "Київщина: Помер чоловік, якого дістали з-під завалів увечері",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/07/8061690/",
+          "published": "2026-11-07T09:14:00+00:00"
+        },
+        {
+          "title": "Pakistani astronaut to join China’s next space-station mission - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHhpcURSSUY3NVpscW5Ed2RtbDQ0RVRIb3lwNXlpd3N6T1F1aXZKVFI1M3RIaWl1eGdoWDQ1YS1zNWNyVnp1Zi0yazdLYzhXNk04S1V4THBGNl9vNWZYVEltSlQ0cnBtblVZQTFGZmc0WnhtWTNpMm9TVl84U3gtVWlpYWNNOTVuY0g1RTRxTnVkcFkzajBzSkNWY2R3R3BIY0E?oc=5",
+          "published": "2026-11-07T09:11:29+00:00"
+        },
+        {
+          "title": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
+          "published": "2026-11-07T08:14:35+00:00"
+        },
+        {
+          "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
+          "published": "2026-11-07T08:08:44+00:00"
+        },
+        {
+          "title": "Россия атаковала Северный мост в Киеве. В городе перебои со светом, теплом и водой",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/rossiya-atakovala-severnyy-most-v-kieve-v-gorode-pereboi-so-svetom-teplom-i-vodoy",
+          "published": "2026-11-07T07:07:25+00:00"
+        },
+        {
+          "title": "Tu celular tenía estos tonos de llamada en los 2000",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/tu-celular-tenia-estos-tonos-de-llamada-en-los-2000/",
+          "published": "2026-11-07T06:00:00+00:00"
+        },
+        {
+          "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+          "published": "2026-11-07T04:20:23+00:00"
+        },
+        {
+          "title": "Schoolgirl fighting cancer meets her idol Benson Boone",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-07/kingscliff-schoolgirl-fighting-cancer-meets-idol-benson-boone/107355016",
+          "published": "2026-11-07T01:41:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.179,
+        "r": 0.202
+      }
+    },
+    "kenya-cult-sentencing": {
+      "kind": "major",
+      "title": "肯尼亚邪教头目因数百名儿童死亡被判200年徒刑",
+      "region": "非洲",
+      "summary": "肯尼亚邪教头目保罗·麦肯齐因造成190名儿童和1名成年人死亡，被判200年监禁。Reuters、AP、NYT等媒体报道，他曾迫使追随者绝食，以便“见到耶稣”，正是这一行为导致了大规模死亡。法院裁定其犯有谋杀罪，并判处长期刑罚。一些报道指出，社会对这一判决的反应并不一致：部分人认为刑期公正，部分人则认为还不够。",
+      "picture": "画面中，受审的邪教祭坛周围摆着空荡的儿童鞋、铁链和损坏的扩音器。这象征死亡、判决以及邪教权力的崩塌。",
+      "mentions": 47,
+      "significance": 80,
+      "velocity": 56,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "Líder de seita acusado da morte de 190 crianças é condenado a 200 anos de prisão no Quênia",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lider-de-seita-acusado-da-morte-de-190-criancas-e-condenado-a-200-anos-de-prisao-no-quenia.shtml",
+          "published": "2026-11-07T02:03:00+00:00"
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+          "published": "2026-11-06T21:23:53+00:00"
+        },
+        {
+          "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
+          "published": "2026-11-06T21:13:25+00:00"
+        },
+        {
+          "title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/06/kenya-sentencing-of-cult-leader-mackenzie-draws-mixed-reactions/",
+          "published": "2026-11-06T20:14:59+00:00"
+        },
+        {
+          "title": "В Кении лидера секты приговорили к 200 годам тюрьмы. Его признали виновным в убийстве 190 детей",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/v-kenii-lidera-sekty-prigovorili-k-200-godam-tyurmy-ego-priznali-vinovnym-v-ubiystve-190-detey",
+          "published": "2026-11-06T18:45:36+00:00"
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
+          "published": "2026-11-06T17:05:57+00:00"
+        },
+        {
+          "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+          "published": "2026-11-06T15:08:43+00:00"
+        },
+        {
+          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+          "published": "2026-11-06T14:53:46+00:00"
+        },
+        {
+          "title": "Kenyan doomsday cult leader jailed for 200 years over murder of 191 people - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEFhTU1nbEx3djZvdC1kRU0wb0FTMkRPZy1GT05IOFZKb3pGTmRaaWlrWlhza3FlZEZBdGtzYTZJSDZlN2NXTlBlYmZubDhuMUlDSlFSYjBhOGN5bnVqa3B6WGJvRUlwMG5tcFlBRlRCZVFkeXdOZk1xeG5Qb1Z1M2VWMzJOTF9SODA3NUU5VWJGblo4TFA4Q3Qtand2Nndxa1JoRGZJWUhPblExZXpz?oc=5",
+          "published": "2026-11-06T14:24:58+00:00"
+        },
+        {
+          "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUw2eEJsbFByTGFvckM5bXBFbHBVOTZZQ1FFTFdtdjJLSXJlU21jNGRGWXZwV2M3WGFLNVZ4a1ZVZDZPRGgtTzU1OVVrdVg2Z2V2TklKTjRzbkRmUXMwd0c0YTlwUDFfWC1EWnFsekxxYUJ0NWhHQ3hUU0swOUpXOUViZGpHV3FuM2N6Wi1WUkotUQ?oc=5",
+          "published": "2026-11-06T14:19:00+00:00"
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years over starvation deaths of 190 children - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnNHeTNuRlhNSzFLai0zQk9ZbjBiSW4zb1lKLW5WcmdPSi1kNUs0T0VVNHg1MzFRbFRQZlZ0S2xxaGRtbUthb1NEQ2o5NWNncjAzLWtrTHYyTjJKREZHVjRSeXppRVRRWWlaUG1yQjdha3VBU2h2ZXZQWmJuTG45bFJlYzROMEtmTm9kUnFhR3Q1UXVuOHVSU3B4S1dTZWJOYTVKSHZVLTZmbURUME1BQzM1Ym1jMUdDc1R5ZGNQRFQxUk9hbWNCSndn?oc=5",
+          "published": "2026-11-06T14:10:45+00:00"
+        },
+        {
+          "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZC1QcUU4RXJaM09VS3MwaGlyVVJ0WjVrWGRjeWRrNWJNUDVDNFEwNFhZVlI0UUdMbVd1ZTJCYnRYakt6V3F1TTQ0RVFTekRud3MzRG9TbFBWY3ZtN2thaEM2MHhqTm8xc0d2SXpPQ003MTh0c1RRM0xaNi16SGljNWVGTG5ETTVsUlQ3WWhlRldrTWczTUZ5Zi1FTmlLZlhjdFM3NA?oc=5",
+          "published": "2026-11-06T12:04:35+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.786,
+        "r": 0.151
+      }
+    },
+    "cybercrime-and-breaches": {
+      "kind": "major",
+      "title": "网络攻击和数据泄露冲击全球银行、交易所和政府机构",
+      "region": "世界 / 加密",
+      "summary": "全球各地的网络攻击和数据泄露仍在持续，波及银行、服务公司和政府机构。新闻中提到Mirae Asset Securities的数据泄露、法国境内的黑客入侵、针对Beget托管服务商的攻击，以及与人工智能和自动化机器人有关的网络威胁。另有报道称，当局正警告银行和公用事业机构加强防范，而美国检方已起诉一些人，指控他们利用AI窃取数千万美元。整体背景是事件数量上升，攻击手法不断扩展。",
+      "picture": "黑色蛛网般的电缆缠住一只开裂的保险箱，数据碎片从敞开的服务器中洒落出来。这个形象显示网络威胁如何击穿金融和数字系统的防护。",
+      "mentions": 45,
+      "significance": 83,
+      "velocity": 60,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+          "published": "2026-11-07T07:37:36+00:00"
+        },
+        {
+          "title": "Environmental groups embrace AI, even as they warn of data center impacts - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
+          "published": "2026-11-07T06:07:00+00:00"
+        },
+        {
+          "title": "(LEAD) Personal info of some 39,000 leaked from Mirae Asset Securities",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261107000451315",
+          "published": "2026-11-07T05:19:05+00:00"
+        },
+        {
+          "title": "Kentucky U.S. Senate Election Live Results 2026 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tTEhmRDZFS3F1VVdTV0V2LXE5cDdUalRCcGtfV0ppRzZhbFdXZDFaYzZhdjlJT3g3NF9JWm9EbmxnQVpla0ppTTFIVld5TkdFcDBqZnlQSndDVlhMbkJWQUtVYTgycFMxaEFfZ0pGRFlCT1FfR2FLNkxR?oc=5",
+          "published": "2026-11-07T04:29:07+00:00"
+        },
+        {
+          "title": "French bank hit by €100m cyber attack recovers some funds - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTk02ZzNBdDQ3N1BtaTFzeXFrZFVHcE5XNm9yTUdYUXpXaUlDRFdKNnpEOE9uRkJrXzRxMEFueTBRMmpCdG9JMk5RbDJvT2pRdkhsWmEwSUVMT3BHSnRvMjlfWFJyZExaX1dkX2RmOTgzR0NLTFNGendNY0RBU3RNNEVXdlgxaE1UZ3A4TU9BUzhneUlobVFzWllrUW5BZw?oc=5",
+          "published": "2026-11-06T20:34:04+00:00"
+        },
+        {
+          "title": "Banks, utilities among services put on alert against AI-enabled cyberthreats",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042639/banks-utilities-among-services-put-on-alert-against-ai-enabled-cyberthreats",
+          "published": "2026-11-06T19:44:56+00:00"
+        },
+        {
+          "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+          "published": "2026-11-06T19:00:21+00:00"
+        },
+        {
+          "title": "Хакеры уничтожили всю облачную инфраструктуру провайдера Beget",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/hakery-unichtozhili-vsyu-oblachnuyu-infrastrukturu-provaydera-beget",
+          "published": "2026-11-06T16:04:58+00:00"
+        },
+        {
+          "title": "What’s next after airlines? Asia data breach raises wider cyber fears",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/week-asia/politics/article/3373605/whats-next-after-airlines-asia-data-breach-raises-wider-cyber-fears",
+          "published": "2026-11-06T14:30:38+00:00"
+        },
+        {
+          "title": "LekkeSlaap hacked – some guest data compromised - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWFlTDFELUI0TFZ1RjVBelU5ak9COEtaNHhGNF9CVWU2S1RLSlhIZkQ0Zy1aenlzMnFBMm9va3BlMjRIZTQtSEJhMnZuYlBiMVAwd1hWMF92WTJZSDBfZGMxdjY5ejkxS2FIcDU5VGp2LUlfd3U0NWh5ck42RDFfUlZtbUtkdUp0ZUhtTTQyWElUaG5MdWVsQ1dGUEs?oc=5",
+          "published": "2026-11-06T13:53:16+00:00"
+        },
+        {
+          "title": "EU investigating fraud in Spain's deadly crash rail line - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVZXcW1NdmVzaUlfdWNZakFBOGtOQ1VnWS1sX3JzcTZEbUo2SVdpbURXN19TaGVWLWhnd2dJbjhJUUlCQ25vOGZvbzhhRF9pQkl4M1BNZ29felZrVVBFeWZvc0hWUE01WmdDM19ieEdoU0g4WE8yUDUtZk1WbG1GdA?oc=5",
+          "published": "2026-11-06T13:25:07+00:00"
+        },
+        {
+          "title": "3 charged with using AI to steal some $129 million from companies",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/3-ai-steal-129-million-companies-impersonating-executives-lawyers/",
+          "published": "2026-11-06T11:22:50+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.214,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "以色列选后组阁仍陷僵局",
+      "region": "以色列",
+      "summary": "以色列选举后，组建政府的僵局仍在持续。AP、NYT、Al Jazeera等媒体报道，在投票结果不够明确之后，总统艾萨克·赫尔佐格必须指派某位候选人尝试组建联盟。讨论焦点集中在内塔尼亚胡、加迪·艾森科特和阿拉伯政党周围的阵营；根据一些报道，阿拉伯名单的支持可能成为决定性因素。另一些报道将这一局势与美国选举结果联系起来，认为后者可能帮助反内塔尼亚胡反对派更容易联合起来。",
+      "picture": "画面中，王冠被分裂，悬在投票箱上方，两侧力量在摇摇欲坠的绳索上朝相反方向拉扯。这象征政治僵局与争夺组阁授权的斗争。",
+      "mentions": 42,
+      "significance": 78,
+      "velocity": 37,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+          "published": "2026-11-07T09:56:40+00:00"
+        },
+        {
+          "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+          "published": "2026-11-07T08:02:08+00:00"
+        },
+        {
+          "title": "Malaysia’s king warns against challenging Najib’s house arrest",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
+          "published": "2026-11-07T07:32:16+00:00"
+        },
+        {
+          "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+          "published": "2026-11-07T06:00:04+00:00"
+        },
+        {
+          "title": "President Herzog faces key choice as Israel struggles to form government",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+          "published": "2026-11-07T05:16:18+00:00"
+        },
+        {
+          "title": "Both election interference probes involving Arab parties reportedly falling apart",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/both-election-interference-probes-involving-arab-parties-reportedly-falling-apart/",
+          "published": "2026-11-07T01:48:17+00:00"
+        },
+        {
+          "title": "Netanyahu and rival each claim mandate after tight Israel election - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHY3JKSWdRM0d6ZFRtVEZlMnRIVEpsT3VUUkhlZzZ4ajVqanpHdGZwMDFvQngwSFlSMzB2ZG40ekZwWXZOb3RqSi1YUQ?oc=5",
+          "published": "2026-11-06T22:01:44+00:00"
+        },
+        {
+          "title": "Israel orders deportation of 12 foreign activists detained during West Bank olive harvest - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjJpYldaRHVvdEtqUnRpUGhwOXo3T3g5M1QxRFM4UTBENzQwT3Vla21NWnJoU3d5SjA2TWtMMUIxVWVRWktkdWxOMzNIcG9fZ2w3eGQ2YlduSGg5Rzl3UU1vVzR5Ul9hSTJXbEpCRDY3VlAxUHhBS3NkZURhU1VaVGdKQTUzYmVpclBGaS1jZ0YwUzl3UTJRblhtdHp1SG11aGEtTjV4bkdpTHJ6MjBoczhWTE1hV0NHMDdIb05CYm9HSmFPQ3gwcE55eGtoZVU?oc=5",
+          "published": "2026-11-06T20:52:25+00:00"
+        },
+        {
+          "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+          "published": "2026-11-06T20:42:51+00:00"
+        },
+        {
+          "title": "Israel Opposition eases on ultra-Orthodox draft to oust Netanyahu",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/israel-opposition-eases-on-ultra-orthodox-draft-to-oust-netanyahu/article71675551.ece",
+          "published": "2026-11-06T18:06:39+00:00"
+        },
+        {
+          "title": "Arab parties back Eisenkot as Israel faces coalition deadlock",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/06/arab-parties-back-eisenkot-as-israel-faces-coalition-deadlock/",
+          "published": "2026-11-06T10:57:01+00:00"
+        },
+        {
+          "title": "‘Hypocritical’: Hong Kong hits back at criticism of Joshua Wong’s sentence",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3373638/hypocritical-hong-kong-hits-back-criticism-joshua-wongs-sentence",
+          "published": "2026-11-07T06:31:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.705,
+        "y": 0.872,
+        "r": 0.3
+      }
+    },
+    "france-protests": {
+      "kind": "major",
+      "title": "由于生活成本上升，法国再次准备迎接大规模抗议和罢工",
+      "region": "欧洲",
+      "summary": "由于生活成本上升，法国再次准备迎接大规模抗议和罢工。AFP、France 24、Reuters等媒体报道，工会和学生正在走上街头，而“黄背心”运动则呼吁在巴黎举行单独行动，尽管当局已予以禁止。据报道，内政部正在准备动员7万名警察和安全人员。英国和国际通讯社指出，这些抗议发生在民众对购买力不满的背景下。",
+      "picture": "画面中，人群举着游行标语，托着裂开的工资天平，周围散落着面包篮。这是对生活成本上涨与社会紧张局势的抗议象征。",
+      "mentions": 39,
+      "significance": 72,
+      "velocity": 86,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "France braces for more protests as Yellow Vest activists urge ‘mass disobedience’",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/france-braces-for-more-protests-as-yellow-vest-activists-urge-mass-disobedience/",
+          "published": "2026-11-07T09:07:34+00:00"
+        },
+        {
+          "title": "France braces for protests as Yellow Vests urge 'mass disobedience' - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHBPamNEZkhuTDFBMG5VWWhCWGxJanBqaTFuZHZVUzl4RE9yRnlxTlZCNVJTSTRFWjNmT05mN19rNWF4LVNqWXlVSTJ4RkoxNXVjTkxaSlRGWkhOb2ZKWl9Zd3pEeF9kbXR0Q3Z1QmhvT2F3djZ2ZTBNMDdmN2ZSSjZDZnpDS1pGSldn?oc=5",
+          "published": "2026-11-07T09:01:00+00:00"
+        },
+        {
+          "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+          "published": "2026-11-07T08:17:22+00:00"
+        },
+        {
+          "title": "France braces for protests as Yellow Vests urge ‘mass disobedience’ - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDZLbFdRSHNBeXZld05OTG56V3pfQTlYNE1QUmxkSUhSNkVvMFM3M1ltMkZaY0YwZ2JJaGFXb3liRWFOeEJzaTJTSU9FbGMzd1RuZnlMeFc4ZFhGeVlJalFnaV9Ebkd6MFhVdEdkLWhaUElaSE1EalNzTXNRRFFJVVdEbGNRVlZ5Uzd5dU5pNjBaSTFIWnc1dXhyNnhtV1dsS3JLdXYxWQ?oc=5",
+          "published": "2026-11-07T08:13:25+00:00"
+        },
+        {
+          "title": "France braces for protests as Yellow Vests urge ‘mass disobedience’",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042809/france-braces-for-protests-as-yellow-vests-urge-mass-disobedience",
+          "published": "2026-11-07T07:08:27+00:00"
+        },
+        {
+          "title": "BFMTV: в Париже 7 ноября на демонстрацию могут выйти до 60 тыс. человек",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28294349",
+          "published": "2026-11-07T06:48:20+00:00"
+        },
+        {
+          "title": "As COP31 comes to Turkey, satellites reveal a landfill methane problem - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVRwcWFYZndwYUxDdEZaT2ZaeENLZ3lvOFJiOFRBREdZTng1Tmhtbm1YTE9MUy1sM2FDNkhvSE9nakhabFpHdXhOclZHeWgtXzlPRmhzNzlKcjR4OXE5U01wRWZBZ2pGZFJocHhTeWZmRkxBVnM0RTQwd0Jmemhjd0IyUFRDM2lzMHBsT3Q5V0o4cXBsU01PN2ZBN2MzZGxvQXJVemxZSXBnQnk4eTdZSXNOZ3JNY3c?oc=5",
+          "published": "2026-11-07T06:08:00+00:00"
+        },
+        {
+          "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+          "published": "2026-11-07T05:01:04+00:00"
+        },
+        {
+          "title": "France deploys 70,000 security personnel ahead of fresh nationwide protests",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/europe/france-deploys-70000-security-personnel-ahead-of-fresh-nationwide-protests/articleshow/135624778.cms",
+          "published": "2026-11-07T02:56:28+00:00"
+        },
+        {
+          "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+          "published": "2026-11-06T20:08:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.214,
+        "r": 0.151
+      }
+    },
+    "new-zealand-deadlock": {
+      "kind": "major",
+      "title": "新西兰选举再次陷入几乎势均力敌的格局",
+      "region": "亚洲",
+      "summary": "新西兰选举竞争极为激烈，主要力量中目前没有任何一方获得多数。Guardian、AP、Reuters等媒体报道，National和Labour几乎势均力敌，而小党可能扮演“造王者”的角色。初步结果显示，组建联合政府将取决于计票后的谈判。竞选的核心议题是生活成本和经济。",
+      "picture": "画面中，两只几乎相等的天平托盘悬在投票箱上方，中间放着一把小小的“造王者”钥匙。这意味着选举结果取决于小党和联盟协议。",
+      "mentions": 36,
+      "significance": 68,
+      "velocity": 86,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+          "published": "2026-11-07T09:45:09+00:00"
+        },
+        {
+          "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+          "published": "2026-11-07T09:44:35+00:00"
+        },
+        {
+          "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
+          "published": "2026-11-07T08:33:53+00:00"
+        },
+        {
+          "title": "New Zealand vote still too close to call as results trickle in",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/new-zealand-vote-still-too-close-to-call-as-results-trickle-in/article71677647.ece",
+          "published": "2026-11-07T08:31:58+00:00"
+        },
+        {
+          "title": "Early count in New Zealand’s election suggests result too close to call - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5",
+          "published": "2026-11-07T08:21:00+00:00"
+        },
+        {
+          "title": "New Zealand vote still too close to call as results trickle in - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXN3QktnV2wyN1ZKTFhUcHRMSC1TVGdfRkhFRzl4WDlIQWdvYzdhNzNDRHNFUThwTzdiQmtrRFA3QndPYTdSN28tX3pXSkMyeUNYbjFjUW5YWDBzd0ZCQVhlUHJNX19vNkhPdEl4dkowN3FwZi01Ul9PN0t5cmFMQ3RpaFRLTGQ2UDRfOTktT0dzd0RlNGVRN1JueUxWdHNmb0M4?oc=5",
+          "published": "2026-11-07T08:19:05+00:00"
+        },
+        {
+          "title": "Two main parties neck and neck after New Zealand vote, early count",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
+          "published": "2026-11-07T06:20:27+00:00"
+        },
+        {
+          "title": "Live: Parliamentary newcomers Opportunity potential kingmakers in tight NZ election",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+          "published": "2026-11-07T06:01:27+00:00"
+        },
+        {
+          "title": "New Zealand election early count shows two main parties near deadlocked - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVElubklwMDN2WWExQ2RadnZ4bnJFRTFOUHlXY0lkUzdaOXBkOGdLeTh1RUxYYzJMZEdkYzJMUHhtZWRISFd1WEgyWTNCMnU2R1NnR1Q2dm93Q2JWSktlSm1kU3hqUU1HQUF4NjB6NUotNFgzMWZNLTg0a1YzQjV5M1dVcVFQd1p3c2UtTHY3MDQxa0REZXc?oc=5",
+          "published": "2026-11-06T18:01:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      }
+    },
+    "russia-state-pressure-assets": {
+      "kind": "major",
+      "title": "克里姆林宫加强对商业、资产和内部纪律的控制",
+      "region": "俄罗斯",
+      "summary": "俄罗斯及与俄罗斯相关的报道显示，国家对商业、资产和内部纪律的控制正在加强。ТАСС、Meduza和Reuters提到克里姆林宫与选举监督、技术安全以及扩大对特定领域控制有关的举措。另一些消息涉及白俄罗斯：卢卡申科表示，他不支持革命，也不希望重演类似事件。总体而言，这些报道描绘出行政和强制控制的加强。",
+      "picture": "画面中，国家之手用锁链拴住工厂烟囱和银行保险箱，文件也被封存。这象征权力将经济和规则牢牢纳入控制之下。",
+      "mentions": 34,
+      "significance": 71,
+      "velocity": 58,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Лукашенко заявил, что не является сторонником революции",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28294607",
+          "published": "2026-11-07T09:50:26+00:00"
+        },
+        {
+          "title": "Who is Stephen Miller, Trump’s new Chief of Staff?",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/who-is-stephen-miller-trump-new-chief-of-staff/article71677475.ece",
+          "published": "2026-11-07T09:12:25+00:00"
+        },
+        {
+          "title": "Estado acumula inversiones privadas por 9 mil 800 mdd",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/estados/estado-acumula-inversiones-privadas-por-9-mil-800-mdd/",
+          "published": "2026-11-07T09:01:15+00:00"
+        },
+        {
+          "title": "Sunrise adventure - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRRFVteXdQWGZCQVdCNnFpUHVpdkJKRjdCUDBOVkxOT0tJcmxrVFlkdzJ6dlZtM1ROQmxhSzM5RjdOV0t5bk81U1FzbjZsZGhJV25QdDV6ODNjb1RiNlp6N19qdWEtTVNIaGhHNg?oc=5",
+          "published": "2026-11-06T23:29:08+00:00"
+        },
+        {
+          "title": "Russia’s Africa paradox: growing influence, limited returns - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlJsRkVFT1QzcjA5alVjTnBHRHFrVVo4N1dMUW1HeFNfOVFQamxma1Bqb3MtZW9Qa0pYNXZJZ2ZHV19KZ0I1R3hoSW5paUczeGhDSWRVYXJ3bHlaZXlHeEl4N1o5V3RNR01kRFBuU08wamZjRV9hejdmbVpnY2owcHplcDEyUHJvV21uNWNmRng0ZjRHeHpud3JPZENWZFJRd09qYV9WbDFPUQ?oc=5",
+          "published": "2026-11-06T20:03:27+00:00"
+        },
+        {
+          "title": "Após derrota histórica, Trump promove Stephen Miller a chefe de gabinete, sinalizando radicalização",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-historica-trump-promove-stephen-miller-a-chefe-de-gabinete-sinalizando-radicalizacao.shtml",
+          "published": "2026-11-06T19:23:00+00:00"
+        },
+        {
+          "title": "Vlast: Путин положительно воспринял звонок лидеров Норвегии и Финляндии. В Кремле полагают, что это может стать началом предметных переговоров",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/vlast-putin-polozhitelno-vosprinyal-zvonok-liderov-norvegii-i-finlyandii-v-kremle-polagayut-chto-eto-mozhet-stat-nachalom-predmetnyh-peregovorov",
+          "published": "2026-11-06T16:45:03+00:00"
+        },
+        {
+          "title": "Russia must swiftly expand its answer to Elon Musk's Starlink satellites, security council says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1lNNTd4SjQ5dGlFcG1hdjFVY2lvOXZDMVZCUmZjaTJBSXlFTGZsS1E2aEt2bXhQUXl4R0FrZnNtUlFpdUo5RVJUZ2JISllTV0RFQ0tqLWNSNk5HeVBpU2N1WFJKck9LRHYxSE9nSjJ1cXhpN3VKNlV6TGhTSkVOR3EzT2dtSXBtUTNEU2FkQVVBLUVMckZvU0c2dkhQcmNyVTh6V01CcnF6MmFtV0lfS2pNTU1JSEdMRWxUV1lqblJtanNaRTljQXRPN0hQbEJl?oc=5",
+          "published": "2026-11-06T14:43:47+00:00"
+        },
+        {
+          "title": "Bloomberg: Финляндия изучает возможность вырыть противотанковые рвы на границе с РФ",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28294503",
+          "published": "2026-11-07T08:25:34+00:00"
+        },
+        {
+          "title": "Московских роботов будут тестировать на устойчивость к кибератакам",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28294471",
+          "published": "2026-11-07T08:15:00+00:00"
+        },
+        {
+          "title": "Лукашенко поручил \"выжать технологию\" в мясном животноводстве",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28294465",
+          "published": "2026-11-07T07:57:14+00:00"
+        },
+        {
+          "title": "В АП призвали вовлекать больше россиян в наблюдение за выборами",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28294419",
+          "published": "2026-11-07T07:18:53+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.571,
+        "r": 0.151
+      }
+    },
+    "south-africa-election-shift": {
+      "kind": "major",
+      "title": "南非执政党ANC在选举中遭遇历史性支持下滑",
+      "region": "非洲",
+      "summary": "南非执政党ANC在地方选举中遭遇历史性支持下滑。Reuters、AP、The Guardian和News24报道，该党得票率约为32%，并失去对包括曼高昂在内的关键市镇的控制。反对党DA正在增强影响力，而一些城市出现了可能在联盟谈判中充当“造王者”的新力量。各家媒体一致认为，这是ANC历史上最糟糕的成绩之一。",
+      "picture": "画面中，一棵古老的大树正在失去枝条，周围长出新的幼芽，龟裂的土地上飞散着选票。这展现了主导政党力量的削弱和新势力的崛起。",
+      "mentions": 24,
+      "significance": 79,
+      "velocity": 63,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "ANC loses outright control of Mangaung for the first time as DA nips at its heels - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2h3MjdpWXExSnRFMTh1cmRiU1BCTFktTi1uYnh3UU9SSGpzZVY0OVN5bVpjVWpWcXJUOVNudk9kT3ZXQUlKQVJEM1E5Ujh1aEphWXhPSEV0TUtWQWVhbVFHMm5wTk1mbko4emUwb3ItWW5oNzB1dnFRSkhfVWRIcEVTQVpMMXU4SDE1cEdoY2k4bDBhZGd3em9XYy1IOG9UTWhMSDF6WnpKa0tMNnVJbHNVMnAyQ1RJOVpsUVM1ZEtJMUZtd2c?oc=5",
+          "published": "2026-11-07T07:59:04+00:00"
+        },
+        {
+          "title": "South Africa's ANC at 32%, DA 24% as municipal vote count enters final stretch - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUh4RHpsRVhxcW9nTG9zOVVtV2Nibkp6blk0SC11WmZuTC1ibDJwU1pUSFNGZFpOX1diMUhwNFZFUWhFSzh0XzFncE1BRmZyRjdBZENKRWRwYlZ5TzVyUElZWXZDV3lNSmUyOXdQS3ZzUUdkbHhMaE5KN0xtU1ozRkJNZ2xTYTFObUlhVWJXQ2xQMVc3WDFJQ2NOeDRuWUFsZG5VU2M3aE9hQTlVQkZWYU9MaG5udU9s?oc=5",
+          "published": "2026-11-06T16:11:43+00:00"
+        },
+        {
+          "title": "First results show South Africa's ANC headed to all-time election low with 32%",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/06/first-results-show-south-africas-anc-headed-to-all-time-election-low-with-32/",
+          "published": "2026-11-06T14:51:46+00:00"
+        },
+        {
+          "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "published": "2026-11-06T12:48:37+00:00"
+        },
+        {
+          "title": "South Africa's once-dominant ANC faces huge decline in voter support, early election results show - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWtIOWFiYkR5YUFUZDZyVDd6Mnh1SmJOSGYzd0JwOWN1VWozZC1KLTAxU01KTkFXSGhDekpTcFNKODhOVTBKRjhNWFBqVHl0dG5VdHFPSTNoNV9TN1RqOEZvQVNoZld0eUhiWXpFM3phRW4tQ3ZCVlBveWtYVk5YVTFWYV9nems1MGMweGpnWnlUYmt3MzFkVzlPQlBuWmVKXzNZ?oc=5",
+          "published": "2026-11-06T11:40:00+00:00"
+        },
+        {
+          "title": "Electoral battle nears finality as ANC counts casualties - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWxNc0g5R1d1ZmlSRW9nWXZwN0FLaUVOY3E2RUQ5UXdTQWFMZjl4TzV5aWh6VlpUWlVheURENUQwRUt3SWpTbTgzRU9FQldmVk5ROExkQTlZajZrb1NzTFhzSTlpNWJ5Zk9PdVM4a1ZjZlZXT09vMTJacWQ0WFhuczk4YlpORjBEX1YxcnlBNWc2bG9qREtQc3cwZnJLNGk3dE9HZ3Vab0V1N0JvM0FNLVJn?oc=5",
+          "published": "2026-11-07T02:15:23+00:00"
+        },
+        {
+          "title": "Muhammad Hussain | The devil they no longer want to know: Voters dump the ANC - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTJaQlEzYWtaSUJvTHoxck82b3FxcGF2aEk5eWJJNm8zSmZBZEhSaHJYYm1uX2ZzajJKYXBGNy1aY18yYWp3emFUUzdHblhYOHZZUGdVOXR4Wm03d0ZVT0R1X2hFVmd5WHBBeFhJZEhFTGR1M0hmVWcxbjJDLTlyeV82cTRGUkt3YWNCM25GSmxhOGZPMDlrVXFaeFVUVFZsS291QVZEbG1BSTgxUFBFcTFCVzZ0NnRmQjIyT2JqY05rTWY1VC1SX3k0SQ?oc=5",
+          "published": "2026-11-07T01:49:08+00:00"
+        },
+        {
+          "title": "UPDATE | ANC sees big decline in municipalities that narrowly escaped IEC exclusion - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFpscXNqbmluME1hcEthNmhjZGVfZFhlVlJMVS1NbF9PN3RqU1JzWF9TbVJyWk1KSlVDSmFuUWI3OHdfR1I3NHhLZkh0X3BUS0dZUFl3Y2ZUQ1V5cm8ydVRnSXlSRUxfSWFxZmtkeVB2RnF5eDdFdFdkeUN5UV9UMmV2alNtWlVhUEhYZEVtNm5hUXh3eERTSTV2cGctWHFfWEM4QTBpcHo1SGRlcXdkTk5GLWRZblNtaVV4Q3dxSGtPRlhLZUViWENn?oc=5",
+          "published": "2026-11-06T20:53:41+00:00"
+        },
+        {
+          "title": "ANC loses ground as DA tightens its grip on Western Cape municipalities - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1FzMXA3ZmtGWGRZb0tjUlA0ekNUWmp3cXlnd2IxdlI2Tk1INHo2eDNUVDFPUFZLcXgta3lSTi0tSm5rVnZJTVZ5bklTWTJqTlY1Q0JaMlVRWWFwWEVTQXcwNWhBZ1VtdmtjNi1rbU5Xb0cyQmxTSlNTR0h4Nm5YeUtEUE1OZGRHZVpvX1FPVDhVSlBPcXVvWnFnSjRmT2MxTmdFZHkyUEV1V3Riam41a09vTm5SbGIwQ2pEMmtzY3cyZ0hULUE?oc=5",
+          "published": "2026-11-06T19:38:18+00:00"
+        },
+        {
+          "title": "ANC the big loser in Buffalo City, as UDM becomes kingmaker after historic surge - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnRoUTlQNldjbmcxaFJlQUdQbVZ5UG1tMmR5bDl2dU5IRi0xY0EyNHpBTlZFbWZPLWtpcEI0c0I3UEZVMUFQV2JFRE51YjEtajkwSmt0WXBlZktGdERjcDJpLVVyWkxDV21ETVctb0RaYms5X0JlZ1JOckNrSTRLUHczOWd1Y1BROTdfU2FnbGs0aE5DUDJ2OTFtQ2twbHcwb1plbW9HTnMxblJoa18wUVpySWg4MUd1aFNDS0FZWUZoMG9GMXFrQ0FhMzZ4QQ?oc=5",
+          "published": "2026-11-06T19:18:27+00:00"
+        },
+        {
+          "title": "MK Party leads in eThekwini, but nobody wants to talk coalitions - yet - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXlpLUdSM2Z5cUhWUzBocVFaZEdranhTZk1EZ19BcXVNTGYwcWpHVnFzd3hWWGpLbk84YWZBM1d3YzdZc3M1STZKanowdUlubHFjWVlBQXNyc3JJX3F3UVJob00ycDFoQTZnRFRzc0lPR0F6NDFvalFodEVteXZFdHY2VEZ6UXJuTEh1YnRjNFJWcGs2Y1RDbFdhYzJRaVR3NjJXeEFNQWxtTF9VS2NkNE1NTDFyU2d2alR2V2xqMk8?oc=5",
+          "published": "2026-11-06T16:56:43+00:00"
+        },
+        {
+          "title": "ANC faces lowest national vote share, loses control of key metros as DA, ActionSA surge - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN29idEVZdHUzNWVDeTF0RUI2U1VnaFF0QVVfbFBBclQwOG5fT19wVnA0elk2Z2pBOXRkdUlEX1RUOHJzZ1I2UDYteHR2VUUta1d3ZjdxYm91cktta2t5ZFY3aS1PMnJTYVhfVUZWaFJ0Y3gtMm15NFhrcmMwRTE3eUtkcUU1RVdhdm5QdDN4OTlCeEJ6c3oyMVpyLUVzcEcyMVg4bGNOX1JaYzhzMXY4UFRGZTNhSWNaWmY5bnVsS0UzZm01a0Z0aFBJM1dLbkJFTEo4NGtaSDk?oc=5",
+          "published": "2026-11-06T16:11:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.536,
+        "r": 0.202
+      }
+    },
+    "haiti-gang-killing": {
+      "kind": "major",
+      "title": "海地当局与帮派持续致命对抗",
+      "region": "拉丁美洲",
+      "summary": "海地的武装对抗仍在持续，政府与帮派之间冲突不断。Reuters、AP和Al Jazeera报道，警方击毙了疑似帮派头目马蒂亚斯·桑蒂尔，总理也公开对此行动表示欢迎。与此同时，国内枪战仍未停止，AP称，在持续暴力背景下，一个大型团伙甚至已向国家解除武装机构发出呼吁。局势依然极不稳定。",
+      "picture": "画面中，警盾已破裂并对着帮派砍刀，旁边是熄灭的路灯和散落的房门钥匙。这是街头战争与秩序崩塌的象征。",
+      "mentions": 17,
+      "significance": 74,
+      "velocity": 56,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+          "published": "2026-11-07T05:02:49+00:00"
+        },
+        {
+          "title": "Powerful Haitian gang reaches out to state disarmament group as gunfights persist - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTcyOGFYU2VMX0lKQ1p1TjdXVzFOYWwtVjJsZjNscDR4WW9ubDFzdmxEZHYyN05OUm9KY1lNbHRfMDVFclJmT2Jma2R2THdBNDdEYk0tVFh3WjAxYlkzSE1iN05xeXdaLVBPSzVRdWVFdG05OXJHV0JMTmhCN3FXZ29Fdk1KVlBoUThBVXNzbnQ2RjI3MndXY0l5R25zQ0ZGRjlEa3RyODNnZ3lOOXc?oc=5",
+          "published": "2026-11-07T03:16:00+00:00"
+        },
+        {
+          "title": "Haiti PM says gang leader Mathias Saintil is dead - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5",
+          "published": "2026-11-07T00:27:00+00:00"
+        },
+        {
+          "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+          "published": "2026-11-07T04:50:46+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.469,
+        "y": 0.661,
+        "r": 0.222
+      }
+    },
+    "diwali-smog-in-delhi": {
+      "kind": "micro",
+      "title": "德里在排灯节前夕再次成为全球大型城市中空气最差的城市",
+      "region": "亚洲",
+      "summary": "排灯节前夕，德里的空气再次成为全球各大都市中污染最严重的。路透社和《南华早报》报道称，根据瑞士环保组织IQAir的数据，印度首都周六上午在空气污染排名中位居首位。相关报道将此与光明节前空气质量每年都会恶化联系起来。文章还提醒，德里的雾霾问题具有长期性和慢性特征。",
+      "picture": "图中，一名戴口罩的人在浓重的灰色雾霾中几乎看不见。这象征着节日前笼罩城市的严重空气污染。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Air in India’s capital ranked world’s most polluted on eve of Diwali",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3373637/air-indias-capital-ranked-worlds-most-polluted-eve-diwali",
+          "published": "2026-11-07T06:01:55+00:00"
+        },
+        {
+          "title": "Delhi world's most polluted major city on eve of Diwali, Swiss group says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+          "published": "2026-11-07T05:28:00+00:00"
+        },
+        {
+          "title": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-06T12:05:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.357,
+        "r": 0.125
+      }
+    },
+    "diwali-festival-lights": {
+      "kind": "micro",
+      "title": "排灯节作为最重要的光明节在全球各地开始庆祝",
+      "region": "亚洲",
+      "summary": "排灯节作为最重要的光明节，正在全球各地开始庆祝。美联社和地方媒体报道了节日前的采购、街头市场以及社区活动，其中包括美国。报道提醒说，排灯节是灯火、家庭团聚和节日装点家园的时刻。与德里的雾霾不同，这里更强调节日本身及其传统。",
+      "picture": "图中呈现明亮的油灯和串灯。这是排灯节作为光明、喜悦与团聚之节的直接形象。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "People shop ahead of Diwali, the Hindu festival of lights, at a marketplace shrouded in smog in New Delhi - The Lufkin Daily News",
+          "domain": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSnA3NDdVMUk0eExLNnhOQlZRQWdqZ3ZiekxIT0taVFVfZEZ5bjhvZkhjMHZraEVfQzRFRXJNZHpaaHZqM1hVNVVzUkRkRHA2elpzaWVwU2NyLU9uSDVBT3BKS2ExNjg0Zk1KTWtOaU5JYkZkd2xicm5QendNcDV4TERtbmpCWmxPTldJV3VtR2UyNGlreUJMdVJBdk1LN0dROXVudXNnblFJNDhtM1VBdkxLZmhoWFplaHR0MGtBOEp0NVZiWFh4X2lGTHVRWFZyWDhKRkthRS1VNEpaQ0Zkck1sSmxzS2dkN0dzZ1QwSXA1TVRiOEpRUmU1cU5BZEFrNHZONHowQXlvWGpSM3Q5ZQ?oc=5",
+          "published": "2026-11-07T05:33:34+00:00"
+        },
+        {
+          "title": "Celebrating Diwali in Waltham: Festival of Lights brings community together - Waltham Times",
+          "domain": "walthamtimes.org",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeW1ISXdRaVF3YmdJemppbHhvakxlV1dBWjlSbHBEbU0wZm5sUG9qSnJqdGdzQ1hyTHpBUmtBY2VBQmdVRXI1VWs5eUFaRVVzRGM2QlhHRkdJRHNZVUp0RnQzclQ0cWdWdXZHa0owNTV4ZDdLSi1LSEJodVc2emhkZ3Iza25SNTl6bjlrOFpkUG81TE5Uc1Bvb3puaEZMcEpwOW1fRl92dWZaWWU3aFlTeQ?oc=5",
+          "published": "2026-11-07T05:28:42+00:00"
+        },
+        {
+          "title": "What is Diwali, the Festival of Lights, and how is it celebrated? - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3JnUjY1ZS1tNXRyb3ZGZWJnZENRSnJyUlJORE9sdFpOdTVfclFlRW1LeEFBZzJoYzNYbjN2NnQwWTNUMEFPY3BrQWdORGxBb0V0VW5DVktCQm1EUWpCdUFmUUQzRml2R1AtdTJQcjBwY3ktbktiVTF0UkhpcUw5SkhxY3llN2ZNV0dxWjdCYjE3UC1yQ3dqVmpQamFHUnM2ZEwzdkpZSEV1NmM?oc=5",
+          "published": "2026-11-06T16:18:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "pandas-debut-at-zoo-atlanta": {
+      "kind": "micro",
+      "title": "熊猫“平平”和“福双”首次在亚特兰大与公众见面",
+      "region": "美国",
+      "summary": "熊猫“平平”和“福双”首次在亚特兰大动物园与公众见面。法新社、美联社、ABC新闻等媒体报道称，游客在它们亮相的第一天纷纷前来围观。报道强调，这对熊猫迅速成为当地热门话题，吸引了许多家庭和粉丝。这是一则轻松友善、没有冲突的城市新闻。",
+      "picture": "图中两只大熊猫正在吃竹子。这样的画面直接传达了新动物在动物园首次公开亮相这一核心事件。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "China's giant pandas make public debut at US zoo - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWamctNzJxdXZxQS1ycGotZnRLZWxCdDF2ekp4d2ExOFM1Q3ZCdElEeXRTOF9rTHhnM0FTbWpiYVlzVWZha1R1ZnpWSGY0Q2VNSDBQUVFiUHlDMmhvT2xqc2dWZmxhb0NCNTBsbFlvZ3NUblFHanlFNQ?oc=5",
+          "published": "2026-11-07T03:21:21+00:00"
+        },
+        {
+          "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81aDB1cjhjaEc5UlpfVW5IbmxSaTdlclV2MzFGc1AtZVY2a0VMM29KX0hXUjZVaXNmdThiQWRFQmtnN3diaHNSTGY4QjcyRWZSS09QdGE1QTZWM254U0VtYWhDUm4xRXd0?oc=5",
+          "published": "2026-11-06T22:22:06+00:00"
+        },
+        {
+          "title": "Zoo Atlanta's giant pandas Ping Ping, Fu Shuang make public debut - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0cwV1NVNlFPdnE0NmNaQlNhaExDNGM5TzVYLTR4bTA4ZXpkWTRuZUlNVURIdzY1eTVrRkZiX211NEJEQms3WGxpU0E3YWVNU2RvM20zSHpUUExIdkxSQ3BidUV6bTBFZUxvZi1nQUQxOWRGUllNQ3Rhd0EydmZDT0xsSzlVMmVlYkg0TWtySUxKaGRJZ1BqS3dfTTVlUUNOUDR4c0V4b9IBrAFBVV95cUxQU3JIdUpJbDRpdnZZaUV6RTRhb2VSdkhnbGdSWXhaQll3cTc4M0t4N1c4eUdjWFFPM3JNcEQ5cnNRSnR6ak9ZY1kwbHEwb0pkRmxVY25faGY4V1pnN3FEbUs1dXhUZVBPcUFWSW43VUhHdWVWMWJscWRSSjRxa1NyazNYN3QwdVd6RlFJbGNWWmh6cGhwRHFndkdfLVZlSWxKclhXSGwxczViOHNZ?oc=5",
+          "published": "2026-11-06T20:20:08+00:00"
+        },
+        {
+          "title": "Zoo Atlanta unveils its giant pandas Fu Shuang and Ping Ping - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHNwNnAxQTJsdjNKOEZ4Y0t2V2h4TE1vNHdxZWtMTnMwMTMxclNmWC1zWGdJSTBzUTBkQ21vSXJwRmNHSjBvaC1Ob3c0MTBvQkYtMVV5OGZFUlU1QkF3SFRwWDRsdjFyZmtwQzZEMmRKMjRFazZ4Q2dHY1NjNVJiWm80YVE2S1JtMlI5N2swSGxOUQ?oc=5",
+          "published": "2026-11-06T19:37:00+00:00"
+        },
+        {
+          "title": "Panda fans flock to Zoo Atlanta for the debut of Ping Ping and Fu Shuang - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUVpZGF0dFVTd1BsRk04QlpMZFdybGR2Q0ZwUXZ3YzBVT0QwMFBCd1VIZEozRk1sOGliLXA5RmJ3cVkxVEc3akVGRUxqd1FMYzdQRnpFN1FjQTZpaGlGb2tUVzFxOHU2RkZVVnJLdUk4WTFYb1ZhTXR2aGY1cmo5UVlDRENaTWRtV0lQTA?oc=5",
+          "published": "2026-11-06T15:32:31+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "octopus-squeezes-through-hole": {
+      "kind": "micro",
+      "title": "科学家发现，章鱼穿过狭窄缝隙有两种不同方式",
+      "region": "世界 / 加密",
+      "summary": "科学家发现，章鱼会使用两种不同策略穿过非常狭窄的洞口。路透社报道称，这项研究显示了章鱼身体的高度柔韧性，以及它们通过狭小缝隙的不同方式。这则新闻的重要性在于，它展示了生物学家如何研究海洋动物非同寻常的运动机制。这是一则没有政治或社会背景的简短科学消息。",
+      "picture": "图中，章鱼收缩身体，试图挤进一个小洞。这个画面直观展示了它惊人的柔韧性和穿越狭小空间的能力。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Octopuses follow two strategies to squeeze through tiny holes - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkVrcE1BUUFVVGlwRnBZeVZvRU5temc3UTBndWR1MV80Ym5yWEM2NFk3ZGRJbTB3R19nQVhEZlpuNXN5UnZUMEhXMkNOMzlkRkNkdkY2ZFdwZG9UVjJZQnRmU05vc1VESFVldmRlQ1B0NmU2cGlqNUpPUkdNb3UtSExKeU9NeldZWDNhNEhQNEh0VnlIYWttTExIc3NvdEYzYTZVaQ?oc=5",
+          "published": "2026-11-06T10:11:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "giant-banner-targets-big-tech": {
+      "kind": "micro",
+      "title": "瑞士一处数据中心工地上空挂起巨大横幅，抗议Big Tech",
+      "region": "欧洲",
+      "summary": "在瑞士，绿色和平组织活动人士在一处数据中心工地上空挂起了巨大的抗议横幅，矛头直指Big Tech。Euronews报道称，这场行动发生在该国东北部的贝林根，旨在抗议大型科技公司日益增长的环境影响。报道将其描述为针对数据中心项目的抗议，也延伸到对高耗能数字基础设施的批评。这是一场地方性行动，但也折射出欧洲范围内围绕数据中心的更大争议。",
+      "picture": "图中，一幅巨大的抗议横幅悬在数据中心工地上方。这个画面象征着对科技巨头及其基础设施的直接挑战。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Switzerland: Giant banner targets Big Tech outside data centre site",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site",
+          "published": "2026-11-06T17:25:04+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "kittens-urban-table-art": {
+      "kind": "micro",
+      "title": "第比利斯拍下一组有趣的街头系列：人行道上到处都是几十把椅子",
+      "region": "欧洲",
+      "summary": "在第比利斯拍摄的一组街头照片，记录了许多椅子、扶手椅和沙发直接摆在人行道上的景象。媒体称，作者是在搬到这座城市后注意到这一现象，并展示了当地人习以为常的街头休憩空间。报道并非关于重大事件，而是从外来视角捕捉到的一处日常城市细节。这是一则轻松的城市速写。",
+      "picture": "图中是一排排沿着人行道摆放的椅子。这个画面突出城市环境中带有街头感、甚至近乎居家的氛围。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "На чем сидят в Тбилиси? Видеограф Александр Захаренков заметил, что в Грузии очень (действительно очень) много стульев прямо на улице. Посмотрите на них!",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/07/na-chem-sidyat-v-tbilisi",
+          "published": "2026-11-07T06:05:29+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "goats-at-tokyo-station": {
+      "kind": "micro",
+      "title": "东京车站旁两只山羊在草地上让乘客忍俊不禁",
+      "region": "亚洲",
+      "summary": "东京车站因两只帮助清理杂草的山羊而意外吸引了大量乘客。Euronews报道称，这两只白山羊被用于四谷站附近的“环保园艺”工作，随后成为当地小小的景点。人们纷纷前来围观，它们很快成了可爱的城市热点。这是一则关于一种别致美化方式的轻松故事。",
+      "picture": "图中，两只山羊站在站台上，周围是乘客。这样的画面让普通车站变成了一处意想不到的景点。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Japan: Commuters flock to see two goats grazing at Tokyo station",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station",
+          "published": "2026-11-06T11:03:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "kiribati-drifters-rescued": {
+      "kind": "micro",
+      "title": "五人漂流数月后在基里巴斯附近获救",
+      "region": "世界 / 加密",
+      "summary": "五人漂流数月后在基里巴斯附近获救。Euronews报道称，生还者是在海上长时间漂流后被发现的，密克罗尼西亚当局正在讨论他们返乡事宜。报道没有详细说明漂流原因，但强调这些人经历了漫长的海上考验。这是一则简短的救援新闻。",
+      "picture": "图中是一艘载着五名获救者的小船。这个画面展现了长期漂流的结束，以及海上获救的瞬间。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Five people rescued off Kiribati after months drifting at sea",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea",
+          "published": "2026-11-06T11:29:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "guinness-rubiks-cube-run": {
+      "kind": "micro",
+      "title": "魔方爱好者跑出新的吉尼斯世界纪录",
+      "region": "世界 / 加密",
+      "summary": "一名英国跑者兼魔方爱好者创造了吉尼斯世界纪录。UPI报道称，他在跑完一英里的过程中顺手完成了四个魔方，耗时略高于五分钟。这个故事突出了运动与解谜的结合。这是一则有趣的纪录事件，没有政治背景。",
+      "picture": "图中，一名跑者手里拿着魔方。这个画面把速度与解谜结合在一起，构成一项不同寻常的纪录。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: Rubik's cube enthusiast sprints to Guinness World Records title",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/06/guinness-world-records-puzzle-cube-mile/9871793989473/",
+          "published": "2026-11-06T18:27:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "escaped-piglets-caught": {
+      "kind": "micro",
+      "title": "南卡罗来纳州警方抓到了逃跑的小猪",
+      "region": "美国",
+      "summary": "南卡罗来纳州警方抓到了两只逃跑的小猪。UPI报道称，这两只小猪被昵称为Bacon Bits，警方还为它们展开了一场追逐。报道带有轻松调侃的地方新闻色彩，核心消息就是这些动物在出逃后被拦下。文章没有提供更多实质性细节。",
+      "picture": "图中，小猪正从围栏旁飞快跑开。这个画面传达了它们滑稽而混乱的逃跑场景。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: Escaped piglets detained for 'fleeing and squealing' in S.C.",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/06/beaufort-south-carolina-escaped-piglets/7441793988332/",
+          "published": "2026-11-06T18:08:42+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "large-cow-eludes-capture": {
+      "kind": "micro",
+      "title": "马萨诸塞州一头过于“自由”的奶牛让人迟迟抓不到",
+      "region": "美国",
+      "summary": "马萨诸塞州警方迟迟没能抓到一头在马什菲尔德地区自由游荡了一整天的奶牛。UPI报道称，在这头动物仍未被控制之前，警方已提醒司机注意安全。这是一则关于一名意外“违规者”的地方趣闻。",
+      "picture": "图中，奶牛站在院子里，仿佛根本不打算离开。这个画面强调了它的独立和固执。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "'Large' cow eludes capture in Massachusetts",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/06/marshfield-massachusetts-loose-cow/1221793985650/",
+          "published": "2026-11-06T17:24:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "boa-constrictor-found": {
+      "kind": "micro",
+      "title": "北卡罗来纳州一名农民起初把蟒蛇看成了围栏柱",
+      "region": "美国",
+      "summary": "北卡罗来纳州一名农民起初把一条蟒蛇看成了围栏柱。UPI报道称，他在自家地里发现了一条逃出来的蛇，看起来就像一件静止不动的物体。这是一则关于农场上意外发现的简短生活新闻。报道没有提供更多细节。",
+      "picture": "图中，蟒蛇缠绕在围栏柱上。这个画面巧妙呈现了农民的误认以及发现时的意外。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: N.C. farmer finds apparent fence post was escaped boa constrictor",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/06/hoke-county-boa-constrictor-fence-post/2711793982017/",
+          "published": "2026-11-06T16:23:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "baby-right-whale-off-canada": {
+      "kind": "micro",
+      "title": "加拿大海岸外发现一只此前未知的北大西洋露脊鲸幼崽",
+      "region": "美国",
+      "summary": "在加拿大海岸外，科学家发现了一只此前未知的北大西洋露脊鲸幼崽。美联社报道称，这一发现令人欣喜，因为对于该物种来说，这是一次罕见而重要的观察。报道没有提到这只动物的后续命运，但强调了它对研究人员的重要意义。这是一则简短而积极的科学新闻。",
+      "picture": "图中，一只小鲸鱼在大鲸旁边浮出水面。这个画面传达了这一罕见发现，以及人们对珍稀物种幼崽出现的喜悦。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEI2d0pDcXRKRWhzdjhoeVdGWmpqQ1JobG9fWEdnaFBMQWx6OVpWTnp6M0Q1MmRzUC1XNjExYmtPMmMyNmd6ZVlmVzVmM29SZ0hpaGg3cFU5ZzNwMUxsZ3FveHVIUFZ0bWJ1d2JiUnRkQXVuQkVlb2lqMFFnTjVWaVpmbDZfWFNncWpoT2pvTnhZSE05dE5tTVRzRFVlTWk2b0FENFo2X0N5RXc?oc=5",
+          "published": "2026-11-06T15:40:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.929,
+        "r": 0.151
+      }
+    },
+    "new-pandas-debut-photos": {
+      "kind": "micro",
+      "title": "亚特兰大公众在熊猫馆外花数小时拍摄新熊猫",
+      "region": "美国",
+      "summary": "在亚特兰大动物园，新来的熊猫“平平”和“福双”首次向公众亮相。游客隔着玻璃在熊猫馆外拍了它们好几个小时的照片。报道说，这次亮相引发了家庭游客和熊猫爱好者的浓厚兴趣。",
+      "picture": "图中，人群隔着玻璃看着两只熊猫。这是动物首次公开亮相以及围绕它们到来的热度的写照。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "China's giant pandas Ping Ping and Fu Shuang make public debut at US zoo - CGTN",
+          "domain": "news.cgtn.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1FidjlBMDdxOWJDb19BbUNHVjE0OWw5NzRXdFpwM3B3bFpBRUs4WDlkZzdVUGplOXpGSGw4eWhZa1hrRGp2UEVKVTlrMm1jdS0wQUwwVVpOUUYzUkoycTg5cTFRZDIyYkd4NzZDUzdONkRIR0xpWEp3YWlQMGZJY1B0cW1TZkVEaUM1UG1FX3NOWTZ3aDktMHVWMG5OSmtFT1RVczdZR0ZQTGRWaXdZdUtObkhSOWFjd3p0X0Rn?oc=5",
+          "published": "2026-11-07T04:29:22+00:00"
+        },
+        {
+          "title": "‘Really, really cute’: Families flock to Zoo Atlanta to see new pandas - WSB-TV",
+          "domain": "wsbtv.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDYzTGhNVVMxM2xrckVvZ2RnQW9SVzlnYlhUV0U2MW1BR2NIYTNzUno3d0ptTVpMY0dBSHZJdC05QlFDeXk4ekdUMzJVY09najFzSUxCQ292d2E0ZllJeUJzVGg2N0hrOWhGUGVCZVY2SXotcUxKcm03bTVUQWV3d0hSVF9DSXUtR3lTeS1LM3ZrM09UZFdVUFE5QS1VMkdBRlBHUV9rQXB3emdIejZmaFcyQWs0ZnB1SFZwQjBZb2hDbThRQ21nQdIB3AFBVV95cUxQanE1OVZ5RW5xM0w0V0JhSm1iMFV5bGZkOHFsamlDeWxPMXpsQkUwUGFWVFFESXhRVXVHWGhsUEJJY21MVXZqQTdNNDlKWGtiYVNpdkZjeVRXSS1uTkFiMDZkaTNmMXdXMDlhMkdNTnQ2NTN0WkhBS0R0eVp3d1hkdEMwTENxb3lYSVJRaVlXMlZINkZaNFpGWGpzVkJEY1BpczR0U3BJQTJBZTBTbmNYZlV6NUc0c21HV1JsTGlKZUpTclY4NmJuaExxNWpYenU5WTR5NENDREVZQkxY?oc=5",
+          "published": "2026-11-07T00:37:00+00:00"
+        },
+        {
+          "title": "Giant pandas return to Zoo Atlanta as Fu Shuang and Ping Ping make public debut - The Standard (HK)",
+          "domain": "thestandard.com.hk",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNG04enlHVkk0NnE5S193WFZWYXprcWY0S3NtLVRyUVdXVjVMRGZwSmVEWE9XUHU1OHhJbW03ZXlwTmpwQi00aVdjZmgtVTBycW9UNU5hVnk0ZE1yOURCN2lvRnhZNmJHTG5wLWVfRk9ObTBqZlZEZ0R1Y21HcVUxSlZBNTFGdl96eF9NcUpvNjhJcVlOc0pYNlVGWWNkbGVjeldJVnRvQXFFVmhPZFhsVldYcDJkSGFVYWdXNFAyRzBDUjRJcFlVdVo2SQ?oc=5",
+          "published": "2026-11-07T00:06:53+00:00"
+        },
+        {
+          "title": "Panda fans flock to Zoo Atlanta for the debut of Ping Ping and Fu Shuang - The Journal Gazette",
+          "domain": "journalgazette.net",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY3BVUW91WUZkc2wyMGZadWVoYWVidDU0MDVabFpfQ1VlWHNVZGlwYkZoY2pUVk9XN2RmZmtNUEtzRGJQYmFSZG9XNjhTcFM3Yy1jaE1oQm9URlVTVUlhUVlpejBKYUdSNFBmYzcxNDk3Nk5tanUwb2VoR0l3LVl1MjBHUFdrTEJYQ05YQ3JxbmRRTzg0S1RQUklwMzJualJMbjdqSXVXTUNzVXlnOEhmLUdjQVlRRWE2SjAtQ280NXF6cldDc2NwRHZlejNoc3B0N0prLVIydVBtYTBRM2RYeXpHc3F6NWlFNU4yWGlaY0FZbk85ZmRPU3Aybw?oc=5",
+          "published": "2026-11-06T22:45:00+00:00"
+        },
+        {
+          "title": "Video: Giant Pandas Make Debut in Atlanta Zoo - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vR3Zta2tubE5MVE5VeE91UmR4ZnBWNktkTU1aeXV3M0QybFNMWXNjNEZhLURieXVEX2RvTERMeG1Xc1hPQnM0QWhFUDkxcUI5dzE3dFI0WWhFdVkyN2E0Ylp1OGF2czdlVG9oLTBjY3QycGpsNUlBZGxneFY?oc=5",
+          "published": "2026-11-06T22:29:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "two-goats-tokyo-station": {
+      "kind": "micro",
+      "title": "东京两只山羊意外成了乘客眼中的景点",
+      "region": "亚洲",
+      "summary": "在东京市中心的四谷站附近，两只白山羊意外成了乘客眼中的景点。Euronews报道称，它们被用来清理杂草，如今则吸引着好奇的路人驻足围观。",
+      "picture": "图中，两只山羊站在铁路乘客旁边。这个画面说明，一项普通的工作任务如何让动物变成了城市热点。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Japan: Commuters flock to see two goats grazing at Tokyo station",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station",
+          "published": "2026-11-06T11:03:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.643,
+        "r": 0.125
+      }
+    },
+    "wurstfest-kicks-off": {
+      "kind": "micro",
+      "title": "纽布朗费尔斯盛大德国节日 Wurstfest 开幕",
+      "region": "美国",
+      "summary": "第65届 Wurstfest 已在纽布朗费尔斯拉开帷幕。当地媒体报道了庆典开幕仪式，并为游客提供了到访前需要了解的实用建议。这是一项每年举办的德国节日，包含美食、美酒和大规模庆祝活动。这则新闻带有鲜明的地方节庆色彩。",
+      "picture": "画面中有啤酒杯和椒盐脆饼花环。这是德国节日及其喜庆氛围的直接象征。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Wurstfest kicks off 65th annual festival with opening ceremony - Herald-Zeitung",
+          "domain": "herald-zeitung.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVWlWQjg3ZDZfNDhoNFFyNGhfUUx3N2xJMXFNbGs5bVFOdTJ4bnF2ckVOc3JKWW5RZklxbXV1SXVNSkpTWVpjRjlWbzEzNDRDY01TWlZ4VjZ2N25YRmVHeWxtOGZDRzdOdEdNN1IxYXB0c2RpOHVoZFZrUFlJRHE1eDdQQXQ4WjRwRHhYbVJ5dlJ6R0ptUkN4YU5qaDRpX1VJUVJ2djdWbXFnbnhDX24xVzlzZXl2cm9ucTZETnN5VkFaeVYzT2ktTXc3NFhzTFE2dGp1X0lsS1VmUQ?oc=5",
+          "published": "2026-11-07T02:40:02+00:00"
+        },
+        {
+          "title": "Wurstfest 2026: What to know before you visit New Braunfels German festival - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEdSdkhCakZFWGptRGtlWnhEQmxfelduejFpQ2lzNW9EQUtNMTdXVWh6TDVYVkFtZk9xVC1jMTdJZkJqdXpqN1l0ODRLOEYxb01BWTF3cy1NaGFlNkJFNnYydzd0WHZsbm53SC1FUzQtTjk1MnVZUkU1TWk3QnVMZjdocU1wZmNYVXRaN2FhNHZkNUt2Zmd4b1VkMUEzclRlRGM2WTl0d1ozWlhRcUdnU2dQZ0owaFVCNWc?oc=5",
+          "published": "2026-11-06T19:49:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      }
+    },
+    "dia-de-los-muertos-festival": {
+      "kind": "micro",
+      "title": "丹尼森举办亡灵节庆典，鲜花与面具交织",
+      "region": "美国",
+      "summary": "丹尼森举行了亡灵节庆典。KTEN 报道称，活动以鲜花、蜡烛和面具营造出传统节日风格。这是一个纪念逝者和延续家庭传统的本地文化活动。报道中关于节目安排的细节并不多。",
+      "picture": "画面中有万寿菊、糖骷髅、面具和蜡烛。这样的形象直接呼应亡灵节及其纪念象征。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Preview of Denison’s annual Dia de Los Muertos Festival - KTEN",
+          "domain": "kten.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcndoczNNaGxDWFRkenlNbzF0aHhheTAzcUZYWW9QdG1BYXRZbmoyUkRxTE1sNks1bWF6M0FuTzV5UE1sZ2pQMHhPRFJPOXNId3V1aFRUQ2xKNWxjcFBjZGtBRVZPemoxVVBqcGxLc1BfRlpucDh0OC14aEZSVHVVWnJ5XzBJaHhLTmxOVlZSRFktWUJSeTh1dEVGTEwxdVNoU19ua2h5WWlzaTVmNzIzNkhXbkM5cllJZ3ptSHU5akpoSjZEcHZMX0VlUDRtOG54LXVkeEYybjQ?oc=5",
+          "published": "2026-11-07T03:59:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "film-festival-lake-placid": {
+      "kind": "micro",
+      "title": "莱克普莱西德电影节迎来25周年并展映新作",
+      "region": "美国",
+      "summary": "莱克普莱西德电影节迎来25周年，并展映了新作品。WPTZ 报道称，节目中新增了竞赛单元，并更加重视年轻创作者。其他关于地区电影节的报道也提到类似的扶持新晋电影人的主题。这是一则关于电影节周年纪念与焕新的文化新闻。",
+      "picture": "画面中是胶片和红地毯。这个形象立刻指向电影节和首映式的喜庆氛围。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "South Carolina film festival gives emerging filmmakers chance to showcase work - WLTX",
+          "domain": "wltx.com",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeEYxQndaS2drZnE5SFJIejIwenIzTlN5c3N0MHJmRWQ4YVlDRlVHODU4REhqZXEyRWdjbUIzMklGZllkWUhTWDJoZXR1NERMWkxBR29Fd0tmaFZ1XzNQVEVsNGZEU2JzZmF6OGpyanZGYVl0WG9UdE1wUTBQR2l2ZTZUWWNXdERkaEVvWFowRm0xN1FrZmU3ZU5PWnRoczhieU04SHpuckdIRVBmMTR6bjdYZkN1Rzk1UWY3T3ZNMVNMVktRQmpGcWpoUHk4VHlDREJXYlIxeGoyRV9CRjlpTlBjdzREMEx3YUhfUllB?oc=5",
+          "published": "2026-11-07T04:14:00+00:00"
+        },
+        {
+          "title": "Richland film festival returns with tickets still available - Nonstop Local News",
+          "domain": "nbcrightnow.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmpkSUExVGE4anlHd21kczhmSEdhUXJBcUZCZEZROHNDUUZ2X1dQeXN5ZzR2aFVkalNPV3hkZW5ORExCY09OUTJHeDBRaXlLbXZBVjRNblRiLVpKbGlyOFBnalR4TTF4Yjh1M2xOMWxBdTRTYXdWSHFvQ0EzZG1sNm1lcEdUSGd2bkxITmpZZnNnTVZDa0ZPQl9zN2pGbTU2bjdYYXUxZnBmaGxJNU5RdWYyWUxDZkJhRi1nSHBvblROQTBWcDltU2dKMWt4Q1RHY2F3MVVIRjNpdw?oc=5",
+          "published": "2026-11-07T03:17:00+00:00"
+        },
+        {
+          "title": "It’s a Wrap: Newport Beach Film Festival Concludes a Memorable 26th Anniversary Event - Newport Beach Indy",
+          "domain": "newportbeachindy.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTZIZEE1ZGxIb1VWcTJZQ241R3AwRXdXbThZY3hjckJYUHJacGxtcFV6Q3NmX2FUVnRiZ25RajQ4Qy1CaWNyS3dSLWdaR01nRWEwc1VJaUl4UTlBekVQY3F4c05TWnBRWThINWl6cUt3X1AzZEtxVml3S0w3c2h6TC1xZjEtRnhyV1dxTlZrMVdXdEwwQ09KREpSaDVBUDRiLW9QRGl6OFdldHBVaFhPVE9Xa1JSamVa?oc=5",
+          "published": "2026-11-07T01:08:56+00:00"
+        },
+        {
+          "title": "Lake Placid Film Festival marks 25 years with new competitions and focus on emerging talent - WPTZ",
+          "domain": "mynbc5.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmFiNFkwdzNlbXFmNjNRMDRBdVl4Nkhac3dXeEFFZnBWY1FZU0duRERpanJQS2U4YjNsZkNCM1pPcl9RdmRRMzlzQURCeXBxS19mQWVIVU1IOUZ4aXZkdEhIbXBBZWpQVlc1U2pKWFRseGN1aGpFWG1PMXEwZjZBRWxLN1JNeExVVnpsNGVScmZFaVlVdjc4Z05jMGNfXy1lWi1vNUlYQjcwTmkwY3YycklZSjN4RVUxZW91OUJxVGY3UkMtWkROWGhTZw?oc=5",
+          "published": "2026-11-06T23:28:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "bellingham-brothers-callup": {
+      "kind": "micro",
+      "title": "贝林厄姆兄弟同时入选英格兰队",
+      "region": "欧洲",
+      "summary": "贝林厄姆兄弟同时入选英格兰国家队。Guardian、BBC 和 AFP 报道称，乔布·贝林厄姆首次获得征召，与裘德一同进入托马斯·图赫尔的阵容。媒体将此称为一段温馨的家族故事，并指出，正如教练所说，哥哥希望弟弟能与自己并肩作战。这则消息对英格兰足球和两兄弟都很重要。",
+      "picture": "画面中两位足球兄弟身穿英格兰队球衣站在一起。这体现了家族性的巧合以及共同入选国家队的画面。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
+          "published": "2026-11-06T19:00:50+00:00"
+        },
+        {
+          "title": "'A beautiful story' as Bellingham brothers called up",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T14:16:34+00:00"
+        },
+        {
+          "title": "Tuchel hails 'incredible' Bellingham story as Jobe joins Jude in England squad - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1U0Sk51QVR4UGpYYVRmLUZOeGNpVEdyWmpJb0RjV2dkRDNVXzMxTm00X0FELUdub0J4UzJYakp6S2IzYjN4Y3Q2eFl6QzRudVBRbVBQdGNyNVJDZEl1UlBfaGhKX294MWdGWVlHd2JuS2VYbk5yT25ZUUo1TXF1ak9JSkUyeW92SGRJVHN6MF9lOFBjZjRqMA?oc=5",
+          "published": "2026-11-06T13:25:07+00:00"
+        },
+        {
+          "title": "Jude's brother Jobe Bellingham gets England call-up - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jdG5vbXN0VUdwc19ZWEJWOWlKY29ndXkwUk5IOWYzUHNVR1BYRHBic1U4WVBQSWhBck1pd0o3dlEwSld0YlJjR0Jtaw?oc=5",
+          "published": "2026-11-06T11:44:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "mbe-meghan-father-arrested": {
+      "kind": "micro",
+      "title": "梅根·马克尔的父亲因持有儿童性露骨材料再次被捕",
+      "region": "欧洲",
+      "summary": "梅根·马克尔的父亲托马斯·马克尔再次被捕，并被指控持有涉及儿童性虐待的材料。AP、Reuters、Sky News 等媒体报道称，调查源于在一处前住所发现相关物品，而托马斯·马克尔本人在佛罗里达被拘留。报道称他否认指控；随后，一些媒体确认其前住所也发现了与案件相关的材料。这是一宗没有政治背景、但引发广泛媒体关注的刑事案件。",
+      "picture": "画面中，手铐放在法庭文件上。该形象强调了逮捕及案件的刑事性质。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "Child sexual abuse images allegedly found in Thomas Markle's former home - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHVQdmFnVmlEemJfX3VQOHV1OVZsd0lGbnM1NURVeGFfWVU0bEZMdUV6dEpJUl81TDJfOFl6M2dxeEg3T3dweWJCYUo5WnNoYWJSTFdmbWYzajZDNjJ4OHN4WmJFcjlvWmtzXzl2OUxTeFZaaE9nSnZ2enpOZklPUFgwWC13SmNZN1k4MDdTcXg0SU1iczRRMTBneHYwa2NfSVlSb00xWnlsV3c?oc=5",
+          "published": "2026-11-07T08:19:08+00:00"
+        },
+        {
+          "title": "Meghan's estranged father arrested and charged with possessing child sexual abuse materials - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHpGTGhqcHRFbVlLRWRncDVhUFJnU25fSGFTclFBam5RNWpJSDBxanJTRkxGVmFaWjU3WFRXaHJQaldNU2ZURXBuRzRXLUhYUmdrR083a3FaaTJEdG84QUVFMzdxNVJ5NmVuYkstV1AwVVg2YmREMzAwRFEzYmlLODhzbGUwZHpTV2YwVzdNekFGZjk1MnEyMXhCTDFaVjg?oc=5",
+          "published": "2026-11-07T00:01:00+00:00"
+        },
+        {
+          "title": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5",
+          "published": "2026-11-06T22:23:28+00:00"
+        },
+        {
+          "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+          "published": "2026-11-06T21:59:44+00:00"
+        },
+        {
+          "title": "Meghan Markle's father arrested in US over child sex abuse images - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVZIRTZRaGhhVks3dVJENFdzV2NCdzh5RmNaSTVZaDJEal9wb0RuRWFRaEVCV244eVFKSy05RDJXR2dSMnFOR2xyMi1UOTVodVdEWnkxenRydVc5aFlUWVdYSWVkdmxTNFRTdGg4OHUyMXEwVW4zVTFyNnpCUzdsUW03WVFNQnVmamVDTg?oc=5",
+          "published": "2026-11-06T20:44:36+00:00"
+        },
+        {
+          "title": "Meghan Markle’s estranged father arrested and charged with possessing child sexual abuse materials - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzRqTVJYS09DeEZ5bi0yMmNjOHVCQ1B4SFF3NUgxSnNTNFJoSGRJdU9xMnZtSWN3c2hfNnNsWEtlamRMUzNTQm5qeUFQUkQ5djVibnNqN0hHTjZwcEpSdE1ETThQb3hSZ2JiT0xWMXFnQjc2eXNwd2gyMS1QYXpISXozcFk0N0F3Y0YyNWJONmxyWURuRDJHZlhOVTFwdUtmUEVON2VYUXZWdE9uT0lSMFJhbE9QaWlOMllYVENGekVrOW8xemhkeWt5dWRqQmhFZ2c?oc=5",
+          "published": "2026-11-06T18:43:13+00:00"
+        },
+        {
+          "title": "Отца Меган Маркл арестовали по делу о хранении фото с сексуализированным насилием над детьми",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/ottsa-megan-markl-arestovali-po-delu-o-hranenii-foto-s-seksualizirovannym-nasiliem-nad-detmi",
+          "published": "2026-11-06T16:11:32+00:00"
+        },
+        {
+          "title": "Meghan Markle's father arrested over child sex abuse images",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession",
+          "published": "2026-11-06T16:10:18+00:00"
+        },
+        {
+          "title": "Thomas Markle, father of Meghan, charged in US with possession of child sex abuse photos",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges",
+          "published": "2026-11-06T16:02:13+00:00"
+        },
+        {
+          "title": "Meghan's father Thomas Markle appears in court charged with possessing child abuse material - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0tIRGRhUS1rRXpodHBQNUJLUnlZa2pGd3RWVFBoYTNtWE1EQ0VoZHNBLWJMYmpwN0t4Vk8yN3dBRTdNYTA3UUwzeWk5UUZFRWFHOHlRdnA4QWtBUUNTUlBwcm00NDg4RG5BT04yWXZYcG5DVE5YUFozWG9BeXMxU0VJYmlxM2cwejRkQVAtTUxkajI1RXo0a2pMejVWN3RkdmttX1JIN21BU3c3c1N0YTBRRTZjdjliZ2J3ejhESHBlQ2p0?oc=5",
+          "published": "2026-11-07T07:25:10+00:00"
+        },
+        {
+          "title": "Thomas Markle charged by FBI in Florida - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLW5qcU45OGlRWUgxaGFWb0N6S0lfUGt2SWkweEItYmp3OE1Ha1lrR19uSHhocUNVNS1nd0xZMk5xQkdZRDU4V1JTUjhjMjFKTGZtOF84U25YdG5qVjlZallNa2JBaUZ5dUlEUXlqbDJDSkVuNjNsc3Nnc2RVWnZNYjZmb1oxS1paZ1JUTDR1bDY?oc=5",
+          "published": "2026-11-06T16:33:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "cybertruck-wind-down": {
+      "kind": "micro",
+      "title": "特斯拉在漫长炒作与疲软销量后收缩 Cybertruck 项目",
+      "region": "美国",
+      "summary": "在长期炒作和销量不佳之后，特斯拉正缩减 Cybertruck 的生产。AP、CNBC、BBC 等媒体报道，埃隆·马斯克表示将在得州工厂减少该车型的产量，以腾出产能给 Cybercab——无人驾驶出租车。一些报道直言，这款车型未能达到预期，已成为一个颇具争议的项目。各家媒体一致认为，Cybertruck 实际上已接近退出市场。",
+      "picture": "画面中，一辆未来感皮卡的折叠面板仿佛正在自行收拢。它象征着这一轰动一时却问题重重的项目走向终结。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "The Cybertruck’s Death Is Actually Great News for EVs - WIRED",
+          "domain": "wired.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZMUJzNW5fQms2RDB0WGZzcmZJZlBQOHljM183MVRTaDVMaGt1dzIwcGJuTzAzTGVqRFo3ZUVTd0laNFI0cUpCNTM4ME1CSVVYMHZOandWekE0WWdmdGl0SmxBSnJvM0Y3OWJDWmZKQzk5Z0k?oc=5",
+          "published": "2026-11-06T22:31:00+00:00"
+        },
+        {
+          "title": "Tesla’s Cybertruck heads for an exit after years of hype and division - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5",
+          "published": "2026-11-06T22:27:00+00:00"
+        },
+        {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T21:49:50+00:00"
+        },
+        {
+          "title": "Tesla pulls the plug on Cybertruck after years of poor sales - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmh2Y1hScEo1VE5rOExwU0otWEVNT0ZneUdfOFQ3QnV0eGF5cDZJWDlJczhZc0N6dndEcnFXSVdZdTcxT3NOclVaMnFDcU1VakZ3MENOMUw1YkR1NWZCOUVTaTdnUmJmZjN6NGtuelN3Mi0teG9tUjdJZWxsZk0xMnhRX3J0akE5Q2Y1TFBXdVJoOEVvLU1fWEM5Szc1cWhvb01CbHYwQnN6QWJ5Z1lmXw?oc=5",
+          "published": "2026-11-06T20:19:59+00:00"
+        },
+        {
+          "title": "Tesla свернет производство Cybertruck",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/06/tesla-svernet-proizvodstvo-cybertruck",
+          "published": "2026-11-06T16:24:24+00:00"
+        },
+        {
+          "title": "Musk's futuristic Cybertruck rolls toward exit - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HVjg3V25SLW9taHZxRlBtTWtHMmllX1ZWZzZaZzlDQV9fY2VadkF0RExOMDJseEV0bDVZSDVUaEJrbWNmYVpyNW56bmUwVHpBUFNlR2ZjdDJEQWY5eXBCeEJWdVZqajRUeVA0Y2xSQ3lYdnVyUzdB?oc=5",
+          "published": "2026-11-06T15:22:33+00:00"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
+          "published": "2026-11-06T13:12:36+00:00"
+        },
+        {
+          "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T15:02:03+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.321,
+        "r": 0.125
+      }
+    },
+    "panda-fans-flock-atlanta": {
+      "kind": "micro",
+      "title": "熊猫粉丝蜂拥前往亚特兰大动物园迎接首秀",
+      "region": "美国",
+      "summary": "许多熊猫爱好者来到亚特兰大动物园，观看新到的熊猫“平平”和“福双”的首次亮相。多家媒体报道称，这是它们在美国的公众首秀，现场聚集了大量家庭和粉丝。各消息来源对事件的时间和地点基本一致。",
+      "picture": "画面中，家庭游客向新来的大熊猫挥手。这传达出节日般的气氛以及公众对它们首次亮相的浓厚兴趣。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "China's giant pandas make public debut at US zoo - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWamctNzJxdXZxQS1ycGotZnRLZWxCdDF2ekp4d2ExOFM1Q3ZCdElEeXRTOF9rTHhnM0FTbWpiYVlzVWZha1R1ZnpWSGY0Q2VNSDBQUVFiUHlDMmhvT2xqc2dWZmxhb0NCNTBsbFlvZ3NUblFHanlFNQ?oc=5",
+          "published": "2026-11-07T03:21:21+00:00"
+        },
+        {
+          "title": "Sandhill cranes return to Lodi area ahead of annual festival - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczBYdHo0LUdhallIb2tYendmSE1CMmlvRDZhcUpkaXQ0Tmp5SjhXM3dCNGU1UnBwR1RSa1hSWHVjU2k4WXVYUUstOU1GMU5Wa0pkV3A5Y1JoNVRKQ2JjY0pKRnZiUm5QU0tQR29YS0lLYzNNdHhYN25UakppRF9tYXpEZ2ZHUXpLTlFBMk5jRHJCZzV5N21KUlVNSk5iYklZZ3U1bA?oc=5",
+          "published": "2026-11-07T00:52:00+00:00"
+        },
+        {
+          "title": "‘Really, really cute’: Families flock to Zoo Atlanta to see new pandas - WSB-TV",
+          "domain": "wsbtv.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDYzTGhNVVMxM2xrckVvZ2RnQW9SVzlnYlhUV0U2MW1BR2NIYTNzUno3d0ptTVpMY0dBSHZJdC05QlFDeXk4ekdUMzJVY09najFzSUxCQ292d2E0ZllJeUJzVGg2N0hrOWhGUGVCZVY2SXotcUxKcm03bTVUQWV3d0hSVF9DSXUtR3lTeS1LM3ZrM09UZFdVUFE5QS1VMkdBRlBHUV9rQXB3emdIejZmaFcyQWs0ZnB1SFZwQjBZb2hDbThRQ21nQdIB3AFBVV95cUxQanE1OVZ5RW5xM0w0V0JhSm1iMFV5bGZkOHFsamlDeWxPMXpsQkUwUGFWVFFESXhRVXVHWGhsUEJJY21MVXZqQTdNNDlKWGtiYVNpdkZjeVRXSS1uTkFiMDZkaTNmMXdXMDlhMkdNTnQ2NTN0WkhBS0R0eVp3d1hkdEMwTENxb3lYSVJRaVlXMlZINkZaNFpGWGpzVkJEY1BpczR0U3BJQTJBZTBTbmNYZlV6NUc0c21HV1JsTGlKZUpTclY4NmJuaExxNWpYenU5WTR5NENDREVZQkxY?oc=5",
+          "published": "2026-11-07T00:37:00+00:00"
+        },
+        {
+          "title": "Zoo Atlanta's giant pandas Ping Ping, Fu Shuang make public debut - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0cwV1NVNlFPdnE0NmNaQlNhaExDNGM5TzVYLTR4bTA4ZXpkWTRuZUlNVURIdzY1eTVrRkZiX211NEJEQms3WGxpU0E3YWVNU2RvM20zSHpUUExIdkxSQ3BidUV6bTBFZUxvZi1nQUQxOWRGUllNQ3Rhd0EydmZDT0xsSzlVMmVlYkg0TWtySUxKaGRJZ1BqS3dfTTVlUUNOUDR4c0V4b9IBrAFBVV95cUxQU3JIdUpJbDRpdnZZaUV6RTRhb2VSdkhnbGdSWXhaQll3cTc4M0t4N1c4eUdjWFFPM3JNcEQ5cnNRSnR6ak9ZY1kwbHEwb0pkRmxVY25faGY4V1pnN3FEbUs1dXhUZVBPcUFWSW43VUhHdWVWMWJscWRSSjRxa1NyazNYN3QwdVd6RlFJbGNWWmh6cGhwRHFndkdfLVZlSWxKclhXSGwxczViOHNZ?oc=5",
+          "published": "2026-11-06T20:20:08+00:00"
+        },
+        {
+          "title": "Panda fans flock to Zoo Atlanta for the debut of Ping Ping and Fu Shuang - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUVpZGF0dFVTd1BsRk04QlpMZFdybGR2Q0ZwUXZ3YzBVT0QwMFBCd1VIZEozRk1sOGliLXA5RmJ3cVkxVEc3akVGRUxqd1FMYzdQRnpFN1FjQTZpaGlGb2tUVzFxOHU2RkZVVnJLdUk4WTFYb1ZhTXR2aGY1cmo5UVlDRENaTWRtV0lQTA?oc=5",
+          "published": "2026-11-06T15:32:31+00:00"
+        },
+        {
+          "title": "Guests see Zoo Atlanta's new pandas for the first time - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFU2SGhXMXIxOVVFV2tPUjAxdXBHMW5DTV9qUUdrcUdtdGt4X2RyTVdkakE1bFFvSjUtbFVVeTNpRTdRU0VYeEpSSjZlT3hWUS11YXN6a3dNZWxLTFVBa1pIdktYZUNhUFEtT1JVcVo3bk9QVzB3SjlGNnppV1BlOFpCcGVUX2w0d3A0aVRWdThGQlBnNEZZ?oc=5",
+          "published": "2026-11-06T23:34:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      }
+    },
+    "octopus-world-record-hat": {
+      "kind": "micro",
+      "title": "布兰森水族馆为章鱼戴上巨型圣诞帽，冲击纪录",
+      "region": "美国",
+      "summary": "布兰森一家水族馆为章鱼戴上巨大的圣诞帽，并因此创造了一项纪录。KY3 报道称，此举是为了进入吉尼斯世界纪录。该新闻属于趣闻类，没有严肃的公共背景。重点在于这项 необычные 纪录及其视觉效果。",
+      "picture": "画面中，一只章鱼戴着一顶巨大的红色圣诞帽。这个形象突出了这项纪录的荒诞感与节日属性。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Branson, Mo., aquarium sets world record with giant Santa hat atop octopus - KY3",
+          "domain": "ky3.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRkxvR1VLYktLb0dSUnpiajU0Rjk3TVF1c2tRaTBRU3Iyd3FBY3c3a015bVRkNmktTXRGMG1pUi1LTUFZQlBweG5nMW9zSkx5Q2hzd0NxbDU1cjdRQXJuTXNVM1ZONzhIb0NSWGQ4azBCOEdhS3pXdUtoUV80OHgzS3MyNDhWRjNNN1R2V2xxR3oxcnpSam5NTHB2SnFQTldPMVFwMG56NlByY3lIeEE?oc=5",
+          "published": "2026-11-07T00:43:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "new-forest-wildfire-restoration": {
+      "kind": "micro",
+      "title": "新森林火灾后的恢复工作已经开始",
+      "region": "欧洲",
+      "summary": "在新森林，夏季森林火灾后的自然恢复工作已经启动。BBC 报道称，专家已经开始修复受火灾影响的林地。报道对受损规模的细节不多，但恢复工作的启动本身很重要。这是一则环境与自然保护类新闻。",
+      "picture": "画面中，幼树生长在烧焦的森林旁边。强烈的对比展现了从火灾到恢复的转变。",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "New Forest wildfire restoration work begins",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:14:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.393,
+        "r": 0.3
+      }
+    }
+  }
+}
