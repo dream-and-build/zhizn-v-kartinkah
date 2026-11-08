@@ -460,10 +460,10 @@
       "region": "라틴아메리카",
       "summary": "파라과이에서 은행 위기가 산티아고 페냐 대통령의 탄핵, 체포, 그리고 부통령에게의 권력 이양으로 이어졌다. AP, BBC, Reuters, The Guardian, Le Monde는 은행 붕괴 이후 수백만 명의 고객이 계좌와 저축에 접근하지 못하게 되면서 정치적 붕괴가 촉발됐다고 보도한다. 여러 보도에 따르면 페냐는 먼저 의회에서 해임된 뒤 가택연금에 처해졌고, 새 국가 수반 페드로 알리아나는 이미 취임 선서를 했다. 언론들은 이번 금융 스캔들이 이 나라에서 정치와 금융의 밀접한 연관성을 드러냈다고 지적한다.",
       "picture": "그림에는 뒤집힌 대통령 의자 옆에 새 지도자가 받침대 위에 서 있고, 주변에는 깨진 은행 도장과 법원 문서가 흩어져 있다. 은행 붕괴 이후 옛 권력이 무너지고 정치 구조가 바뀌는 모습을 상징한다.",
-      "mentions": 50,
-      "significance": 84,
-      "velocity": 39,
-      "domain_count": 14,
+      "mentions": 62,
+      "significance": 86,
+      "velocity": 51,
+      "domain_count": 19,
       "articles": [
         {
           "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
@@ -632,6 +632,96 @@
         "x": 0.75,
         "y": 0.179,
         "r": 0.202
+      }
+    },
+    "paraguay-aftershocks": {
+      "kind": "major",
+      "title": "파라과이에서 탄핵과 전직 대통령 체포 이후 새로운 권력 재편이 시작되다",
+      "region": "라틴아메리카",
+      "summary": "파라과이에서 은행 위기로 산티아고 페냐 대통령이 탄핵되고 체포되며, 권력이 부통령에게 넘어갔다. AP, BBC, Reuters, The Guardian, Le Monde는 은행 붕괴 이후 수백만 명의 고객이 계좌와 저축에 접근하지 못하게 되면서 정치적 붕괴가 촉발됐다고 전했다. 보도에 따르면 페냐는 ابتدا 의회에 의해 직무에서 정지된 뒤 가택연금에 처해졌고, 새 국가원수 페드로 알리아나는 이미 취임 선서를 마쳤다. 각 매체는 이번 금융 스캔들이 이 나라에서 정치와 금융의 밀접한 연계를 드러냈다고 입을 모았다.",
+      "picture": "그림에는 넘어져 있는 대통령 의자가 새 통치자가 선 단상 옆에 놓여 있고, 주변에는 금이 간 은행 도장과 법원 서류가 흩어져 있다. 이는 구권력의 몰락과 은행 붕괴 이후 정치 구조가 바뀌는 모습을 상징한다.",
+      "mentions": 50,
+      "significance": 84,
+      "velocity": 39,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+          "published": "2026-11-07T09:42:52+00:00"
+        },
+        {
+          "title": "Сенат Парагвая объявил импичмент президенту, его отправили под домашний арест. Он ушел в отставку после краха банка, обслуживавшего большинство жителей страны",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/senat-paragvaya-ob-yavil-impichment-prezidentu-ego-otpravili-pod-domashniy-arest-on-ushel-v-otstavku-posle-kraha-banka-obsluzhivavshego-bolshinstvo-zhiteley-strany",
+          "published": "2026-11-07T08:53:59+00:00"
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:20:00+00:00"
+        },
+        {
+          "title": "Au Paraguay, la destitution du président, Santiago Peña, met en lumière les collusions entre le pouvoir politique et celui de la finance",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html",
+          "published": "2026-11-07T06:41:20+00:00"
+        },
+        {
+          "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+          "published": "2026-11-07T06:18:38+00:00"
+        },
+        {
+          "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+          "published": "2026-11-07T05:51:23+00:00"
+        },
+        {
+          "title": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+          "published": "2026-11-07T02:14:00+00:00"
+        },
+        {
+          "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "published": "2026-11-07T01:55:11+00:00"
+        },
+        {
+          "title": "Crisis-hit Paraguay impeaches Pena, replaces him with VP Alliana - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDZ1MzUtNmx6bHZianRVSzVqV0VNT0J0Wk5kcnJiWldqbE5sOG5VbWh3eUYtNzFBNzdLcjhuQWVIT0t4cHFrRjUtaEcweUVtbXQyRjExak5qblBldlBnRE8wSjU2cVhZcFFhYlNzQVQxNjJSVDZFclBZWVE1NDFPQUI5a0pOTElu?oc=5",
+          "published": "2026-11-07T01:50:42+00:00"
+        },
+        {
+          "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published": "2026-11-07T01:29:30+00:00"
+        },
+        {
+          "title": "Fuero, clave en la destitución de Santiago Peña; es el segundo presidente paraguayo que sale por un juicio político",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/fuero-clave-en-la-destitucion-de-santiago-pena-es-el-segundo-presidente-paraguayo-que-sale-por-un-juicio-politico/",
+          "published": "2026-11-07T00:11:56+00:00"
+        },
+        {
+          "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+          "published": "2026-11-06T23:56:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
       }
     },
     "kenya-cult-sentencing": {
@@ -1278,10 +1368,10 @@
     },
     "diwali-smog-in-delhi": {
       "kind": "micro",
-      "title": "Дели 공기는 디왈리 전야 다시 세계 주요 도시 가운데 가장 더러워졌다",
+      "title": "델리의 공기는 디왈리 전날 다시 한 번 세계 주요 도시 가운데 가장 더러운 수준이 됐다",
       "region": "아시아",
-      "summary": "디왈리 전날 델리의 공기는 다시 한 번 세계 주요 대도시 가운데 가장 오염된 것으로 나타났다. Reuters와 SCMP는 스위스 그룹 IQAir 자료를 인용해 인도 수도가 토요일 오전 대기오염 1위를 기록했다고 전했다. 보도들은 이를 빛의 축제를 앞두고 매년 반복되는 대기질 악화와 연결했다. 델리의 스모그 문제는 만성적이라는 점도 함께 상기시켰다.",
-      "picture": "그림에는 짙은 회색 스모그 속에서 마스크를 쓴 사람이 희미하게 보인다. 축제를 앞두고 도시를 뒤덮는 탁한 공기를 상징한다.",
+      "summary": "디왈리 전날 델리의 공기는 다시 한 번 세계 대도시 가운데 가장 심하게 오염된 것으로 나타났다. 로이터와 SCMP는 스위스 기관 IQAir의 자료를 인용해 인도 수도가 토요일 오전 대기오염 1위를 기록했다고 전했다. 이 보도들은 빛의 축제를 앞두고 매년 반복되는 대기질 악화와 연관 짓고 있다. 또한 델리의 스모그 문제가 만성적이라고 지적한다.",
+      "picture": "그림에는 짙은 회색 스모그 속에서 마스크를 쓴 사람이 겨우 보인다. 이는 축제를 앞두고 도시를 뒤덮는 심각한 대기를 상징한다.",
       "mentions": null,
       "significance": null,
       "velocity": null,

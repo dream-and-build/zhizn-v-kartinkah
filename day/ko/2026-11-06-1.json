@@ -460,10 +460,10 @@
       "region": "유럽",
       "summary": "프랑스에서는 낮은 임금, 감원, 생활비 상승에 항의하는 대규모 시위와 파업이 다시 벌어졌다. CBS, Guardian, BBC는 공공부문 종사자, 교사, 운송노동자, 노조원을 포함해 수만 명에서 수십만 명이 참여했다고 전했다. 시위 과정에서는 최루가스를 사용한 경찰과 충돌도 발생했으며, 정부에 대한 불만도 커졌다.",
       "picture": "그림에는 행진하는 군중이 금이 간 임금 저울을 들고 있고, 현수막들은 부서진 다리 위에서 찢어지고 있다. 이는 생활 수준 하락과 정치적 교착 상태에 대한 항의의 모습을 보여준다.",
-      "mentions": 50,
-      "significance": 69,
-      "velocity": 19,
-      "domain_count": 11,
+      "mentions": 56,
+      "significance": 68,
+      "velocity": 33,
+      "domain_count": 13,
       "articles": [
         {
           "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
@@ -632,6 +632,96 @@
         "x": 0.537,
         "y": 0.293,
         "r": 0.221
+      }
+    },
+    "france-protests-cost-of-living": {
+      "kind": "major",
+      "title": "프랑스, 비싼 생활비에 다시 대규모 시위와 파업 휩싸여",
+      "region": "유럽",
+      "summary": "프랑스에서 낮은 임금, 긴축, 생활비 상승에 항의하는 대규모 시위와 파업이 다시 벌어졌다. CBS, 가디언, BBC는 공공부문 노동자, 교사, 교통 종사자, 노조 조합원 등을 포함해 수만 명에서 수십만 명이 참가했다고 전했다. 시위 현장에서는 경찰이 최루가스를 사용하는 등 충돌이 발생했으며, 정부에 대한 불만도 더욱 커졌다.",
+      "picture": "그림에는 행진하는 군중이 금이 간 임금 저울을 들고 있고, 배너들은 부서진 다리 위에서 찢어지고 있다. 이는 생활 수준 하락과 정치적 교착 상태에 맞선 항의의 모습을 보여준다.",
+      "mentions": 50,
+      "significance": 69,
+      "velocity": 19,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/humberto-musacchio-deja-huella-como-referencia-del-periodismo-cultural/",
+          "published": "2026-11-06T09:14:15+00:00"
+        },
+        {
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "published": "2026-11-06T08:00:04+00:00"
+        },
+        {
+          "title": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+          "published": "2026-11-06T04:30:01+00:00"
+        },
+        {
+          "title": "French workers flood streets for anti-government protests",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/",
+          "published": "2026-11-06T00:59:54+00:00"
+        },
+        {
+          "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court finds - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExCdXBSNnVWbVl5VmlJVHI4bzcxVkN5b3gtWmJIMmxxLW56OVpad3BGRnc0RExHSEIzd2otaE9JcHh1SjEzdG1tMlhDMTFiakQtd0l1MGFXdXZ1QjVfbEJrazcwbjdPTnVlQy01elN3XzNHa2ZEYkRMak5fQnRnZ29HOHZ3eF94WmlmZw?oc=5",
+          "published": "2026-11-06T00:12:00+00:00"
+        },
+        {
+          "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+          "published": "2026-11-05T20:39:49+00:00"
+        },
+        {
+          "title": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+          "published": "2026-11-05T20:23:56+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:56:05+00:00"
+        },
+        {
+          "title": "Protesters march in cities across France as unions stage general strike",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+          "published": "2026-11-05T17:21:45+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRG91SElhbG5mUlFvQWtQUlJUZnN0MVZIRVNsT0dBLXNFNE95Tzc2c3VNcG5yR1VCdmhLRC12SkVxdXRMMFZ3U1V3enNxWEJYWVBqdlB1MTk4ZU9sYndBakpySTF1MGVtZDlzVUJWMHRkZ9IBd0FVX3lxTFBjVTlKZWt4elBDT2JoR1JVbVVJdW9RR0FrZWZDQnUtd0dJeGc4WXVLLXhVOHVZQXB6aDFJU3pnMXVCOWEwZFF3bTRRenBkVnhIZmJnNTFLS0I4WUowem5ZNDhzX1J3UkNOWUJvN2tWMERFQTNKNVE0?oc=5",
+          "published": "2026-11-05T15:26:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
       }
     },
     "russia-state-pressure-assets": {

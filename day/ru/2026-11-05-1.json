@@ -366,14 +366,14 @@
     },
     "europe-protests": {
       "kind": "major",
-      "title": "Францию охватила новая волна забастовок и протестов из-за стоимости жизни",
+      "title": "Европу снова накрыла волна ложных бомбовых угроз и сбоев в авиасообщении",
       "region": "Европа",
       "summary": "Во Франции прошла новая волна общенациональных протестов и забастовок против роста стоимости жизни. По сообщениям TASS, Meduza, FT, BBC и Le Monde, на улицы вышли от сотен тысяч до около 1,6 миллиона человек; профсоюзы требовали роста зарплат и улучшения работы госслужб. Французские власти заявили о почти 450 задержанных и 53 пострадавших полицейских. Параллельно в Европе несколько рейсов получили ложные сообщения о бомбах, что вызвало задержки и диверсии, но это отдельная тема внутри той же новостной волны нестабильности.",
       "picture": "На картине толпа несёт надломленную шкалу зарплат, а баннеры превращаются в рваный мост. Это символ протестов против дороговизны и хрупкости социального договора.",
-      "mentions": 67,
-      "significance": 72,
-      "velocity": 79,
-      "domain_count": 19,
+      "mentions": 74,
+      "significance": 78,
+      "velocity": 83,
+      "domain_count": 22,
       "articles": [
         {
           "title": "Во Франции задержали почти 450 участников протестов против роста цен",
@@ -634,6 +634,96 @@
         "r": 0.23
       }
     },
+    "france-cost-of-living-strike": {
+      "kind": "major",
+      "title": "Францию охватила новая волна забастовок и протестов из-за стоимости жизни",
+      "region": "Европа",
+      "summary": "Во Франции прошла новая волна общенациональных протестов и забастовок против роста стоимости жизни. По сообщениям TASS, Meduza, FT, BBC и Le Monde, на улицы вышли от сотен тысяч до около 1,6 миллиона человек; профсоюзы требовали роста зарплат и улучшения работы госслужб. Французские власти заявили о почти 450 задержанных и 53 пострадавших полицейских. Параллельно в Европе несколько рейсов получили ложные сообщения о бомбах, что вызвало задержки и диверсии, но это отдельная тема внутри той же новостной волны нестабильности.",
+      "picture": "На картине толпа несёт надломленную шкалу зарплат, а баннеры превращаются в рваный мост. Это символ протестов против дороговизны и хрупкости социального договора.",
+      "mentions": 67,
+      "significance": 72,
+      "velocity": 79,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Во Франции задержали почти 450 участников протестов против роста цен",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28290411",
+          "published": "2026-11-05T19:14:56+00:00"
+        },
+        {
+          "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblN6SXBxQ2x2LUZZYXBQd1ZlLTc5SE9sOXZYV0JyelE0X0p5RlNFOHV2MzR5T1lTTHZORlRzWmdVQndTcjhESjhvbV84eU1IeXZsVmwwV2VNMElhbTlJVFhzMV9fRy02Z01jX2Z0X1hTbFVwV3lzVUhKUURQQkYtU3Voc2RpOHFSNHRDNXUzb2NsWVB0dHRoN19wU0dvTVd6OEhnV1VYclpqdw?oc=5",
+          "published": "2026-11-05T19:04:00+00:00"
+        },
+        {
+          "title": "Passengers Tell of Fear After Bomb Threats Hit European Flights",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+          "published": "2026-11-05T18:42:52+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+          "published": "2026-11-05T18:17:36+00:00"
+        },
+        {
+          "title": "Во Франции — снова массовые протесты из-за роста стоимости жизни. По данным организаторов, на улицы вышли около 1,6 миллиона человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/vo-frantsii-snova-massovye-protesty-iz-za-rosta-stoimosti-zhizni-po-dannym-organizatorov-na-ulitsy-vyshli-okolo-1-6-milliona-chelovek",
+          "published": "2026-11-05T18:10:02+00:00"
+        },
+        {
+          "title": "More than 600,000 join latest protests in France",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
+          "published": "2026-11-05T18:08:53+00:00"
+        },
+        {
+          "title": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+          "published": "2026-11-05T18:06:19+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "Torre Eiffel cierra sus puertas por huelga nacional en Francia; museos de París también reportan afectaciones",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/torre-eiffel-cierra-sus-puertas-por-huelga-nacional-en-francia-museos-de-paris-tambien-reportan-afectaciones/",
+          "published": "2026-11-05T17:49:48+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:39:52+00:00"
+        },
+        {
+          "title": "Largely peaceful marches take place across France as workers stage strike",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042372/largely-peaceful-marches-take-place-across-france-as-workers-stage-strike",
+          "published": "2026-11-05T17:07:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.196,
+        "r": 0.3
+      }
+    },
     "ukraine-oleshky": {
       "kind": "major",
       "title": "Россия продолжает бить по украинской энергетике, оставляя города без света и воды",
@@ -816,14 +906,14 @@
     },
     "hong-kong-markets-ai": {
       "kind": "major",
-      "title": "Рынки распродают AI-историю на фоне страхов о перегреве расходов и регуляторном ударе",
-      "region": "Мир / крипто",
+      "title": "Гонконг сочетает политический прессинг и экономическую тревогу вокруг технологий",
+      "region": "Азия",
       "summary": "Рынки резко распродали акции, связанные с ИИ, на фоне опасений перегрева и больших расходов. TASS пишет, что Nasdaq упал более чем на 5%, а бумаги Nvidia просели почти на 9%; AP и Al Jazeera сообщают о сильном падении S&P 500 и о том, что инвесторы переоценивают AI-торговлю. Bloomberg, Reuters и CNBC обсуждают Anthropic и вопрос, заканчивается ли нынешний AI-бум. Финансовые рынки в этот день явно реагируют на страх замедления и возможного регуляторного давления.",
       "picture": "Схематическая плата высится и прогибается под грудой монет, а ценовые ленты падают вниз. Это образ лопающегося пузыря вокруг искусственного интеллекта и давления денег на технологии.",
-      "mentions": 64,
-      "significance": 93,
-      "velocity": 56,
-      "domain_count": 18,
+      "mentions": 67,
+      "significance": 70,
+      "velocity": 57,
+      "domain_count": 19,
       "articles": [
         {
           "title": "How to Get Exposure to Anthropic Through ETFs Before and After the IPO",
@@ -991,6 +1081,96 @@
       "spot": {
         "x": 0.5,
         "y": 0.643,
+        "r": 0.151
+      }
+    },
+    "ai-spending-selloff": {
+      "kind": "major",
+      "title": "Рынки распродают AI-историю на фоне страхов о перегреве расходов и регуляторном ударе",
+      "region": "Мир / крипто",
+      "summary": "Рынки резко распродали акции, связанные с ИИ, на фоне опасений перегрева и больших расходов. TASS пишет, что Nasdaq упал более чем на 5%, а бумаги Nvidia просели почти на 9%; AP и Al Jazeera сообщают о сильном падении S&P 500 и о том, что инвесторы переоценивают AI-торговлю. Bloomberg, Reuters и CNBC обсуждают Anthropic и вопрос, заканчивается ли нынешний AI-бум. Финансовые рынки в этот день явно реагируют на страх замедления и возможного регуляторного давления.",
+      "picture": "Схематическая плата высится и прогибается под грудой монет, а ценовые ленты падают вниз. Это образ лопающегося пузыря вокруг искусственного интеллекта и давления денег на технологии.",
+      "mentions": 64,
+      "significance": 93,
+      "velocity": 56,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "How to Get Exposure to Anthropic Through ETFs Before and After the IPO",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/how-to-get-exposure-to-anthropic-through-etfs-before-and-after-the-ipo",
+          "published": "2026-11-05T19:28:34+00:00"
+        },
+        {
+          "title": "Котировки Nasdaq упали более чем на 5%",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28290429",
+          "published": "2026-11-05T19:25:45+00:00"
+        },
+        {
+          "title": "NASA's Hubble studied dwarf galaxies and found they kept just 11% of the oxygen made by their stars",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/space/nasas-hubble-uncovers-mystery-of-missing-oxygen-in-dwarf-galaxies/articleshow/135558760.cms",
+          "published": "2026-11-05T19:22:00+00:00"
+        },
+        {
+          "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
+          "published": "2026-11-05T19:00:09+00:00"
+        },
+        {
+          "title": "CNBC's experts on whether the AI trade is ending and what investors should do next - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTlYemZKWHZrM1prVjdSeWptNFBoaDFoZ3h0aWlEOFR6d21ObDgxWkhDd2hIeEJzc2ZoaHA3LW5PcDF2bVdzTEtaaU1fNGFEN0syRlduM2JFYTJUM2t2RWFrOEVlM1ZXMkw4N0F5RGk0RWtnUk9DcGcyRURhNjhTTV9BVldXTjBnbDVNaXNyMnM1dmVoX0dCQzFmWUlYbTZiZUFfR1lZcFQ2ek02N1BNOHRHQlFzRGVteXfSAb8BQVVfeXFMTVJ5amJCa21EREViSkR0dTNuN2FQc05IcTlzUE1pT0NSVlB6WGJVTi1fTjlCVGl1TG9PcnRKcFNGUldUVkNQVk1KVlVjcWRwcHVqcmdfYi1FdUdlWlllOFRPTE9zSTlNay1kS09WZk5kN21WbWpvSkE5Y1p4Y1NtNk0tMjMzQ2tyTEVTSzVQbG1lbVk3SU55allvZXBQeFFrMGd4QXMxNDlob2x2UXo0bk13QUFHSmQxMWVTLWlEa2c?oc=5",
+          "published": "2026-11-05T18:58:48+00:00"
+        },
+        {
+          "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
+          "published": "2026-11-05T18:53:41+00:00"
+        },
+        {
+          "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3% - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+          "published": "2026-11-05T18:52:00+00:00"
+        },
+        {
+          "title": "Ken Salazar prevé freno de acciones del ICE contra migrantes en EU; apuesta por una mejor negociación del T-MEC",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/ken-salazar-preve-freno-de-acciones-del-ice-contra-migrantes-en-eu-apuesta-por-una-mejor-negociacion-del-t-mec/",
+          "published": "2026-11-05T18:30:03+00:00"
+        },
+        {
+          "title": "MultiChoice introduces new DStv, GOtv packages",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923028-multichoice-introduces-new-dstv-gotv-packages.html",
+          "published": "2026-11-05T18:28:01+00:00"
+        },
+        {
+          "title": "Portugal: Cristiano Ronaldo announces his international retirement",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+          "published": "2026-11-05T18:16:53+00:00"
+        },
+        {
+          "title": "AI stocks plunge after US election, driving down markets",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+          "published": "2026-11-05T17:56:17+00:00"
+        },
+        {
+          "title": "European stocks overtake Wall Street following Democratic sweep",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+          "published": "2026-11-05T17:41:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.143,
         "r": 0.151
       }
     },

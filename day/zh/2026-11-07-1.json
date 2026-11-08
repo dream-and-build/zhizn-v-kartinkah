@@ -460,10 +460,10 @@
       "region": "拉丁美洲",
       "summary": "在巴拉圭，银行危机导致总统圣地亚哥·培尼亚被弹劾、被捕，并将权力移交给副总统。AP、BBC、Reuters、The Guardian和Le Monde报道，银行倒闭后，数百万客户失去了账户和积蓄的使用权，从而引发政治崩盘。根据不同消息，培尼亚先被议会罢免，随后被软禁；新国家元首佩德罗·阿利亚纳已宣誓就职。各家媒体一致认为，这场金融丑闻暴露了该国政治与金融之间的紧密联系。",
       "picture": "画面中，翻倒的总统座椅旁站着新统治者的基座，周围散落着破裂的银行印章和司法文件。这是旧权力倒塌、银行崩盘后政治结构更替的象征。",
-      "mentions": 50,
-      "significance": 84,
-      "velocity": 39,
-      "domain_count": 14,
+      "mentions": 62,
+      "significance": 86,
+      "velocity": 51,
+      "domain_count": 19,
       "articles": [
         {
           "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
@@ -546,10 +546,10 @@
     },
     "ukraine-oleshky": {
       "kind": "major",
-      "title": "俄罗斯对基辅和乌克兰能源设施发动大规模打击，乌方回应石油基础设施",
+      "title": "俄罗斯对基辅和乌克兰能源设施发动大规模打击，乌克兰则回击石油基础设施",
       "region": "乌克兰",
-      "summary": "俄罗斯对基辅及乌克兰其他地区发动大规模打击，损坏能源设施，并造成停电、停水和供暖中断。ТАСС、DW、France 24、Reuters及乌克兰媒体报道称，基辅及基辅州遭到破坏；根据不同数据，已有人员死伤，其中包括一名被从废墟中救出的男子。弗拉基米尔·泽连斯基表示，首都的供给情况很复杂，并称莫斯科正试图让乌克兰陷入全面停电。作为回应，报道还提及乌克兰对石油基础设施的打击，以及美国和俄罗斯参与的谈判。",
-      "picture": "画面中，断裂的输电线在一座坍塌桥梁上方迸出火花，旁边可见无人机和被击中的石油塔。这象征对能源系统的打击以及基础设施之间的相互攻击。",
+      "summary": "俄罗斯对基辅及乌克兰其他地区发动大规模打击，损坏能源设施，并引发供电、供水和供暖中断。塔斯社、DW、France 24、路透社以及乌克兰媒体报道称，基辅和基辅州出现破坏；据不同消息来源，已有人员死伤，其中包括一名被从废墟中救出的男子。弗拉基米尔·泽连斯基表示，首都的供给形势严峻，并称莫斯科正试图让乌克兰陷入大停电。与此同时，报道还提到乌克兰对石油基础设施的打击，以及美国和俄罗斯参与的谈判。",
+      "picture": "图中，破损的输电线在一座断裂的桥上方迸出火花，旁边可见一架无人机和一座受损的石油钻井平台。这象征着对能源设施的打击以及双方对基础设施的相互攻击。",
       "mentions": 59,
       "significance": 97,
       "velocity": 69,
@@ -632,6 +632,96 @@
         "x": 0.75,
         "y": 0.179,
         "r": 0.202
+      }
+    },
+    "paraguay-aftershocks": {
+      "kind": "major",
+      "title": "巴拉圭在弹劾并逮捕前总统后开始新的权力重组",
+      "region": "拉丁美洲",
+      "summary": "在巴拉圭，一场银行危机引发了总统圣地亚哥·佩尼亚遭弹劾、被捕以及权力移交给副总统。美联社、BBC、路透社、《卫报》和《世界报》报道称，在银行崩溃后，数百万客户失去了对账户和储蓄的访问权限，引发政治崩盘。根据不同报道，佩尼亚先是被议会罢免，随后被软禁；新国家元首佩德罗·阿亚纳已宣誓就职。这些媒体一致认为，这场金融丑闻暴露了该国政治与金融之间的紧密联系。",
+      "picture": "图中，翻倒的总统椅子倒在新统治者身旁的基座边，周围散落着破裂的银行印章和司法文件。这象征着旧权力的倒台，以及银行崩溃后政治格局的更替。",
+      "mentions": 50,
+      "significance": 84,
+      "velocity": 39,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+          "published": "2026-11-07T09:42:52+00:00"
+        },
+        {
+          "title": "Сенат Парагвая объявил импичмент президенту, его отправили под домашний арест. Он ушел в отставку после краха банка, обслуживавшего большинство жителей страны",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/senat-paragvaya-ob-yavil-impichment-prezidentu-ego-otpravili-pod-domashniy-arest-on-ushel-v-otstavku-posle-kraha-banka-obsluzhivavshego-bolshinstvo-zhiteley-strany",
+          "published": "2026-11-07T08:53:59+00:00"
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:20:00+00:00"
+        },
+        {
+          "title": "Au Paraguay, la destitution du président, Santiago Peña, met en lumière les collusions entre le pouvoir politique et celui de la finance",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html",
+          "published": "2026-11-07T06:41:20+00:00"
+        },
+        {
+          "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+          "published": "2026-11-07T06:18:38+00:00"
+        },
+        {
+          "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+          "published": "2026-11-07T05:51:23+00:00"
+        },
+        {
+          "title": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+          "published": "2026-11-07T02:14:00+00:00"
+        },
+        {
+          "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "published": "2026-11-07T01:55:11+00:00"
+        },
+        {
+          "title": "Crisis-hit Paraguay impeaches Pena, replaces him with VP Alliana - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDZ1MzUtNmx6bHZianRVSzVqV0VNT0J0Wk5kcnJiWldqbE5sOG5VbWh3eUYtNzFBNzdLcjhuQWVIT0t4cHFrRjUtaEcweUVtbXQyRjExak5qblBldlBnRE8wSjU2cVhZcFFhYlNzQVQxNjJSVDZFclBZWVE1NDFPQUI5a0pOTElu?oc=5",
+          "published": "2026-11-07T01:50:42+00:00"
+        },
+        {
+          "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published": "2026-11-07T01:29:30+00:00"
+        },
+        {
+          "title": "Fuero, clave en la destitución de Santiago Peña; es el segundo presidente paraguayo que sale por un juicio político",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/fuero-clave-en-la-destitucion-de-santiago-pena-es-el-segundo-presidente-paraguayo-que-sale-por-un-juicio-politico/",
+          "published": "2026-11-07T00:11:56+00:00"
+        },
+        {
+          "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+          "published": "2026-11-06T23:56:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
       }
     },
     "kenya-cult-sentencing": {
@@ -1058,8 +1148,8 @@
       "kind": "major",
       "title": "克里姆林宫加强对商业、资产和内部纪律的控制",
       "region": "俄罗斯",
-      "summary": "俄罗斯及与俄罗斯相关的报道显示，国家对商业、资产和内部纪律的控制正在加强。ТАСС、Meduza和Reuters提到克里姆林宫与选举监督、技术安全以及扩大对特定领域控制有关的举措。另一些消息涉及白俄罗斯：卢卡申科表示，他不支持革命，也不希望重演类似事件。总体而言，这些报道描绘出行政和强制控制的加强。",
-      "picture": "画面中，国家之手用锁链拴住工厂烟囱和银行保险箱，文件也被封存。这象征权力将经济和规则牢牢纳入控制之下。",
+      "summary": "俄罗斯及与俄罗斯相关的报道称，国家对商业、资产和内部纪律的控制正在加强。塔斯社、Meduza 和路透社提到克里姆林宫与选举监督、技术安全以及扩大对特定领域的控制有关的举措。另有报道涉及白俄罗斯：卢卡申科表示，他不支持革命，也不希望重演类似事件。总体来看，这些报道描绘出行政和强制性控制的加强。",
+      "picture": "图中，国家之手用锁链束缚着工厂烟囱和银行保险箱，文件也被盖上封印。这象征着权力将经济和游戏规则纳入控制之下。",
       "mentions": 34,
       "significance": 71,
       "velocity": 58,
@@ -2052,10 +2142,10 @@
     },
     "octopus-world-record-hat": {
       "kind": "micro",
-      "title": "布兰森水族馆为章鱼戴上巨型圣诞帽，冲击纪录",
+      "title": "布兰森一家水族馆为了打破纪录，给章鱼戴上了一顶巨大的圣诞帽",
       "region": "美国",
-      "summary": "布兰森一家水族馆为章鱼戴上巨大的圣诞帽，并因此创造了一项纪录。KY3 报道称，此举是为了进入吉尼斯世界纪录。该新闻属于趣闻类，没有严肃的公共背景。重点在于这项 необычные 纪录及其视觉效果。",
-      "picture": "画面中，一只章鱼戴着一顶巨大的红色圣诞帽。这个形象突出了这项纪录的荒诞感与节日属性。",
+      "summary": "布兰森一家水族馆给一只章鱼戴上一顶巨大的圣诞帽，从而创下纪录。KY3报道称，这样做是为了申请进入《吉尼斯世界纪录大全》。这则新闻属于趣闻，没有严肃的社会背景。重点在于这项不同寻常的纪录及其视觉效果。",
+      "picture": "图中，一只章鱼戴着一顶巨大的红色圣诞帽。这个形象突出了这一纪录的荒诞和节日气氛。",
       "mentions": null,
       "significance": null,
       "velocity": null,

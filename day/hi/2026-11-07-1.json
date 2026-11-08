@@ -6,10 +6,10 @@
   "events": {
     "us-midterms": {
       "kind": "major",
-      "title": "चुनाव में जीत के बाद डेमोक्रेट्स ट्रंप और उनके एजेंडे पर दबाव बढ़ा रहे हैं",
+      "title": "डेमोक्रेट्स की चुनावी जीत के बाद ट्रंप और उनके एजेंडे पर दबाव बढ़ा",
       "region": "अमेरिका",
-      "summary": "अमेरिकी चुनावों में डेमोक्रेट्स ने उल्लेखनीय सफलता हासिल की है और अब, AP, France 24 और अन्य प्रकाशनों के अनुसार, वे डोनाल्ड ट्रंप और उनके एजेंडे पर दबाव बढ़ा रहे हैं। डेमोक्रेट्स कथित भ्रष्टाचार की जांच, ICE पर नियंत्रण और जीवन-यापन की बढ़ती लागत की समस्या के समाधान को अपनी प्राथमिकताओं के रूप में पेश कर रहे हैं। Los Angeles? नहीं — सामग्री में यह भी उल्लेख है कि इससे विभाजित शासन का एक नया चरण शुरू होता है और 2028 के राष्ट्रपति अभियान से पहले के समीकरणों को प्रभावित कर सकता है। अलग-अलग लेख इस चुनावी नतीजे को व्हाइट हाउस में होने वाले кадровीय फैसलों और वाशिंगटन में रिपब्लिकनों की हार से बदलते एजेंडे से जोड़ते हैं।",
-      "picture": "चित्र में नीली ‘लहर’ लाल दीवार को ढकती दिखती है, पृष्ठभूमि में व्हाइट हाउस की परछाईं है, और नीचे न्यायाधीश का हथौड़ा व मतपत्र पड़े हैं; ढलता हुआ ताज ट्रंप की कमजोर होती स्थिति और डेमोक्रेट्स की बढ़त को दिखाता है।",
+      "summary": "अमेरिकी चुनावों में डेमोक्रेट्स ने उल्लेखनीय सफलता हासिल की है और अब, AP, France 24 और अन्य प्रकाशनों की रिपोर्टों के अनुसार, वे डोनाल्ड ट्रंप और उनके एजेंडे पर दबाव बढ़ा रहे हैं। डेमोक्रेट्स कथित भ्रष्टाचार की जांच, ICE पर नियंत्रण और जीवन-यापन की बढ़ती लागत की समस्या के समाधान को प्राथमिकता बताते हैं। Los Angeles? नहीं — रिपोर्टों में यह भी कहा गया है कि इससे विभाजित शासन का एक नया चरण शुरू होता है और 2028 के राष्ट्रपति अभियान से पहले के राजनीतिक संतुलन पर असर पड़ सकता है। कुछ लेख चुनावों के नतीजों को व्हाइट हाउस में स्टाफ़िंग फैसलों से जोड़ते हैं और यह भी बताते हैं कि रिपब्लिकनों की हार पहले ही वाशिंगटन के एजेंडे को बदल रही है।",
+      "picture": "चित्र में नीली «लहर» व्हाइट हाउस की छाया की पृष्ठभूमि में लाल दीवार को ढकती दिख रही है, और नीचे न्यायाधीश का हथौड़ा तथा मतपत्र पड़े हैं; फिसलता हुआ मुकुट ट्रंप की कमजोर होती स्थिति और डेमोक्रेट्स की बढ़त को दर्शाता है.",
       "mentions": 100,
       "significance": 98,
       "velocity": 61,
@@ -460,10 +460,10 @@
       "region": "लैटिन अमेरिका",
       "summary": "पराग्वे में बैंकिंग संकट ने राष्ट्रपति सैंटियागो पेना के महाभियोग, उनकी गिरफ्तारी और सत्ता के उपराष्ट्रपति को हस्तांतरण तक की स्थिति पैदा कर दी। AP, BBC, Reuters, The Guardian और Le Monde लिखते हैं कि बैंक के पतन के बाद लाखों ग्राहकों की खातों और बचत तक पहुंच खत्म हो गई, जिससे राजनीतिक संकट गहरा गया। विभिन्न रिपोर्टों के अनुसार, पेना को पहले संसद ने पद से हटाया और फिर उन्हें घर में नजरबंद कर दिया गया; नए राष्ट्रपति पेड्रो अल्याना ने शपथ ले ली है। प्रकाशन इस बात पर सहमत हैं कि वित्तीय घोटाले ने देश में राजनीति और वित्त के गहरे संबंध को उजागर किया है।",
       "picture": "चित्र में उलटी हुई राष्ट्रपति की कुर्सी नए शासक के बगल में खड़ी है, चारों ओर टूटे हुए बैंक मुहरों और अदालती कागजों के ढेर हैं। यह पुराने सत्ता-तंत्र के पतन और बैंकिंग संकट के बाद राजनीतिक ढांचे के बदलने का प्रतीक है।",
-      "mentions": 50,
-      "significance": 84,
-      "velocity": 39,
-      "domain_count": 14,
+      "mentions": 62,
+      "significance": 86,
+      "velocity": 51,
+      "domain_count": 19,
       "articles": [
         {
           "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
@@ -632,6 +632,96 @@
         "x": 0.75,
         "y": 0.179,
         "r": 0.202
+      }
+    },
+    "paraguay-aftershocks": {
+      "kind": "major",
+      "title": "पैराग्वे में महाभियोग और पूर्व राष्ट्रपति की गिरफ्तारी के बाद नई सत्ता-व्यवस्था बन रही है",
+      "region": "लैटिन अमेरिका",
+      "summary": "पैराग्वे में बैंकिंग संकट ने राष्ट्रपति सैंटियागो पेना के महाभियोग, उनकी गिरफ्तारी और उपराष्ट्रपति को सत्ता के हस्तांतरण तक की स्थिति पैदा कर दी। AP, BBC, Reuters, The Guardian और Le Monde लिखते हैं कि बैंक के पतन के बाद लाखों ग्राहकों की खातों और बचत तक पहुंच खत्म हो गई, जिससे राजनीतिक संकट भड़क उठा। विभिन्न रिपोर्टों के अनुसार, पेना को पहले संसद ने पद से हटाया और फिर उन्हें घर में नजरबंद किया गया; नए राष्ट्रपति पेद्रो आल्याना को पहले ही शपथ दिलाई जा चुकी है। इन प्रकाशनों की राय में यह वित्तीय घोटाला देश में राजनीति और वित्त के घनिष्ठ संबंध को उजागर करता है.",
+      "picture": "चित्र में उलटी पड़ी राष्ट्रपति की कुर्सी नए शासक के बगल में एक चबूतरे पर दिखती है, और चारों ओर टूटी हुई बैंक मुहरें तथा न्यायिक कागज़ात बिखरे हैं। यह पुराने सत्ता-तंत्र के पतन और बैंकिंग संकट के बाद राजनीतिक ढांचे में बदलाव का प्रतीक है.",
+      "mentions": 50,
+      "significance": 84,
+      "velocity": 39,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+          "published": "2026-11-07T09:42:52+00:00"
+        },
+        {
+          "title": "Сенат Парагвая объявил импичмент президенту, его отправили под домашний арест. Он ушел в отставку после краха банка, обслуживавшего большинство жителей страны",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/senat-paragvaya-ob-yavil-impichment-prezidentu-ego-otpravili-pod-domashniy-arest-on-ushel-v-otstavku-posle-kraha-banka-obsluzhivavshego-bolshinstvo-zhiteley-strany",
+          "published": "2026-11-07T08:53:59+00:00"
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:20:00+00:00"
+        },
+        {
+          "title": "Au Paraguay, la destitution du président, Santiago Peña, met en lumière les collusions entre le pouvoir politique et celui de la finance",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html",
+          "published": "2026-11-07T06:41:20+00:00"
+        },
+        {
+          "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+          "published": "2026-11-07T06:18:38+00:00"
+        },
+        {
+          "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+          "published": "2026-11-07T05:51:23+00:00"
+        },
+        {
+          "title": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+          "published": "2026-11-07T02:14:00+00:00"
+        },
+        {
+          "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "published": "2026-11-07T01:55:11+00:00"
+        },
+        {
+          "title": "Crisis-hit Paraguay impeaches Pena, replaces him with VP Alliana - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDZ1MzUtNmx6bHZianRVSzVqV0VNT0J0Wk5kcnJiWldqbE5sOG5VbWh3eUYtNzFBNzdLcjhuQWVIT0t4cHFrRjUtaEcweUVtbXQyRjExak5qblBldlBnRE8wSjU2cVhZcFFhYlNzQVQxNjJSVDZFclBZWVE1NDFPQUI5a0pOTElu?oc=5",
+          "published": "2026-11-07T01:50:42+00:00"
+        },
+        {
+          "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published": "2026-11-07T01:29:30+00:00"
+        },
+        {
+          "title": "Fuero, clave en la destitución de Santiago Peña; es el segundo presidente paraguayo que sale por un juicio político",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/fuero-clave-en-la-destitucion-de-santiago-pena-es-el-segundo-presidente-paraguayo-que-sale-por-un-juicio-politico/",
+          "published": "2026-11-07T00:11:56+00:00"
+        },
+        {
+          "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+          "published": "2026-11-06T23:56:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
       }
     },
     "kenya-cult-sentencing": {

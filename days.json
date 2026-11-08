@@ -49,7 +49,7 @@
         "r": 0.151
       },
       {
-        "id": "iran-us-friction",
+        "id": "hormuz-shipping-risk",
         "x": 0.5,
         "y": 0.286,
         "r": 0.26
@@ -298,7 +298,7 @@
         "r": 0.202
       },
       {
-        "id": "paraguay-bank-collapse",
+        "id": "paraguay-aftershocks",
         "x": 0.263,
         "y": 0.407,
         "r": 0.221
@@ -547,7 +547,7 @@
         "r": 0.221
       },
       {
-        "id": "europe-protests",
+        "id": "france-protests-cost-of-living",
         "x": 0.362,
         "y": 0.121,
         "r": 0.264
@@ -784,7 +784,7 @@
         "r": 0.23
       },
       {
-        "id": "europe-protests",
+        "id": "france-cost-of-living-strike",
         "x": 0.312,
         "y": 0.196,
         "r": 0.3
@@ -814,7 +814,7 @@
         "r": 0.151
       },
       {
-        "id": "hong-kong-markets-ai",
+        "id": "ai-spending-selloff",
         "x": 0.5,
         "y": 0.143,
         "r": 0.151
@@ -1015,7 +1015,7 @@
         "r": 0.3
       },
       {
-        "id": "ukraine-oleshky",
+        "id": "ukraine-talks",
         "x": 0.652,
         "y": 0.138,
         "r": 0.283
@@ -1051,7 +1051,7 @@
         "r": 0.151
       },
       {
-        "id": "asia-security",
+        "id": "south-korea-north-korea-tension",
         "x": 0.514,
         "y": 0.843,
         "r": 0.3

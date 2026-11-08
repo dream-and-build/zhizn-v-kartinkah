@@ -6,10 +6,10 @@
   "events": {
     "russia-state-pressure-assets": {
       "kind": "major",
-      "title": "Москва усиливает давление на бизнес, активы и информационный контроль внутри России",
-      "region": "Россия",
-      "summary": "В подборке есть несколько материалов, но они не связаны с Россией и давлением на бизнес: речь о расследовании в Нигерии, политике в Бразилии, заявлениях Зеленского, выборах в Израиле, суде в Бельгии и других темах. Ни одна из приведённых статей не описывает усиление давления Москвы на бизнес, активы или информационный контроль внутри России. Поэтому по доступным текстам это событие не подтверждается.",
-      "picture": "На картине государственная рука сковывает цепью заводские трубы, банковские хранилища и документы. Образ означает жёсткий контроль власти над экономикой, собственностью и информацией.",
+      "title": "Moskova, Rusya içinde iş dünyası, varlıklar ve bilgi kontrolü üzerindeki baskıyı artırıyor",
+      "region": "Rusya",
+      "summary": "Derlemede birkaç haber yer alıyor, ancak bunlar Rusya ve iş dünyası üzerindeki baskıyla bağlantılı değil: Nijerya’daki bir soruşturma, Brezilya siyaseti, Zelenskiy’nin açıklamaları, İsrail seçimleri, Belçika’daki dava ve başka konular ele alınıyor. Verilen makalelerin hiçbiri Moskova’nın Rusya içinde iş dünyası, varlıklar ya da bilgi kontrolü üzerindeki baskısını artırdığını anlatmıyor. Bu nedenle mevcut metinlere göre bu olay doğrulanmıyor.",
+      "picture": "Resimde devletin eli zincirle fabrika bacalarını, banka kasalarını ve belgeleri bağlıyor. Bu görüntü, iktidarın ekonomi, mülkiyet ve bilgi üzerindeki sıkı kontrolünü simgeliyor.",
       "mentions": 100,
       "significance": 73,
       "velocity": 86,
@@ -96,10 +96,10 @@
     },
     "us-midterms": {
       "kind": "major",
-      "title": "Demokratlar Trump’a tarihi bir darbe vurdu ve Kongre’de güç dengelerini ele geçirdi",
+      "title": "Demokratlar Kongre üzerindeki kontrolünü güçlendiriyor ve Trump’a karşı mücadelenin yeni bir safhasını başlatıyor",
       "region": "ABD",
-      "summary": "Medya haberlerine göre Demokratlar ABD’deki ara seçimlerde büyük bir zafer elde ederek Kongre’deki konumlarını güçlendirdi. Birkaç yayın organı, sonucun Donald Trump için ağır bir yenilgi anlamına geldiğini ve Cumhuriyetçi Parti içinde başarısızlığın nedenlerine ilişkin tartışmaları alevlendirdiğini yazıyor. Reuters ve diğer medya kuruluşları, Demokratların dış politika ve İran savaşı başta olmak üzere Trump’ı sınırlama girişimlerinde kullanabilecekleri araçlar kazandığını, ancak Beyaz Saray’ın hâlâ önemli ölçüde yetkiyi elinde tuttuğunu belirtiyor. Ayrı haberlerde, Demokratlara Latin kökenli seçmenler arasındaki desteğin arttığı ve sonuçların uluslararası hesaplamalara etkisi vurgulanıyor.",
-      "picture": "Mavi bir dalga kırmızı bir tacı devirmiş; yanında kırık bir çekiç ve etrafa saçılmış kampanya afişleri var. Görsel, eski siyasi kontrolün çöküşünü ve gücün Demokratlara geçişini anlatıyor.",
+      "summary": "ABD ara seçimlerinde Demokratların, bazı yayınlara göre, Kongre’deki konumlarını güçlendirdiği ve Temsilciler Meclisi’ndeki üstünlüğünü artırdığı bildirildi. Reuters, The Guardian ve Le Monde, Cumhuriyetçilerin önemli kayıplar yaşadığını ve Trump’ın partisinde karşılıklı suçlamaların başladığını yazıyor. Bazı yayınlar, Demokratların artık Trump’ı sınırlamanın yeni bir aşamasından söz ettiğini, Demokratlar arasında ise 2028 seçimlerine yönelik liderlik ve kampanya tartışmalarının başladığını belirtiyor. Zelenskiy ayrıca bu sonuçlardan sonra Ukrayna’ya daha güçlü destek beklediğini söyledi.",
+      "picture": "Çizimde oy sandığı kırmızı-beyaz-mavi bir tacı yutuyor, mavi bir dalga ise kırık bir çekiç sembolünü siliyor. Bu, seçim sonrası siyasi ağırlık değişimini ve eski düzenin zayıflamasını simgeliyor.",
       "mentions": 98,
       "significance": 95,
       "velocity": 52,
@@ -186,10 +186,10 @@
     },
     "uk-cyber-justice-resignations": {
       "kind": "major",
-      "title": "В Британии и США нарастает скандальная турбулентность вокруг правосудия и киберугроз",
+      "title": "Britanya ve ABD’de adalet ve siber tehditler etrafında skandal dalgalanması büyüyor",
       "region": "Avrupa",
-      "summary": "В Британии и США одновременно развиваются несколько сюжетов вокруг правосудия и безопасности. Reuters, AP и Guardian сообщают об отставке Хармит Дхиллон, возглавлявшей гражданское подразделение Минюста США, после тяжёлого поражения республиканцев на выборах. CBS пишет о мексиканском судье, которого США обвиняют во взятке по крупному наркокейсу. Кроме того, в Петербурге полиция сорвала вечер писем политзаключённым, а ТАСС передаёт предупреждение о якобы готовящихся кибератаках на холодильные системы критической инфраструктуры в США.",
-      "picture": "На рисунке треснувшее здание суда соединено со светящимся экраном, а из цифрового замка высыпается засекреченное досье. Этот образ показывает, как правосудие и киберугрозы оказываются в одной зоне кризиса и контроля.",
+      "summary": "Britanya ve ABD’de aynı anda adalet ve güvenlik etrafında birkaç başlık gelişiyor. Reuters, AP ve Guardian, ABD Adalet Bakanlığı’nın sivil bölümüne başkanlık eden Harmeet Dhillon’un, Cumhuriyetçilerin seçimlerde ağır yenilgi almasının ardından istifa ettiğini bildiriyor. CBS, ABD’nin büyük bir uyuşturucu davasında rüşvetle suçladığı Meksikalı bir yargıçtan söz ediyor. Ayrıca St. Petersburg’da polis, siyasi tutuklulara mektup yazma akşamını dağıttı; TASS ise ABD’de kritik altyapının soğutma sistemlerine yönelik olduğu iddia edilen siber saldırı hazırlıkları konusunda bir uyarı aktarıyor.",
+      "picture": "Çatlamış bir adliye binası parlayan bir ekranla birleşiyor, dijital bir kilitten ise gizli bir dosya saçılıyor. Bu görüntü, adalet ile siber tehditlerin aynı kriz ve kontrol alanına düştüğünü gösteriyor.",
       "mentions": 76,
       "significance": 77,
       "velocity": 86,
@@ -276,10 +276,10 @@
     },
     "palestine-israel-friction": {
       "kind": "major",
-      "title": "Газа и палестинские территории выживают среди руин, дефицита и попыток добыть энергию своими силами",
-      "region": "Палестина",
-      "summary": "В Газе продолжаются жертвы от израильских ударов: Le Monde и Arab News сообщают о гибели людей, включая ребёнка. При этом Al Jazeera пишет о финале турнира в Газе, посвящённого погибшим спортсменам, что подчеркивает попытки сохранить общественную жизнь на фоне войны. Другие материалы в подборке к теме напрямую не относятся.",
-      "picture": "Нарисована маленькая ветряная турбина из обломков рядом с треснувшей оливой, разрушенной стеной и пустой канистрой. Это образ выживания в руинах и попытки добыть хоть какую-то энергию своими силами.",
+      "title": "Gazze ve Filistin toprakları, moloz, kıtlık ve kendi imkânlarıyla enerji üretme çabası arasında ayakta kalıyor",
+      "region": "Filistin",
+      "summary": "Gazze’de İsrail saldırılarında can kayıpları sürüyor: Le Monde ve Arab News, bir çocuk da dahil olmak üzere insanların öldüğünü bildiriyor. Öte yandan Al Jazeera, Gazze’de ölen sporculara adanan bir turnuvanın finalini haberleştirerek savaşın ortasında toplumsal hayatı sürdürme çabasını öne çıkarıyor. Derlemedeki diğer haberler bu konuya doğrudan temas etmiyor.",
+      "picture": "Yıkılmış bir duvarın yanında, kırık bir zeytin ağacı ve boş bir bidonun yakınında molozlardan yapılmış küçük bir rüzgâr türbini çizilmiş. Bu, yıkıntılar içinde hayatta kalma ve kendi imkânlarıyla az da olsa enerji bulma çabasını anlatıyor.",
       "mentions": 76,
       "significance": 89,
       "velocity": 93,
@@ -366,14 +366,14 @@
     },
     "europe-protests": {
       "kind": "major",
-      "title": "Sahte bomba ihbarları ve Avrupa’daki sabotajlar ulaşımı ve güvenliği bozuyor",
+      "title": "Avrupa’yı bir kez daha sahte bomba ihbarları ve hava trafiği aksamaları dalgası vurdu",
       "region": "Avrupa",
-      "summary": "Fransa’da yetkililerin politikalarına karşı yeni gösteriler ve grevler bekleniyor. AFP, Reuters, France24 ve The Guardian, sendikaların yaşam maliyetindeki artış, eğitim alanındaki sorunlar ve Emmanuel Macron’un çizgisinden duyulan hoşnutsuzluk nedeniyle ülke çapında eylem çağrısı yaptığını yazıyor. Haberlere göre grevlere hastane, havacılık ve demiryolu çalışanları da katılacak. Yayınlar, protestoların önceki dalgaların ardından hükümet için yeni bir sınav hâline geldiğini belirtiyor.",
-      "picture": "Barikatlarla kapatılmış, parçalanmış bir karnaval platformu ve bağlı bir tren, durmuş gündelik yaşamı anlatıyor. Bu, ülkenin hareketini durduran kitlesel protestonun bir görüntüsü.",
-      "mentions": 67,
-      "significance": 72,
-      "velocity": 79,
-      "domain_count": 19,
+      "summary": "Fransa’da yaşam maliyetindeki artışa karşı yeni bir genel protesto ve grev dalgası yaşandı. TASS, Meduza, FT, BBC ve Le Monde’un aktardığına göre yüz binlerden yaklaşık 1,6 milyona kadar kişi sokaklara çıktı; sendikalar ücret artışı ve kamu hizmetlerinin iyileştirilmesini talep etti. Fransız yetkililer yaklaşık 450 kişinin gözaltına alındığını ve 53 polisin yaralandığını açıkladı. Aynı anda Avrupa’da birkaç uçuşa yönelik sahte bomba ihbarları gecikmelere ve aksamalara yol açtı, ancak bu daha geniş istikrarsızlık haber dalgası içinde ayrı bir başlık olarak yer aldı.",
+      "picture": "Resimde kalabalık, kırılmış bir ücret terazisini taşıyor; pankartlar ise yırtık bir köprüye dönüşüyor. Bu, pahalılığa karşı protestoların ve sosyal sözleşmenin kırılganlığının simgesi.",
+      "mentions": 74,
+      "significance": 78,
+      "velocity": 83,
+      "domain_count": 22,
       "articles": [
         {
           "title": "Во Франции задержали почти 450 участников протестов против роста цен",
@@ -456,10 +456,10 @@
     },
     "israel-election": {
       "kind": "major",
-      "title": "Израиль входит в новый политический передел, где соперники Нетаньяху собирают большинство",
-      "region": "Израиль",
-      "summary": "В Израиле после выборов не определился явный победитель, и партии начали переговоры о формировании коалиции. The New York Times, Guardian и Le Monde пишут, что президент Ицхак Герцог встречается с соперничающими блоками, а у Гади Эйзенкота появляется поддержка арабских партий и части других сил. Reuters отмечает, что позиции Нетаньяху ослабли, потому что соперник собрал более широкую поддержку для попытки сформировать правительство.",
-      "picture": "На рисунке корона разделена надвое и висит над урной на канате, а руки тянут её в разные стороны. Это образ расколотой политической сцены и борьбы за право собрать большинство.",
+      "title": "İsrail, Netanyahu’nun rakiplerinin çoğunluğu topladığı yeni bir siyasi yeniden yapılanmaya giriyor",
+      "region": "İsrail",
+      "summary": "İsrail’de seçimlerin ardından açık bir kazanan çıkmadı ve partiler koalisyon kurmak için görüşmelere başladı. The New York Times, Guardian ve Le Monde, Cumhurbaşkanı İshak Herzog’un rakip bloklarla görüştüğünü, Gadi Eisenkot’un ise Arap partilerinin ve bazı başka güçlerin desteğini aldığını yazıyor. Reuters, rakibin hükümeti kurma girişimi için daha geniş destek toplaması nedeniyle Netanyahu’nun konumunun zayıfladığını belirtiyor.",
+      "picture": "Çizimde bir taç ikiye ayrılmış halde bir ip üzerinde sandığın üzerinde asılı duruyor; eller ise onu farklı yönlere çekiyor. Bu, bölünmüş siyasi sahnenin ve çoğunluğu toplama mücadelesinin bir ifadesi.",
       "mentions": 74,
       "significance": 84,
       "velocity": 71,
@@ -546,10 +546,10 @@
     },
     "paraguay-bank-collapse": {
       "kind": "major",
-      "title": "Президент Парагвая уходит в отставку после банковского краха и давления на власть",
-      "region": "Латинская Америка",
-      "summary": "Президент Парагвая Сантьяго Пенья подал в отставку на фоне банковского краха и давления на власть. Reuters, BBC, AP, NPR и другие издания сообщают, что кризис связан с Ueno Bank, после его краха у миллионов людей возникли проблемы с доступом к счетам и сбережениям. По разным сообщениям, парламент затем запустил процедуру импичмента или одобрил её, а исполнять обязанности может вице-президент Педро Аллиана. Издания сходятся в том, что финансовый скандал быстро перерос в политический кризис.",
-      "picture": "Треснувшее банковское хранилище опрокидывает президентское кресло в провал, а бумаги разлетаются вокруг. Это образ того, как финансовый обвал валит и государственную власть.",
+      "title": "Paraguay Cumhurbaşkanı bankacılık çöküşü ve iktidara yönelik baskı sonrası istifa ediyor",
+      "region": "Latin Amerika",
+      "summary": "Paraguay Cumhurbaşkanı Santiago Peña, bankacılık çöküşü ve iktidar üzerindeki baskı nedeniyle istifa etti. Reuters, BBC, AP, NPR ve diğer yayınlar, krizin Ueno Bank ile bağlantılı olduğunu; bankanın çöküşünden sonra milyonlarca kişinin hesaplarına ve birikimlerine erişimde sorun yaşadığını bildiriyor. Çeşitli haberlerde parlamentonun ardından azil sürecini başlattığı ya da onayladığı, görevleri ise yardımcısı Pedro Alliana’nın üstlenebileceği aktarılıyor. Yayınlar, mali skandalın hızla siyasi krize dönüştüğü konusunda hemfikir.",
+      "picture": "Çatlamış bir banka kasası, başkanlık koltuğunu bir boşluğa devriliyor ve evraklar etrafa saçılıyor. Bu görüntü, mali çöküşün devlet iktidarını da nasıl sarsabildiğini anlatıyor.",
       "mentions": 67,
       "significance": 88,
       "velocity": 86,
@@ -634,12 +634,102 @@
         "r": 0.23
       }
     },
+    "france-cost-of-living-strike": {
+      "kind": "major",
+      "title": "Fransa’yı yaşam maliyeti nedeniyle yeni bir grev ve protesto dalgası sardı",
+      "region": "Avrupa",
+      "summary": "Fransa’da yaşam maliyetindeki artışa karşı yeni bir genel protesto ve grev dalgası yaşandı. TASS, Meduza, FT, BBC ve Le Monde’un aktardığına göre yüz binlerden yaklaşık 1,6 milyona kadar kişi sokaklara çıktı; sendikalar ücret artışı ve kamu hizmetlerinin iyileştirilmesini talep etti. Fransız yetkililer yaklaşık 450 kişinin gözaltına alındığını ve 53 polisin yaralandığını açıkladı. Aynı anda Avrupa’da birkaç uçuşa yönelik sahte bomba ihbarları gecikmelere ve aksamalara yol açtı, ancak bu daha geniş istikrarsızlık haber dalgası içinde ayrı bir başlık olarak yer aldı.",
+      "picture": "Resimde kalabalık, kırılmış bir ücret terazisini taşıyor; pankartlar ise yırtık bir köprüye dönüşüyor. Bu, pahalılığa karşı protestoların ve sosyal sözleşmenin kırılganlığının simgesi.",
+      "mentions": 67,
+      "significance": 72,
+      "velocity": 79,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "Во Франции задержали почти 450 участников протестов против роста цен",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28290411",
+          "published": "2026-11-05T19:14:56+00:00"
+        },
+        {
+          "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblN6SXBxQ2x2LUZZYXBQd1ZlLTc5SE9sOXZYV0JyelE0X0p5RlNFOHV2MzR5T1lTTHZORlRzWmdVQndTcjhESjhvbV84eU1IeXZsVmwwV2VNMElhbTlJVFhzMV9fRy02Z01jX2Z0X1hTbFVwV3lzVUhKUURQQkYtU3Voc2RpOHFSNHRDNXUzb2NsWVB0dHRoN19wU0dvTVd6OEhnV1VYclpqdw?oc=5",
+          "published": "2026-11-05T19:04:00+00:00"
+        },
+        {
+          "title": "Passengers Tell of Fear After Bomb Threats Hit European Flights",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+          "published": "2026-11-05T18:42:52+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+          "published": "2026-11-05T18:17:36+00:00"
+        },
+        {
+          "title": "Во Франции — снова массовые протесты из-за роста стоимости жизни. По данным организаторов, на улицы вышли около 1,6 миллиона человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/05/vo-frantsii-snova-massovye-protesty-iz-za-rosta-stoimosti-zhizni-po-dannym-organizatorov-na-ulitsy-vyshli-okolo-1-6-milliona-chelovek",
+          "published": "2026-11-05T18:10:02+00:00"
+        },
+        {
+          "title": "More than 600,000 join latest protests in France",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
+          "published": "2026-11-05T18:08:53+00:00"
+        },
+        {
+          "title": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+          "published": "2026-11-05T18:06:19+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "Torre Eiffel cierra sus puertas por huelga nacional en Francia; museos de París también reportan afectaciones",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/torre-eiffel-cierra-sus-puertas-por-huelga-nacional-en-francia-museos-de-paris-tambien-reportan-afectaciones/",
+          "published": "2026-11-05T17:49:48+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:39:52+00:00"
+        },
+        {
+          "title": "Largely peaceful marches take place across France as workers stage strike",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2042372/largely-peaceful-marches-take-place-across-france-as-workers-stage-strike",
+          "published": "2026-11-05T17:07:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.196,
+        "r": 0.3
+      }
+    },
     "ukraine-oleshky": {
       "kind": "major",
-      "title": "Rusya Ukrayna’nın altyapısını vuruyor ve müzakereler üzerindeki baskıyı artırıyor",
+      "title": "Rusya, Ukrayna’nın enerji altyapısına vurmayı sürdürüyor; şehirler elektriksiz ve susuz kalıyor",
       "region": "Ukrayna",
-      "summary": "Medya kuruluşları, Ukrayna altyapısına yönelik yeni Rus saldırılarını ve sahadaki ağır sonuçları bildiriyor. Euronews, 128 dronun katıldığı gece saldırısının ardından Kiev bölgesindeki bir lojistik tesisinde çıkan yangını yazarken, Ukrayna Enerji Bakanlığı Kiev ve çevresinde elektrik durumunun zor olduğunu açıkladı. Al Jazeera, Rusya’nın bir Ukrayna posta merkezini ve bir gemiyi vurduğunu söylediğini, enerji ve lojistik tesislerine yönelik karşılıklı gece saldırıları yaşandığını aktarıyor. Ukrayna medyası ayrıca Kamyşevaha’daki bir okulun enkazı altında 42 kişinin öldüğünü bildiriyor ve kurtarma operasyonunun videosunu yayımlıyor.",
-      "picture": "Parlayan dar bir köprü, valizleriyle birlikte aileleri yıkılmış altyapıdan geçiriyor. Bu ağır görüntü, enerji ve lojistiğe yönelik saldırılar karşısında tahliye ve hayatta kalmayı anlatıyor.",
+      "summary": "Volodimir Zelenskiy, Ukrayna’daki tüm elektrik santrallerinin hasar gördüğünü ve ülkenin elektrik şebekesiyle uyumlu ekipmana ihtiyaç duyduğunu söyledi. TASS, Pravda ve diğer kaynaklar da Kiev’deki kesintilere yönelik protestolara verilen tepkiyle birlikte uzun süreli elektrik kesintileri yazıyor. Bunun yanında Reuters ve AP, Rusya ile Ukrayna arasındaki karşılıklı saldırıların sürdüğünü bildiriyor. Yayınlar, enerji altyapısının savaşın başlıca hedeflerinden biri olmaya devam ettiğinde birleşiyor.",
+      "picture": "Dar bir ışık köprüsünün üzerinde valizleriyle ilerleyen aileler görülüyor; arkada ise kopmuş elektrik hatları kıvılcımlar saçıyor ve yukarıda bir drone asılı duruyor. Bu, elektriksiz yaşamı ve sürekli saldırı tehdidini anlatıyor.",
       "mentions": 67,
       "significance": 97,
       "velocity": 77,
@@ -726,10 +816,10 @@
     },
     "south-africa-anc-loss": {
       "kind": "major",
-      "title": "В Южной Африке ANC теряет опору и страна уходит в новую фазу политического передела",
+      "title": "Güney Afrika’da ANC dayanağını kaybediyor ve ülke yeni bir siyasi yeniden yapılanma aşamasına giriyor",
       "region": "Afrika",
-      "summary": "В Южной Африке продолжается политический кризис вокруг падения влияния ANC. Financial Times пишет, что движение Нельсона Манделы стало партией меньшинства в крупнейших городах, а News24 сообщает о политических убийствах, арестах и инцидентах в ходе избирательного периода. В подборке также есть материалы о протестах во Франции и других темах, но к событию они напрямую не относятся.",
-      "picture": "На рисунке выцветший партийный флаг соскальзывает со стены, а внизу стоят урны и сломанные фонари. Это символ ослабления когда-то доминирующей партии и политического передела.",
+      "summary": "Güney Afrika’da ANC’nin etkisini yitirmesi çevresindeki siyasi kriz sürüyor. Financial Times, Nelson Mandela’nın hareketinin en büyük şehirlerde artık bir azınlık partisi haline geldiğini yazarken, News24 seçim dönemi boyunca siyasi cinayetler, tutuklamalar ve olaylar yaşandığını bildiriyor. Derlemede ayrıca Fransa’daki protestolar ve başka konular da yer alıyor, ancak bunlar bu olayla doğrudan ilgili değil.",
+      "picture": "Resimde solmuş bir parti bayrağı duvardan aşağı kayıyor; altında ise oy sandıkları ve kırık lambalar duruyor. Bu, bir zamanlar baskın olan bir partinin zayıflamasını ve siyasi yeniden yapılanmayı simgeliyor.",
       "mentions": 67,
       "significance": 74,
       "velocity": 86,
@@ -816,14 +906,14 @@
     },
     "hong-kong-markets-ai": {
       "kind": "major",
-      "title": "Рынки распродают AI-историю на фоне страхов о перегреве расходов и регуляторном ударе",
-      "region": "Dünya / kripto",
-      "summary": "Рынки резко распродали акции, связанные с ИИ, на фоне опасений перегрева и больших расходов. TASS пишет, что Nasdaq упал более чем на 5%, а бумаги Nvidia просели почти на 9%; AP и Al Jazeera сообщают о сильном падении S&P 500 и о том, что инвесторы переоценивают AI-торговлю. Bloomberg, Reuters и CNBC обсуждают Anthropic и вопрос, заканчивается ли нынешний AI-бум. Финансовые рынки в этот день явно реагируют на страх замедления и возможного регуляторного давления.",
-      "picture": "Схематическая плата высится и прогибается под грудой монет, а ценовые ленты падают вниз. Это образ лопающегося пузыря вокруг искусственного интеллекта и давления денег на технологии.",
-      "mentions": 64,
-      "significance": 93,
-      "velocity": 56,
-      "domain_count": 18,
+      "title": "Hong Kong, teknoloji etrafında siyasi baskı ve ekonomik kaygıyı bir arada yaşıyor",
+      "region": "Asya",
+      "summary": "Aşırı ısınma ve yüksek maliyet kaygıları nedeniyle yapay zekâ ile bağlantılı hisselerde sert satış yaşandı. TASS, Nasdaq’ın yüzde 5’ten fazla düştüğünü ve Nvidia hisselerinin yaklaşık yüzde 9 gerilediğini yazarken; AP ve Al Jazeera, S&P 500’de sert düşüş olduğunu ve yatırımcıların AI işlemlerini yeniden değerlendirdiğini bildiriyor. Bloomberg, Reuters ve CNBC ise Anthropic’i ve mevcut AI patlamasının sona erip ermediği sorusunu tartışıyor. Finans piyasaları o gün açık biçimde yavaşlama korkusu ve olası düzenleyici baskıya tepki veriyor.",
+      "picture": "Şematik bir devre kartı, bir para yığınının altında yükselip eğiliyor; fiyat şeritleri ise aşağı doğru düşüyor. Bu, yapay zekâ etrafındaki balonun patlaması ve paranın teknoloji üzerindeki baskısının bir görüntüsü.",
+      "mentions": 67,
+      "significance": 70,
+      "velocity": 57,
+      "domain_count": 19,
       "articles": [
         {
           "title": "How to Get Exposure to Anthropic Through ETFs Before and After the IPO",
@@ -906,10 +996,10 @@
     },
     "ronaldo-retirement": {
       "kind": "major",
-      "title": "Криштиану Роналду завершает международную карьеру после 23 лет в сборной",
+      "title": "Cristiano Ronaldo, millî takımda 23 yılın ardından uluslararası kariyerini noktalıyor",
       "region": "Dünya / kripto",
-      "summary": "Криштиану Роналду объявил о завершении международной карьеры в сборной Португалии. По Reuters, AFP, France24, AP и другим изданиям, он уходит после более чем двух десятилетий в национальной команде и в 41 год закрывает этот этап. Несколько публикаций связывают решение с конфликтом с тренером Жорже Жезушем, но все сходятся в том, что это конец эпохи для португальской сборной.",
-      "picture": "На рисунке рядом с потёртым бутсом лежит выцветший национальный флаг, а трофей рекордов опущен на землю. Это знак завершения долгой и очень заметной карьеры.",
+      "summary": "Cristiano Ronaldo, Portekiz millî takımındaki uluslararası kariyerini sonlandırdığını açıkladı. Reuters, AFP, France24, AP ve diğer yayınlara göre, 41 yaşındaki yıldız yirmi yılı aşkın süre sonra bu dönemi kapatıyor. Birkaç haber, kararın teknik direktör Jorge Jesus ile yaşanan anlaşmazlıkla bağlantılı olabileceğini yazsa da hepsi bunun Portekiz millî takımı için bir dönemin sonu olduğu konusunda birleşiyor.",
+      "picture": "Resimde, yıpranmış bir kramponun yanında solmuş bir ulusal bayrak yatıyor ve rekor kupası yere indirilmiş durumda. Bu, uzun ve çok dikkat çekici bir kariyerin sona erdiğinin işareti.",
       "mentions": 67,
       "significance": 54,
       "velocity": 73,
@@ -994,12 +1084,102 @@
         "r": 0.151
       }
     },
+    "ai-spending-selloff": {
+      "kind": "major",
+      "title": "Piyasalar, aşırı ısınma harcamaları ve düzenleyici darbe korkusu nedeniyle AI hikâyesini satıyor",
+      "region": "Dünya / kripto",
+      "summary": "Aşırı ısınma ve yüksek maliyet kaygıları nedeniyle yapay zekâ ile bağlantılı hisselerde sert satış yaşandı. TASS, Nasdaq’ın yüzde 5’ten fazla düştüğünü ve Nvidia hisselerinin yaklaşık yüzde 9 gerilediğini yazarken; AP ve Al Jazeera, S&P 500’de sert düşüş olduğunu ve yatırımcıların AI işlemlerini yeniden değerlendirdiğini bildiriyor. Bloomberg, Reuters ve CNBC ise Anthropic’i ve mevcut AI patlamasının sona erip ermediği sorusunu tartışıyor. Finans piyasaları o gün açık biçimde yavaşlama korkusu ve olası düzenleyici baskıya tepki veriyor.",
+      "picture": "Şematik bir devre kartı, bir para yığınının altında yükselip eğiliyor; fiyat şeritleri ise aşağı doğru düşüyor. Bu, yapay zekâ etrafındaki balonun patlaması ve paranın teknoloji üzerindeki baskısının bir görüntüsü.",
+      "mentions": 64,
+      "significance": 93,
+      "velocity": 56,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "How to Get Exposure to Anthropic Through ETFs Before and After the IPO",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/how-to-get-exposure-to-anthropic-through-etfs-before-and-after-the-ipo",
+          "published": "2026-11-05T19:28:34+00:00"
+        },
+        {
+          "title": "Котировки Nasdaq упали более чем на 5%",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28290429",
+          "published": "2026-11-05T19:25:45+00:00"
+        },
+        {
+          "title": "NASA's Hubble studied dwarf galaxies and found they kept just 11% of the oxygen made by their stars",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/space/nasas-hubble-uncovers-mystery-of-missing-oxygen-in-dwarf-galaxies/articleshow/135558760.cms",
+          "published": "2026-11-05T19:22:00+00:00"
+        },
+        {
+          "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
+          "published": "2026-11-05T19:00:09+00:00"
+        },
+        {
+          "title": "CNBC's experts on whether the AI trade is ending and what investors should do next - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTlYemZKWHZrM1prVjdSeWptNFBoaDFoZ3h0aWlEOFR6d21ObDgxWkhDd2hIeEJzc2ZoaHA3LW5PcDF2bVdzTEtaaU1fNGFEN0syRlduM2JFYTJUM2t2RWFrOEVlM1ZXMkw4N0F5RGk0RWtnUk9DcGcyRURhNjhTTV9BVldXTjBnbDVNaXNyMnM1dmVoX0dCQzFmWUlYbTZiZUFfR1lZcFQ2ek02N1BNOHRHQlFzRGVteXfSAb8BQVVfeXFMTVJ5amJCa21EREViSkR0dTNuN2FQc05IcTlzUE1pT0NSVlB6WGJVTi1fTjlCVGl1TG9PcnRKcFNGUldUVkNQVk1KVlVjcWRwcHVqcmdfYi1FdUdlWlllOFRPTE9zSTlNay1kS09WZk5kN21WbWpvSkE5Y1p4Y1NtNk0tMjMzQ2tyTEVTSzVQbG1lbVk3SU55allvZXBQeFFrMGd4QXMxNDlob2x2UXo0bk13QUFHSmQxMWVTLWlEa2c?oc=5",
+          "published": "2026-11-05T18:58:48+00:00"
+        },
+        {
+          "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
+          "published": "2026-11-05T18:53:41+00:00"
+        },
+        {
+          "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3% - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+          "published": "2026-11-05T18:52:00+00:00"
+        },
+        {
+          "title": "Ken Salazar prevé freno de acciones del ICE contra migrantes en EU; apuesta por una mejor negociación del T-MEC",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/ken-salazar-preve-freno-de-acciones-del-ice-contra-migrantes-en-eu-apuesta-por-una-mejor-negociacion-del-t-mec/",
+          "published": "2026-11-05T18:30:03+00:00"
+        },
+        {
+          "title": "MultiChoice introduces new DStv, GOtv packages",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923028-multichoice-introduces-new-dstv-gotv-packages.html",
+          "published": "2026-11-05T18:28:01+00:00"
+        },
+        {
+          "title": "Portugal: Cristiano Ronaldo announces his international retirement",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+          "published": "2026-11-05T18:16:53+00:00"
+        },
+        {
+          "title": "AI stocks plunge after US election, driving down markets",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+          "published": "2026-11-05T17:56:17+00:00"
+        },
+        {
+          "title": "European stocks overtake Wall Street following Democratic sweep",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+          "published": "2026-11-05T17:41:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
     "iran-hormuz": {
       "kind": "major",
-      "title": "İran’la savaş siyasi geri tepme yarattı, Hürmüz yeniden risk noktasına dönüştü",
+      "title": "İran ve ABD, tanker saldırılarının ardından Hürmüz çevresinde gerilimi yeniden yükseltiyor",
       "region": "Orta Doğu",
-      "summary": "Haberler, İran’a karşı yürütülen savaşın sonuçları ve Hürmüz Boğazı çevresindeki risklerle bağlantılı. İran medyası ve yabancı yayınlar, ABD seçim sonuçlarının sözde Amerikalıların savaşı reddettiğini gösterdiğini ve Donald Trump’ın, iddialara göre, çatışmanın Cumhuriyetçi yenilgisi üzerindeki etkisini kabul ettiğini yazıyor. Reuters, FT ve Bloomberg ise ABD’deki siyasi geri çekilme ortamında Hürmüz çevresindeki durumun yumuşayabileceğine dair beklentilerin arttığını ve piyasaların petrol fiyatlarında düşüşle tepki verdiğini aktarıyor. Ancak yazılarda, bunun dış politikanın Kongre’ye devri anlamına gelmediği, yalnızca yönetim üzerinde baskı kurmak için yeni fırsatlar sunduğu vurgulanıyor.",
-      "picture": "Mayınlar, savaş gemileri ve üzerlerinde asılı duran eller arasında sıkışmış bir tanker, Hürmüz’deki deniz taşımacılığının kırılganlığını simgeliyor. Petrol damlalarının kıvılcıma dönüşmesi, askerî riskin enerji piyasasına anında yansımasını gösteriyor.",
+      "summary": "İran, Hürmüz Boğazı’nda beş tanker ve bir römorkörün deniz mayınlarına yönelik saldırılar sonrası ya da yeni saldırılar sonucunda alev aldığını açıkladı. Al Jazeera, Reuters, SCMP ve CBS, olayların gerilim artışı ve yeni bir ABD saldırısı endişesiyle aynı dönemde yaşandığını yazıyor. Bu arada petrol fiyatları bir miktar kaybını geri aldı ve bölge ülkeleri deniz taşımacılığına yönelik riskleri izliyor. Haberler, Hürmüz’ün küresel enerji üzerinde yeniden bir baskı noktası haline geldiğinde birleşiyor.",
+      "picture": "Dev bir petrol tankeri keskin mayınların arasında sıkışmış durumda; etrafında savaş gemileri dolaşıyor ve yukarıda eller beliriyor. Bu, küresel petrol arzının kırılganlığını ve tırmanma riskini simgeliyor.",
       "mentions": 62,
       "significance": 91,
       "velocity": 57,
@@ -1086,10 +1266,10 @@
     },
     "bob-dylan-meets-the-pope": {
       "kind": "micro",
-      "title": "Bob Dylan, Vatikan’da Papa ile buluştu",
+      "title": "Bob Dylan, Papa ile görüştü",
       "region": "Dünya / kripto",
-      "summary": "Bob Dylan, Vatikan’da Papa XIV. Leo ile görüştü. NPR, AP, Reuters ve The New York Times, ziyaretin Vatikan Şehri’nde gerçekleştiğini, görüşmenin kısa sürdüğünü ve şarkı söylenmeden yapıldığını bildiriyor. Yayınlar kıyafet ve tören ayrıntılarını farklı biçimlerde vurgulasa da buluşma gerçeğinde birleşiyor. Bu olay, iki tanınmış ismin yer aldığı nadir bir kültürel an olarak dikkat çekti.",
-      "picture": "Bob Dylan ile Papa’nın el sıkışması, müzik ile Vatikan’ın buluşmasını anlatan sade ve tanınabilir bir sembol. Bu görsel, anın nadirliğini ve sembolik önemini vurguluyor.",
+      "summary": "Bob Dylan, Vatikan’da Papa XIV. Leo ile görüştü. AP, NYT, BBC ve NPR, görüşmenin kısa sürdüğünü ve müzisyenin İtalya’daki konser tarihleri sırasında Roma ziyaretinde gerçekleştiğini yazıyor. Haberlere göre bu, performans ya da şarkı olmadan yapılan sıradan bir kabul oldu.",
+      "picture": "Bob Dylan ve Papa birbirlerinin elini sıkıyor. Bu görüntü, müzik ve kilise gibi birbirinden çok farklı iki kültürel sembolün nadir buluşmasını gösteriyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1134,10 +1314,10 @@
     },
     "zebra-crossing-law": {
       "kind": "micro",
-      "title": "В Британии суд дал делу «Питт против ER» ход",
+      "title": "Britanya’da mahkeme ‘Pitt vs ER’ davasının ilerlemesine izin verdi",
       "region": "Dünya / kripto",
-      "summary": "Британский суд разрешил делу о сходстве сериалов The Pitt и ER двигаться дальше. BBC пишет, что вдова создателя ER Майкла Крайтона утверждает: The Pitt — по сути перезапуск сериала 1990-х годов. Пока речь идёт не о решении по существу, а о том, что иск может быть рассмотрен.",
-      "picture": "На рисунке лежат судебные папки и молоток. Это символ того, что спор о сходстве двух сериалов переходит в юридическую плоскость.",
+      "summary": "Britanya mahkemesi, The Pitt ile ER dizileri arasındaki benzerlik davasının ilerlemesine izin verdi. BBC, ER’in yaratıcısı Michael Crichton’ın dul eşi, The Pitt’in özünde 1990’lar dizisinin yeniden başlatılması olduğunu savunuyor. Şimdilik konu esas hakkında bir karar değil; davanın görülmesinin önü açıldı.",
+      "picture": "Görselde adli dosyalar ve bir tokmak yer alıyor. Bu, iki dizinin benzerliği konusundaki tartışmanın hukuki alana taşındığını simgeliyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1158,10 +1338,10 @@
     },
     "russell-brand-conviction": {
       "kind": "micro",
-      "title": "Расселу Бренду вынесли приговор по делу о насилии",
+      "title": "Russell Brand şiddet davasında mahkûm edildi",
       "region": "Dünya / kripto",
-      "summary": "Британский комик Рассел Бренд признан виновным в изнасиловании и сексуальных домогательствах. AP, Reuters, Sky News, AFP и Al Jazeera сообщают, что приговор вынес суд Лондона, а Бренду грозит тюремный срок. В материалах говорится о четырёх потерпевших и о том, что дело стало одним из самых заметных в британской медиаповестке.",
-      "picture": "Рядом с микрофоном стоит судебный молоток. Этот образ связывает публичную карьеру комика с окончанием дела в суде.",
+      "summary": "Britanyalı komedyen Russell Brand tecavüz ve cinsel saldırıdan suçlu bulundu. AP, Reuters, Sky News, AFP ve Al Jazeera, kararın Londra mahkemesi tarafından verildiğini ve Brand’in hapis cezasıyla karşı karşıya olduğunu bildiriyor. Haberde dört mağdurdan söz ediliyor ve davanın Britanya medyasında en çok konuşulan dosyalardan biri haline geldiği belirtiliyor.",
+      "picture": "Mikrofonun yanında bir mahkeme tokmağı duruyor. Bu görüntü, komedyenin kamusal kariyerini davanın mahkemedeki sonuyla ilişkilendiriyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1224,10 +1404,10 @@
     },
     "toy-hall-of-fame-classics": {
       "kind": "micro",
-      "title": "В Зал славы игрушек попали «Монополия» и Pokémon Cards",
+      "title": "Oyuncaklar Onur Listesi’ne Monopoly ve Pokémon Cards da girdi",
       "region": "Dünya / kripto",
-      "summary": "В Зал славы игрушек вошли Bingo, Care Bears, Pokémon Cards и классическая игровая горка. AP сообщает, что эти предметы признаны знаковыми для нескольких поколений игроков и детей. Это ежегодное культурное событие, посвящённое популярным игрушкам.",
-      "picture": "На рисунке показаны карточки Bingo, Care Bears и Pokémon Cards. Это образ узнаваемой детской и массовой культуры, которую отмечают как классику.",
+      "summary": "Oyuncaklar Onur Listesi’ne Bingo, Care Bears, Pokémon Cards ve klasik oyun kaydırağı alındı. AP, bu ürünlerin birkaç kuşağın oyuncuları ve çocukları için simge niteliğinde kabul edildiğini aktarıyor. Bu, popüler oyuncaklara adanan yıllık kültürel bir etkinlik.",
+      "picture": "Görselde Bingo, Care Bears ve Pokémon Cards kartları yer alıyor. Bu, klasik olarak anılan tanınmış çocuk ve kitle kültürünü temsil ediyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1248,10 +1428,10 @@
     },
     "grizzly-search": {
       "kind": "micro",
-      "title": "В Канаде ищут медведей после гибели матери и дочери",
+      "title": "Kanada’da anne ve kızının ölümünün ardından ayılar aranıyor",
       "region": "ABD",
-      "summary": "В Канаде после гибели матери и дочери на тропе власти ищут медведей. NYT, AP, Sky News и USA Today пишут, что жертвы, вероятно, погибли из-за нападения гризли в Британской Колумбии; при этом власти не исключают участие нескольких животных. Официальные службы пытаются поймать медведей возле удалённого населённого пункта.",
-      "picture": "На картине только след лапы гризли. Этот простой знак означает поиск животного и попытку понять, что произошло на тропе.",
+      "summary": "Kanada’da, bir patikada anne ve kızının ölümü sonrası yetkililer ayıları arıyor. NYT, AP, Sky News ve USA Today, kurbanların büyük olasılıkla Britanya Kolumbiyası’nda bir boz ayı saldırısında öldüğünü yazarken; yetkililer birden fazla hayvanın da karışmış olabileceğini dışlamıyor. Resmî ekipler, uzak bir yerleşim yerinin yakınında ayıları yakalamaya çalışıyor.",
+      "picture": "Resimde yalnızca bir boz ayının patisi görülüyor. Bu sade işaret, hayvanın aranmasını ve patikada ne olduğunu anlama çabasını anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1296,10 +1476,10 @@
     },
     "parakeet-rescue": {
       "kind": "micro",
-      "title": "Попугайчика спасли из ливневого стока",
+      "title": "Muhabbet kuşu yağmur suyu drenajından kurtarıldı",
       "region": "ABD",
-      "summary": "В Британии спасли сбежавшего попугайчика, который спрятался в ливневом стоке. UPI сообщает, что его нашли и помогли животному выбраться из дренажной системы. Это локальная история о спасении домашней птицы.",
-      "picture": "Зелёный попугай сидит в ливневом стоке. Образ показывает маленькое спасение в неожиданном и тесном месте.",
+      "summary": "Britanya’da kaçan bir muhabbet kuşu, saklandığı yağmur suyu drenajından kurtarıldı. UPI, kuşun bulunduğunu ve hayvanın drenaj sisteminden çıkarılmasına yardım edildiğini bildiriyor. Bu, evcil bir kuşun kurtarılmasına dair yerel bir hikâye.",
+      "picture": "Yeşil muhabbet kuşu bir yağmur suyu giderinde oturuyor. Görüntü, beklenmedik ve dar bir yerde gerçekleşen küçük bir kurtuluşu anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1320,10 +1500,10 @@
     },
     "emu-roundup": {
       "kind": "micro",
-      "title": "Полиция собрала на свободе сбежавшего эму",
+      "title": "Polis kaçak emuyu yakaladı",
       "region": "ABD",
-      "summary": "В Коннектикуте сотрудники контроля за животными поймали на свободе эму. UPI сообщает, что птица была найдена во дворе жителя, а власти ищут её владельца. Это короткая местная новость о необычном животном на улице.",
-      "picture": "Эму ведут под контролем офицеров. Это образ того, как крупное экзотическое животное возвращают под надзор.",
+      "summary": "Connecticut’ta hayvan kontrol görevlileri serbest dolaşan bir emuyu yakaladı. UPI, kuşun bir sakinin avlusunda bulunduğunu ve yetkililerin sahibini aradığını bildiriyor. Bu, sokakta görülen sıra dışı bir hayvana ilişkin kısa bir yerel haber.",
+      "picture": "Emu, görevlilerin kontrolünde götürülüyor. Bu, büyük ve egzotik bir hayvanın yeniden gözetim altına alınmasını anlatan bir görüntü.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1344,10 +1524,10 @@
     },
     "lottery-gas-pump-win": {
       "kind": "micro",
-      "title": "Поломка колонки принесла мужчине миллионный лотерейный выигрыш",
+      "title": "Pompa arızası bir adama milyonluk piyango kazancı getirdi",
       "region": "ABD",
-      "summary": "Жителю Северной Каролины поломка колонки на заправке принесла выигрыш в $2 млн. UPI пишет, что причиной стало неисправное устройство печати на топливной колонке, из-за которого мужчина купил билет и позже выиграл в Powerball. Это редкий случай, когда техническая неполадка обернулась крупным призом.",
-      "picture": "На рисунке показаны бензоколонка и лотерейный билет. Образ означает случайную удачу, пришедшую через обычную бытовую поломку.",
+      "summary": "Kuzey Carolina’da yaşayan bir adam, benzin istasyonundaki pompa arızası sayesinde 2 milyon dolar kazandı. UPI, sorunlu yakıt pompası yazıcı düzeneği nedeniyle adamın bilet aldığını ve daha sonra Powerball’da kazandığını yazıyor. Bu, teknik bir arızanın büyük bir ödüle dönüştüğü nadir bir durum.",
+      "picture": "Görselde bir benzin pompası ve piyango bileti gösteriliyor. Bu, sıradan bir arızadan doğan tesadüfi şansı anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1368,10 +1548,10 @@
     },
     "window-seat-lawsuit": {
       "kind": "micro",
-      "title": "Авиакомпания ответит в суде за «окна без окон»",
+      "title": "Havayolu ‘penceresiz pencere koltukları’ nedeniyle mahkemede hesap verecek",
       "region": "ABD",
-      "summary": "Delta Air Lines должна отвечать в суде по иску о «оконных местах», в которых нет окон. Reuters сообщает, что пассажиры оспаривают продажу таких мест как оконных, хотя за иллюминатором их не было. Суд позволил делу продолжаться.",
-      "picture": "На рисунке самолётное окно изображено без вида. Это символ жалобы на то, что обещанное место оказалось не таким, как его продавали.",
+      "summary": "Delta Air Lines, penceresi olmayan ‘pencere koltukları’ davasında mahkemede yanıt vermek zorunda. Reuters, yolcuların, dışarı bakan camı olmadığı halde bu koltukların pencere koltuğu olarak satılmasına itiraz ettiğini bildiriyor. Mahkeme davanın sürmesine izin verdi.",
+      "picture": "Resimde uçak penceresi manzarasız şekilde çiziliyor. Bu, vaat edilen koltuğun satıldığı gibi çıkmamasına yönelik şikâyetin simgesi.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1392,10 +1572,10 @@
     },
     "zoo-atlanta-pandas-return": {
       "kind": "micro",
-      "title": "В зоопарк Атланты возвращаются гигантские панды",
+      "title": "Atlanta Hayvanat Bahçesi’ne dev pandalar geri dönüyor",
       "region": "ABD",
-      "summary": "В зоопарк Атланты возвращаются гигантские панды. The Atlanta Journal-Constitution пишет, что животных привезут в пятницу, и объясняет, что нужно знать об их возвращении. Это заметное событие для зоопарка и посетителей.",
-      "picture": "На рисунке две гигантские панды и бамбук. Это образ долгожданного возвращения редких животных в зоопарк.",
+      "summary": "Atlanta Hayvanat Bahçesi’ne dev pandalar geri dönüyor. The Atlanta Journal-Constitution, hayvanların cuma günü getirileceğini ve dönüşleriyle ilgili bilinmesi gerekenleri anlatıyor. Bu, hayvanat bahçesi ve ziyaretçiler için dikkat çekici bir gelişme.",
+      "picture": "Görselde iki dev panda ve bambu yer alıyor. Bu, nadir hayvanların hayvanat bahçesine uzun zamandır beklenen dönüşünü anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1416,10 +1596,10 @@
     },
     "mystery-nose-down-jet": {
       "kind": "micro",
-      "title": "Эксперты разбирают загадочное падение самолёта носом вниз",
+      "title": "Uzmanlar burnu aşağı düşen gizemli uçağı inceliyor",
       "region": "ABD",
-      "summary": "Эксперты и следователи разбирают причины крушения малого самолёта Learjet, который упал носом вниз в районе Greenacres. По данным USA Today и CNN, расследованием занимается NTSB; в публикациях отмечается, что среди девяти погибших есть все находившиеся на борту. Случай важен тем, что следователи ищут ключевую улику, которая объяснит, почему самолёт резко вошёл в землю.",
-      "picture": "На рисунке показан небольшой реактивный самолёт, пикирующий носом вниз. Этот образ подчёркивает резкость и загадочность катастрофы.",
+      "summary": "Uzmanlar ve soruşturmacılar, Greenacres bölgesinde burnu aşağı düşerek düşen küçük Learjet uçağının nedenlerini inceliyor. USA Today ve CNN’e göre soruşturmayı NTSB yürütüyor; yayınlarda dokuz ölen arasında uçaktaki herkesin bulunduğu belirtiliyor. Olay, soruşturmacıların uçağın neden aniden yere çakıldığını açıklayacak kilit ipucunu araması nedeniyle önem taşıyor.",
+      "picture": "Resimde burnu aşağı dalış yapan küçük bir jet gösteriliyor. Bu görüntü, kazanın sertliğini ve gizemini vurguluyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1440,10 +1620,10 @@
     },
     "blue-origin-delay": {
       "kind": "micro",
-      "title": "Blue Origin снова сдвинула запуск New Glenn",
+      "title": "Blue Origin New Glenn fırlatmasını bir kez daha erteledi",
       "region": "ABD",
-      "summary": "Blue Origin снова перенесла запуск тяжёлой ракеты New Glenn — теперь на январь 2027 года, тогда как ранее Джефф Безос называл декабрь 2026-го. CNBC пишет, что компания спешит восстановить повреждённую стартовую площадку после разрушительного взрыва, а Financial Times отмечает, что Blue Origin отстаёт от SpaceX. Reuters- и Bloomberg-повестка в пересказе TASS также говорит о переносе старта на январь.",
-      "picture": "Рядом со стартовой башней нарисована ракета, готовая к запуску. Образ передаёт задержку старта и зависимость миссии от состояния пусковой инфраструктуры.",
+      "summary": "Blue Origin, ağır yük roketi New Glenn’in fırlatılmasını bir kez daha erteleyerek tarihi şimdi Ocak 2027’ye aldı; oysa daha önce Jeff Bezos Aralık 2026’yı işaret etmişti. CNBC, şirketin yıkıcı patlama sonrası hasar gören fırlatma platformunu yeniden ayağa kaldırmak için acele ettiğini yazarken, Financial Times Blue Origin’in SpaceX’in gerisinde kaldığını belirtiyor. Reuters ve Bloomberg gündeminin TASS özetinde de fırlatmanın ocak ayına kaydırıldığı aktarılıyor.",
+      "picture": "Fırlatma kulesinin yanında kalkışa hazır bir roket çizilmiş. Görüntü, fırlatmanın gecikmesini ve görevin fırlatma altyapısının durumuna bağlı olduğunu anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1476,10 +1656,10 @@
     },
     "crocodiles-arrive": {
       "kind": "micro",
-      "title": "В зоопарк привезли первую за пять лет пару крокодилов",
+      "title": "Hayvanat bahçesine beş yıl sonra ilk krokodil çifti getirildi",
       "region": "ABD",
-      "summary": "Буффало зоопарк впервые за пять лет получил пару крокодилов. Сообщение Buffalo Toronto Public Media не уточняет подробностей о самих животных, но подчёркивает, что это первое такое пополнение за длительный срок.",
-      "picture": "На рисунке — два крокодила на транспортном ящике. Это показывает их недавнюю доставку в зоопарк.",
+      "summary": "Buffalo hayvanat bahçesi beş yıl sonra ilk kez bir çift krokodil aldı. Buffalo Toronto Public Media’nın haberinde hayvanlarla ilgili ayrıntılar verilmezken, bunun uzun bir aradan sonraki ilk yeni ekleme olduğu vurgulanıyor.",
+      "picture": "Görselde bir taşıma sandığı üzerinde iki krokodil yer alıyor. Bu, onların hayvanat bahçesine yeni ulaştırıldığını gösteriyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1500,10 +1680,10 @@
     },
     "earthquake-drill-robot": {
       "kind": "micro",
-      "title": "Школьники собрали игру про красную панду для зоопарка",
+      "title": "Öğrenciler hayvanat bahçesi için kızıl panda oyunu yaptı",
       "region": "ABD",
-      "summary": "Подростки создали видеоигру Red Panda Rush для Maryland Zoo. WBAL-TV сообщает, что школьники сделали проект специально для зоопарка; в центре игры — красная панда.",
-      "picture": "На рисунке — игровой контроллер и красная панда. Это связывает цифровую игру с её главным героем-животным.",
+      "summary": "Gençler Maryland Zoo için Red Panda Rush adlı bir video oyunu geliştirdi. WBAL-TV, öğrencilerin projeyi özellikle hayvanat bahçesi için yaptığını ve oyunun merkezinde kızıl pandanın bulunduğunu bildiriyor.",
+      "picture": "Görselde bir oyun kumandası ve kızıl panda yer alıyor. Bu, dijital oyunu onun başkahramanı olan hayvanla ilişkilendiriyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1524,10 +1704,10 @@
     },
     "bob-dylan-vatican": {
       "kind": "micro",
-      "title": "Папа Лев принял Боба Дилана в Ватикане",
+      "title": "Papa Leo, Bob Dylan’ı Vatikan’da kabul etti",
       "region": "Dünya / kripto",
-      "summary": "Папа Лев XIV принял Боба Дилана в Ватикане. AP, NYT, BBC и NPR сходятся в том, что встреча была короткой; по данным The New York Times, Дилан пришёл в худи и с галстуком в горошек, а пения не было. В сообщениях также отмечается, что визит пришёлся на перерыв между концертами Дилана в Италии.",
-      "picture": "На рисунке — Боб Дилан и портрет папы. Это намекает на редкую встречу музыканта с главой католической церкви.",
+      "summary": "Papa XIV. Leo, Bob Dylan’ı Vatikan’da kabul etti. AP, NYT, BBC ve NPR görüşmenin kısa olduğu konusunda birleşiyor; The New York Times’a göre Dylan kapüşonlu üst ve puantiyeli bir kravatla geldi, şarkı söylemedi. Haberde ayrıca ziyaretin Dylan’ın İtalya’daki konserleri arasındaki bir mola sırasında gerçekleştiği belirtiliyor.",
+      "picture": "Görselde Bob Dylan ve papanın portresi yer alıyor. Bu, müzisyen ile Katolik Kilisesi lideri arasındaki nadir buluşmaya gönderme yapıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1572,10 +1752,10 @@
     },
     "joshua-wong-sentenced": {
       "kind": "micro",
-      "title": "Джошуа Вонга снова приговорили в Гонконге",
+      "title": "Joshua Wong Hong Kong’da bir kez daha hapse mahkûm edildi",
       "region": "Asya",
-      "summary": "Гонконгского активиста Джошуа Вонга снова приговорили к тюремному сроку по делу о национальной безопасности. Reuters, AP, BBC, NYT, NPR и другие СМИ пишут о сроке в 10 лет; The Guardian отмечает, что это его второе преследование по этому закону, а в публикациях также говорится об обвинении в сговоре с иностранными силами. Дело важно как ещё один пример давления на продемократическое движение в Гонконге.",
-      "picture": "На рисунке — протестный плакат и тюремные решётки. Это визуально соединяет уличный протест с заключением.",
+      "summary": "Hong Konglu aktivist Joshua Wong, ulusal güvenlik davasında yeniden hapis cezasına çarptırıldı. Reuters, AP, BBC, NYT, NPR ve diğer medya kuruluşları 10 yıllık cezayı yazıyor; The Guardian bunun bu yasa kapsamındaki ikinci yargılanması olduğunu belirtiyor, yayınlarda ayrıca yabancı güçlerle iş birliği suçlamasından da söz ediliyor. Dava, Hong Kong’daki demokrasi yanlısı harekete yönelik baskının bir başka örneği olarak önem taşıyor.",
+      "picture": "Görselde protesto afişi ve demir parmaklıklar yer alıyor. Bu, sokak protestosu ile hapsedilmenin görsel olarak birleşimi.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1638,10 +1818,10 @@
     },
     "meteor-shower-fireballs": {
       "kind": "micro",
-      "title": "Жители смогут увидеть яркие огненные метеоры",
+      "title": "İnsanlar parlak ateşli meteorları görebilecek",
       "region": "Dünya / kripto",
-      "summary": "Начался пик метеорного потока Южные Тауриды, и наблюдатели могут увидеть редкие яркие болиды. CNN и National Geographic пишут, что в эту ночь «падающие звёзды» могут быть особенно заметны и даже ярче Венеры.",
-      "picture": "На рисунке яркие метеоры рассекают ночное небо. Образ передаёт редкое и эффектное астрономическое явление.",
+      "summary": "Güney Taurid meteor yağmurunun zirvesi başladı ve gözlemciler nadir görülen parlak bolitleri izleyebilir. CNN ve National Geographic, bu gece “kayan yıldızların” özellikle belirgin olabileceğini, hatta Venüs’ten daha parlak görünebileceğini yazıyor.",
+      "picture": "Çizimde parlak meteorlar gece göğünü yarıyor. Görsel, nadir ve etkileyici bir astronomik olayı anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1662,10 +1842,10 @@
     },
     "mars-volcanic-hints": {
       "kind": "micro",
-      "title": "Орбитальный аппарат нашёл новые намёки на вулканизм на Марсе",
+      "title": "Yörünge aracı Mars’ta volkanizme dair yeni ipuçları buldu",
       "region": "Dünya / kripto",
-      "summary": "Европейский орбитальный аппарат обнаружил новые признаки возможной вулканической активности на Марсе. Phys.org, National Geographic и Reuters в пересказе сходятся в том, что над марсианскими разломами замечены свежие намёки на выделение газа, что может указывать на продолжающийся вулканизм.",
-      "picture": "На рисунке орбитальный аппарат летит над красной планетой. Это показывает, что открытие сделано с орбиты, а не с поверхности Марса.",
+      "summary": "Avrupalı bir yörünge aracı, Mars’ta olası volkanik etkinliğe dair yeni belirtiler tespit etti. Phys.org, National Geographic ve Reuters’in aktardığına göre, Mars’taki fayların üzerinde gaz salınımına işaret eden taze izler görüldü; bu da süren bir volkanizme işaret edebilir.",
+      "picture": "Çizimde yörünge aracı kızıl gezegenin üzerinde uçuyor. Bu, keşfin Mars yüzeyinden değil, yörüngeden yapıldığını gösteriyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1686,10 +1866,10 @@
     },
     "cern-rare-decay": {
       "kind": "micro",
-      "title": "Физики CERN нашли следы крайне редкого распада частиц",
+      "title": "CERN fizikçileri son derece nadir bir parçacık bozunmasının izlerini buldu",
       "region": "Dünya / kripto",
-      "summary": "Учёные CERN сообщили о признаках крайне редкого распада частиц, обнаруженных на Большом адронном коллайдере. Euronews пишет, что такой процесс, по расчётам, происходит примерно один раз на 10 миллиардов случаев, и это даёт физикам новый инструмент для изучения материи.",
-      "picture": "На рисунке показаны треки частиц в детекторе-кольце. Это символизирует эксперимент на ускорителе и поиск редких следов распада.",
+      "summary": "CERN bilim insanları, Büyük Hadron Çarpıştırıcısı’nda tespit edilen son derece nadir bir parçacık bozunmasına dair işaretler açıkladı. Euronews, hesaplamalara göre bu sürecin yaklaşık 10 milyar olayda bir gerçekleştiğini yazıyor; bu da fizikçilere maddeyi incelemek için yeni bir araç sunuyor.",
+      "picture": "Çizimde dedektör halkasında parçacık izleri gösteriliyor. Bu, hızlandırıcıdaki deneyi ve nadir bozunma izlerinin aranmasını simgeliyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1710,10 +1890,10 @@
     },
     "swift-telescope-burnup": {
       "kind": "micro",
-      "title": "Телескоп Swift сгорел в атмосфере Земли после 22 лет работы",
+      "title": "Swift teleskobu 22 yıllık görevin ardından Dünya atmosferinde yandı",
       "region": "Dünya / kripto",
-      "summary": "Космический телескоп Swift сошёл с орбиты и сгорел в атмосфере Земли после 22 лет работы. NASA и AP сообщают, что аппарат завершил миссию над Индонезией; в публикациях также сказано, что учёные пытались его спасти, но безуспешно.",
-      "picture": "На рисунке телескоп входит в атмосферу Земли. Этот образ означает конец долгой орбитальной миссии.",
+      "summary": "Uzay teleskobu Swift yörüngeden çıkarak 22 yıllık görevin ardından Dünya atmosferinde yandı. NASA ve AP, aracın Endonezya üzerinde görevini tamamladığını bildiriyor; yayınlarda ayrıca bilim insanlarının onu kurtarmaya çalıştığı ancak başarılı olamadığı da belirtiliyor.",
+      "picture": "Çizimde teleskop Dünya atmosferine giriyor. Bu görüntü, uzun bir yörünge görevinin sonunu anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1740,10 +1920,10 @@
     },
     "new-zealand-survivors-island": {
       "kind": "micro",
-      "title": "Пятерых выживших спасли с отдалённого острова после месяцев в море",
+      "title": "Denizde aylar geçirdikten sonra beş kurtulan uzak bir adadan kurtarıldı",
       "region": "Dünya / kripto",
-      "summary": "Пятеро выживших были спасены на удалённом острове после трёх месяцев в море. NYT пишет, что лодка из Микронезии пропала в июле, а люди добрались до острова в Кирибати более чем в 3 тысячах миль от исходного места.",
-      "picture": "На рисунке — пять человек на крошечном острове. Это подчёркивает их изоляцию и длительное выживание в море.",
+      "summary": "Denizde üç ay geçirdikten sonra beş kurtulan uzak bir adada kurtarıldı. NYT, Mikronezya’dan çıkan teknenin temmuz ayında kaybolduğunu, insanların ise çıkış noktasından 3 binden fazla mil uzakta, Kiribati’deki bir adaya ulaştığını yazıyor.",
+      "picture": "Çizimde küçük bir adada beş kişi yer alıyor. Bu, onların izolasyonunu ve denizde uzun süre hayatta kalmalarını vurguluyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1764,10 +1944,10 @@
     },
     "zelda-remake-release": {
       "kind": "micro",
-      "title": "Zelda’nın remake sürümü nihayet satışa çıktı",
+      "title": "Zelda’nın yeniden yapımı raflara çıktı ve nostalji yarattı",
       "region": "Dünya / kripto",
-      "summary": "Zelda’nın remake sürümü satışa sunuldu ve oyuncular bunu nostaljiyle karşıladı. AFP, oyunun raflara çıktığını bildirirken, aynı ajansın ikinci haberi de çıkış beklentisini doğruluyor. Bu, oyunseverler için küçük ama dikkat çekici bir haber.",
-      "picture": "Oyun kartuşu ve fantezi kılıcı, klasik video oyununa ve dönüşüne gönderme yapıyor. Görsel, retro nostalji ile macera türünü bir araya getiriyor.",
+      "summary": "Klasik Zelda’nın yeniden yapımı satışa çıktı ve oyuncular arasında nostalji dalgası yarattı. AFP, Nintendo’nun lansman öncesi gergin olduğunu kabul ettiğini aktarıyor; diğer haberlerde ise hayranların oyunu sıcak karşıladığı belirtiliyor.",
+      "picture": "Çizimde fantezi bir kılıç ve oyun kartuşu görülüyor. Bu, klasik video oyununa ve onun raflara dönüşüne gönderme yapıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1800,10 +1980,10 @@
     },
     "nintendo-profit-slowdown": {
       "kind": "micro",
-      "title": "У Nintendo замедлились продажи Switch 2, но игры держат результат",
+      "title": "Nintendo’da Switch 2 satışları yavaşladı, ancak oyunlar sonucu ayakta tuttu",
       "region": "Dünya / kripto",
-      "summary": "У Nintendo замедлились продажи Switch 2, но результаты поддержали продажи игр. WSJ пишет, что полугодовая прибыль выросла благодаря более сильным продажам софта и новому фильму про Mario, тогда как CNBC и AFP сообщают о падении продаж консоли и снижении квартальной чистой прибыли.",
-      "picture": "На рисунке — портативная консоль и монеты. Это показывает связь между продажами устройства и финансовым результатом компании.",
+      "summary": "Nintendo’da Switch 2 satışları yavaşladı, ancak sonuçları oyun satışları destekledi. WSJ, yarıyıl kârının daha güçlü yazılım satışları ve yeni Mario filmi sayesinde arttığını yazarken, CNBC ve AFP konsol satışlarındaki düşüşü ve çeyreklik net kârda gerilemeyi bildiriyor.",
+      "picture": "Çizimde elde taşınan bir konsol ve madeni paralar yer alıyor. Bu, cihaz satışları ile şirketin finansal sonucu arasındaki bağlantıyı gösteriyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,
@@ -1830,10 +2010,10 @@
     },
     "golf-liv-collapse": {
       "kind": "micro",
-      "title": "LIV Golf сворачивает планы после ухода ключевого инвестора",
+      "title": "LIV Golf, kilit yatırımcının ayrılmasının ardından planlarını geri çekiyor",
       "region": "Dünya / kripto",
-      "summary": "LIV Golf сворачивает работу после ухода ключевого инвестора и срыва планов перезапуска. BBC, AP, CNBC и другие СМИ сообщают о намерении закрыть или ликвидировать проект, а The Guardian пишет, что в ходе банкротного процесса ожидают переход игроков в другие турниры. В публикациях отмечается, что у лиги не хватило поддержки игроков и финансирования.",
-      "picture": "На рисунке — мяч для гольфа рядом со сложенным баннером. Это означает сворачивание проекта и конец прежних планов лиги.",
+      "summary": "LIV Golf, kilit yatırımcının ayrılması ve yeniden başlatma planlarının sekteye uğramasının ardından çalışmalarını geri çekiyor. BBC, AP, CNBC ve diğer medya kuruluşları projenin kapatılması ya da tasfiye edilmesi niyetini aktarırken, The Guardian iflas sürecinde oyuncuların diğer turnuvalara geçmesinin beklendiğini yazıyor. Yayınlarda, ligin oyuncu desteği ve finansman yetersizliği yaşadığı belirtiliyor.",
+      "picture": "Çizimde bir golf topu ve katlanmış bir afiş var. Bu, projenin geri çekilmesini ve ligin önceki planlarının sonunu anlatıyor.",
       "mentions": null,
       "significance": null,
       "velocity": null,

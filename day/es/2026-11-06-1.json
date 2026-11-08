@@ -186,10 +186,10 @@
     },
     "paraguay-bank-collapse": {
       "kind": "major",
-      "title": "El presidente de Paraguay dimite y queda en el centro del colapso bancario",
+      "title": "El presidente de Paraguay renuncia y queda en el centro del colapso bancario",
       "region": "América Latina",
-      "summary": "En Paraguay, la crisis bancaria se transformó en un conflicto político en torno al presidente Santiago Peña. Según los medios, su administración permitió la expansión del banco Ueno, tras lo cual la crisis congeló los ahorros de millones de personas y desató protestas masivas; Euronews informa sobre demandas de impeachment. Al mismo tiempo, las informaciones difieren: Guardian, NYT y ABC escriben que Peña dimitió, mientras que Al Jazeera y El País señalan que el Congreso rechazó su renuncia y el país avanza hacia un choque institucional.",
-      "picture": "En la imagen, una bóveda bancaria agrietada empuja la silla presidencial hacia un vacío, mientras los papeles vuelan alrededor. Es la representación de cómo el colapso financiero arrastra a la propia autoridad al кризis.",
+      "summary": "En Paraguay, la crisis bancaria se ha convertido en un conflicto político en torno al presidente Santiago Peña. Según los medios, su administración permitió que el banco Ueno se expandiera, tras lo cual la crisis congeló los ahorros de millones de personas y desató protestas masivas; Euronews informa sobre exigencias de juicio político. Al mismo tiempo, los reportes difieren: Guardian, NYT y ABC señalan que Peña renunció, mientras que Al Jazeera y El País informan que el Congreso rechazó su renuncia y que el país avanza hacia un choque institucional.",
+      "picture": "En la imagen, una bóveda bancaria agrietada hace caer un sillón presidencial en un vacío, mientras los papeles vuelan a su alrededor. Es una representación de cómo el derrumbe financiero arrastra a la propia autoridad al crisis.",
       "mentions": 64,
       "significance": 84,
       "velocity": 41,
@@ -460,10 +460,10 @@
       "region": "Europa",
       "summary": "En Francia se celebraron de nuevo protestas masivas y huelgas por los bajos salarios, los recortes y el aumento del costo de la vida. CBS, Guardian y BBC escriben sobre decenas y cientos de miles de participantes, entre ellos funcionarios públicos, maestros, trabajadores del transporte y empleados sindicalizados. En medio de las manifestaciones se produjeron enfrentamientos con la policía, que utilizó gas lacrimógeno, y también aumentó el descontento con el gobierno.",
       "picture": "En la imagen, multitudes en marcha sostienen unas balanzas salariales agrietadas, mientras pancartas rotas ondean sobre un puente destruido. Es la imagen de la protesta contra la caída del nivel de vida y el estancamiento político.",
-      "mentions": 50,
-      "significance": 69,
-      "velocity": 19,
-      "domain_count": 11,
+      "mentions": 56,
+      "significance": 68,
+      "velocity": 33,
+      "domain_count": 13,
       "articles": [
         {
           "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
@@ -632,6 +632,96 @@
         "x": 0.537,
         "y": 0.293,
         "r": 0.221
+      }
+    },
+    "france-protests-cost-of-living": {
+      "kind": "major",
+      "title": "Francia vuelve a verse sacudida por protestas y huelgas masivas por el alto coste de la vida",
+      "region": "Europa",
+      "summary": "En Francia volvieron a celebrarse protestas y huelgas masivas por los bajos salarios, los recortes y el aumento del coste de la vida. CBS, The Guardian y la BBC informan de decenas y cientos de miles de participantes, entre ellos empleados públicos, profesores, trabajadores del transporte y miembros de sindicatos. En medio de las manifestaciones se produjeron enfrentamientos con la policía, que empleó gas lacrimógeno, y también se intensificó el malestar con el Gobierno.",
+      "picture": "En la imagen, multitudes en marcha sostienen balanzas salariales agrietadas, mientras pancartas se desgarran sobre un puente roto. Es una imagen de protesta contra el deterioro del nivel de vida y el estancamiento político.",
+      "mentions": 50,
+      "significance": 69,
+      "velocity": 19,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/humberto-musacchio-deja-huella-como-referencia-del-periodismo-cultural/",
+          "published": "2026-11-06T09:14:15+00:00"
+        },
+        {
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "published": "2026-11-06T08:00:04+00:00"
+        },
+        {
+          "title": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+          "published": "2026-11-06T04:30:01+00:00"
+        },
+        {
+          "title": "French workers flood streets for anti-government protests",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/",
+          "published": "2026-11-06T00:59:54+00:00"
+        },
+        {
+          "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court finds - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExCdXBSNnVWbVl5VmlJVHI4bzcxVkN5b3gtWmJIMmxxLW56OVpad3BGRnc0RExHSEIzd2otaE9JcHh1SjEzdG1tMlhDMTFiakQtd0l1MGFXdXZ1QjVfbEJrazcwbjdPTnVlQy01elN3XzNHa2ZEYkRMak5fQnRnZ29HOHZ3eF94WmlmZw?oc=5",
+          "published": "2026-11-06T00:12:00+00:00"
+        },
+        {
+          "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+          "published": "2026-11-05T20:39:49+00:00"
+        },
+        {
+          "title": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+          "published": "2026-11-05T20:23:56+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:56:05+00:00"
+        },
+        {
+          "title": "Protesters march in cities across France as unions stage general strike",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+          "published": "2026-11-05T17:21:45+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRG91SElhbG5mUlFvQWtQUlJUZnN0MVZIRVNsT0dBLXNFNE95Tzc2c3VNcG5yR1VCdmhLRC12SkVxdXRMMFZ3U1V3enNxWEJYWVBqdlB1MTk4ZU9sYndBakpySTF1MGVtZDlzVUJWMHRkZ9IBd0FVX3lxTFBjVTlKZWt4elBDT2JoR1JVbVVJdW9RR0FrZWZDQnUtd0dJeGc4WXVLLXhVOHVZQXB6aDFJU3pnMXVCOWEwZFF3bTRRenBkVnhIZmJnNTFLS0I4WUowem5ZNDhzX1J3UkNOWUJvN2tWMERFQTNKNVE0?oc=5",
+          "published": "2026-11-05T15:26:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
       }
     },
     "russia-state-pressure-assets": {

@@ -366,14 +366,14 @@
     },
     "iran-us-friction": {
       "kind": "major",
-      "title": "В районе Ормуза горят танкеры и срываются морские поставки энергии",
+      "title": "США и Иран балансируют на грани эскалации, но каналы для переговоров ещё живы",
       "region": "Ближний Восток",
       "summary": "На фоне напряжённости вокруг Ирана и США появляются сообщения о новых американских мерах и отсутствии прогресса в переговорах. Иранский МИД заявил, что переговоров не было после «шока» американских промежуточных выборов, а Reuters сообщило о приостановке производства на газовом месторождении Khor Mor после атаки дрона. Отдельные материалы пишут о награде США за информацию о ядерной программе Ирана и о заявлении Трампа, что он не исключает силовых мер, хотя хотел бы их избежать. В целом источники описывают продолжающееся давление вокруг ядерной и региональной повестки.",
       "picture": "На рисунке горят три нефтяных танкера у узкого пролива, рядом дрейфуют бочки и на карте разорваны маршруты поставок. Это символ угрозы морской энергетической логистике и обострения в районе Ормуза.",
-      "mentions": 68,
-      "significance": 89,
-      "velocity": 58,
-      "domain_count": 16,
+      "mentions": 84,
+      "significance": 90,
+      "velocity": 68,
+      "domain_count": 22,
       "articles": [
         {
           "title": "Трамп заявил о работе группы США по противодействию поставкам оружия в Иране",
@@ -632,6 +632,96 @@
         "x": 0.5,
         "y": 0.429,
         "r": 0.151
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "В районе Ормуза горят танкеры и срываются морские поставки энергии",
+      "region": "Ближний Восток",
+      "summary": "На фоне напряжённости вокруг Ирана и США появляются сообщения о новых американских мерах и отсутствии прогресса в переговорах. Иранский МИД заявил, что переговоров не было после «шока» американских промежуточных выборов, а Reuters сообщило о приостановке производства на газовом месторождении Khor Mor после атаки дрона. Отдельные материалы пишут о награде США за информацию о ядерной программе Ирана и о заявлении Трампа, что он не исключает силовых мер, хотя хотел бы их избежать. В целом источники описывают продолжающееся давление вокруг ядерной и региональной повестки.",
+      "picture": "На рисунке горят три нефтяных танкера у узкого пролива, рядом дрейфуют бочки и на карте разорваны маршруты поставок. Это символ угрозы морской энергетической логистике и обострения в районе Ормуза.",
+      "mentions": 68,
+      "significance": 89,
+      "velocity": 58,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "Трамп заявил о работе группы США по противодействию поставкам оружия в Иране",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28296703",
+          "published": "2026-11-08T21:03:59+00:00"
+        },
+        {
+          "title": "Iran FM says no negotiations since ‘shock’ of US midterms - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMl9mQWJfT3lLbmdadEpLbTI5TndxSmQ1MWlwSWJNa2pWNVFzMjhHYVQ0YVVaMS1zNGpGeXUwclVQcERneGNpeFRqZ2pyYlV1YzZuLVpmcUlxOTRnNmtiSy1WTzVaQVRSVER5bm1CdHZyTWtCc2MtUGQ5QXZXMmxVa1BoemNKRGNLemlra25yWkM0Sm1TTTJNNVFoT0ZlYUVib3c?oc=5",
+          "published": "2026-11-08T20:56:14+00:00"
+        },
+        {
+          "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+          "published": "2026-11-08T20:51:22+00:00"
+        },
+        {
+          "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr?oc=5",
+          "published": "2026-11-08T20:47:27+00:00"
+        },
+        {
+          "title": "U.S. offers $20 million reward for information on Iran nuclear program - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0hSMUpfLW92UkRFbG04WDZQSTZ1ZE1VU3JIcWVQUmduUWg4STFBdFJ3UlJLR19pNDE0cHJqZTBOenV0dnQyOVoyUFJyNHZ5VGQ1WWpYbEkzQnM2aWphWmx4aHo2TkhEWVlnUUtzWkd2TjF0T1E5Uk4tMEs4U2kyR3NGYUxwNVJBLV8tamlnZjJDYkdid2plSVVkOXFGZTNaajB1Y2ZSWWFsOU1pNHExa2FjWUZNc3JaaVJDR0JR?oc=5",
+          "published": "2026-11-08T20:34:11+00:00"
+        },
+        {
+          "title": "Trump revela que es \"muy improbable\" que reanude ataques contra Irán; \"Lo haría si fuera necesario\", afirma",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/trump-revela-que-es-muy-improbable-que-reanude-ataques-contra-iran-lo-haria-si-fuera-necesario-afirma/",
+          "published": "2026-11-08T20:23:34+00:00"
+        },
+        {
+          "title": "Трамп пригрозив, що США можуть знищити 38 мостів в Ірані за годину",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/08/8061849/",
+          "published": "2026-11-08T20:18:00+00:00"
+        },
+        {
+          "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5",
+          "published": "2026-11-08T19:16:44+00:00"
+        },
+        {
+          "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFNfMGFpaEpaOGRfS0RYa3FEOFh5OWFNaWxxbUlkcEFjNF84YWhEdHRKV283Q3loNmdQVnhUQTl6SXRzSjlIQ3pyVWhwV2JhejFpaEUyc2gtVjN1QU12NGdFNVVfU3BJektraHNJc0ZOTURqTVJyTFFpZzBKSDlwUlVWY2UwSmJ1eEFtNXJOQkpzVUl6eTdyVTFB?oc=5",
+          "published": "2026-11-08T18:57:00+00:00"
+        },
+        {
+          "title": "Trump sinaliza ceder mais a Putin por fim da Guerra da Ucrânia",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-sinaliza-ceder-mais-a-putin-por-fim-da-guerra-da-ucrania.shtml",
+          "published": "2026-11-08T17:24:00+00:00"
+        },
+        {
+          "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
+          "published": "2026-11-08T17:15:42+00:00"
+        },
+        {
+          "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+          "published": "2026-11-08T16:52:42+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.26
       }
     },
     "ai-market-selloff": {

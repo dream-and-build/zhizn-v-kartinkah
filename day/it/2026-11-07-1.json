@@ -460,10 +460,10 @@
       "region": "America Latina",
       "summary": "In Paraguay la crisi bancaria ha portato all'impeachment del presidente Santiago Peña, al suo arresto e al trasferimento del potere al vicepresidente. AP, BBC, Reuters, The Guardian e Le Monde scrivono che, dopo il crollo della banca, milioni di clienti hanno perso l'accesso ai conti e ai risparmi, provocando un crollo politico. Secondo diverse notizie, Peña è stato prima destituito dal Parlamento e poi posto agli arresti domiciliari; il nuovo capo di Stato Pedro Alliana ha già prestato giuramento. Le testate concordano sul fatto che lo scandalo finanziario abbia mostrato il legame stretto tra politica e finanza nel Paese.",
       "picture": "L'immagine mostra una poltrona presidenziale rovesciata accanto al nuovo leader su un piedistallo, attorno a sigilli bancari incrinati e documenti giudiziari. È l'immagine della caduta del vecchio potere e del cambio della struttura politica dopo il collasso della banca.",
-      "mentions": 50,
-      "significance": 84,
-      "velocity": 39,
-      "domain_count": 14,
+      "mentions": 62,
+      "significance": 86,
+      "velocity": 51,
+      "domain_count": 19,
       "articles": [
         {
           "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
@@ -632,6 +632,96 @@
         "x": 0.75,
         "y": 0.179,
         "r": 0.202
+      }
+    },
+    "paraguay-aftershocks": {
+      "kind": "major",
+      "title": "In Paraguay, dopo l’impeachment e l’arresto dell’ex presidente, inizia un nuovo riassetto del potere",
+      "region": "America Latina",
+      "summary": "In Paraguay la crisi bancaria ha portato all’impeachment del presidente Santiago Peña, al suo arresto e al passaggio dei poteri al vicepresidente. AP, BBC, Reuters, The Guardian e Le Monde scrivono che, dopo il fallimento della banca, milioni di clienti hanno perso l’accesso ai propri conti e risparmi, provocando un tracollo politico. Secondo varie ricostruzioni, Peña è stato inizialmente destituito dal Parlamento e poi posto agli arresti domiciliari; il nuovo capo dello Stato, Pedro Allana, ha già prestato giuramento. Le testate concordano nel ritenere che lo scandalo finanziario abbia messo in luce il forte legame tra politica e finanza nel Paese.",
+      "picture": "Nel disegno, una sedia presidenziale rovesciata si trova accanto al nuovo governante su un piedistallo, circondata da timbri bancari incrinati e documenti giudiziari. È l’immagine della caduta del vecchio potere e del cambio di assetto politico dopo il crollo bancario.",
+      "mentions": 50,
+      "significance": 84,
+      "velocity": 39,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+          "published": "2026-11-07T09:42:52+00:00"
+        },
+        {
+          "title": "Сенат Парагвая объявил импичмент президенту, его отправили под домашний арест. Он ушел в отставку после краха банка, обслуживавшего большинство жителей страны",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/07/senat-paragvaya-ob-yavil-impichment-prezidentu-ego-otpravili-pod-domashniy-arest-on-ushel-v-otstavku-posle-kraha-banka-obsluzhivavshego-bolshinstvo-zhiteley-strany",
+          "published": "2026-11-07T08:53:59+00:00"
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:20:00+00:00"
+        },
+        {
+          "title": "Au Paraguay, la destitution du président, Santiago Peña, met en lumière les collusions entre le pouvoir politique et celui de la finance",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html",
+          "published": "2026-11-07T06:41:20+00:00"
+        },
+        {
+          "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+          "published": "2026-11-07T06:18:38+00:00"
+        },
+        {
+          "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+          "published": "2026-11-07T05:51:23+00:00"
+        },
+        {
+          "title": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+          "published": "2026-11-07T02:14:00+00:00"
+        },
+        {
+          "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "published": "2026-11-07T01:55:11+00:00"
+        },
+        {
+          "title": "Crisis-hit Paraguay impeaches Pena, replaces him with VP Alliana - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDZ1MzUtNmx6bHZianRVSzVqV0VNT0J0Wk5kcnJiWldqbE5sOG5VbWh3eUYtNzFBNzdLcjhuQWVIT0t4cHFrRjUtaEcweUVtbXQyRjExak5qblBldlBnRE8wSjU2cVhZcFFhYlNzQVQxNjJSVDZFclBZWVE1NDFPQUI5a0pOTElu?oc=5",
+          "published": "2026-11-07T01:50:42+00:00"
+        },
+        {
+          "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published": "2026-11-07T01:29:30+00:00"
+        },
+        {
+          "title": "Fuero, clave en la destitución de Santiago Peña; es el segundo presidente paraguayo que sale por un juicio político",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/fuero-clave-en-la-destitucion-de-santiago-pena-es-el-segundo-presidente-paraguayo-que-sale-por-un-juicio-politico/",
+          "published": "2026-11-07T00:11:56+00:00"
+        },
+        {
+          "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+          "published": "2026-11-06T23:56:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.263,
+        "y": 0.407,
+        "r": 0.221
       }
     },
     "kenya-cult-sentencing": {

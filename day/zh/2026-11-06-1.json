@@ -460,10 +460,10 @@
       "region": "欧洲",
       "summary": "法国因低工资、削减开支和生活成本上涨，再次爆发大规模抗议和罢工。CBS、Guardian和BBC报道，参与者达数万至数十万，包括公务员、教师、交通运输从业者和工会成员。在示威期间，抗议者与警方发生冲突，警方使用了催泪瓦斯，公众对政府的不满也进一步加剧。",
       "picture": "图中，游行人群举着裂开的工资天平，横幅在一座断桥上方撕裂。这是反对生活水平下降和政治僵局的象征。",
-      "mentions": 50,
-      "significance": 69,
-      "velocity": 19,
-      "domain_count": 11,
+      "mentions": 56,
+      "significance": 68,
+      "velocity": 33,
+      "domain_count": 13,
       "articles": [
         {
           "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
@@ -634,12 +634,102 @@
         "r": 0.221
       }
     },
+    "france-protests-cost-of-living": {
+      "kind": "major",
+      "title": "法国再度爆发因生活成本高涨引发的大规模抗议和罢工",
+      "region": "欧洲",
+      "summary": "法国再次出现大规模抗议和罢工，原因是低薪、削减开支以及生活成本上涨。CBS、《卫报》和BBC报道称，参与者多达数万乃至数十万人，其中包括公务员、教师、交通运输工人和工会成员。示威期间还发生了与警方的冲突，警方使用了催泪瓦斯，对政府的不满情绪也进一步加剧。",
+      "picture": "图中，行进的人群举着裂开的工资天平，横幅在一座损坏的桥上方被扯裂。这一画面象征着对生活水平下降和政治僵局的抗议。",
+      "mentions": 50,
+      "significance": 69,
+      "velocity": 19,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/humberto-musacchio-deja-huella-como-referencia-del-periodismo-cultural/",
+          "published": "2026-11-06T09:14:15+00:00"
+        },
+        {
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "published": "2026-11-06T08:00:04+00:00"
+        },
+        {
+          "title": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+          "published": "2026-11-06T04:30:01+00:00"
+        },
+        {
+          "title": "French workers flood streets for anti-government protests",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/",
+          "published": "2026-11-06T00:59:54+00:00"
+        },
+        {
+          "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court finds - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExCdXBSNnVWbVl5VmlJVHI4bzcxVkN5b3gtWmJIMmxxLW56OVpad3BGRnc0RExHSEIzd2otaE9JcHh1SjEzdG1tMlhDMTFiakQtd0l1MGFXdXZ1QjVfbEJrazcwbjdPTnVlQy01elN3XzNHa2ZEYkRMak5fQnRnZ29HOHZ3eF94WmlmZw?oc=5",
+          "published": "2026-11-06T00:12:00+00:00"
+        },
+        {
+          "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+          "published": "2026-11-05T20:39:49+00:00"
+        },
+        {
+          "title": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+          "published": "2026-11-05T20:23:56+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:56:05+00:00"
+        },
+        {
+          "title": "Protesters march in cities across France as unions stage general strike",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+          "published": "2026-11-05T17:21:45+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRG91SElhbG5mUlFvQWtQUlJUZnN0MVZIRVNsT0dBLXNFNE95Tzc2c3VNcG5yR1VCdmhLRC12SkVxdXRMMFZ3U1V3enNxWEJYWVBqdlB1MTk4ZU9sYndBakpySTF1MGVtZDlzVUJWMHRkZ9IBd0FVX3lxTFBjVTlKZWt4elBDT2JoR1JVbVVJdW9RR0FrZWZDQnUtd0dJeGc4WXVLLXhVOHVZQXB6aDFJU3pnMXVCOWEwZFF3bTRRenBkVnhIZmJnNTFLS0I4WUowem5ZNDhzX1J3UkNOWUJvN2tWMERFQTNKNVE0?oc=5",
+          "published": "2026-11-05T15:26:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
+      }
+    },
     "russia-state-pressure-assets": {
       "kind": "major",
-      "title": "克里姆林宫加大对俄罗斯境内资产和企业的控制",
+      "title": "克里姆林宫加强对俄罗斯境内资产和企业的控制",
       "region": "俄罗斯",
-      "summary": "俄罗斯国内对资产和企业的国家控制正在加强。ТАСС报道称，调查委员会提议将加密资产纳入反洗钱基础设施；Reuters和Le Monde则写道，在与日本关系恶化后，日本烟草公司在俄罗斯的资产被接管。在此背景下，还提到无人机袭击以及Ozon Bank运行受阻的最新消息。",
-      "picture": "图中，国家之手把工厂烟囱和银行金库串成锁链，文件也被封存。这象征着国家对经济资产日益加强的控制。",
+      "summary": "俄罗斯的国家管控正在加强。塔斯社报道称，调查委员会提议将加密资产纳入反洗钱基础设施；路透社和《世界报》则报道，在与日本关系恶化后，日本烟草国际（Japan Tobacco）的俄罗斯资产遭到接管。在此背景下，媒体还提到新的无人机袭击报道以及 Ozon Bank 的运营中断。",
+      "picture": "图中，国家之手将工厂烟囱和银行金库拉入锁链，文件也被封存。这象征着国家对经济资产日益加强的控制。",
       "mentions": 46,
       "significance": 78,
       "velocity": 36,
@@ -1176,10 +1266,10 @@
     },
     "tarantulas-in-socks-peru-airport": {
       "kind": "micro",
-      "title": "秘鲁机场截获藏在袜子里的三千只狼蛛走私案",
+      "title": "秘鲁机场查获藏在袜子里的三千只狼蛛走私案",
       "region": "拉丁美洲",
-      "summary": "秘鲁机场挫败了一起试图将3000多只狼蛛藏在袜子中运出境的企图。ТАСС援引AFP报道称，安检人员在三只行李箱中发现了这些昆虫；AFP和Guardian则写道，这批蜘蛛原本要运往德国。据Guardian估计，这批货物价值约150万欧元。",
-      "picture": "图中，狼蛛从一叠袜子里探出身子。这是非法托运活体动物的直接画面。",
+      "summary": "秘鲁一家机场挫败了一起试图将 3000 多只狼蛛藏在袜子中运出的走私企图。塔斯社援引法新社报道称，安检人员在三个行李箱中发现了这些昆虫；法新社和《卫报》则称，这些蜘蛛原本运往德国。按《卫报》的估算，这批货物价值约 150 万欧元。",
+      "picture": "图中，狼蛛从一叠袜子里探出身子。这是将活体动物非法夹带在行李中的直接写照。",
       "mentions": null,
       "significance": null,
       "velocity": null,

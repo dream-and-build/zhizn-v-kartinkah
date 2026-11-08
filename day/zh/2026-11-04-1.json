@@ -370,10 +370,10 @@
       "region": "乌克兰",
       "summary": "在俄罗斯2日对扎波罗热州科米舒瓦哈的打击之后，乌克兰南部仍在继续搜救工作。不同媒体给出的死亡和失踪人数各不相同：Pravda称37人死亡，Africanews称33人死亡、50多人失踪，Euronews则称31人死亡、45多人失踪。其他报道指出，袭击目标是一处人道主义场所，救援人员和幸存者在重伤后正在接受帮助。与此同时，媒体还报道称俄罗斯继续袭击乌克兰能源设施。",
       "picture": "两只手在满目疮痍的战壕上方递过一只脆弱的纸鸽，而炮弹仿佛静止在空中。这个画面意味着人们试图在战争仍在周围继续之际推动和平。",
-      "mentions": 52,
-      "significance": 70,
-      "velocity": 58,
-      "domain_count": 13,
+      "mentions": 58,
+      "significance": 95,
+      "velocity": 63,
+      "domain_count": 15,
       "articles": [
         {
           "title": "Російський удар по Комишувасі забрав життя 37 людей, пошукові роботи тривають",
@@ -460,10 +460,10 @@
       "region": "亚洲",
       "summary": "亚洲地区围绕朝鲜的紧张局势依然存在。据媒体报道，朝鲜在与美国和韩国争执之后仍在继续进行导弹试射。《印度时报》、美联社和其他媒体称，朝鲜向东部方向发射了新的导弹，关系进一步紧张。与此同时，路透社、BBC和SCMP还报道了其他地区风险，包括中国在台湾周边的海上活动增加，以及该地区的外交困境。该报道汇编还提到，亚洲多国正在加强对安全与防务的关注。",
       "picture": "一枚导弹从裂开的罗盘中升起，旁边是带锁的控制台和雷达信号圈。这个画面显示该地区的航向已被打乱，安全取决于严密控制和紧张警报。",
-      "mentions": 19,
-      "significance": 73,
-      "velocity": 29,
-      "domain_count": 3,
+      "mentions": 55,
+      "significance": 80,
+      "velocity": 71,
+      "domain_count": 14,
       "articles": [
         {
           "title": "В Казахстане прокомментировали размещение двух АЭС в одном районе",
@@ -542,6 +542,96 @@
         "x": 0.514,
         "y": 0.843,
         "r": 0.3
+      }
+    },
+    "ukraine-talks": {
+      "kind": "major",
+      "title": "外交官试图追赶战争：围绕乌克兰停火的新一轮谈判正在进行",
+      "region": "乌克兰",
+      "summary": "乌克兰南部在11月2日俄罗斯袭击扎波罗热州科米舒瓦哈后，搜救工作仍在继续。不同媒体给出的死亡和失踪人数不一：Pravda称有37人死亡，Africanews称有33人死亡、50多人失踪，Euronews则称有31人死亡、45多人失踪。其他报道提到，这次袭击针对的是一处人道主义场所，救援人员和幸存者在重伤后获得救助。在这些消息背景下，媒体还报道了俄罗斯持续打击乌克兰能源设施。",
+      "picture": "两只手在一片破碎的战壕上方递送一只脆弱的纸鸽，而炮弹仿佛在空中静止。这一形象象征着在战争仍在围绕谈判持续之际，人们试图实现和平。",
+      "mentions": 52,
+      "significance": 70,
+      "velocity": 58,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "Російський удар по Комишувасі забрав життя 37 людей, пошукові роботи тривають",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/04/8061205/",
+          "published": "2026-11-04T09:52:00+00:00"
+        },
+        {
+          "title": "Ukraine: 33 dead, over 50 missing after Russian bombing in Zaporizhzhia",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia/",
+          "published": "2026-11-04T09:38:40+00:00"
+        },
+        {
+          "title": "Ukraine: 31 dead, over 45 missing after Russian bombing in Zaporizhzhia",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia",
+          "published": "2026-11-04T09:26:29+00:00"
+        },
+        {
+          "title": "Perros y Burros Promociones en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/perros-y-burros-promociones/",
+          "published": "2026-11-04T09:13:36+00:00"
+        },
+        {
+          "title": "Huge loss for Trump as Democrats take control of Congress",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/news/headlines/922620-huge-loss-for-trump-as-democrats-take-control-of-congress.html",
+          "published": "2026-11-04T09:03:01+00:00"
+        },
+        {
+          "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-04T08:52:00+00:00"
+        },
+        {
+          "title": "'The mood got better and better as the night went on': Dems celebrate midterms victory",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261104-the-mood-got-better-and-better-as-the-night-went-on-dems-celebrate-midterms-victory",
+          "published": "2026-11-04T08:50:00+00:00"
+        },
+        {
+          "title": "S. Korean won slightly weakens after Democrats retake U.S. Congress in midterm elections",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261104009700320",
+          "published": "2026-11-04T07:37:25+00:00"
+        },
+        {
+          "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlZVlROTGNmZDJEZFJ6TndUc0JzVHM2dERBeG5lTWNTVWItM2dxNjgzRkptc2FSRzRVdlBhLVBxbThVYVpTbkpuV2FGTDE5ME9rUkR0bmpJcEt4eU1hVlN2ejVrSXM4XzZva3BQZDZYNFdjRDVfTmVpb2FDdXYtdGdRYmxZcHVMb1JqajZBMV9QY296SXJubFM2T0xlQkJvcHZYTEVSelk2Zw?oc=5",
+          "published": "2026-11-04T05:57:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : 38 personnes pourraient encore être ensevelies sous les décombres de l’école bombardée lundi à Komychouvakha",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-un-entrepot-d-e-commerce-russe-vise-par-une-attaque-de-drones-ukrainiens_6803934_3210.html",
+          "published": "2026-11-04T05:56:28+00:00"
+        },
+        {
+          "title": "Trump willing to accept Democrat landslide result, but says would have won if his name was on ballot - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWUd4eVlVZFJFcnZOLTJFVFJBdHVJSkZfdFB3ZHYyd2ZyWE9qLWhBaVhsbFZMWXZYQ3hsdWNteTRiQnhQMmpWdWFJc2R6YkFMY0VuMkZ1R2I0RkRVTFBEa0U0TGs1M0VCejFQNmxNWkpPd2tnMTJVUU1BenVIakREYjRBTWpFTGJHM2R0bzdERm9nRmdqYlljanhxVlg4d1B6T3djaklRNUJERFF4cndfWDNiaFJCOHN3WktPekdTMWRyOXFDYmVtRXMwUi01cW1BUDF4MQ?oc=5",
+          "published": "2026-11-04T05:48:35+00:00"
+        },
+        {
+          "title": "Eleição de meio de mandato nos EUA ocorre sob interferência eleitoral de Trump sem precedentes",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eleicao-de-meio-de-mandato-nos-eua-ocorre-sob-interferencia-eleitoral-sem-precedentes-de-trump.shtml",
+          "published": "2026-11-03T21:02:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.652,
+        "y": 0.138,
+        "r": 0.283
       }
     },
     "europe-protests": {
@@ -938,6 +1028,96 @@
         "x": 0.5,
         "y": 0.286,
         "r": 0.151
+      }
+    },
+    "south-korea-north-korea-tension": {
+      "kind": "major",
+      "title": "朝鲜持续导弹发射，韩国加快推进防务和网络防护",
+      "region": "亚洲",
+      "summary": "亚洲围绕朝鲜半岛的紧张局势依然存在。据媒体报道，朝鲜在与美国和韩国争执后仍在继续进行导弹发射。Times of India、AP等媒体报道称，朝鲜再次向东部方向发射导弹，局势进一步升温。与此同时，Reuters、BBC和SCMP还报道了其他地区风险：围绕台湾的中国海上活动增加，以及该地区的外交两难。该组报道还提到，亚洲多个国家正加强对安全和防务的关注。",
+      "picture": "一枚导弹从破裂的罗盘中升起，旁边是锁形控制器和雷达信号圈。画面表明，这个地区的航向已经偏离，而安全取决于严格控制和不断响起的警报信号。",
+      "mentions": 19,
+      "significance": 73,
+      "velocity": 29,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "В Казахстане прокомментировали размещение двух АЭС в одном районе",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28285407",
+          "published": "2026-11-04T09:19:55+00:00"
+        },
+        {
+          "title": "Midterms 2026 : « C’est une énorme sanction pour le camp Trump », notre journaliste à New York analyse les résultats",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/video/2026/11/04/midterms-2026-c-est-une-enorme-sanction-pour-le-camp-trump-notre-journaliste-a-new-york-analyse-les-resultats_6806129_3210.html",
+          "published": "2026-11-04T08:34:56+00:00"
+        },
+        {
+          "title": "Drones attack Iranian Kurdish opposition in Iraq, sources say - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTl9SSXJ6Nkxub284Y1g3VGtSb21kUFJwUWtFbUhBSzdOQlRBdXdEWUtjR042OW1WR2VsOXl0cUdVYUxWb09HVmVGUk13R056QlJKNnVlMkRRQkxCVmNRcV9jTGhWaXVxSkdzV0RuSmZyMUlCQUpjQndORjhGT3M5VEN6eGI2X0hyaUNRV0FQTXNoOERIQWFCMm1rYy16QTg4WWR4Vlh3RkQ?oc=5",
+          "published": "2026-11-04T08:30:22+00:00"
+        },
+        {
+          "title": "Taiwan flags massive PLA naval mobilisation, spike in air sorties",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/military/article/3373249/taiwan-flags-massive-pla-naval-mobilisation-spike-air-sorties",
+          "published": "2026-11-04T08:26:37+00:00"
+        },
+        {
+          "title": "S. Korea experiences 5th warmest Oct. this year",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261104009800315",
+          "published": "2026-11-04T08:11:37+00:00"
+        },
+        {
+          "title": "Премьер Канады пообещал не пустить российских хоккеистов на молодежный чемпионат мира",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/04/premier-kanady-poobeschal-ne-pustit-rossiyskih-hokkeistov-na-molodezhnyy-chempionat-mira",
+          "published": "2026-11-04T07:24:52+00:00"
+        },
+        {
+          "title": "Indonesia arrests ex-police chief over alleged illegal wiretapping of President, officials",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/indonesia-arrests-ex-police-chief-over-alleged-illegal-wiretapping-of-president-officials/article71664234.ece",
+          "published": "2026-11-04T06:25:45+00:00"
+        },
+        {
+          "title": "Indonesia president sacks chief of staff over alleged wiretap - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWpIeTNmZXdFelNjT3lrLTVrcF9ZdjJfZV9kcnczLVR6NmhGZ2FZbUpScG9kN0NGTVg2MC1OaE51ZnpGd2VOMU1MUWpYNlR4Q2wtd1NLSXl2bkl6NkIzcm01UXRkTkJTb2xiM282SXlTemI3LS1OYzBDNm41UFptM09lTGlfU2F3azBPNzdaMjZkSE9xN0pKMFhWQng2c01IN0poSHJmREo5RDgwTzFQOFZNWQ?oc=5",
+          "published": "2026-11-04T05:11:00+00:00"
+        },
+        {
+          "title": "North Korea fires missiles hours after rejecting US accusations over Binance hack",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missiles-hours-after-rejecting-us-accusations-over-binance-hack/articleshow/135524084.cms",
+          "published": "2026-11-04T05:01:44+00:00"
+        },
+        {
+          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T03:46:10+00:00"
+        },
+        {
+          "title": "Indonesia detains 3 police generals suspected of wiretapping President Prabowo - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbm9jRTV2OFFITXRpWTRHTHdsQVNPOUVWcXdKX25iNzVoZGJrQUtrUm1qaUNRcTZRRko1T1UzTHZuRk42NEFtdl9jZktjVC1sTFc2VWc1QVJ3WWNlSjA4UmlXSnNKVWVuckdFek9Yd1RZVW5uNUF5ck41aE1qSms2QmwtUzR1bDVpRE9PYV9lanhzWEsxcGMybllGU2tvdE9BcGljUFBnUEpkVmtrU1lwTS1uczhablpTWFNxaDBNdEU?oc=5",
+          "published": "2026-11-04T00:43:00+00:00"
+        },
+        {
+          "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+          "published": "2026-11-03T22:25:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.514,
+        "y": 0.843,
+        "r": 0.3
       }
     },
     "google-voluntary-buyouts-several-countries": {

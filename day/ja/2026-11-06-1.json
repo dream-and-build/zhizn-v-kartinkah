@@ -460,10 +460,10 @@
       "region": "ヨーロッパ",
       "summary": "フランスでは、低賃金、歳出削減、生活費上昇を背景に、再び大規模な抗議とストライキが行われた。CBS、Guardian、BBCは、公務員、教師、交通労働者、労組関係者を含む何十万もの参加者について報じている。デモの中では警察との衝突も起き、催涙ガスが使用されたほか、政府への不満も強まった。",
       "picture": "図では、行進する群衆がひび割れた賃金の天秤を掲げ、横断幕が壊れた橋の上で引き裂かれている。これは、生活水準の低下と政治的行き詰まりに対する抗議を表している。",
-      "mentions": 50,
-      "significance": 69,
-      "velocity": 19,
-      "domain_count": 11,
+      "mentions": 56,
+      "significance": 68,
+      "velocity": 33,
+      "domain_count": 13,
       "articles": [
         {
           "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
@@ -634,12 +634,102 @@
         "r": 0.221
       }
     },
+    "france-protests-cost-of-living": {
+      "kind": "major",
+      "title": "フランスを再び大規模な抗議とストが襲う、生活費高騰で",
+      "region": "ヨーロッパ",
+      "summary": "フランスでは、低賃金、削減、生活費の上昇を背景に、再び大規模な抗議行動とストライキが行われた。CBS、Guardian、BBCによると、公務員、教師、交通労働者、労働組合員を含む数万から数十万人が参加した。デモの最中には警察との衝突も発生し、警察は催涙ガスを使用したほか、政府への不満も一段と強まった。",
+      "picture": "図には、行進する群衆がひび割れた賃金の天秤を掲げ、横断幕が壊れた橋の上で引き裂かれている。これは、生活水準の低下と政治的膠着に抗議する姿を象徴している。",
+      "mentions": 50,
+      "significance": 69,
+      "velocity": 19,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Humberto Musacchio deja huella como referencia del periodismo cultural",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/cultura/humberto-musacchio-deja-huella-como-referencia-del-periodismo-cultural/",
+          "published": "2026-11-06T09:14:15+00:00"
+        },
+        {
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "published": "2026-11-06T08:00:04+00:00"
+        },
+        {
+          "title": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+          "published": "2026-11-06T04:30:01+00:00"
+        },
+        {
+          "title": "French workers flood streets for anti-government protests",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/",
+          "published": "2026-11-06T00:59:54+00:00"
+        },
+        {
+          "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court finds - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExCdXBSNnVWbVl5VmlJVHI4bzcxVkN5b3gtWmJIMmxxLW56OVpad3BGRnc0RExHSEIzd2otaE9JcHh1SjEzdG1tMlhDMTFiakQtd0l1MGFXdXZ1QjVfbEJrazcwbjdPTnVlQy01elN3XzNHa2ZEYkRMak5fQnRnZ29HOHZ3eF94WmlmZw?oc=5",
+          "published": "2026-11-06T00:12:00+00:00"
+        },
+        {
+          "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+          "published": "2026-11-05T20:39:49+00:00"
+        },
+        {
+          "title": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+          "published": "2026-11-05T20:23:56+00:00"
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T17:59:53+00:00"
+        },
+        {
+          "title": "Bomb threats reported on multiple flights across Europe explained - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGE1QXFhUUdVVFZmVU9LR0FraUlwSXpMaWJmdFNsRldIb014bUpabTF4cjZUcEhXcnRXWV9wcVA4NHZibEhuaHlNMkZEZ2Z5QkZDSkREZmprMDZKN2RkWHk0a0VBMkRXbnVpb1R2bmNvem4zMnRMLWp5OEo2Q3BRbEtVZ1hwR3I4YVF0ano4dElXeVpCS1ZiMG81Q2VDVDk3cmxR?oc=5",
+          "published": "2026-11-05T17:57:23+00:00"
+        },
+        {
+          "title": "New hoax bomb threats hit European flights - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVWhDel82czVqZENmWGNRbzVxRllUTlR0anlfWF9qY0l2TzZnTlI1b0psYnFBT0dSM3JQbmVuU1QwekoxNXpaakJ6aVlBdEFpWnhZeGYtVHpjTG1xNS1RVXFrSG4xOXBxWm5uUnY0cUluMU0?oc=5",
+          "published": "2026-11-05T17:56:05+00:00"
+        },
+        {
+          "title": "Protesters march in cities across France as unions stage general strike",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+          "published": "2026-11-05T17:21:45+00:00"
+        },
+        {
+          "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRG91SElhbG5mUlFvQWtQUlJUZnN0MVZIRVNsT0dBLXNFNE95Tzc2c3VNcG5yR1VCdmhLRC12SkVxdXRMMFZ3U1V3enNxWEJYWVBqdlB1MTk4ZU9sYndBakpySTF1MGVtZDlzVUJWMHRkZ9IBd0FVX3lxTFBjVTlKZWt4elBDT2JoR1JVbVVJdW9RR0FrZWZDQnUtd0dJeGc4WXVLLXhVOHVZQXB6aDFJU3pnMXVCOWEwZFF3bTRRenBkVnhIZmJnNTFLS0I4WUowem5ZNDhzX1J3UkNOWUJvN2tWMERFQTNKNVE0?oc=5",
+          "published": "2026-11-05T15:26:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.362,
+        "y": 0.121,
+        "r": 0.264
+      }
+    },
     "russia-state-pressure-assets": {
       "kind": "major",
-      "title": "クレムリンがロシア国内の資産と企業への統制を強める",
+      "title": "クレムリン、ロシア国内の資産とビジネスに対する統制を強化",
       "region": "ロシア",
-      "summary": "ロシアでは、資産と企業に対する国家統制が強まっている。ТАССは、捜査委員会が暗号資産をマネーロンダリング対策のインフラに組み込むよう提案したと報じ、ReutersとLe Mondeは、日本との関係悪化を受けてJapan Tobaccoのロシア資産が接収されたと伝えている。こうした中で、ドローン攻撃やOzon Bankの業務障害に関する新たな報道も挙がっている。",
-      "picture": "図では、国家の手が工場の煙突と銀行の金庫を鎖で締め上げ、書類が封印されている。これは、経済資産に対する国家の統制強化の象徴である。",
+      "summary": "ロシアでは国家による資産とビジネスへの統制が強まっている。タス通信によると、調査委員会は暗号資産をマネーロンダリング対策のインフラに組み入れるよう提案した。また、ReutersとLe Mondeは、日本との関係悪化を受けてJapan Tobaccoのロシア資産が接収されたと報じている。こうした中、ドローン攻撃やOzon Bankのシステム障害に関する新たな報道も伝えられている。",
+      "picture": "図では、国家の手が工場の煙突と銀行の金庫を鎖で締め上げ、書類は封印されている。これは経済資産に対する国家の統制強化を象徴している。",
       "mentions": 46,
       "significance": 78,
       "velocity": 36,
@@ -1176,10 +1266,10 @@
     },
     "tarantulas-in-socks-peru-airport": {
       "kind": "micro",
-      "title": "ペルーの空港で、靴下に入れた3000匹のタランチュラの密輸を阻止",
+      "title": "ペルーの空港で、靴下に入れたタランチュラ3千匹の密輸を阻止",
       "region": "ラテンアメリカ",
-      "summary": "ペルーの空港で、靴下に入れた3000匹以上のタランチュラを持ち出そうとする試みが阻止された。AFPを引用したТАССによると、検査中に3つのスーツケースから昆虫が見つかり、AFPとGuardianは、クモがドイツへ運ばれていたと報じている。Guardianは、この貨物の価値は約150万ユーロに達した可能性があると推定している。",
-      "picture": "図では、タランチュラが靴下の山から顔をのぞかせている。これは、生きた動物を荷物に紛れ込ませた違法輸送をそのまま示している。",
+      "summary": "ペルーの空港で、靴下に入れた3千匹超のタランチュラを国外に持ち出そうとする試みが阻止された。タス通信がAFPを引用して伝えたところによると、検査中に3つのスーツケースから昆虫が見つかった。AFPとGuardianによれば、クモはドイツ行きだった。Guardianの見積もりでは、この荷の価値は約150万ユーロに達する可能性があった。",
+      "picture": "図では、タランチュラが靴下の山から顔をのぞかせている。これは、荷物の中で生きた動物を違法に運ぶ行為をそのまま示している。",
       "mentions": null,
       "significance": null,
       "velocity": null,
