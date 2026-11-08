@@ -1,5 +1,254 @@
 [
   {
+    "key": "2026-11-08-1",
+    "date": "2026-11-08",
+    "image": "img/2026-11-08-1.jpg",
+    "aspect": 1.7778,
+    "people": 8324923085,
+    "spots": [
+      {
+        "id": "israel-election",
+        "x": 0.5,
+        "y": 0.893,
+        "r": 0.202
+      },
+      {
+        "id": "poland-security-shock",
+        "x": 0.208,
+        "y": 0.381,
+        "r": 0.21
+      },
+      {
+        "id": "europe-protests",
+        "x": 0.402,
+        "y": 0.148,
+        "r": 0.283
+      },
+      {
+        "id": "egypt-train-collision",
+        "x": 0.25,
+        "y": 0.714,
+        "r": 0.26
+      },
+      {
+        "id": "iran-us-friction",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.26
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.75,
+        "y": 0.179,
+        "r": 0.202
+      },
+      {
+        "id": "pope-south-america-tour",
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "iran-us-friction",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.26
+      },
+      {
+        "id": "ai-market-selloff",
+        "x": 0.812,
+        "y": 0.75,
+        "r": 0.239
+      },
+      {
+        "id": "south-africa-election-shift",
+        "x": 0.5,
+        "y": 0.607,
+        "r": 0.202
+      },
+      {
+        "id": "gaza-winter-crisis",
+        "x": 0.797,
+        "y": 0.384,
+        "r": 0.241
+      },
+      {
+        "id": "new-zealand-deadlock",
+        "x": 0.787,
+        "y": 0.579,
+        "r": 0.221
+      },
+      {
+        "id": "paraguay-bank-collapse",
+        "x": 0.188,
+        "y": 0.571,
+        "r": 0.202
+      },
+      {
+        "id": "us-midterms",
+        "x": 0.188,
+        "y": 0.857,
+        "r": 0.202
+      },
+      {
+        "id": "cybercrime-and-breaches",
+        "x": 0.25,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "south-korea-championship",
+        "x": 0.688,
+        "y": 0.589,
+        "r": 0.3
+      },
+      {
+        "id": "double-waterspout-capri",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "route-du-rhum-record",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "alcaraz-paris-masters",
+        "x": 0.375,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "england-record-win-australia",
+        "x": 0.562,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "real-madrid-valencia",
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "liverpool-back-on-track",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "arsenal-wsl-win",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "brighton-second-place",
+        "x": 0.938,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "inter-close-to-lazio",
+        "x": 0.938,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "diwali-across-india",
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "dalian-super-league-title",
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "shuri-sakuma-lpga-title",
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "an-se-young-badminton-title",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "messi-mls-golden-boot",
+        "x": 0.625,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "mexico-city-jokic-trip",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "jalen-johnson-return",
+        "x": 0.188,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "knicks-beat-cavs",
+        "x": 0.156,
+        "y": 0.946,
+        "r": 0.222
+      },
+      {
+        "id": "thunder-crush-wizards",
+        "x": 0.188,
+        "y": 0.964,
+        "r": 0.188
+      },
+      {
+        "id": "devils-overtime-comeback",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "mcdavid-point-streak",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "blackwood-shutout",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "diwali-fireworks-in-diaspora",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "norris-brazil-grand-prix",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "mercedes-constructors-title",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-07-1",
     "date": "2026-11-07",
     "image": "img/2026-11-07-1.jpg",
