@@ -1,5 +1,242 @@
 [
   {
+    "key": "2026-11-09-1",
+    "date": "2026-11-09",
+    "image": "img/2026-11-09-1.jpg",
+    "aspect": 1.7778,
+    "people": 8325111759,
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.188,
+        "y": 0.774,
+        "r": 0.3
+      },
+      {
+        "id": "china-india-economy",
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.26
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.75,
+        "y": 0.321,
+        "r": 0.202
+      },
+      {
+        "id": "ai-market-selloff",
+        "x": 0.787,
+        "y": 0.8,
+        "r": 0.297
+      },
+      {
+        "id": "poland-security-shock",
+        "x": 0.237,
+        "y": 0.164,
+        "r": 0.221
+      },
+      {
+        "id": "israel-election",
+        "x": 0.473,
+        "y": 0.832,
+        "r": 0.256
+      },
+      {
+        "id": "climate-cop31",
+        "x": 0.25,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.75,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "pope-south-america-tour",
+        "x": 0.438,
+        "y": 0.286,
+        "r": 0.202
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.463,
+        "y": 0.136,
+        "r": 0.221
+      },
+      {
+        "id": "south-africa-election-shift",
+        "x": 0.5,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "migration-boat-deaths",
+        "x": 0.375,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "paraguay-bank-collapse",
+        "x": 0.25,
+        "y": 0.536,
+        "r": 0.202
+      },
+      {
+        "id": "gaza-winter-crisis",
+        "x": 0.5,
+        "y": 0.464,
+        "r": 0.202
+      },
+      {
+        "id": "krakow-shooting",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "capri-waterspout",
+        "x": 0.375,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "world-record-archery",
+        "x": 0.562,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "route-du-rhum-record",
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "dormice-good-news",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "capybara-not-in-list",
+        "x": 0.938,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "diwali-smog-delhi",
+        "x": 0.938,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "taiyuan-fire",
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.188
+      },
+      {
+        "id": "diwali-lights-india",
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "firefighters-funding-korea",
+        "x": 0.938,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "penguin-walk-taipei",
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "gobeklitepe-festival",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.188
+      },
+      {
+        "id": "anc-result",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "dakar-surf-school",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "atacama-bloom",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "tarantulas-peru",
+        "x": 0.062,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "cybertruck-refunds",
+        "x": 0.125,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "nvidia-spy-scandal",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "jensen-letter",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "moon-astronauts-nasa",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "tree-rhino-atlanta",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "gmail-under16s-australia",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "new-zealand-election-limbo",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "hockey-russia-return",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-08-1",
     "date": "2026-11-08",
     "image": "img/2026-11-08-1.jpg",
