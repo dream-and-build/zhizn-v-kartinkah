@@ -1,5 +1,206 @@
 [
   {
+    "key": "2026-11-10-1",
+    "date": "2026-11-10",
+    "image": "img/2026-11-10-1.jpg",
+    "aspect": 1.7778,
+    "people": 8325300434,
+    "spots": [
+      {
+        "id": "us-midterms",
+        "x": 0.168,
+        "y": 0.409,
+        "r": 0.3
+      },
+      {
+        "id": "ai-market-selloff",
+        "x": 0.75,
+        "y": 0.786,
+        "r": 0.26
+      },
+      {
+        "id": "ukraine-oleshky",
+        "x": 0.75,
+        "y": 0.179,
+        "r": 0.202
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.26
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.392,
+        "y": 0.172,
+        "r": 0.296
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.723,
+        "y": 0.393,
+        "r": 0.223
+      },
+      {
+        "id": "gaza-winter-crisis",
+        "x": 0.75,
+        "y": 0.571,
+        "r": 0.26
+      },
+      {
+        "id": "israel-election",
+        "x": 0.438,
+        "y": 0.75,
+        "r": 0.188
+      },
+      {
+        "id": "naga-skulls-return",
+        "x": 0.375,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "booker-prize-harrison",
+        "x": 0.562,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "human-catapult-record",
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "greece-theater-age",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "booker-artist-harrison",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "judo-riner-presidential-run",
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "cyprus-border-crossings",
+        "x": 0.938,
+        "y": 0.286,
+        "r": 0.125
+      },
+      {
+        "id": "museum-naga-remains",
+        "x": 0.938,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "diwali-festival-light",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.188
+      },
+      {
+        "id": "pope-buenos-aires-crowds",
+        "x": 0.875,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "pope-meets-abuse-survivors",
+        "x": 0.688,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "zoo-rhino-loss",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "squirrel-feeder-rescue",
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "kitten-drain-rescue",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "hippos-record",
+        "x": 0.125,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "move-the-bean",
+        "x": 0.125,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "book-festival-miami",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "rum-cake-festival",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "record-book-festival-attendance",
+        "x": 0.125,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "zoo-light-festival",
+        "x": 0.125,
+        "y": 0.679,
+        "r": 0.125
+      },
+      {
+        "id": "jupiter-mars-close-approach",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "meteorite-cape-cod",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "gta6-festival",
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "airbus-ultra-long-flight-record",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      }
+    ]
+  },
+  {
     "key": "2026-11-09-1",
     "date": "2026-11-09",
     "image": "img/2026-11-09-1.jpg",
