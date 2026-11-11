@@ -1,0 +1,2120 @@
+{
+  "key": "2026-11-11-1",
+  "date": "2026-11-11",
+  "image": "img/2026-11-11-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "ukraine-peace-framework": {
+      "kind": "major",
+      "title": "L’Europe débat d’une nouvelle architecture de sécurité dans le contexte de la guerre en Ukraine",
+      "region": "Europe",
+      "summary": "Les pays européens et leurs alliés discutent d’une nouvelle architecture de sécurité dans le contexte de la guerre en Ukraine et des négociations de paix. Selon les médias, à Abou Dhabi, la Russie, l’Ukraine et les États-Unis ont tenu un deuxième jour de pourparlers ; certains journaux écrivent que seuls des progrès limités ont été réalisés, tandis que la question des territoires reste non résolue. Il est également rapporté séparément que des émissaires américains rencontreront ensuite Vladimir Poutine à Moscou, puis Volodymyr Zelensky à Dublin. Dans ce contexte, l’Europe débat du financement de Kyiv et cherche aussi de nouveaux formats de coopération en matière de défense, notamment avec les États du Golfe.",
+      "picture": "Sur l’image, un bouclier européen fissuré est relié par un mince ruban, avec des tambours de guerre en dessous et des documents de négociation au-dessus. C’est l’illustration d’une tentative fragile de préserver la sécurité par la diplomatie dans un conflit qui se poursuit.",
+      "mentions": 100,
+      "significance": 89,
+      "velocity": 66,
+      "domain_count": 31,
+      "articles": [
+        {
+          "title": "В Гааге упрекнули союзников в нежелании финансировать Киев",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28307477",
+          "published": "2026-11-11T13:17:53+00:00"
+        },
+        {
+          "title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
+          "published": "2026-11-11T13:13:43+00:00"
+        },
+        {
+          "title": "Threatening emails sent to thousands of schools across UK, Ireland and Italy treated as hoaxes - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXBvckpiRk5zV3BjalJFZ0c0VzJxNEJrZUtNazEwUW1xSlp5U1R3WU5PMnVvSzlDSmNyYjRDMVd4ZXJ4RXJoVnd0VTk3Mk5iNlc4Y005Zl9KWERLRFRtMUVJcXRESHAtdlpvRU01SW1ReTZKMTl6VlZWZXpOODFpdkhyVDVxM1F2cmcxNXhrMGRhcXNhTnNEX0FoTC1aaEhiV2NENklqaGRyeGZZSEVoV3R5NENzdGpYTzVJUnJ4T0htLXo2QzI5M3U4Y0dpanNNSE8yb2p5UDJqUHlP?oc=5",
+          "published": "2026-11-11T13:07:21+00:00"
+        },
+        {
+          "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+          "published": "2026-11-11T13:07:01+00:00"
+        },
+        {
+          "title": "'Poluidores têm que pagar', diz Guterres em sua última COP como secretário-geral",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/poluidores-tem-que-pagar-diz-guterres-em-sua-ultima-cop-como-secretario-geral.shtml",
+          "published": "2026-11-11T12:48:00+00:00"
+        },
+        {
+          "title": "World leaders urge stronger and faster action at UN climate talks over inadequate response - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5",
+          "published": "2026-11-11T12:41:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : accord de principe avec la Russie pour un nouvel échange de prisonniers de guerre à grande échelle",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-accord-de-principe-avec-la-russie-pour-un-nouvel-echange-de-prisonniers-de-guerre-a-grande-echelle_6808609_3210.html",
+          "published": "2026-11-11T12:24:33+00:00"
+        },
+        {
+          "title": "Ірландія внесла додаткові 25 млн євро до Фонду підтримки енергетики України",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/11/8062327/",
+          "published": "2026-11-11T12:21:00+00:00"
+        },
+        {
+          "title": "Centurions De Silva, Mendis foil Pakistan as Sri Lanka dig in",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2043767/centurions-de-silva-mendis-foil-pakistan-as-sri-lanka-dig-in",
+          "published": "2026-11-11T12:18:00+00:00"
+        },
+        {
+          "title": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks - POLITICO.eu",
+          "domain": "politico.eu",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlhtSk1Pa1dsdi1xcHZfc2ctbmpWT1QxSUlDZkl3TFpYQVp4RjREcmM5V3VNUk9MV0hDaVdMWkFuQUdjM1RGMllrRnBWYkxhWU5wSGFMbjQwdWxKdlVCak1ULWpRZGw5WktwekY3OFVTQlRVbE13YnVESUExWmN5ZU9KQWhmYjNaVk54XzJqWnR6d3d6aldiRw?oc=5",
+          "published": "2026-11-11T12:18:00+00:00"
+        },
+        {
+          "title": "Secretary Scott Bessent moved to military base over Iran threats and more top headlines - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1c4VFFzM1V5WlRWcUNoYlQ5Tl92UmI2Q1RVS1JYWm43NFhCMWdTRE14Y0VIbm43aXVybWs4Tm9YU1FPdXBJVTd4ZW1weU9QRTdpUzZ2ZVJzaC1sUlFua0plQVZXemV3NVQ5b3UwekF2Smw4cmp3MW5TWFphaDVOQVV4dXotSGhMQmU3SWk2NHNSRzc0Wm1Mbm1icEd6V284c05Sbw?oc=5",
+          "published": "2026-11-11T12:15:25+00:00"
+        },
+        {
+          "title": "Hoax bomb alerts sent to schools in Italy, UK and Ireland",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert",
+          "published": "2026-11-11T11:47:16+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.464,
+        "r": 0.202
+      }
+    },
+    "us-midterms": {
+      "kind": "major",
+      "title": "Après la défaite des républicains, Trump et la Maison Blanche se défendent face au recul politique",
+      "region": "États-Unis",
+      "summary": "Après la défaite des républicains aux élections, Donald Trump et la Maison Blanche tentent d’enrayer la réaction politique. Dans la sélection d’articles, le thème de la lutte interne au parti domine : les républicains à la Chambre des représentants ont bloqué une tentative de destitution du secrétaire à la Défense Pete Hegseth, tandis que les démocrates ont affirmé qu’ils poursuivraient leurs efforts pour obtenir une enquête. D’autres articles évoquent aussi les fractures au sein du Parti républicain sur l’immigration et les tentatives de Trump de consolider son projet politique après son échec électoral.",
+      "picture": "Sur l’image, l’urne électorale semble frappée par un marteau rouge, la couronne glisse de la Maison Blanche et les drapeaux sont déchirés. Cela traduit le choc porté à l’autorité politique et la tentative de conserver le pouvoir après une défaite électorale.",
+      "mentions": 95,
+      "significance": 85,
+      "velocity": 24,
+      "domain_count": 29,
+      "articles": [
+        {
+          "title": "Headlines - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAwRHNwRVVrUGtMdlJEMEpUcEswNUY3eFhtVVBkbUhvOTlZNExzdmlHa21neHJuZ3hFUGI2RENpci0yQi1R?oc=5",
+          "published": "2026-11-11T13:11:59+00:00"
+        },
+        {
+          "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T12:58:17+00:00"
+        },
+        {
+          "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+          "published": "2026-11-11T12:47:40+00:00"
+        },
+        {
+          "title": "Diputados aprueban Presupuesto de Egresos 2027; quitan 6 mil mdp al INE, los reasignan a educación y búsqueda de personas, entre otros",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/diputados-aprueban-en-lo-general-y-particular-presupuesto-de-egresos-2027-pasa-al-ejecutivo-federal/",
+          "published": "2026-11-11T12:37:51+00:00"
+        },
+        {
+          "title": "Serve Robotics wants to democratize sidewalk delivery robots - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3YyTEx1S0Zlem1UbUJWeTZncjBxdDdoQ2JhWHdjU0xXN2dpV3RkX1AwM2JqaFRWSVZVR1JFbVpsUUlRWTN0TnN2TUl5OXJQTjYtTFYteHVtQzFLNkdJcnpTZHlaVnNEbjJTZWVtaDBvNFNlY1AwcVctXzBDeFNEdndlUU5aUXdoMHIzLU50MG9IN1pzamVoZHlRUE5HTzJ4?oc=5",
+          "published": "2026-11-11T12:30:00+00:00"
+        },
+        {
+          "title": "France pick 'icon' Dupont at fly-half against South Africa - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1FzckFLUWlPOVlDNm9va2lUeFhFalJ3M2NpVm4yUUswM3ZsbWRYSXozT0N5TkhER3pKajVyaWcyWTBzcEJhOEJ1dmtoU3Z6NHBKN19HQURSNUE2dEQ2UnotM0NGQ3VQYXFRMGdXQnBUc0U4NUFIelozVVR4TE14eHJR?oc=5",
+          "published": "2026-11-11T12:18:37+00:00"
+        },
+        {
+          "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
+          "published": "2026-11-11T12:17:22+00:00"
+        },
+        {
+          "title": "FIRST ON FOX: Supreme Court justices confront what it will take to keep America's founding freedoms alive - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1lUa3lybkwxeF9qeTJiRHBfdE9JY3pycFJndHlrQWNRNnVsUGIwa25ydDgzWmJ6VURqU0FzZGtGbWMzQ2tnR21iY0d2SjZYM0pFM0lsM2cyaC1DbW54Qm8wWjB0MmllMU8tTEY2bTBZbjM1MFdyQ2sybFF3WUtvQ0lVa0tTNE5PZ0J1eXJhbm5JTnIwM1NzdGtBQ09pYjlEbUdKYtIBqgFBVV95cUxPcElicU84cnExcFducEFlOHl4RnpwLVZfaXZpRGRNQy1tYTBPSDRYc25PSmRhUXo2bkh0T0pxUzRMVnlVc3lVdWZhcU8xZXVObDlwLU1tNUdRZVl2NjNMQ21Sc1ZJYlRiQUFPREItcUNucm1xamx1TElXMTEwTUhmTjFzbXFzSm82TGM1dzh4bXplMG95X19za3ZUOUxnN1ExQ19hZmRZazdFQQ?oc=5",
+          "published": "2026-11-11T12:00:21+00:00"
+        },
+        {
+          "title": "Stephen Miller’s promotion divides GOP over how hard to go on immigration - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1JhR2lUbUtBUU83M1JBYmp3Wk1ZUHdKelgxZTdWeW8wNkRFOGJQb2NvcFh6clhyVXlfTXNUeWJ6NElxRGd6dkhrZVNlRTdIM0xPWUVQbEtUVl9KTGljV255cmpOejM0OUxUS1VuN2tTdHVtRUZVWlMzUzc0N1pfWEZObF9sWlc1R1RaQ2Uza2k0ZzZrTnJZLWVWOXp6QjFKMVU4bmktRWg4ejV6NnFSOWU1S3pQVENVb1hNNzVIbDEzZFg5ZXdfalF1ZnE4WGktLVE?oc=5",
+          "published": "2026-11-11T11:53:00+00:00"
+        },
+        {
+          "title": "Inside the fight to build — or block — Trump’s triumphal arch - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGh2RVBkNTA1WmJtV1hCVXU4RUFMakMxTkhhNDlTSmM4aHJZR0FZUEpVWnM3NjlGWHNtLXE0Y21PWnI3S0xPWl9YY3N1clM3bzlOTDVNZmk3Qm5hLS04LVhNR0hKV0NtNkY4RnEtVWxfelVKaWlzWkpTWXhQb2FTYlRuWHB2bEt3TXZtXzRSTnIwMkswOFdPUk90ODh3NXVibmFkU3RxVmk5YVZVZTFR?oc=5",
+          "published": "2026-11-11T11:32:43+00:00"
+        },
+        {
+          "title": "Republicans kill Hegseth impeachment hopes for this year as Democrats vow to continue - CNN",
+          "domain": "cnn.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmRPR1E4SjhlNHNfbkdZOFhyb0lNRUxSY0pOUXhNenlRSUFJd0M4NHU0MlRYMGYxdTQxQ3ZnQ3BtUG00RW1ZY3IwamY1aWhicndlaDlpMEJjUHQ5R3AzN2JqRjFhbFBLcndyZFpqOFRCWmJZOWRDLV83MnMxTDFvZi1rbjQ?oc=5",
+          "published": "2026-11-11T10:50:00+00:00"
+        },
+        {
+          "title": "GOP House rejects Hegseth impeachment effort - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUJzMTFhd3lUc251dHJmSkd4UnNTV01pQ2ZibnZ0SlU5S2ptR2plbzUyektJaXdValIwMDkwOHRlVE5pR1hZZGJlWTRUd2VDN09KQ2NCNTg4NUZGaTNyZUJYaGgzRGNwTzhQZVYwUE4yUW1ObG1NQzFuVEljN3B1aXgyNUxxVTgwZ3c?oc=5",
+          "published": "2026-11-11T10:28:17+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.167,
+        "y": 0.69,
+        "r": 0.21
+      }
+    },
+    "us-iran-confrontation": {
+      "kind": "major",
+      "title": "Les États-Unis et l’Iran oscillent entre pression, menaces et diplomatie prudente",
+      "region": "Moyen-Orient",
+      "summary": "Les États-Unis et l’Iran continuent d’échanger des déclarations fermes dans un contexte de tensions autour du programme nucléaire et de menaces visant des responsables américains. Téhéran a qualifié d’« odieuse » la récompense américaine de 20 millions de dollars pour des informations sur son programme nucléaire et a de nouveau affirmé qu’il ne remettrait pas de matière nucléaire enrichie hors du pays. Plusieurs informations portent aussi sur des menaces visant le secrétaire au Trésor Scott Bessent, qui a été transféré sur une base militaire. Dans ce contexte, le risque d’escalade demeure, et le pétrole réagit à l’incertitude autour du conflit.",
+      "picture": "Sur l’image, un sceau nucléaire fissuré plane au-dessus d’une carte avec des pétroliers et des feuilles d’avertissement. C’est le symbole d’un point de vulnérabilité entre pression nucléaire, menaces et risques pour les marchés de l’énergie.",
+      "mentions": 81,
+      "significance": 91,
+      "velocity": 79,
+      "domain_count": 23,
+      "articles": [
+        {
+          "title": "Iran slams 'repugnant' $20m US reward for nuclear information",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2043807/iran-slams-repugnant-20m-us-reward-for-nuclear-information",
+          "published": "2026-11-11T13:20:55+00:00"
+        },
+        {
+          "title": "G7 condemns Houthi attacks on Saudi Arabia, urges Iran to stop arming group - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY28zWU5ncFFiVXg4b2NIRVV1aVozZ29NZ002MTRCUzZaN2t2ZWE1RnRXX19xS2h2NENjdEJ3SlhJQ1JNTGxKamRLbG1ES1IxWGtINDhVeU14WDE0OFVYMEN0QkZIUDdCLURnMEZKNm0xTnctS2tXM0NFeFlkUDB2UnVLdE9FU3FnOWNhSkNtZUdNd1l2Unc4RWVESHlzdWl1Z0ZfSjB1bGtxWTF6R253MVdJWDBtelJIajBV?oc=5",
+          "published": "2026-11-11T13:01:36+00:00"
+        },
+        {
+          "title": "Iran vows not to give up \"a single particle\" of nuclear material",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+          "published": "2026-11-11T12:50:33+00:00"
+        },
+        {
+          "title": "Treasury's Bessent moved to military base after Iranian threats - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3o2aTN4b1F2YVhZalVLVEVBT3VPYzVuaDJVMkpYY242UEJtdlRzb2FrYjZhd3hXcU0yQ1VzX0hRSVNSUGdILTZmM1BTdnNvQzJGejJqNTJpVWt1VmtFLU9tR3M5WS1GeDlYQWpXU1A4b000alp0MHZjZDJuOUx0YjBkNktYdi13eDJsUjNobmJHOU5jZU9pSXhZN3p0VWdmaElhVGZ6U1hVdUw2cG5DQ1BhdXBPQWd5ZWVzMVMtWXZaTnhLMC14UkcxRnNYUQ?oc=5",
+          "published": "2026-11-11T12:47:00+00:00"
+        },
+        {
+          "title": "Irã rebate governo Milei e classifica Forças Armadas da Argentina como terroristas",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ira-rebate-governo-milei-e-classifica-forcas-armadas-da-argentina-como-terroristas.shtml",
+          "published": "2026-11-11T12:24:00+00:00"
+        },
+        {
+          "title": "Iran will not allow enriched nuclear material to leave the country, security chief says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmRMSFZZUld1UEFab291N25WYXZVNENjbmtrWVU0OEEwZm84Z2RONXZHM0JnY2FId2ROLTRvek9lWmZiSFNQNlMwVVpVQ0Q1V3NsSDk1alc5Z0JoMExVY3NpYjVSVDhXd3RtYmo2M2lsdHoydlUteHlDMkp5QlZsWGQxam1JUXFuRkV0UHhOTVB0ZWtxeUhCTkNHNkRMMG5TaUdQaHBUYTlmMkhBRjBWUkZUTlNMVU1ISzFfVlduXzBJd3p0U0psdDNTa1F4Zw?oc=5",
+          "published": "2026-11-11T12:04:28+00:00"
+        },
+        {
+          "title": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVllRWVSSW00WVRiTDlIcEdtVXp4X0piR0VrQ0tWUm9wdVJUUFVaN0sxZFZVV2pwSGNIRUdOQ2VuQjd5QXNFTWpQRlgyRDc4S0ltemdWYnhLSWEwRG9yWXkzUy1Hc1dxWG5ELWNvV29SdklTWmczb3V0ZmZjc0NxV05uY2VWRGhodnJlNnRCR0YwdGNBM0xZUm0yd1pHRXlTblVaVEN2LW8yQQ?oc=5",
+          "published": "2026-11-11T11:56:11+00:00"
+        },
+        {
+          "title": "Iran says will not allow enriched nuclear material to leave country",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/any-new-attack-will-be-met-with-strikes-on-bases-iran-warns-us-rules-out-nuclear-material-transfer/articleshow/135735218.cms",
+          "published": "2026-11-11T11:47:07+00:00"
+        },
+        {
+          "title": "Por una amenaza \"avanzada\" de Irán, el gobierno de Estados Unidos trasladó a Scott Bessent a una base militar",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/amenaza-avanzada-iran-gobierno-estados-unidos-traslado-scott-bessent-base-militar_0_rlC0iLaWRx.html",
+          "published": "2026-11-11T11:12:34+00:00"
+        },
+        {
+          "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+          "published": "2026-11-11T10:16:38+00:00"
+        },
+        {
+          "title": "US treasury chief Bessent moved to military base amid Iranian threats, sources say",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/us-treasury-chief-bessent-moved-to-military-base-amid-iranian-threats-sources-say/",
+          "published": "2026-11-11T10:04:01+00:00"
+        },
+        {
+          "title": "Oil Rebounds After Two-Day Drop on U.S.-Iran Conflict Uncertainty - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR?oc=5",
+          "published": "2026-11-11T09:45:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.464,
+        "r": 0.202
+      }
+    },
+    "spain-europe-security-drone-warnings": {
+      "kind": "major",
+      "title": "L’Europe renforce sa défense contre les drones et les cybermenaces, tandis que la Suède et l’Allemagne débattent de la sécurité",
+      "region": "Europe",
+      "summary": "L’Europe renforce ses plans de défense face aux menaces aériennes, aux cyberattaques et aux tensions avec la Russie. Il est fait état d’une nouvelle initiative nord-européenne de lutte contre les drones et les navires militaires, ainsi que de projets de l’UE visant à renforcer la coopération en matière de défense avec le Qatar et les pays du Golfe. D’autres publications concernent les cybermenaces en Europe et la réponse de l’UE aux attaques attribuées à l’Iran. L’ensemble des articles montre que la question de la sécurité dépasse de plus en plus le cadre d’une seule guerre et touche plusieurs fronts à la fois.",
+      "picture": "Des silhouettes de drones tournent autour d’une grille verrouillée, à côté d’un pare-feu fissuré et de câbles protégés. C’est l’image d’une défense à la fois contre des menaces militaires et numériques.",
+      "mentions": 66,
+      "significance": 70,
+      "velocity": 86,
+      "domain_count": 17,
+      "articles": [
+        {
+          "title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
+          "published": "2026-11-11T13:13:43+00:00"
+        },
+        {
+          "title": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks - POLITICO.eu",
+          "domain": "politico.eu",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlhtSk1Pa1dsdi1xcHZfc2ctbmpWT1QxSUlDZkl3TFpYQVp4RjREcmM5V3VNUk9MV0hDaVdMWkFuQUdjM1RGMllrRnBWYkxhWU5wSGFMbjQwdWxKdlVCak1ULWpRZGw5WktwekY3OFVTQlRVbE13YnVESUExWmN5ZU9KQWhmYjNaVk54XzJqWnR6d3d6aldiRw?oc=5",
+          "published": "2026-11-11T12:18:00+00:00"
+        },
+        {
+          "title": "Secretary Scott Bessent moved to military base over Iran threats and more top headlines - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1c4VFFzM1V5WlRWcUNoYlQ5Tl92UmI2Q1RVS1JYWm43NFhCMWdTRE14Y0VIbm43aXVybWs4Tm9YU1FPdXBJVTd4ZW1weU9QRTdpUzZ2ZVJzaC1sUlFua0plQVZXemV3NVQ5b3UwekF2Smw4cmp3MW5TWFphaDVOQVV4dXotSGhMQmU3SWk2NHNSRzc0Wm1Mbm1icEd6V284c05Sbw?oc=5",
+          "published": "2026-11-11T12:15:25+00:00"
+        },
+        {
+          "title": "What is northern Europe’s new drone and warship plan to counter Russia?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss",
+          "published": "2026-11-11T12:13:52+00:00"
+        },
+        {
+          "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+          "published": "2026-11-11T12:00:48+00:00"
+        },
+        {
+          "title": "EU ready for 'united response' after France blames Iran for fridge hacks",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/eu-ready-for-united-response-after-france-blames-iran-for-fridge-hacks",
+          "published": "2026-11-11T11:16:36+00:00"
+        },
+        {
+          "title": "Russia violates Moldovan airspace with 2 missiles - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjRyVWVROHhVeGZTWGdWSWJFd25hUF96dEltTUJ1Z0FrenlzTWFjaWYtRko5WmIxVHdqbjZxMmw1OHFhTk9xVVQ5Ni1LblNyNGhSbGhDdWN3QTRhUmZKZXU5NVFmWFJNV25WZ3E5T1VYdHg0UnNPWWhrSkhjQVhrd1FkNDhBWUV6Qml1OFlCXzBMdUFu?oc=5",
+          "published": "2026-11-11T10:57:00+00:00"
+        },
+        {
+          "title": "Nvidia shares take another hit after CEO Jensen Huang's affair with an alleged Chinese spy - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU5OX2IzUEI1bkR4a0FWN0xSclZ1RWx2ek16MlJ4S25VVXkxRm9LSm96WldvQ0NLLUpxWmFObC01RzRiMkc1azYyRFVJOVdiMXFEQkZubTdIOUx0c3BLNnVDRnJndWYtNFk5VFNWajRvUDhDU19SQlg4ZEtnUF9heEtvLWJDRU9PakNrb2RWQXVHckU1bEoySTdXV0VIdDVzWUdBa1JNN25hRE41d3NHeldKN09JNmJwMlNYaEQyNjd3R0U?oc=5",
+          "published": "2026-11-11T08:01:41+00:00"
+        },
+        {
+          "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzM1dGUzNzlPWFJ6dTlBMGc4OHdjSWlRZ0d6Y3NERDNEcmpzUGF0LUFYM0hrUDJRZDFFOE01YVFrWGpPSEtEVV9OelI5NnNXbXcxUkhuR2ZvNzFseWlTRkNfcGFzRVNHNjBiX055akdLaEM4eTh3NTFNcUx4RHdmUmtjTm1NTGNoWjRGQWdnbk9kN1M3eFRvMjVBeDYxbzdHcGdYUkdWV2E?oc=5",
+          "published": "2026-11-11T07:14:00+00:00"
+        },
+        {
+          "title": "How AI worsens online violence against Middle East women",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-11T06:38:00+00:00"
+        },
+        {
+          "title": "EU to make addictive app features easier to switch off - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91OWJGTUdOUGpQWHVQQjZyQ3dkZS1hemVFZE5rTFpWOEppMHJ5TXBhb2c4OTF5RVRQd0g4NmV0dGJ6WFl5Z2pxWXNINm9GblZxWXZ5ZHZXSmpNY01GUThYRGg1NzFFM2Q0dXdsejB6WFd3cV9lbXc?oc=5",
+          "published": "2026-11-11T03:35:35+00:00"
+        },
+        {
+          "title": "Gov't briefs investors on T+1 stock settlement road map",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261111004700320",
+          "published": "2026-11-11T03:00:03+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
+    "abu-dhabi-peace-talks": {
+      "kind": "major",
+      "title": "À Abou Dhabi, de nouveaux pourparlers entre la Russie, l’Ukraine et les États-Unis sont en cours sur la paix et la sécurité de l’Europe",
+      "region": "Ukraine",
+      "summary": "À Abou Dhabi, la Russie, l’Ukraine et les États-Unis ont tenu de nouveaux pourparlers sur la paix, et les parties évoquent certains progrès. Reuters et d’autres médias confirment que les discussions se sont poursuivies le deuxième jour, tandis que des émissaires américains doivent rencontrer séparément Vladimir Poutine et Volodymyr Zelensky. Selon des informations en provenance de Moscou, Kyiv et Washington ont convenu d’un nouvel échange majeur de prisonniers, mais la question des territoires reste ouverte. Des sources ukrainiennes soulignent également que la sécurité européenne a été abordée lors des négociations, et Zelensky a appelé l’Europe à défendre ses propres intérêts.",
+      "picture": "Sur l’image, un pont-carte fragile est soutenu par deux mains opposées, avec au-dessus des documents d’échange et une petite colombe. C’est l’image d’une diplomatie fragile qui tente de relier les parties par un canal de négociation très étroit.",
+      "mentions": 63,
+      "significance": 94,
+      "velocity": 86,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "В Москве выручка производителей учебного оборудования превысила 8 млрд рублей в 2025 году",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28307529",
+          "published": "2026-11-11T13:22:20+00:00"
+        },
+        {
+          "title": "Зеленський під час виступу в парламенті Данії: Європа має захищати інтереси Європи",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/11/8062341/",
+          "published": "2026-11-11T13:16:00+00:00"
+        },
+        {
+          "title": "Emisarios de la Casa Blanca viajarán a Moscú para reunirse con Putin; después prevén encuentro con Zelensky en Dublín",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/emisarios-de-la-casa-blanca-viajaran-a-moscu-para-reunirse-con-putin-despues-preven-encuentro-con-zelensky-en-dublin/",
+          "published": "2026-11-11T13:14:35+00:00"
+        },
+        {
+          "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+          "published": "2026-11-11T13:07:01+00:00"
+        },
+        {
+          "title": "Russia, Ukraine and US start second day of Abu Dhabi peace talks - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
+          "published": "2026-11-11T12:40:57+00:00"
+        },
+        {
+          "title": "Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
+          "published": "2026-11-11T12:27:48+00:00"
+        },
+        {
+          "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece",
+          "published": "2026-11-11T12:27:29+00:00"
+        },
+        {
+          "title": "Переговоры России и Украины завершились. Стороны проведут обмен пленными. Главной темой встречи стала система европейской безопасности. Вопрос территорий остается нерешенным",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/11/peregovory-rossii-i-ukrainy-zavershilis",
+          "published": "2026-11-11T12:26:49+00:00"
+        },
+        {
+          "title": "Ukraine's Zelensky welcomes 'changes' in US approach as talks restart - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUThsNkpmMExHdFQwMGFLN3Nwd2I1TXpiVjNiN1dUWFBxdDZFeHBoeHZBZ21GblItU1V2aGFvNDN1alBFV1VVM3RsTkY2eFNFa2RfcTVMVF9MU2hqZlRsMTZBQVRmVU42a0dWaFM2cGgzSmVYLUo5UnFrclYxU1VCcWVXY3BFVTJKN0E?oc=5",
+          "published": "2026-11-11T11:03:45+00:00"
+        },
+        {
+          "title": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator",
+          "published": "2026-11-11T10:42:35+00:00"
+        },
+        {
+          "title": "Russia and Ukraine hold a second day of US-brokered talks in Abu Dhabi - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
+          "published": "2026-11-11T09:39:00+00:00"
+        },
+        {
+          "title": "Russia, Ukraine start second day of US-led talks - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWg2ZWcyMXhvMnBFQUd1a25selZLMFd2eUF2aUZBNXRZLVlZT0trZXYxOGN2OWtvU1V3eVVPYjVuN2RfNnhicmYzbWVETnp2aG9kS2RvNTZHaTNwT3EyMTFLY0hIUHZLanV4SkNDTktocnN2QTl3MVZnQVlveWtGb24yenNVYUFTTm0tV2hGcw?oc=5",
+          "published": "2026-11-11T09:17:22+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.487,
+        "y": 0.407,
+        "r": 0.221
+      }
+    },
+    "nvidia-spy-probe": {
+      "kind": "major",
+      "title": "L’enquête autour de Nvidia et des soupçons de piste d’espionnage prend de l’ampleur",
+      "region": "Monde / crypto",
+      "summary": "L’enquête autour de Nvidia et de la supposée piste d’espionnage visant son dirigeant Jensen Huang prend de l’ampleur. Les médias rapportent que l’entreprise a engagé un grand cabinet d’avocats américain pour mener une enquête indépendante sur ses relations, dans le contexte de rumeurs d’une affaire avec une femme soupçonnée de liens avec l’espionnage au profit de la Chine. L’histoire se répercute déjà sur la perception de l’entreprise et sur le marché : des analystes abaissent la note de Nvidia, et certains médias évoquent l’impact du scandale sur le Texas, Taïwan et l’environnement politique autour de l’industrie des semi-conducteurs. Une partie des publications se concentre toutefois précisément sur la biographie et le rôle public de Jensen Huang.",
+      "picture": "Une couronne de puce fissurée est entourée d’une silhouette chuchotante d’espion, de fils et de dossiers fermés. C’est l’image d’un géant technologique dont la réputation est mise sous pression par des soupçons et une enquête.",
+      "mentions": 60,
+      "significance": 88,
+      "velocity": 34,
+      "domain_count": 15,
+      "articles": [
+        {
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2llVFEzTzBjQ2VGVjBFbTFScmR1NjVfbFY1MHc3eHFEc3NMWHIySnZZVEUtb2xKc0p5UmRoYkFSbWpuVldIMHNRVFJhc2tlaHUzVDNfZ3p6MkprcDZ4MTI5V2JrTDhXSG9Ja211enlHd201SmFxemZvbHF5ZTVMNHpYTmlRVDZMQmR1dG1fWGhXWnFqU1NLcy11WENrV3haVWc?oc=5",
+          "published": "2026-11-11T12:39:38+00:00"
+        },
+        {
+          "title": "Baird downgrades Nvidia on CEO Huang worries, AI uncertainty - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4walNUNmNTYjVMUFlzMUVhbk9ESHZOdFppaTB4RUJORWFvNnNwa1d2UEp1SkNZNGx3eWNzd2xYUmlJcXo5RmtPNjYxNEFCRVh4bUxaWVVsMGcyRkl3clRQZmJ5TlU5RmgyemU3UTZmTGxTZUpEeTQybGN3UTQ?oc=5",
+          "published": "2026-11-11T12:25:55+00:00"
+        },
+        {
+          "title": "CT battle",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2043719/ct-battle",
+          "published": "2026-11-11T12:09:02+00:00"
+        },
+        {
+          "title": "Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDdVMXRJZVFQaXZWOEY2d09ZTWswRGF0cjZrQkxYSjhVekRtc3lvYlRDQlhDc2YtVGR4ZHFGYXd6U290MTJ6Wk9CeXJET3FiYmFXSG94RzFGbHh3amJmcDI3aEcwSkdTbjRhRnpseXJvdjFBczRaS2hPbEpzYi1JRFN5LV9GT1d4M1h2TDgxV2luNF85ajlJd0xaLTMwOFRFYTI5OVo2Q1ZWZ2lTb2M0QjFZcw?oc=5",
+          "published": "2026-11-11T11:57:00+00:00"
+        },
+        {
+          "title": "Inside Jensen Huang’s Washington operation - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlhxY3JqZ3NVLUhlM1ZSS0NKNG52eGlQTFFLaDJ2OUVic1BieGl5SnBqbzQzX2ozcURtLWN3UzRrWGFyWGU0Nl9tZ2NrLTAyUy1WY2JJTDFTTlJSaU9tNFNNdUVyZDc3Y3R6SWxTU00tNkRZQ1ZaQ09WMUtTSFI5Z3FwekxBdmIxRFhJZzFpVmw1Tm43cHI5cndHRmpxa0Q2Qy0yb0VKeFl6M1d1blBIYjZ1YWhjc2ZEb2c?oc=5",
+          "published": "2026-11-11T11:55:00+00:00"
+        },
+        {
+          "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+          "published": "2026-11-11T11:49:12+00:00"
+        },
+        {
+          "title": "Alice Huang, who reportedly had affair with Nvidia CEO, is Chinese banker turned tech exec",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/alice-huang-who-reportedly-had-affair-with-nvidia-ceo-is-chinese-banker-turned-tech-exec/article71688893.ece",
+          "published": "2026-11-11T08:53:03+00:00"
+        },
+        {
+          "title": "Nvidia shares take another hit after CEO Jensen Huang's affair with an alleged Chinese spy - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU5OX2IzUEI1bkR4a0FWN0xSclZ1RWx2ek16MlJ4S25VVXkxRm9LSm96WldvQ0NLLUpxWmFObC01RzRiMkc1azYyRFVJOVdiMXFEQkZubTdIOUx0c3BLNnVDRnJndWYtNFk5VFNWajRvUDhDU19SQlg4ZEtnUF9heEtvLWJDRU9PakNrb2RWQXVHckU1bEoySTdXV0VIdDVzWUdBa1JNN25hRE41d3NHeldKN09JNmJwMlNYaEQyNjd3R0U?oc=5",
+          "published": "2026-11-11T08:01:41+00:00"
+        },
+        {
+          "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
+          "published": "2026-11-11T07:57:00+00:00"
+        },
+        {
+          "title": "China’s spies have long been rampant in Silicon Valley - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWxaZGtyVGVDc0lLVXF2b3ZzWFhXYUZCSHU3SDJNTG9BUDdlNmd1Yl9JdzRYak9JcmlQRUVXclFmN19WOVlfVnNkamY5UWlGWjYxb0ljRjFVUEFiX1gtY0FrMldXWEQ2bndJb0JweGdEQmE2NFMtWmNXZDdabjRCRUo5RUNEcHd3bUtSUFVWS3EySUtPdGFmQlBEalVJVXpWUFo4RFk0TXZpOHNmM1FUcg?oc=5",
+          "published": "2026-11-11T07:08:27+00:00"
+        },
+        {
+          "title": "Chinese woman accused of spying on Nvidia boss entered Taiwan on Hong Kong passport - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDJlMWdyOXBpTlBQYndEZ3VKZ0VNRFRiTm0zZldDSkZCZHpqcE14LVhNYjNPWHNLNmFlWDQtZUZoU0QxM3ZTdzFLcFRNVGJ4bFdFeTd3blpZQ0lNQl9GYzhSWld3eTRzdU5RbUdZSFJPMWJpeVRTWmRoelRzOTN4UFdjUk5WSWhhR25zWjNkR0EwNElpS3dOUjhCcDFydw?oc=5",
+          "published": "2026-11-11T05:24:44+00:00"
+        },
+        {
+          "title": "Breakingviews - COMMENTARY: Nvidia puts Singapore's chip hub in firing line - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWJhRXJaWEJxUG4zWjhXZjlUUkcyWDRGakFGT3RGbER2cFFBZW1QVkRBMDhlN2VKdlhIOUpwUEgyRmVzenlzWlc3b2xVSUFfanZWaV80bThxOFlfdVBwV2t4Nm9SWTltMmxXYi16VGw5alBxUU9PYjdRQzd2eU9yUmJvSE8yWU55VFRndWhuRklfRUNwQzRUQUhTaGdTYUpYdjkxelMySQ?oc=5",
+          "published": "2026-11-11T05:19:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
+    "hugh-jensen-scandal": {
+      "kind": "major",
+      "title": "Le scandale autour du patron de Nvidia et la supposée piste d’espionnage dépasse le cadre des affaires",
+      "region": "Monde / crypto",
+      "summary": "L’histoire autour du patron de Nvidia Jensen Huang et du lien supposé avec une femme que les médias décrivent comme une espionne chinoise a dépassé le cadre d’un récit d’affaires et a touché la politique, la réputation et les marchés. The Verge, AP, AFP, Sky News, WSJ, Politico et d’autres écrivent au sujet d’une relation présumée entre Huang et Alice Huang, qui aurait, selon les informations, pu travailler pour Pékin ; certaines publications la décrivent comme une ancienne ou actuelle cadre bancaire et technologique, tandis que l’AFP note séparément qu’elle est entrée à Taïwan avec un passeport de Hong Kong. Nvidia, selon le Guardian, a engagé un grand cabinet d’avocats américain pour une enquête indépendante, et CNBC rapporte que Baird a abaissé la note de l’action Nvidia en raison des inquiétudes autour de Huang et de l’incertitude sur l’IA. Le WSJ et Politico soulignent que le scandale a des répercussions à Taïwan et sur l’activité politique de Huang à Washington, tandis que The Washington Post décrit l’affaire comme un secret de Polichinelle.",
+      "picture": "Sur l’image, une couronne de puce brisée est entourée d’une silhouette chuchotante d’espion, de fils emmêlés et de dossiers verrouillés. C’est l’image d’une réputation ébranlée d’un leader technologique, au sujet duquel s’entremêlent espionnage, liens secrets et enquête.",
+      "mentions": 60,
+      "significance": 83,
+      "velocity": 73,
+      "domain_count": 15,
+      "articles": [
+        {
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2llVFEzTzBjQ2VGVjBFbTFScmR1NjVfbFY1MHc3eHFEc3NMWHIySnZZVEUtb2xKc0p5UmRoYkFSbWpuVldIMHNRVFJhc2tlaHUzVDNfZ3p6MkprcDZ4MTI5V2JrTDhXSG9Ja211enlHd201SmFxemZvbHF5ZTVMNHpYTmlRVDZMQmR1dG1fWGhXWnFqU1NLcy11WENrV3haVWc?oc=5",
+          "published": "2026-11-11T12:39:38+00:00"
+        },
+        {
+          "title": "Baird downgrades Nvidia on CEO Huang worries, AI uncertainty - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4walNUNmNTYjVMUFlzMUVhbk9ESHZOdFppaTB4RUJORWFvNnNwa1d2UEp1SkNZNGx3eWNzd2xYUmlJcXo5RmtPNjYxNEFCRVh4bUxaWVVsMGcyRkl3clRQZmJ5TlU5RmgyemU3UTZmTGxTZUpEeTQybGN3UTQ?oc=5",
+          "published": "2026-11-11T12:25:55+00:00"
+        },
+        {
+          "title": "CT battle",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2043719/ct-battle",
+          "published": "2026-11-11T12:09:02+00:00"
+        },
+        {
+          "title": "Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDdVMXRJZVFQaXZWOEY2d09ZTWswRGF0cjZrQkxYSjhVekRtc3lvYlRDQlhDc2YtVGR4ZHFGYXd6U290MTJ6Wk9CeXJET3FiYmFXSG94RzFGbHh3amJmcDI3aEcwSkdTbjRhRnpseXJvdjFBczRaS2hPbEpzYi1JRFN5LV9GT1d4M1h2TDgxV2luNF85ajlJd0xaLTMwOFRFYTI5OVo2Q1ZWZ2lTb2M0QjFZcw?oc=5",
+          "published": "2026-11-11T11:57:00+00:00"
+        },
+        {
+          "title": "Inside Jensen Huang’s Washington operation - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlhxY3JqZ3NVLUhlM1ZSS0NKNG52eGlQTFFLaDJ2OUVic1BieGl5SnBqbzQzX2ozcURtLWN3UzRrWGFyWGU0Nl9tZ2NrLTAyUy1WY2JJTDFTTlJSaU9tNFNNdUVyZDc3Y3R6SWxTU00tNkRZQ1ZaQ09WMUtTSFI5Z3FwekxBdmIxRFhJZzFpVmw1Tm43cHI5cndHRmpxa0Q2Qy0yb0VKeFl6M1d1blBIYjZ1YWhjc2ZEb2c?oc=5",
+          "published": "2026-11-11T11:55:00+00:00"
+        },
+        {
+          "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+          "published": "2026-11-11T11:49:12+00:00"
+        },
+        {
+          "title": "Alice Huang, who reportedly had affair with Nvidia CEO, is Chinese banker turned tech exec",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/alice-huang-who-reportedly-had-affair-with-nvidia-ceo-is-chinese-banker-turned-tech-exec/article71688893.ece",
+          "published": "2026-11-11T08:53:03+00:00"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang’s affair: everything you need to know",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/article/3374047/nvidia-ceo-jensen-huangs-affair-everything-you-need-know",
+          "published": "2026-11-11T08:20:27+00:00"
+        },
+        {
+          "title": "Nvidia shares take another hit after CEO Jensen Huang's affair with an alleged Chinese spy - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU5OX2IzUEI1bkR4a0FWN0xSclZ1RWx2ek16MlJ4S25VVXkxRm9LSm96WldvQ0NLLUpxWmFObC01RzRiMkc1azYyRFVJOVdiMXFEQkZubTdIOUx0c3BLNnVDRnJndWYtNFk5VFNWajRvUDhDU19SQlg4ZEtnUF9heEtvLWJDRU9PakNrb2RWQXVHckU1bEoySTdXV0VIdDVzWUdBa1JNN25hRE41d3NHeldKN09JNmJwMlNYaEQyNjd3R0U?oc=5",
+          "published": "2026-11-11T08:01:41+00:00"
+        },
+        {
+          "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
+          "published": "2026-11-11T07:57:00+00:00"
+        },
+        {
+          "title": "Opinion | The Nvidia spy scandal was hiding in plain sight - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkdielp1Z184RmpXa3daSjlEVlBGMTVwTGpTanpIYmhpWU5rdWZrS1I1cGRQUks0RjZaUks2bVFERmpCQmItWHA0Rllta085QTd4eUZFbTlSS3d5WVdSVmVwT3dpYUI0VTJfTDgtN0Vlamw2dWNsTy1KQy1FdXQ5dWd6ZnEyTGJ6aERBcFB5RmZ3TUw2RFRJczhMNjVvSDZRUXBTckZRZ2dIV2twNG5TLVF3?oc=5",
+          "published": "2026-11-11T06:22:41+00:00"
+        },
+        {
+          "title": "Chinese woman accused of spying on Nvidia boss entered Taiwan on Hong Kong passport - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDJlMWdyOXBpTlBQYndEZ3VKZ0VNRFRiTm0zZldDSkZCZHpqcE14LVhNYjNPWHNLNmFlWDQtZUZoU0QxM3ZTdzFLcFRNVGJ4bFdFeTd3blpZQ0lNQl9GYzhSWld3eTRzdU5RbUdZSFJPMWJpeVRTWmRoelRzOTN4UFdjUk5WSWhhR25zWjNkR0EwNElpS3dOUjhCcDFydw?oc=5",
+          "published": "2026-11-11T05:24:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
+    "israel-election": {
+      "kind": "major",
+      "title": "En Israël, la nouvelle Knesset et la bataille pour la future coalition se poursuivent",
+      "region": "Israël",
+      "summary": "En Israël, la nouvelle composition de la Knesset a déjà lancé la bataille pour la future coalition et l’orientation du pouvoir. Il est rapporté qu’une première session tendue s’est tenue au Parlement, tandis que les opposants à Benjamin Netanyahu tentent de faire avancer rapidement des initiatives législatives et une enquête sur les échecs sécuritaires après l’attaque du Hamas en 2023. Selon les informations, l’opposition menée par Gadi Eisenkot a obtenu la majorité et entend s’en servir pour revoir la politique de Netanyahu. Dans le même temps, des manifestations ont eu lieu devant la Knesset, notamment contre des députés arabes et avec des appels à de nouvelles élections.",
+      "picture": "Une couronne divisée flotte au-dessus d’une urne électorale, tandis que des cordes rivales tirent la carte de la coalition dans des directions opposées. C’est le symbole d’un pouvoir fragile et d’une lutte pour le contrôle du Parlement.",
+      "mentions": 54,
+      "significance": 72,
+      "velocity": 59,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "Protesters outside Israel’s Knesset oppose Arab lawmakers, call for new elections",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/11/protesters-outside-israels-knesset-oppose-arab-lawmakers-call-for-new-elections",
+          "published": "2026-11-11T11:55:10+00:00"
+        },
+        {
+          "title": "Eisenkot quickly targets Netanyahu's legacy in new Israeli parliament",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/eisenkot-quickly-targets-netanyahu-s-legacy-in-new-israeli-parliament",
+          "published": "2026-11-11T11:29:28+00:00"
+        },
+        {
+          "title": "Israel swears in new parliament as Netanyahu remains caretaker PM",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/11/israel-swears-in-new-parliament-as-netanyahu-remains-caretaker-pm/",
+          "published": "2026-11-11T10:04:56+00:00"
+        },
+        {
+          "title": "En Israël, en images, la première session sous tension à la Knesset",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/video/2026/11/11/en-israel-en-images-premiere-session-sous-tension-a-la-knesset_6808946_3210.html",
+          "published": "2026-11-11T08:13:42+00:00"
+        },
+        {
+          "title": "Israel’s newly elected parliament is already moving against Netanyahu - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFlseGxLdmpRQjNQS1g3U1h1Q3I2X0dsUElDbnM2cnZYeVVRd201YWU1Rk01eTlzUzR0ZHhOYmZzLXBKeU9YbUJlZm92b2x0c1VNalJqZTFfY05xYUszTFc1VEJZYlJzYlZZSDhFZEdSeEp3SndpSUNNcEloOC1qRlliVnAtQWdGOFpjY0s4NnFPbnI4ZHhMeS0xZkw1SnFjV25GQ2d6ckxFNE9idXA1S2FHcXJqTnhW?oc=5",
+          "published": "2026-11-11T07:36:13+00:00"
+        },
+        {
+          "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+          "published": "2026-11-11T03:33:32+00:00"
+        },
+        {
+          "title": "Eisenkot unveils agenda to reverse Netanyahu’s policies as Israel's new parliament is sworn in - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGhDUDQyWE5nRC1LRXIwT180UTF2RExBa3Z6ZjI0R1B4V1RQVHo5YjdyVEZTNFkyWDNhQTIwSWF6Z2t3OUVHc1RrRjNWeEdDWlcyajM4RjR1ZWM2Wi1DTXM4RXRvenlyQ0t1VnZKNTRVOHVmVTRwdngtbjVaYnRzYmZpby1EREQxX2J3ZnBDWEtWWWh3aElrczNMVml6Q2poVktqcw?oc=5",
+          "published": "2026-11-11T01:31:00+00:00"
+        },
+        {
+          "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+          "published": "2026-11-10T19:59:33+00:00"
+        },
+        {
+          "title": "Hamilton visita posto de fronteira para conhecer esforços de ajuda a Gaza",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/hamilton-visita-posto-de-fronteira-para-conhecer-esforcos-de-ajuda-a-gaza.shtml",
+          "published": "2026-11-10T19:04:00+00:00"
+        },
+        {
+          "title": "Netanyahu aprovecha la jura del nuevo Parlamento para acusar a los diputados árabes de querer “destruir Israel”",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-10/netanyahu-aprovecha-la-jura-del-nuevo-parlamento-para-acusar-a-los-diputados-arabes-de-querer-destruir-israel.html",
+          "published": "2026-11-10T18:30:16+00:00"
+        },
+        {
+          "title": "Israel's parliament sworn in as Eisenkot tries to forge a government - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
+          "published": "2026-11-10T18:17:03+00:00"
+        },
+        {
+          "title": "New Israeli Parliament to take aim at Netanyahu as Eisenkot seeks government - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjJHc1pySVpuak9STDA2ZHFGU2s2RjdRLTFtZnJ5aWhvQnRlUWFLZElOQllmT3R5eW1jUVVwci1tTnJZdHduLTNMSDc2aHFxWkpPNS1hb2R0VklrbTdBRjF1MXNEdndfY0lDaXJjU3hfNGYyZGRadlhVRG41Qk9ITTRzREtDcGtLU3YxbnotekRXalpkZnQyRjNlX0w2ZkduSTZEY3doR0xoYW82RDcxeTlKQ2lCRUMzWnZB?oc=5",
+          "published": "2026-11-10T16:34:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.271,
+        "y": 0.44,
+        "r": 0.156
+      }
+    },
+    "school-bomb-hoaxes": {
+      "kind": "major",
+      "title": "En Italie, en Irlande du Nord et dans les pays voisins, les écoles sont évacuées en raison de fausses menaces",
+      "region": "Europe",
+      "summary": "En Italie, au Royaume-Uni, en Irlande et dans les pays voisins, des écoles sont évacuées à la suite de fausses alertes à la bombe. Selon divers rapports, environ 300 écoles ou davantage ont été menacées en Italie, et des lettres d’avertissement ont aussi été envoyées à des établissements scolaires au Royaume-Uni, en Irlande du Nord, en Irlande et en Écosse. Les autorités et les médias décrivent l’affaire comme un acte de vandalisme ou comme une partie d’une vague plus large de menaces et de cyberattaques en Europe. Des experts et des responsables italiens estiment que ces messages pourraient viser à saper la confiance envers les autorités.",
+      "picture": "Sur l’image, des rangées de pupitres, des enveloppes scellées et des sonneries d’alarme vides. C’est l’image d’une fausse menace qui perturbe la vie quotidienne et oblige les écoles à être évacuées.",
+      "mentions": 51,
+      "significance": 56,
+      "velocity": 86,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "Hoax bomb alerts sent to schools in Italy, UK, Ireland in latest disruption",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2043808/hoax-bomb-alerts-sent-to-schools-in-italy-uk-ireland-in-latest-disruption",
+          "published": "2026-11-11T13:14:30+00:00"
+        },
+        {
+          "title": "Threatening emails sent to thousands of schools across UK, Ireland and Italy treated as hoaxes - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXBvckpiRk5zV3BjalJFZ0c0VzJxNEJrZUtNazEwUW1xSlp5U1R3WU5PMnVvSzlDSmNyYjRDMVd4ZXJ4RXJoVnd0VTk3Mk5iNlc4Y005Zl9KWERLRFRtMUVJcXRESHAtdlpvRU01SW1ReTZKMTl6VlZWZXpOODFpdkhyVDVxM1F2cmcxNXhrMGRhcXNhTnNEX0FoTC1aaEhiV2NENklqaGRyeGZZSEVoV3R5NENzdGpYTzVJUnJ4T0htLXo2QzI5M3U4Y0dpanNNSE8yb2p5UDJqUHlP?oc=5",
+          "published": "2026-11-11T13:07:21+00:00"
+        },
+        {
+          "title": "В Италии назвали угрозы взрыва в школах попыткой подорвать доверие к властям",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28307269",
+          "published": "2026-11-11T12:47:03+00:00"
+        },
+        {
+          "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T12:30:29+00:00"
+        },
+        {
+          "title": "Hundreds of schools across Italy, Scotland and Ireland receive bomb threats",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
+          "published": "2026-11-11T12:28:56+00:00"
+        },
+        {
+          "title": "En Italie, des centaines d’écoles évacuées à la suite de fausses alertes à la bombe ; des « messages menaçants » envoyés à des établissements scolaires au Royaume-Uni et en Irlande",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/en-italie-des-centaines-d-ecoles-evacuees-a-la-suite-de-fausses-alertes-a-la-bombe-des-messages-menacants-envoyes-a-des-etablissements-scolaires-au-royaume-uni_6808968_3210.html",
+          "published": "2026-11-11T12:24:00+00:00"
+        },
+        {
+          "title": "Evacuadas alrededor de 300 escuelas de Italia por falsas amenazas de bomba",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-11/evacuadas-alrededor-de-300-escuelas-de-italia-por-falsas-amenazas-de-bomba.html",
+          "published": "2026-11-11T12:06:10+00:00"
+        },
+        {
+          "title": "Bomb alerts sent to schools in Italy and Northern Ireland in latest threats - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv?oc=5",
+          "published": "2026-11-11T12:05:44+00:00"
+        },
+        {
+          "title": "Hoax bomb alerts sent to schools in Italy, UK and Ireland",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert",
+          "published": "2026-11-11T11:47:16+00:00"
+        },
+        {
+          "title": "'Genocide against Italians': Over 300 schools evacuated after bomb threats in Italy",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/europe/genocide-against-italians-over-300-schools-evacuated-after-bomb-threats-in-italy/articleshow/135735451.cms",
+          "published": "2026-11-11T11:45:15+00:00"
+        },
+        {
+          "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDVGxpb2ZMckVKazFNMllUYWE4YThxSVNGM2FGRW1kbk5NRjhyTnljN1R6eUlfeEhhUWVmLTZ2dE1iSE14aThCYk44V190MnpHeFVPMXdOc0Z0YzU1SHA0NmFDdGtGQXoyRnc1SUVIaXdmN2hSLUN6eGlNMA?oc=5",
+          "published": "2026-11-11T11:44:56+00:00"
+        },
+        {
+          "title": "🔴Italy: At least 300 schools evacuated after email bomb alerts",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats",
+          "published": "2026-11-11T10:59:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.838,
+        "y": 0.293,
+        "r": 0.221
+      }
+    },
+    "global-inflation-rates": {
+      "kind": "major",
+      "title": "Une forte inflation et des attentes de nouvelles hausses de taux pèsent sur les marchés mondiaux",
+      "region": "Économie",
+      "summary": "Une forte inflation et les attentes de nouvelles hausses de taux continuent de peser sur les marchés mondiaux. Les médias rapportent qu’aux États-Unis, les prix ont augmenté plus lentement en octobre qu’un mois plus tôt, mais le niveau reste élevé, ce qui alimente les discussions sur de nouvelles mesures de la Réserve fédérale. Dans ce contexte, les rendements obligataires progressent, les actions restent sous pression, même si certains segments du marché, comme la technologie, tentent de reprendre une partie des pertes. Les titres évoquent également la pression sur les consommateurs et les conséquences possibles pour les ménages et les retraités.",
+      "picture": "Des étaux torsadés serrent une pile de pièces, tandis que des flèches montent et qu’une planche de marché s’affaisse. C’est la visualisation de la manière dont l’inflation et les attentes de taux pèsent sur l’économie.",
+      "mentions": 51,
+      "significance": 84,
+      "velocity": 71,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "US tech stocks set to extend rebound",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+          "published": "2026-11-11T12:36:14+00:00"
+        },
+        {
+          "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+          "published": "2026-11-11T12:00:00+00:00"
+        },
+        {
+          "title": "Mapping the Market: S&P 500 at risk of further losses - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1c0pzZ0JDajd6alVkMFlzNG9IQkx5Z2dsR0tJQUFvN2Z5aGIxc3NQNk5hdm9WNDhSZ2NXbERHcVNobTNwaG1oLTFLVGZtdXNQc2txWUs1M1IydHRKXzJLRWNyLVJTc25vajktRU93OHRLYzlHbFVfMDVwb18?oc=5",
+          "published": "2026-11-11T11:06:10+00:00"
+        },
+        {
+          "title": "The doctor won’t see you now. How Medicare cuts could hit retirees - Yahoo Finance",
+          "domain": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcHF1RmxVTFl3MmpmVm5NemdxdERjdlEyZzlEa0F3MXZ3ZjR5aHBiT3RjZGFaaEllOXl6SjcteUttWlQzWVRydXJWaFF2RE1lbWc2aWhPamo0cXVLX3FfcEh3OTJYNk1uSUx3WVRxOFp6eHhKZzdjRXBQZ3VQWmVPNmZobzZOVWI4dDNUU0V4YldKcERfMWxtQzNjemNKX0xraGxzSDdzS2JHVWpEMDRrNHl3a1MyWWJS?oc=5",
+          "published": "2026-11-11T11:00:00+00:00"
+        },
+        {
+          "title": "Gold edges higher after sharp selloff, Fed hike bets weigh - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS1uTUxBaFRYanlOdkJLcG5HMlZHX1pnNlFOZmJBMnlsV1lWczJNY0JNUmM0dUFFTkhlTUVBdkFSYXZzZG9ZeGpvTEE4eHhoOENyM3ZLTW1jQnQwa2s2NVMxeFU1TVFUcHlKdEtDNWl4X3dQenlIMGp2ZnRaTDhiX0xuZjFiVEVocFNkX21CSE9lUlc5cHdIam9B?oc=5",
+          "published": "2026-11-11T03:49:00+00:00"
+        },
+        {
+          "title": "Inflation pace slowed in October, but prices remain high - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM25fYU9hcVFpT3NodjRRd0FCUzBOekllM1RISk1QdWhuTWlFVTRPaGNUTDRtQTRhX1J6RWpFMGZqVElqeVp0VUlPWVR0WmExcnBta2Z2cTZsdE5IN3hxVXNJcDBncU1nbWF4NzdoWUc0dkpBQUlYakVBSUNwaWNobmVsLWJtVkpMNE43NUNUZG9vdEpHODFRa0RaUF96WmZVQWc?oc=5",
+          "published": "2026-11-10T23:36:02+00:00"
+        },
+        {
+          "title": "Get ready for rate hike(s) - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyLVlJUXRHemFLVF9LbGJ3QjJUd3ZObWI3d1djRlVJOWttTFNURzFlLWhOSGkyR2ZvM29FcGhxX1czd3VxZ3lmQm9TLUF4cXluYUY1Tlk0anBjUjc1T0N1LV8xYUF2aUl1TWVZ?oc=5",
+          "published": "2026-11-10T22:32:14+00:00"
+        },
+        {
+          "title": "'The time is now for change.' Bernie Sanders won't support Schumer for Senate Democratic leader - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazVhWDFUR0hGUnhTTEdNdmw0cjR4eTlOUkpwTUtNQVVEQXBtZEdwQ1duMHpRWHdvalhIY1AtelZudXE0T2t5c2NHbTlzQU9WX213ZTBJRWhhb0FwbE5GemNvTEJ0VmNfeXpIUzdoSVd5VFhReUV5UzZMLTZfbW95LXRsalhBTzJiN3Rqc1lWeThNNVpWQklnbkN0aDNLbjdEMEI4VEwzXzBRNUVxM3R1c293RjBMUWhrTUNNU19UWWw3NVA3TVgwctIBzgFBVV95cUxQTUlENExFTW82UVlYUnNVYzhzRFhSRUhEekhQV2FwdU9UZ1hRZ3FZYzhoRmVEa0ZtUjZhVjJyRUdWcEdtR19FYVE1SW1RcV8taFlUM3NUc0JrU3c1M3hsYWZfM3NMTUVZbnhDTUVSUUlFREhUQUhMYVp4WUQ5UGxieG56Z3I3X2RhbXFzWjFDTXRHZWUyeUdBZWJFM3p4S0ZqLWEwb1hYUy1nVktYWUV1Z1BGeGMwb2RwMURyNnNYTWpGRU51aTl2eE1kcmVXUQ?oc=5",
+          "published": "2026-11-10T22:26:53+00:00"
+        },
+        {
+          "title": "US stocks slip following a discouraging update on inflation - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E?oc=5",
+          "published": "2026-11-10T21:42:00+00:00"
+        },
+        {
+          "title": "Yields Jump as Inflation Comes in Hotter Than Expected - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmZHLWI2UExZVlVtSjJ5aEF0eC0yQkFKSHZFa04yWkxPSE5ieDhodjR6Z0ozQjRObjlIU3Q1alpYZEdxazlHbUg0UWpVV0ZNNnluNFBZbVdkZTY3NGFUdVpuRDJxTFI4STA1WXNmSmt5bEZOSEs5QWhEbWlVcVR5ZE1OcjFvbzFPaWo3VmFSdlZnUDZ6d2xIS3RYTHp4RlU?oc=5",
+          "published": "2026-11-10T21:17:00+00:00"
+        },
+        {
+          "title": "New information from 'several people' about Russell Brand being assessed by police - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTdfMEdCdnR1NWVZeEw4US1RN25xZjRVNGo5YVc5ZGxjeWxxWmNfT1RTZjBmUmpPbk1HTk5pWFFBcmtTWENwcUdsWmczeVBuMjA0WWlmcVBzS1VQanVIOVV2ZWtTazB5VzFhMGc5WDdRLWZ0Y2U5TVI3aFdiMzBPdU9yTEdyUlMzUWtBbHVqOTUyaS1NUVB4YXpxa3V6SkFJQ1hIQ1NhNEg4TGloS1ZMeGMwaE16Mmc?oc=5",
+          "published": "2026-11-10T17:11:23+00:00"
+        },
+        {
+          "title": "October inflation data sets stage for December interest rate hike - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMV9KcWI5c2M1SUtTN05QeTlIMEhRR3psTDhFYWRtWnlNMVFkd1lITGRDRTQ5bUE1OHRFUHlNTDVFZ05qN1NiVGx1SWhjeG9pQUMwZndBTEoteTJmMVp1VkhsMFNRN1lodFdWMWVXeHlReFhsallJUEs4dlIwUWV4b1lqNVNnXzQ4T0QtVzdKdDZ0bHNBdGFWMjJnSTRxZHlMTF80aFFhcGpTNjBTUWF4eVVES0JrNkVLZ0hqSXBvcHJtdjN1NVE?oc=5",
+          "published": "2026-11-10T16:33:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.714,
+        "r": 0.202
+      }
+    },
+    "ai-market-selloff": {
+      "kind": "major",
+      "title": "Le marché de l’IA rebondit, mais la confiance est fragilisée par les scandales, les dettes et les doutes sur la rentabilité",
+      "region": "Monde / crypto",
+      "summary": "Le marché de l’IA rebondit partiellement après de fortes fluctuations, mais la confiance dans le secteur reste fragile. Reuters écrit que les futures sur le S&P 500 et le Nasdaq progressent après les résultats de CoreWeave, qui ont temporairement apaisé les craintes autour des actifs liés à l’IA. Cependant, le scandale autour de Nvidia, les inquiétudes concernant la rentabilité et l’endettement, ainsi que l’incertitude générale sur les rythmes de croissance continuent de peser sur le sentiment. Dans ce contexte, d’autres entreprises et banques d’investissement poursuivent la réorganisation de leurs stratégies IA.",
+      "picture": "Une haute plateforme faite de puces oscille sous la pluie de pièces, entourée de tours de données brisées et de chaînes de crédit. C’est l’image d’un marché qui monte sur des espoirs, mais demeure vulnérable aux doutes et aux risques.",
+      "mentions": 45,
+      "significance": 92,
+      "velocity": 22,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "AI agents scramble banks’ fight with fintechs - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWR4TDk1dVdpTnhHbTBLWVBldGwzNDJOSWhEZ0FwMVE4Mjg4cGV0TFdkcXhLLW5kRlZkNGg5SlRiSzYtTU9xaldrNGJjTGN3MXFDd3BYdVRoVW03SzMyUWR4blJHUWN3ajl2U1NuVjA2Q2c4SFdMbkhuUmVmZW1CclkzYnRJUUNHTEdiNUpFaG9PeEthV3VlRmZMaENBaFYyMEsxbnhvLVkzUVVoSFNKTmpZYWJwUQ?oc=5",
+          "published": "2026-11-11T13:00:00+00:00"
+        },
+        {
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2llVFEzTzBjQ2VGVjBFbTFScmR1NjVfbFY1MHc3eHFEc3NMWHIySnZZVEUtb2xKc0p5UmRoYkFSbWpuVldIMHNRVFJhc2tlaHUzVDNfZ3p6MkprcDZ4MTI5V2JrTDhXSG9Ja211enlHd201SmFxemZvbHF5ZTVMNHpYTmlRVDZMQmR1dG1fWGhXWnFqU1NLcy11WENrV3haVWc?oc=5",
+          "published": "2026-11-11T12:39:38+00:00"
+        },
+        {
+          "title": "Banco BPM Says Board to Discuss Credit Agricole Merger Proposal - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDVXNEhHU0NLOF96Z2R4aTBZYkRxY0FIQnFYQlV3c2dCNkxNQXJwTDFac09uWHVTVDNKMDVtSS1MYy1sTjZvUWhhNmh6VXBieUZiZGJWZlpvVThiSzhwVmFRdjFHZ3Z3YUZBbjB6RnhZRTdMdmtGMEIyZXhvaEI3YmJFN3I0RU80MW9WNlFBRS05SU9UY3JrVXBRSzVHeWdIZ0E?oc=5",
+          "published": "2026-11-11T12:39:10+00:00"
+        },
+        {
+          "title": "Baird downgrades Nvidia on CEO Huang worries, AI uncertainty - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4walNUNmNTYjVMUFlzMUVhbk9ESHZOdFppaTB4RUJORWFvNnNwa1d2UEp1SkNZNGx3eWNzd2xYUmlJcXo5RmtPNjYxNEFCRVh4bUxaWVVsMGcyRkl3clRQZmJ5TlU5RmgyemU3UTZmTGxTZUpEeTQybGN3UTQ?oc=5",
+          "published": "2026-11-11T12:25:55+00:00"
+        },
+        {
+          "title": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
+          "published": "2026-11-11T12:14:38+00:00"
+        },
+        {
+          "title": "The AI industry's week from hell - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5STzlCTEFvX01KVHZJZGRLM2NnQzVyTV9CQjNYT3dqWDBUZmlRdVpNVUIxNWp5TVRZV1lrcjctR0NqZjRTQ2xsWGktN3dVQU1MazM1UTF2SGMxNUlxMDVDNmZJOTVuQkxXNWh3Vi01ekt2RzA?oc=5",
+          "published": "2026-11-11T10:21:37+00:00"
+        },
+        {
+          "title": "Global markets broadly rise on AI chip demand despite Wall Street’s retreat on inflation data - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
+          "published": "2026-11-11T09:25:00+00:00"
+        },
+        {
+          "title": "Nvidia shares take another hit after CEO Jensen Huang's affair with an alleged Chinese spy - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU5OX2IzUEI1bkR4a0FWN0xSclZ1RWx2ek16MlJ4S25VVXkxRm9LSm96WldvQ0NLLUpxWmFObC01RzRiMkc1azYyRFVJOVdiMXFEQkZubTdIOUx0c3BLNnVDRnJndWYtNFk5VFNWajRvUDhDU19SQlg4ZEtnUF9heEtvLWJDRU9PakNrb2RWQXVHckU1bEoySTdXV0VIdDVzWUdBa1JNN25hRE41d3NHeldKN09JNmJwMlNYaEQyNjd3R0U?oc=5",
+          "published": "2026-11-11T08:01:41+00:00"
+        },
+        {
+          "title": "Opinion | The Nvidia spy scandal was hiding in plain sight - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkdielp1Z184RmpXa3daSjlEVlBGMTVwTGpTanpIYmhpWU5rdWZrS1I1cGRQUks0RjZaUks2bVFERmpCQmItWHA0Rllta085QTd4eUZFbTlSS3d5WVdSVmVwT3dpYUI0VTJfTDgtN0Vlamw2dWNsTy1KQy1FdXQ5dWd6ZnEyTGJ6aERBcFB5RmZ3TUw2RFRJczhMNjVvSDZRUXBTckZRZ2dIV2twNG5TLVF3?oc=5",
+          "published": "2026-11-11T06:22:41+00:00"
+        },
+        {
+          "title": "Anthropic launches Meetings, Whiteboards, Sheets, Data ahead of IPO - Yahoo Finance",
+          "domain": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFRaS1IwRWlsMG5CWnhCV0pEUkdtcjU0MHY4a0Vnb0RFem90WWl5cFg4VXhqcmlOM2VzaVZnY0ZfSVJ6TnU0SE1wbFNzMVpaV0ZIcHdURFBoQnNsY0Y5cktFbTVlV0FpSnNpcF9MVkNlWUstWGtKU0ZicDZTQmpCdUNyczlPemVpRF9HRExBdExqZk9CbU96bjFqVV9HNVh3NWowZGlMcHBHUnRtRkpYVzYtTjY5cC1iYnNXcENzTDZtZw?oc=5",
+          "published": "2026-11-10T19:05:48+00:00"
+        },
+        {
+          "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUlVVzRJczhQdFdOZHhoSFJISnZBSzhZT1JHdk4wNlFvaHc0N1JvNkhER3htclBYamxXREp3RXZTVzhtcTJmQ1ZCMGMzdmxDWGY4dGo0NzFwbVVJeWRVa05hbWp5OGwyX3JSWEpSTGlSRi1TSE0tWUhuY3V2WkZ3ZTdrMVdkdw?oc=5",
+          "published": "2026-11-11T12:12:48+00:00"
+        },
+        {
+          "title": "CoreWeave's earnings signal a turnaround for the stock, but analysts say it will take time - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zQTVaaTBsQWtLLXczVno3ZGlwTER4Rks2LXMxdlFjb2lTRzhVandOM2F0QnpNSGZLZ3M0YXlJMFZpelY3WmE1UDNRTEg3cEgteWpJbTFYeDROa3VzMi1TMlRhWXpWT3BXZy1qVGw5LUNNU2NqMjdlMHcxYnVLQQ?oc=5",
+          "published": "2026-11-11T12:03:23+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.679,
+        "r": 0.202
+      }
+    },
+    "spain-housing-strike": {
+      "kind": "major",
+      "title": "En Espagne, une grève nationale éclate à cause du logement et du coût de la vie",
+      "region": "Europe",
+      "summary": "En Espagne se déroule la première grève nationale depuis 14 ans, provoquée par la crise du logement et la hausse du coût de la vie. Selon Reuters, AP, DW et d’autres médias, les manifestations ont touché les transports et l’industrie, et se sont accompagnées par endroits d’affrontements avec la police. Les syndicats et les participants réclament une réforme du marché du logement et la protection du pouvoir d’achat à l’approche des élections. Plusieurs médias soulignent que la grève est devenue un indicateur du mécontentement avant le scrutin du 29 novembre.",
+      "picture": "Une ville d’immeubles locatifs est serrée dans un poing fait de quittances et de panneaux de piquetage croisés. C’est le symbole d’une protestation contre des loyers inabordables et la dégradation des conditions de vie.",
+      "mentions": 42,
+      "significance": 68,
+      "velocity": 86,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "Spain: Housing crisis prompts first general strike in 14 years - DW.com",
+          "domain": "dw.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3JNcG9Uai1tWGVqMXQtQ09nU3RocURkRS1KMUlGLTZELS1KcXBPb19ndFFNTGN5LUhDREpaeW9RREVTTUM3czY1dFdiNUc3UXZpamx2b0J2djBRUVVSY21lZWxEcV93eGNkRHk1TjhRUDhIcXRhSkVNM1pNNGhqSERB0gGCAUFVX3lxTE5MZ2hES0lQbnlpN0NxLVNmMzBMblRHZ0pZWVhPZURaZ3Brb1B4VWVjcXVvZEZxTHVuazR2akNIRUpTSUJqbzNvd1lRYjlQcHRyelNDOVdTLWlORk8xQVpDSWk3UUlpQ1JlbGZjYlV3d245TEVYZHltUnZyb1JnQ280TVE?oc=5",
+          "published": "2026-11-11T12:41:49+00:00"
+        },
+        {
+          "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3RvSUxLc1FkLUZhT3lnaWp4OWxGY2xmd3llRDVYV0xUZVZkRGNpTVBIWGU5TjFrTkM4WldMR0o3dVdpRHhUNmZ1VzNNbTI1SDlJSUxCeW5ITjV0dGdpbi1QM1pEc2ZaOEpPTXRzUTNCNVpWc2d2ZkliWXAzYkVieHF3?oc=5",
+          "published": "2026-11-11T12:39:20+00:00"
+        },
+        {
+          "title": "Workers across Spain stage first general strike in 14 years as anger rages over housing - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
+          "published": "2026-11-11T12:38:35+00:00"
+        },
+        {
+          "title": "En Espagne, une grève générale pour défendre l’accès au logement et le pouvoir d’achat",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_6808962_3210.html",
+          "published": "2026-11-11T11:21:02+00:00"
+        },
+        {
+          "title": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
+          "published": "2026-11-11T10:31:00+00:00"
+        },
+        {
+          "title": "Spain's first general strike in 14 years, 3 weeks before national polls",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
+          "published": "2026-11-11T10:30:07+00:00"
+        },
+        {
+          "title": "Workers across Spain stage first general strike in 14 years",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+          "published": "2026-11-11T10:18:28+00:00"
+        },
+        {
+          "title": "Spanish workers stage huge general strike, first in 14 years, angry over housing",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing",
+          "published": "2026-11-11T09:57:57+00:00"
+        },
+        {
+          "title": "Spain’s first general strike in 14 years brings clashing social and political desires to the fore",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece",
+          "published": "2026-11-11T08:23:52+00:00"
+        },
+        {
+          "title": "Train drivers strike in Spain after two deadly crashes in a year - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR01WYWYwMWVyc2JROWFqazRubVYxVlpTcUItblFyZnJEdkpXT2M1ZzgxbTd4bzBCSERLUGY4Z3V3UFZ4MEZGWUo3RkxrSFdPbHpPdGdRUXRQTERtS3dRNl9qSTlMREhwLVpELUdoT3pfLU5nMHMtUE9pQVlSR1UyS0VTYW9WTnlRVUJTc3FKM1VJc0ZDTjhqcVd1c3ozdGt0aGZ3aFVxX1E?oc=5",
+          "published": "2026-11-10T19:07:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "anthropic-ipo-surge": {
+      "kind": "major",
+      "title": "Anthropic prépare une introduction en Bourse géante, ravivant une nouvelle vague d’euphorie autour de l’IA",
+      "region": "Monde / crypto",
+      "summary": "Anthropic se prépare à une introduction en Bourse de très grande ampleur, ravivant une nouvelle vague d’intérêt pour les actions liées à l’IA. Selon le FT et d’autres médias, les banques de la société discutent d’une hausse de la valorisation de l’IPO jusqu’à 1,5 billion de dollars, alors que des objectifs plus bas avaient été avancés auparavant. Les publications relient cette démarche à la montée de la confiance dans le secteur de l’IA et, en même temps, à un examen plus attentif de celui-ci. L’article précise aussi que l’entreprise élargit déjà sa gamme de produits et teste l’appétit des investisseurs.",
+      "picture": "Une tour de verre faite de code et de pièces monte vers le ciel, à côté d’un prospectus scellé et d’orbites de puces. C’est l’image d’un marché de l’IA en surchauffe, où les attentes de valorisation font partie de l’histoire elle-même.",
+      "mentions": 42,
+      "significance": 77,
+      "velocity": 69,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+          "published": "2026-11-11T11:08:38+00:00"
+        },
+        {
+          "title": "Questions for BBC and Channel 4 over Brand allegations, says Tory MP - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXJTMERVdUU5UTJJcTI0MnZrbW5CajA3SjNwTGEtRDdhN0QxZWtnQkxBd2dMVEYtckNxZTJnY1hERVk1TDRMelhRVTF1SjUwZS13WEZvUTNROTY3X202eHJ5czVlajdLeFc2M1piWHBZZWgtQnNfWi1Ka3BKRWhKZ0FUSVlYR2xQVzFENERNeVB1MVZqWk9sTUNBZC1vblZvSUhER3ZR?oc=5",
+          "published": "2026-11-11T10:35:45+00:00"
+        },
+        {
+          "title": "Anthropic IPO could give AI stocks a needed spark - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WcnpXY25VdUZRMy1MdVlJczZxWVVsMXRTaE1JYU9xMkVPZ3VuV1E5QWt5Y0x4Yi1yWnZxOHRFRFdzTkNTNWRkam1RVTRmX0ZoYWxaenhwRWQtNE40U2FMZEljbzRxbUZReWF4OXdnYW1FNmts?oc=5",
+          "published": "2026-11-11T08:03:09+00:00"
+        },
+        {
+          "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3JDTlRpUnJBd3B5dFpHcU1KX0RmWE5HN3d4TEN5b3JaZjlLQjBGWmYtcGQ2cF9hbjBLR0Q1X3VRQ2J2c3JCQm90c1kzbk1VcGxxOU1ITkJRYkZLbmpOd2o4QzZ2ZEFSc2NRbGZtSXJDQ3IwNTVaTThJRDAtWUdUd0RLWQ?oc=5",
+          "published": "2026-11-11T01:26:00+00:00"
+        },
+        {
+          "title": "Anthropic files for IPO targeting $1T valuation amid AI stock surge - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGcUV3akZzZDhrRFJ1SlYwRVNTeDgxX0RUZ3dIb3VZWlVFMlhSTlBWM1YwVFduRkRrRjNMZ1Nmcms4UWl0VkE1d0Y3bjRTVmhNLVBwMDZ3?oc=5",
+          "published": "2026-11-10T19:38:25+00:00"
+        },
+        {
+          "title": "Anthropic launches Meetings, Whiteboards, Sheets, Data ahead of IPO - Yahoo Finance",
+          "domain": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFRaS1IwRWlsMG5CWnhCV0pEUkdtcjU0MHY4a0Vnb0RFem90WWl5cFg4VXhqcmlOM2VzaVZnY0ZfSVJ6TnU0SE1wbFNzMVpaV0ZIcHdURFBoQnNsY0Y5cktFbTVlV0FpSnNpcF9MVkNlWUstWGtKU0ZicDZTQmpCdUNyczlPemVpRF9HRExBdExqZk9CbU96bjFqVV9HNVh3NWowZGlMcHBHUnRtRkpYVzYtTjY5cC1iYnNXcENzTDZtZw?oc=5",
+          "published": "2026-11-10T19:05:48+00:00"
+        },
+        {
+          "title": "Anthropic has its own AI-powered office suite now - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5",
+          "published": "2026-11-10T17:30:00+00:00"
+        },
+        {
+          "title": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0RzZUdwSHJSaUFqcXk5aFQ2QjYyWW0yTWxNbGhZRmo2NVlGOVhPWUdxdm9VS05oN0x6dzR1d2hYakpFRTdjd1ZNaDVhQ3BMQ3IwUXVNODRWck50MkwtWnlmUERNWXctY3FCR1JURC1BYWY2LUFlMTZQTjk0RHhwRTJGaTJ2cHhvbnFGUWQ4Y3hYOVJVQzY0UmtLQ2tRLW9tdlUtcHZHQQ?oc=5",
+          "published": "2026-11-10T16:24:00+00:00"
+        },
+        {
+          "title": "Anthropic seeks $1.3T valuation for blockbuster IPO - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUpZQmk5OG9JRzZEbnA3aDhjMVozdWVVcHc0UWZYZWxjZ0JRbGNYX1N3UGJnQnNqMVV2VE5taUpUazM2cTl4X1VOb3cya2ozZVNtNGRRNjhJT3dKbDZnV1Rob2M0d2N5cGhBczI5VXhaY2pGbUpVclNzby1qMXBSNmVwbjlmMGNxQ3JOREgzZzV1OFRrbWtHek9tcWJRaTJGZEE?oc=5",
+          "published": "2026-11-10T13:42:00+00:00"
+        },
+        {
+          "title": "Are AI 'conscientious objectors' getting left behind? - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGh4S19VYndkVFBrb0FubEN0NXlOT3pUeEx5RXNlZnI5SWk5UlV0aUoyVHBPX2hLM2U4RzZyVmFLd2d6c25mc3Z6TEpJS0pVN1BVOUJRbnk5STFwMGJXVEI0YjctQ0lzV2RGM2szN1FiTWYxRkZwMUJtOE5MS2JQcEdCbngwSms4X1hVbjZyNA?oc=5",
+          "published": "2026-11-11T08:50:51+00:00"
+        },
+        {
+          "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51VG1hT2dUTmZtZ1M3THp2YTRfR0hKelZ6VldSRGxPLXA1RVNDMjEtb21IaG10Q2Nianpiek55T0lXVkNDdE1IejhoekVUeVRNVE12R1ZEN0trNmJYY05ocXpKZW5mTHRsMjdhUEpXMGVVZFZFNXpGLU5jQ0Y?oc=5",
+          "published": "2026-11-10T23:46:35+00:00"
+        },
+        {
+          "title": "Anthropic seeks to be valued at more than $1 trillion - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDb2EySW9VUE5CR1kzSlBmbkVQQnF1RDkyUGt6VG5qRDhiektIZGhHdUg5b3loLXJ0Qnl2MVhaWDZxV2pOVm1DSlRNRnJac1dieXNrWFNYUzVpU3BYTEZqam5n?oc=5",
+          "published": "2026-11-10T22:13:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "gaza-winter-crisis": {
+      "kind": "major",
+      "title": "Gaza reste plongée dans une catastrophe humanitaire : inondations, destructions et manque d’abris s’aggravent",
+      "region": "Palestine",
+      "summary": "Gaza traverse une grave situation humanitaire sur fond de tempêtes hivernales, d’inondations et de pénurie d’abris. Reuters, AP, le NYT et d’autres médias font état de camps détruits, de tentes inondées et de dizaines de milliers de personnes sans protection suffisante ; certains articles évoquent aussi des morts à la suite de la tempête. Une partie des publications soulève également la question de la détention de médecins palestiniens et du fait que les livraisons d’aide et la reconstruction restent contestées. Israël affirme pour sa part que la reconstruction sera liée au désarmement du Hamas.",
+      "picture": "Des tentes inondées, une gamelle d’eau fissurée, des couvertures déchirées et un jouet enterré montrent la vie au cœur de la catastrophe. C’est l’image d’une crise humanitaire où le manque d’abris devient une question de survie.",
+      "mentions": 39,
+      "significance": 97,
+      "velocity": 34,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Unrestricted humanitarian aid to Gaza can be delayed no longer - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG1CckFaZTBKOElESkEyMWFKemdiZ2lmWk0zcXZEaTJMLS1IRFZ6c3F5aU9OWEdMSzBLUGhvbmpqYXZxTE15bThoTkZtMnJtaFpmVVRVOEl0VmUzZjhoMDFCOGQ4SXYyTnhESm5oZ0NxTTdDVTY3UXRRWEhIcnhWSGZnN0VXM3Y4NmhuVVRBRExrNmZQZloyUDJabkl2SDFnc0tUUHhB?oc=5",
+          "published": "2026-11-11T13:05:32+00:00"
+        },
+        {
+          "title": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
+          "published": "2026-11-11T12:05:51+00:00"
+        },
+        {
+          "title": "Israel has detained dozens of Syrians. Families are desperate for answers - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkVSbXYtUnlXVzh6SUg0TzMyTFc2eU1sbGVuYTA1ZlZPSTNoWjhiWFR2WnZ5NzFHMDNjdTcyaTFvRzNBRUlCdHp1UDVLX3RpUFg5cFRyQ21pS2I5MGtQMElxR1BObGY2M3FXLWJfNUFCcFlyNGNYUWh0bXBNOFJoLVhkakc5V3ZUd2pSUzZGS2NZQmxfU2JUUjhDbXdIbXdORkRfNFM2a08?oc=5",
+          "published": "2026-11-11T05:04:00+00:00"
+        },
+        {
+          "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+          "published": "2026-11-11T05:00:32+00:00"
+        },
+        {
+          "title": "Under criticism, PM’s office insists winter supplies entering Gaza but Hamas must disarm before reconstruction",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/under-criticism-pms-office-insists-winter-supplies-entering-gaza-but-hamas-must-disarm-before-reconstruction/",
+          "published": "2026-11-11T02:43:32+00:00"
+        },
+        {
+          "title": "Gaza enfrenta novo inverno entre ruínas e enchentes enquanto plano de reconstrução emperra",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/gaza-enfrenta-novo-inverno-entre-ruinas-e-enchentes-enquanto-plano-de-reconstrucao-emperra.shtml",
+          "published": "2026-11-11T02:00:00+00:00"
+        },
+        {
+          "title": "Lewis Hamilton visits Egypt’s Rafah border to highlight humanitarian efforts for war-torn Gaza",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/10/lewis-hamilton-visits-egypts-rafah-border-to-highlight-humanitarian-efforts-for-war-torn-g/",
+          "published": "2026-11-10T19:55:47+00:00"
+        },
+        {
+          "title": "Gaza Floods Kill 4",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+          "published": "2026-11-10T19:24:50+00:00"
+        },
+        {
+          "title": "Unrestricted humanitarian aid to Gaza can be delayed no longer - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG1CckFaZTBKOElESkEyMWFKemdiZ2lmWk0zcXZEaTJMLS1IRFZ6c3F5aU9OWEdMSzBLUGhvbmpqYXZxTE15bThoTkZtMnJtaFpmVVRVOEl0VmUzZjhoMDFCOGQ4SXYyTnhESm5oZ0NxTTdDVTY3UXRRWEhIcnhWSGZnN0VXM3Y4NmhuVVRBRExrNmZQZloyUDJabkl2SDFnc0tUUHhB?oc=5",
+          "published": "2026-11-11T13:05:32+00:00"
+        },
+        {
+          "title": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
+          "published": "2026-11-11T12:05:51+00:00"
+        },
+        {
+          "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
+          "published": "2026-11-11T10:57:39+00:00"
+        },
+        {
+          "title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+          "published": "2026-11-11T10:12:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "Dans le détroit d’Ormuz, le risque pour les pétroliers et l’approvisionnement énergétique demeure",
+      "region": "Moyen-Orient",
+      "summary": "Les risques pour la navigation dans le détroit d’Ormuz et les approvisionnements en pétrole restent élevés dans le contexte des tensions entre les États-Unis et l’Iran. Reuters et d’autres médias écrivent que les prix du pétrole ont de nouveau augmenté après avoir reculé, les traders réagissant aux menaces dans la région et à l’incertitude autour du conflit. Il est également rapporté séparément que l’Iran ne permettra pas l’exportation de matière nucléaire enrichie hors du pays, et que des responsables américains, dont Scott Bessent, bénéficient d’une protection renforcée en raison des menaces. Le marché de l’énergie est sensible à tout signal d’escalade.",
+      "picture": "Trois pétroliers en feu sont pris en étau entre des falaises convergentes, avec autour des gouttes de pétrole et des liens commerciaux déchirés. C’est l’image d’un couloir étroit et dangereux pour l’énergie mondiale.",
+      "mentions": 28,
+      "significance": 90,
+      "velocity": 16,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Iran will not allow enriched nuclear material to leave the country, security chief says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmRMSFZZUld1UEFab291N25WYXZVNENjbmtrWVU0OEEwZm84Z2RONXZHM0JnY2FId2ROLTRvek9lWmZiSFNQNlMwVVpVQ0Q1V3NsSDk1alc5Z0JoMExVY3NpYjVSVDhXd3RtYmo2M2lsdHoydlUteHlDMkp5QlZsWGQxam1JUXFuRkV0UHhOTVB0ZWtxeUhCTkNHNkRMMG5TaUdQaHBUYTlmMkhBRjBWUkZUTlNMVU1ISzFfVlduXzBJd3p0U0psdDNTa1F4Zw?oc=5",
+          "published": "2026-11-11T12:04:28+00:00"
+        },
+        {
+          "title": "Oil Rebounds After Two-Day Drop on U.S.-Iran Conflict Uncertainty - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR?oc=5",
+          "published": "2026-11-11T09:45:47+00:00"
+        },
+        {
+          "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazZ2WlZKeGZNYjh5YjBSZW1ORURVWjNfel93b0Z0VjAtRmJHUFJBNjRqYVlrS05ycE1qcEMyZXduQy1hci1heF9pUktMcm16LWtXZDlPM212RjNQbUJfdlk1cC1wc1N2aTVJT09iVWxYV3M5TDlUWXI4cGFKdEpMZVk1dk9lU282aHVETk9EVFItaWtzZ0t4QXhLdUlWbUljZ05uT3NQYmR1c3UyTUUwME51ZFh2dXM?oc=5",
+          "published": "2026-11-11T03:13:00+00:00"
+        },
+        {
+          "title": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHNYa19POGtkVEdEX0E1M2c1TWtBd1VSZzUzcGJoVVItMkw5WHNmTHUzQkVpQl9GbTZuRUEzRGlTeXNxMURlNVlXZjRWbld4UUdPeTVXOWlsOGVEajRJbVBZQzlGWlNCX0xPUlUyQTFpUUN3QUtmRHFjWWZEU19vZWVCNU0yTkFEejBjcnVlczlGWTRBUmpJNTlBUXg1b21hWmFCVTZJdFZGQ3VGcDBkbzc2UHQ5QdIBuwFBVV95cUxNSjVHek9yQzFBZUVXdmdpb0hhZUxEU0ZnNzlGeGhpVFloR19aVElnWGY0b2tlclRqY2h0VHljSHpqbExSVm81ekxMM2FSbDIxaFpRQ01udVIyak4waVhZQmswM0JBZVZlcDc4MVJ3SVJnUnBxRl9BYnhISl9rSXYxZjRSazBab1NMQVpMWlNJTFozQUpPOHp5czdkZ0tyMnVldlpSNlBlTExKcUFKMFYxSFVsYTNFLXFiSExZ?oc=5",
+          "published": "2026-11-10T18:43:25+00:00"
+        },
+        {
+          "title": "Rubio says 'no need' to attack Iran as diplomacy gathers pace - Yahoo",
+          "domain": "yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnZOZVRRMGp2aTJtTE1ic092elc2MDR6aXQxLWhFamw3YjZDNGtETERrOWlFcEJ5V3J0RkdEQ2J6MU1POWZLOVd2ZFV4NndsaWdEelRBRlpYaE5yWUNJSE93a2V1STZMS2FYWlBGTDM5NmZidWFFdHFZbE41T1FwZ2JLOHVzYWdfVzlBbkdn?oc=5",
+          "published": "2026-11-10T18:10:12+00:00"
+        },
+        {
+          "title": "EXCLUSIVE: How a Vitol trader's ties to JD Vance helped land a prized Venezuela oil contract - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXBjUHpKN20yZk5xM1RsTDlpZUtVZ2FwZ0J3RHBfQkNBZW41cS1hWHJKeGZUcEFuLTFrUFo0MndIV0lxb2pmb0I1VGUzU0J6R2JQTl9sTUs2UHNYMmhwNkpPZ1YzRVkzTExhMFhzc2ZpT01GbTU4UURERTBMYkdUbFg3NVR2NjB3TEJfbEtBdDRrcGNadW5JczBGZVE1cjQyYUJnYXJUb1hrVG9jLXBheGduWEoyUWRMbVRyVHhKYzNhVUE4?oc=5",
+          "published": "2026-11-11T11:41:26+00:00"
+        },
+        {
+          "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVlsZFhtdll6LTBmTFZOWUhBSE45NWQyNWYtd1pFUGJWNVRXeU45Vk1GWnpjTndfWjFzMjFKaWtPbUVkLVlRbnIxOHprMjR4dVZ4UU4yRm5DSFMxWEpGTW9yZmp5VzNtLVFhU2JvbXlsZU1lTEpDcWtWRXNmcG83TEpJWnlSSUFkZU1OandkaDA5a2lkNnpISnJNcm9DNEN2cWFHaU9XNmtQaUxFZGc?oc=5",
+          "published": "2026-11-11T09:34:00+00:00"
+        },
+        {
+          "title": "Oil Prices Rebound as Middle East Supply Risks Persist - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5",
+          "published": "2026-11-11T08:02:00+00:00"
+        },
+        {
+          "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
+          "published": "2026-11-11T07:00:00+00:00"
+        },
+        {
+          "title": "Oil up 1% after Iran says no nuclear material will leave the country - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
+          "published": "2026-11-11T02:10:00+00:00"
+        },
+        {
+          "title": "US Treasury chief Bessent moved to military base after Iranian threats, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
+          "published": "2026-11-11T01:00:00+00:00"
+        },
+        {
+          "title": "Yields Jump as Inflation Comes in Hotter Than Expected - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmZHLWI2UExZVlVtSjJ5aEF0eC0yQkFKSHZFa04yWkxPSE5ieDhodjR6Z0ozQjRObjlIU3Q1alpYZEdxazlHbUg0UWpVV0ZNNnluNFBZbVdkZTY3NGFUdVpuRDJxTFI4STA1WXNmSmt5bEZOSEs5QWhEbWlVcVR5ZE1OcjFvbzFPaWo3VmFSdlZnUDZ6d2xIS3RYTHp4RlU?oc=5",
+          "published": "2026-11-10T21:17:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
+    "coreweave-ai-relief": {
+      "kind": "major",
+      "title": "Les bons résultats de CoreWeave ont temporairement apaisé les craintes autour du marché de l’IA",
+      "region": "Monde / crypto",
+      "summary": "Les solides résultats de CoreWeave ont, pour un temps, calmé les inquiétudes autour du marché de l’IA. Reuters indique que les contrats à terme sur le S&P 500 et le Nasdaq ont progressé après la publication des résultats de l’entreprise, tandis que CNBC fait état d’une hausse de l’action et d’une amélioration des attentes concernant l’activité. Les analystes soulignent toutefois que le retournement n’est pas encore terminé et que la reprise prendra du temps. Néanmoins, CoreWeave est désormais considéré comme un signal important pour l’ensemble du secteur de l’IA.",
+      "picture": "Une tour de serveurs sur roues soulève une tour vacillante de puces, avec un petit support en dessous. C’est l’image d’une stabilisation temporaire du marché grâce aux bons résultats d’une seule entreprise.",
+      "mentions": 28,
+      "significance": 66,
+      "velocity": 79,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
+          "published": "2026-11-11T12:14:38+00:00"
+        },
+        {
+          "title": "CoreWeave's earnings signal a turnaround for the stock, but analysts say it will take time - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zQTVaaTBsQWtLLXczVno3ZGlwTER4Rks2LXMxdlFjb2lTRzhVandOM2F0QnpNSGZLZ3M0YXlJMFZpelY3WmE1UDNRTEg3cEgteWpJbTFYeDROa3VzMi1TMlRhWXpWT3BXZy1qVGw5LUNNU2NqMjdlMHcxYnVLQQ?oc=5",
+          "published": "2026-11-11T12:03:23+00:00"
+        },
+        {
+          "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWRRUTIxOHMtb29jNnN6SFdPTHRzdk5oY2FrU2lHZ3BNX2gyVTF2YVlRb3EtUE1VUFZUMDdhZ3VOY2RWei10MUxBZkJ2amRDOS1UUWxtYXQ4Nko4Z3hKN2RxN29uUjI0WmJMclFzNzYyUUxKLUlwVVpPTFY3ZHRQWE9kaGlDTzZHdDNEbnJraVo4MWJUandQUm45Si1JR090Zm9yMS0tbnoyejQ?oc=5",
+          "published": "2026-11-11T10:30:00+00:00"
+        },
+        {
+          "title": "Global markets broadly rise on AI chip demand despite Wall Street’s retreat on inflation data - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
+          "published": "2026-11-11T09:25:00+00:00"
+        },
+        {
+          "title": "What Discovery Silver (DSV) Said on Its Q3 Earnings Call - Yahoo Finance",
+          "domain": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZENIb0hSTHctVlBzcURBc1gtYU9mVFp2WUZVakRJSldDbjVBZWpmTVV2ejNWOUNyVVpiTlJiYkdaN2FpSm9yZmU3MzMwVnVXODVwaWx3Q3NSN215YUNpMHp5ZjBhM3RsbEpQWndMRUVvOEE3YUZGMmNRQzE5Wlp1LXFpMy1IbkEycmRmbGF6dTRKVjRGV0V2MWlEazdmeGs?oc=5",
+          "published": "2026-11-11T07:14:30+00:00"
+        },
+        {
+          "title": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVllRWVSSW00WVRiTDlIcEdtVXp4X0piR0VrQ0tWUm9wdVJUUFVaN0sxZFZVV2pwSGNIRUdOQ2VuQjd5QXNFTWpQRlgyRDc4S0ltemdWYnhLSWEwRG9yWXkzUy1Hc1dxWG5ELWNvV29SdklTWmczb3V0ZmZjc0NxV05uY2VWRGhodnJlNnRCR0YwdGNBM0xZUm0yd1pHRXlTblVaVEN2LW8yQQ?oc=5",
+          "published": "2026-11-11T11:56:11+00:00"
+        },
+        {
+          "title": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZktLMjVqcGxuX2hvX19semN2TFNnQ1JkVkk4ZURSYTdsMl9ILV90RkVzdDlkeEIyUk5KczlkX2VneUt6WVpXYXlWZ2FZYWVkbUlJVWJkazR4WjRvUFd2M1ZpZVZ4RUZTRUdCSTNVMDR0cDdyTlJUdmpicURKVl96NVVJUEt1UW1FNWpIQU1MYUM?oc=5",
+          "published": "2026-11-11T09:25:00+00:00"
+        },
+        {
+          "title": "CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Xbk9mUmE3V3VXVzVkMV9hV2pxOFlsZU84VG1haWs5dkNZSW5lNmd5dmJ1UlJseVJCa1MyMlFOcDhiZHlHd2V5V2xjT1BiVk96dWxDRnl0bFNiMHF5c2tfRUtzTXpsOHpCMjhnLU1NZ3E5bkFWcXJtUVpFTQ?oc=5",
+          "published": "2026-11-11T09:03:56+00:00"
+        },
+        {
+          "title": "Morning Bid: Everyone loves CoreWeave - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVBqU0M4YXZZT3dWTVI3RG5Sam1aMkl3dW1XRlVfcVdKdTFMdFltVDdqZFp1LXhxM0RfczhSOXppa3FreS1LNHktV3Y5M25UbFRpRWViaEk2WDlFRU1BWVNsaEtoLXh4blRtdndJNnpEMVBKOUNQRVZFVnQweUw1TlRfZUZ3TUJYaFpLN1Z3?oc=5",
+          "published": "2026-11-11T05:32:00+00:00"
+        },
+        {
+          "title": "Stocks gain as CoreWeave reignites AI trade - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5",
+          "published": "2026-11-11T02:05:00+00:00"
+        },
+        {
+          "title": "\"The inflection point is here\": Paul Meeks on CoreWeave's improving margins - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjYxMG51SVVacU0zd2FZSS1SQlNPQy1UVjg0SHlXcHNOQmxiaTYxSVlhWE9aT1JPMXc3REJodHMyUnV4TnNYSmFvLVduRllRcGlvUm9kLUJmaUZqWkJKRlJicjJQNVF5Yzk0TktsS3NJZU5jSWJHY2doZGNJTjhmamVUYWRBdUlyRVhEU0JRaTJuaFhfWnFPcDNETEc4S0dsSDNIRloteHMyLWV6UElNX3J1eDk?oc=5",
+          "published": "2026-11-11T01:55:01+00:00"
+        },
+        {
+          "title": "More than a dozen key races remain too early to call one week after Election Day - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjF0cmpoaVllMVJheTNxYklTOUhpVjRaS3M1NUxoTDVVWklMMzdNZV9YVnh0dlEzVTI0Zk4tTVRkSzFtbXlWMThLcXI2X0F4M2lRRkZXZ0tEV2FOS1ZLeVZ5Q0x5czRRSExneER0REFDYVI5ZFdVWjd3V3hyNHpuV2NkdUpTN1dMUUlBbktiNzYzOGtFT1NQZzFvTTFLa2V5SWkwUDVpSEZQNlZjNVNxeE50cEFveFE?oc=5",
+          "published": "2026-11-11T01:02:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "last-ebola-patient-in-kenya-released": {
+      "kind": "micro",
+      "title": "Le Kenya annonce la sortie du dernier patient atteint d’Ebola et le compte à rebours vers le statut de pays indemne",
+      "region": "Afrique",
+      "summary": "Le Kenya a libéré son dernier patient atteint d’Ebola et a commencé le compte à rebours avant de déclarer le pays indemne de la maladie. BBC, Reuters et AP indiquent que, s’il n’y a pas de nouveaux cas, le pays pourra être reconnu comme exempt d’Ebola dans 42 jours. Il s’agit d’une étape sanitaire majeure pour le pays et son système de santé. Les publications soulignent qu’il s’agit d’une étape importante, et non d’une clôture immédiate de la surveillance.",
+      "picture": "Une infirmière souriante tient un certificat de sortie. C’est le symbole d’un succès médical et du passage au compte à rebours final vers le statut de pays indemne.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T12:53:11+00:00"
+        },
+        {
+          "title": "Kenya releases last Ebola patient, starts 42-day countdown to disease-free status - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb0JFd2U5WjhCeFZQTlRBQTBpQng0Mkh4YV95T1FXTDVsNVJVZGdHSEx3Sk1tWlM3akQ3bG41TkVtN05YNlB2WHFrQ3FCcjEwVVJubHhtTEFfckZ3RHMzMTBsTU90S0ZUWExuY1l5V3dwNHUySWk4eUlvWGMxSXVjR3pZWTgtQk92Yl84NFl0aEpnSDFDZjBKT0xzN0ZKbXJyb2dVeTBVOXZRb0Vlb2V2TWFVeUM2V0dQemtjQ0VvckkwbGhSaVZrUmx5SDczNWZ6QVFKdWhpM1N6V0ttZTUxRTlPWQ?oc=5",
+          "published": "2026-11-11T12:30:32+00:00"
+        },
+        {
+          "title": "Kenya discharges last Ebola patient, beginning countdown to Ebola-free declaration - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTVMZ2dJcEFibURXMndabi1JVDZDbDJfaTktN01VVU5VcDV3UVBpdW5wZEZMODVmQzJMaUhzU0tZdXpmYUFPc2JTWnhDRTYtRzRFOWZYNWxsR1VURTIySXYtUjY5b0o1Mml0em1tNkY0bThEVy1HV2VHbmsxSVBQWWZRZnUzNWdlenBnV05XRTNsN2xsQVRSR3FRVkhMSG1qRjlWRXcyNUtXRjVi?oc=5",
+          "published": "2026-11-11T10:12:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "singapore-single-buyer-buzz": {
+      "kind": "micro",
+      "title": "Lors des soldes du Singles’ Day en Chine, un acheteur a acquis un appartement pour presque rien",
+      "region": "Asie",
+      "summary": "Les soldes du Singles’ Day en Chine témoignent d’une demande des consommateurs atone, même si certaines histoires suscitent l’enthousiasme. Reuters, AP et ABC rapportent que les ventes restent globalement contenues, ce qui traduit la prudence des acheteurs. Dans ce contexte, l’une des histoires les plus remarquées est l’achat d’un appartement pour 11 yuans, relayé par les médias hongkongais et internationaux. L’épisode est devenu viral, sans pour autant modifier le tableau général d’une demande faible.",
+      "picture": "À côté de sacs de shopping se trouve une minuscule étiquette de prix pour une maison. C’est le contraste entre l’excitation des soldes et un achat immobilier étonnamment bon marché.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "China’s Singles’ Day shopping festival struggles to shake off weak consumer spending - WJTV",
+          "domain": "wjtv.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQlpIQXpZYUpGQzZpTFplZFk0NFV5YVc3bEc2cmVKYWszcVBaUTlWOEJLU3VVTC03TGJxaVJBSHl1TUhTeEdRV2ZiejJfaFRMR3lPT01STnhLaWpkdGxDZVBUUXIzNUtxbGZSazhwbHZsUjRfaEVvTUVqNVhXVU5TRmhhdVFpS3c2eGs2S29tY25QQ0N6akxEcHR5c1N4c3lVWjFKeG5nU2lIMVJNNVdDQk1pM2dsd2c2bzlXaW9wVkVBMF9zXzlDRWRJbTVlX1XSAdQBQVVfeXFMTTVORUEweldSYTA1czlzZVNsQVVOWHdEaHVtbXFnZTZtalFLR3dVcXQ3M0hON1d1YnJTSGVzLXJ4RWVJTXJyMEpuc0JuM1VPVjJvYVFPdFhneS1teXZBai1WNUVRVnJzWkRudVl5OUFrSkZDdUZpaEh4NmIwdjVzOHphVk92bUhoZVdOQm5JZThiWG83X1ZveHI4V2RiYkZQamZNNE9GdmFteXdtT00yVVYxMTdtRE9PRlVxdElXZk8wdTR0SFZYS1c4SzBTbzdvelpHVW0?oc=5",
+          "published": "2026-11-11T11:38:46+00:00"
+        },
+        {
+          "title": "China’s Singles' Day shopping festival struggles to shake off weak consumer spending - The Killeen Daily Herald",
+          "domain": "kdhnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdTNyZHpJMW8zUHQ5Y0FPYXlmd3ZwVjREa0tBMlR1dURsekNIMGtYQ3h4RFJCNnJsSlAtaldNcHBBUjl0WXBCUUVYYURMcF9MdFByYU5sem5IU0JwRGJ0TUt5aEdROEpEOWlHa2pwNG9SM2JKZXpfTU9UNHJrWWNEZnp4V040b0t5cmFISWNSNHQ1UVJvclh4YlZWOElNRENWRi16RG9MMGlMZjdXZ0xTSEpOOW85dFNjaERKOENBbmNmX08td1JtdnhUNjNEWldRZTN2UkhJZUlxQWFBOGJ3MzJsNnk3UHFhdnFoR3dUeDBwbGRNNW5r?oc=5",
+          "published": "2026-11-11T11:38:46+00:00"
+        },
+        {
+          "title": "Chinese shopper sparks buzz after buying flat for US$1.7 during Double 11 shopping festival",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374084/chinese-shopper-sparks-buzz-after-buying-flat-us17-during-double-11-shopping-festival",
+          "published": "2026-11-11T10:06:59+00:00"
+        },
+        {
+          "title": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVl0Ync4OTh4cmEtaHlZZTlKck1ZeWdUdDVsaDRZWEJuQ0x5NS05T1dOYnpva3QtWlVQR1ZTMWU4X0JWWUNPMEVmLVV0eUlpN0VycXFoanlTRWZtbFFQcW44c053R0RoRkFkdllqMnVteVZna0xlOWMxYWFLOS1KMFd2bFV0N2pOQUNRVW1JYkVfSXNOQTF5emNsUVVHM0R5cHdYMUpwekY1Z9IBrwFBVV95cUxOVjA1ZENhNkJyTC1GakV5eFFlZ0xaM21BSk41S3pDQ0w0ZVc0Z01HYThzallVZXZmNEVhalV2dU8wNGhxYmY0YmpMMnVwSmg5SF8zWThYM3RLaGQ2djJYV2ljUkFZc0NqMDItM0c5b1dXY0p0UkZodmhPVzRDdWlFbUdGdzZDd2RaeFl6Y3RoY1RpRm9DZkN4RG9zbURwR3U1R1RveXdTTUotRHMybUpZ?oc=5",
+          "published": "2026-11-11T09:18:10+00:00"
+        },
+        {
+          "title": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZldKVkFrVWlEQmhhVUpOTGNoT3lnSU1qakFBbmtUTWdTM0I4U3BKbmFNbEV3eUhXY2UwZFY2Z1V4RjRHY1lUQVhYOWMwbXp2aXNja2lpMkxNNG5FalVpWTRxQ3daTk1lWllsRXBLbjJRRlJHaTU3Wi1xNXNsSEkteW1yenZjTFozRlUwR0RUU05jNlFFbk1FbUM2eGtXZjRX?oc=5",
+          "published": "2026-11-11T08:42:00+00:00"
+        },
+        {
+          "title": "China's Singles Day shopping festival puts AI selling power to the test - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5",
+          "published": "2026-11-11T06:14:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "coachella-2027-headliners": {
+      "kind": "micro",
+      "title": "Coachella dévoile une affiche prestigieuse pour 2027 avec Dua Lipa et Tame Impala",
+      "region": "États-Unis",
+      "summary": "Coachella a annoncé une affiche de têtes d’affiche très attendue pour 2027. BBC, ABC7 et Hollywood Reporter indiquent que la programmation comprend Dua Lipa, Tame Impala et SZA, ainsi que Daddy Yankee ; dans l’un des articles, il est précisé que Dua Lipa deviendra la première femme britannique à être tête d’affiche du festival. C’est l’une des annonces musicales marquantes du jour et une grande nouvelle pour l’industrie du spectacle vivant.",
+      "picture": "Trois micros entourés de notes de musique évoquent une scène de festival. C’est l’image d’une grande annonce musicale, où les noms principaux sont déjà fixés à l’avance.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Coachella 2027: Dua Lipa to be first female British headliner - BBC",
+          "domain": "bbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xdzBrQUIwZ3hFRUdEU0t3RGlXcVNxb1NjcDE3Z3dCRk5tT1VuM3pucjRPOVFPYjRFMV8taFUzbi1hOGgwSG5mT0ZnVmlGeE9haDRqWWtnMlVuaVk?oc=5",
+          "published": "2026-11-11T10:53:47+00:00"
+        },
+        {
+          "title": "Coachella 2027 lineup: Dua Lipa, Tame Impala and SZA to headline festival - ABC7 Bay Area",
+          "domain": "abc7news.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGRIMFlRdHRwTlFlcVh2MzJxRVpXbjNpX1d6Rnd6RGg0T0U4eVFncklCMXl6OFJybzZFQWMwdTJYck81SnFRTUR4RDc0ekd1SG15b2Q2ZnhkbjdGUzVPZC1USzBwMkdWZFpoWm91RVprVmpkNjJaNXdHdWFjZ3czeTA3YnpYZjN4amNxbUpOb0FfM3FXMm5RT0F5akNVbHhyNnFRTDU0RdIBpwFBVV95cUxNZGRIMFlRdHRwTlFlcVh2MzJxRVpXbjNpX1d6Rnd6RGg0T0U4eVFncklCMXl6OFJybzZFQWMwdTJYck81SnFRTUR4RDc0ekd1SG15b2Q2ZnhkbjdGUzVPZC1USzBwMkdWZFpoWm91RVprVmpkNjJaNXdHdWFjZ3czeTA3YnpYZjN4amNxbUpOb0FfM3FXMm5RT0F5akNVbHhyNnFRTDU0RQ?oc=5",
+          "published": "2026-11-11T08:56:03+00:00"
+        },
+        {
+          "title": "Dua Lipa, Tame Impala, SZA and Daddy Yankee to Headline 2027 Coachella Festival - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUMyblY2QUNGeHlWeXh0bFhoWlpKU2lFVm5SNVRLNnd1R3Y1bEFqSUhYdk12SlUzdzlVNmNHN1hrY0N0NVBHcHN0M0lfU2EwQzBRVk5STjhCTUNQd2p3Z0NlQVBxdU15bkZmYk9ETmM2Zm5jTHR2ejJNd2V0Y21ZN3ZkSk9vSk4ta29iU3AzS1ZWdzhvZ0o1SUl5aDUwV05zWHBsMEJCVm5SVDdrZEdvSi1NZnVpQnYz?oc=5",
+          "published": "2026-11-11T06:16:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "pope-in-argentina-huge-crowd": {
+      "kind": "micro",
+      "title": "Le pape Léon XIV attire une foule immense lors d’une messe en Argentine",
+      "region": "Amérique latine",
+      "summary": "Le pape Léon XIV a rassemblé d’immenses foules lors d’une messe en Argentine au cours de sa vaste tournée latino-américaine. Euronews rapporte qu’environ 650 000 personnes ont assisté à l’office à Córdoba, tandis que d’autres articles évoquent aussi une messe record à Buenos Aires. Le pape a salué les fidèles depuis la papamobile et les a exhortés à ouvrir leur cœur et à fortifier leur foi. Après l’Argentine, son voyage se poursuit au Pérou.",
+      "picture": "Le pape salue une foule immense. C’est le symbole d’un grand événement religieux et de l’ampleur émotionnelle de la visite.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "'Welcome Home': Peru awaits Pope Leo's emotional 'homecoming'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/welcome-home-peru-awaits-pope-leo-s-emotional-homecoming",
+          "published": "2026-11-11T11:53:43+00:00"
+        },
+        {
+          "title": "Pope Leo visits Argentina on second leg of expansive Latin America tour after lung surgery",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/pope-leo-visits-argentina-on-second-leg-of-expansive-latin-america-tour-after-lung-surgery/",
+          "published": "2026-11-11T01:08:16+00:00"
+        },
+        {
+          "title": "Argentina: Pope Leo XIV celebrates Mass before 650,000 in Córdoba",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/10/argentina-pope-leo-xiv-celebrates-mass-before-650000-in-cordoba",
+          "published": "2026-11-10T22:19:02+00:00"
+        },
+        {
+          "title": "Pope Leo XIV draws huge crowds in Córdoba after record Buenos Aires mass",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/10/pope-leo-xiv-draws-huge-crowds-in-cordoba-after-record-buenos-aires-mass",
+          "published": "2026-11-10T21:15:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.917,
+        "r": 0.156
+      }
+    },
+    "germany-clears-tesla-assisted-driving": {
+      "kind": "micro",
+      "title": "La Finlande et l’Europe continuent d’autoriser de nouvelles technologies automobiles, dont l’assistant Tesla approuvé",
+      "region": "Europe",
+      "summary": "La Finlande a autorisé l’utilisation de la technologie d’aide à la conduite de Tesla après des modifications apportées au système. Reuters indique que la décision a été prise après des améliorations de l’outil. C’est une nouvelle étape des régulateurs européens vers l’autorisation de technologies automobiles innovantes sur les routes.",
+      "picture": "Sur le tableau de bord d’une voiture, les icônes d’aide au maintien de voie s’allument. C’est l’image d’une technologie autorisée après examen et ajustements.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Finland clears Tesla assisted driving tech after changes - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlM5bTZEWktQbU9STjk1NE9iMjNpUVJaNUJXcVI1bUV3ZmxPN2p2NjQ0c2ZaQXdITlJkeDNCYkV2MjgwVjlaMjFYTnN6U2VGMHBJNDV3T1VTZ3IwTnVRcGtxdGR5djY3VldGVnVhOEg4YTI0dEUzbWJJVUFNeHZoa1RuZVphZnU3SGk4b3FPeEcxSjR1aGVsMUh5SExpNlZINVE?oc=5",
+          "published": "2026-11-11T06:53:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "toyota-mini-truck-us": {
+      "kind": "micro",
+      "title": "Toyota prépare l’arrivée de mini-camions sur le marché américain",
+      "region": "États-Unis",
+      "summary": "Toyota prépare le lancement de mini-camions sur le marché américain. Reuters et le New York Times indiquent que le groupe prévoit de vendre un kei pickup truck aux États-Unis, tandis que la marque Scion pourrait revenir dans le cadre d’une nouvelle stratégie. Les articles soulignent qu’il s’agit d’une catégorie de véhicules inhabituelle pour le marché américain. C’est une initiative de Toyota vers un produit plus niche et probablement plus remarqué.",
+      "picture": "Un petit pick-up chargé met en avant la compacité et l’originalité du modèle. C’est l’image du mini-camion japonais que Toyota entend importer aux États-Unis.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Honda to Invest $3 Billion in New Ohio Plant to Boost Hybrid Vehicle Production - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFJel83OHk1bHVJbWdTaWpSV0VwTlFNODNwdTdlbHNmeE9rNjR3aGJFUVFRenZUVEVmdF9oTnVTYllBUnFyVUxCb1lJeXFLUTYwb1JyRUZCcEZnUFVjSkhjVDRzcnNLNGhyWVFzTnRwQzFUZmNDYXUtV1pfTW1DQlFhMUV5bFNQTENHR1o4UTNpRlZYS1NjU3lpMk5FTTZoaXMwNFd3aGdNd0pDYTY3UW5uNDRmZi1FMUdFeGthdw?oc=5",
+          "published": "2026-11-11T12:28:41+00:00"
+        },
+        {
+          "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S. - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Gck1RZFJ2ZTRjX1ZmcVlaVjM5cmQtLTNLN3l3YTljX0NiSEttdHBDYklPTFY5QkVLbTZERzAzU0pBZUhZdnZTazRZS3YwanRaVHBYZ1h5MHJGQ2Q0ZWExb0IyaEVISjIwbEJOSXV3Z2xaME1oOXFQeVRjUGY?oc=5",
+          "published": "2026-11-10T21:11:36+00:00"
+        },
+        {
+          "title": "Toyota to bring mini trucks to US market - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVY1V0VXeXhZNHJXTi10bUZyTW1zM015Ri0xbkpPZVJXdW1mbUcxcl9KUExVam5oNWd4eHBPVnh1SlJTRzhzRHQ4YkpSR0lNdWJoV2YtRGx1TVBzZGJ3cjhONlFYYVJiTF96ZWNfQUZHZmRqeWNuV0MyZ0drYnBTOVc1THdiQXVnX0NMc0xaaU5YZGNHbDBoR0ZBR01xbFFLTFE?oc=5",
+          "published": "2026-11-10T16:04:09+00:00"
+        },
+        {
+          "title": "Toyota’s Scion Brand Returns With Japan’s Forbidden-Fruit Minitrucks - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2tYZk1nR2R6Y2FBLXJCUVZhTlhMcmd3aHJCQjZtOEtiSllfUmp2akJ2WWxHMnlodjMzQ1BuYlJBdlZHTHhpb3ZBY0JIODhsZkthVGFnMzBEdVRseG5DZXpmRkVDU09sdEF3aGQtYlVCQ3Y2RkZJSHl5T01LdW05VGh6azRHMkVSUkVoOVZORzJSRzZkMHVuV1hwTms1MXRYdEVHZFBHNkFER1JGOVo0?oc=5",
+          "published": "2026-11-10T15:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "android-uptime-record": {
+      "kind": "micro",
+      "title": "Un appareil Android aurait battu un record de près de 11 ans de fonctionnement continu",
+      "region": "Monde / crypto",
+      "summary": "Un appareil Android a été repéré avec un record de fonctionnement continu de près de 11 ans. Neowin rapporte que l’appareil affiche une durée de fonctionnement incroyablement longue, qui ressemble presque à un record mondial. Les détails sont limités dans l’article, mais l’histoire a retenu l’attention comme une rare bizarrerie technique.",
+      "picture": "L’écran d’un smartphone affiche onze ans sans redémarrage. C’est le symbole d’une durée de fonctionnement extrêmement rare.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "World record? This Android device has a jaw-dropping uptime of 11 years - Neowin",
+          "domain": "neowin.net",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2pfM20yVHBhNkJaeUdmTHFFOFktMkZMYy1oSHpxSzFCZlRLOTl1NlIzdElSLWtPT1FSNGl0OFVFWHMwT2wxYmVNaV9rb3dKa1pkR3IzNEVLVXNubzhjMWpya2Y1ZTdEWTJmdUpaOV82RUE3aGVyMEJjb3l5blpOd0xGbndIQWxKRHY1TUFzYnRNVnhfUW9zcnZkN3JXSzZ4?oc=5",
+          "published": "2026-11-11T12:48:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "space-robot-builds-structure": {
+      "kind": "micro",
+      "title": "Un robot a assemblé pour la première fois une structure de manière autonome dans l’espace",
+      "region": "Monde / crypto",
+      "summary": "Un robot a, pour la première fois, assemblé de façon autonome une structure dans l’espace. Le New York Post et Space indiquent que cela s’est produit dans le cadre d’une démonstration technologique de Caltech. L’expérience est considérée comme une étape importante pour les futurs assemblages orbitaux et la construction autonome hors de la Terre.",
+      "picture": "Un petit robot assemble des éléments de structure en apesanteur. C’est l’image d’une construction spatiale autonome qui relevait auparavant de la seule idée.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Robot builds structure in space for the first time in technological breakthrough - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5",
+          "published": "2026-11-10T18:08:00+00:00"
+        },
+        {
+          "title": "A robot just built a structure autonomously in space for the 1st time ever - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODFKdWFXamw2SE5oZnJGSW1KYnBFZTY5eEktN0ZjNllHb013LU1FRUh1QlNRR3FIaGx1eFU0R1pSRzBZdlczV3E2XzdzekZEd05WaGZFQ0VRWUNnX1BIZ2RRZW5rVGJXUEROWlBBMHdUS3Rfbm9DajlDYURqbWZ4M0xaZTdfbF9IU29SR1NTdm9nNVFVaklXZTFiaElOSWtSLXJ1UWMxRXJrdVU?oc=5",
+          "published": "2026-11-10T16:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "uranus-magnetic-field-clue": {
+      "kind": "micro",
+      "title": "Les scientifiques se rapprochent du mystère du champ magnétique étrange d’Uranus",
+      "region": "Monde / crypto",
+      "summary": "Les scientifiques se sont rapprochés d’une explication du champ magnétique inhabituel d’Uranus. Space indique que le champ étrange de la planète a laissé les chercheurs perplexes pendant des décennies, et qu’une nouvelle hypothèse sur sa nature est désormais avancée. C’est une étape importante pour comprendre la structure et le comportement de cette lointaine planète.",
+      "picture": "Une planète lumineuse est entourée de lignes magnétiques courbées. C’est l’image d’un champ mystérieux qui commence enfin à être expliqué.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlJwUl9LWHFWdUkyVmJyTWxra01KVTZrYWxtUFhVZ2ZYa25LN2tvT21SWVFHcnJ3c2ROVDY0eWp5c2s2OGk3M1YwXzJzTkhxOHpBZjQ1Smp2MnN2N09aa3J5WlFVeGFkSmJoSHk4alR6Qmotb2lPeHpEOFcweFN5QW1YQVpzWE1ZcGZaZXBCWDFpUFd0OTlqSFpkZmdPS0p3S0tqa3E3S3FZU0Q5Qng3TzVhaWVLUDY4Rjl4Zg?oc=5",
+          "published": "2026-11-10T19:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "exoplanet-disappeared-reason": {
+      "kind": "micro",
+      "title": "Des astronomes expliquent où est passée une lointaine exoplanète",
+      "region": "Monde / crypto",
+      "summary": "Des astronomes ont trouvé une explication à la disparition apparente d’une lointaine exoplanète. Space rapporte que l’objet était considéré comme perdu de vue, mais qu’une nouvelle étude a éclairci la raison de cette disparition. Cette nouvelle est importante comme exemple de la manière dont les observations et l’analyse permettent d’affiner la compréhension des systèmes lointains.",
+      "picture": "Une planète s’estompe derrière un télescope, comme si elle disparaissait du champ de vision. C’est le symbole d’une énigme astronomique qui a reçu une explication.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcE5wLXJMeERscUd0MDAxTkp2VUh1VVAxeU5pdUxvZ2JrZWE3ODlYY05XcFpza1RIekNMNlB4bDBVT2hGYkhTcjM1QWRLbUd2Um1GX0hyeVQ3OWwyWkdQUl90cmtuMzNRUzdIMi0xV29yVXJyYXFjb25ycVBTVi1NRkRlZmJhUmZnUm5uUHhqRjB4MDN3a3V5blFaTGU1b01pVGY4SXRRZlJzQUliZGcwUk54c3l4NWRTZHFrUFo2N0lRWEY0Y1E?oc=5",
+          "published": "2026-11-10T21:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.143,
+        "r": 0.125
+      }
+    },
+    "lunar-dust-lego-blocks": {
+      "kind": "micro",
+      "title": "La poussière lunaire peut désormais être transformée en briques pour les futures colonies",
+      "region": "Monde / crypto",
+      "summary": "Des scientifiques ont montré qu’une poussière lunaire simulée peut être transformée en blocs semblables à des LEGO pour de futures colonies. Phys.org rapporte une nouvelle méthode permettant de convertir ce matériau en éléments de construction. C’est important pour les perspectives d’infrastructures lunaires, où l’acheminement de matériaux depuis la Terre est extrêmement coûteux.",
+      "picture": "Des blocs gris, fabriqués à partir de poussière lunaire, ressemblent à un kit de construction. C’est l’image d’une future construction lunaire à partir de ressources locales.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Simulated moon dust turned into LEGO-like blocks for settlements - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWUdlWjRVQzlrdGpVOVloeW1RMDQ3TVVhMEF1YW9RTXFWbWdYdklLQkdJbjRKN2FCUUt4bjE1bngzaUQ5U0U5Tlp2c2NUeXo4Wkk5MmlSMTNxX3VjbjV3VVpydEdZZmdmVm9vbVp4VmU4RzBwR195S2tVV202dw?oc=5",
+          "published": "2026-11-10T17:40:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "purple-bacteria-waste-to-supplements": {
+      "kind": "micro",
+      "title": "Des bactéries apprennent à transformer des déchets industriels en compléments utiles",
+      "region": "Monde / crypto",
+      "summary": "Des chercheurs ont montré que des bactéries pourpres peuvent transformer du CO₂ et d’autres déchets industriels en ingrédients utiles pour des compléments. Phys.org décrit cette technologie comme un moyen de traiter les déchets comme matière première. C’est une piste potentiellement importante pour le recyclage et la production de produits plus durables.",
+      "picture": "Une boîte de Petri, des bactéries pourpres et une poudre illustrent le processus de recyclage en laboratoire. C’est l’image d’une transformation des déchets en ressource utile.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Purple bacteria turn CO₂ and other industrial waste products into valuable supplement ingredients - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmszTXpIUWJCY3pxVWpnV0lVeXpvd2tvVGZlTWlrc1hfekIyUjRhTUE0blNlZzlCS0NIVFE3LXBjNjFXSXFiemdxRzdhczA3dXZoNUtIZTFrZW91dzdBVldSYTBJSVJ0QmpYd3VURmJQekhvclJZMFFZNkZ5Q2tlb1RoVnVUZw?oc=5",
+          "published": "2026-11-10T18:50:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "whale-shark-routing-study": {
+      "kind": "micro",
+      "title": "Une étude montre qu’éviter les routes des requins-baleines coûte presque rien",
+      "region": "Monde / crypto",
+      "summary": "Une étude a montré que modifier les routes des navires pour protéger les requins-baleines coûte presque rien. Phys.org rapporte que le détour des navires peut réduire la mortalité des requins sans préjudice économique majeur. Cela rend la mesure plus réaliste pour la protection marine.",
+      "picture": "Un requin-baleine et une route de navire incurvée illustrent un détour. C’est l’image d’une solution simple qui aide à préserver les animaux sans lourdes pertes pour le transport maritime.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Rerouting ships to avoid killing whale sharks has little cost, study finds - Science X",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vUnRSSTc1RW8zRkh2WHNlRFJraXhaY01yM1NnWGhWYnN3V1Btd2F0WGRZS01XVWNYZkJrSE9KQ0sxcmp4endvTzY2bmhqUlU0akEwSFBOSGwyeU1ZN3p3SzdBcG83Y3FDUU05Q2ViWWRzaWJHTURMSEM5WdIBe0FVX3lxTE5vUnRSSTc1RW8zRkh2WHNlRFJraXhaY01yM1NnWGhWYnN3V1Btd2F0WGRZS01XVWNYZkJrSE9KQ0sxcmp4endvTzY2bmhqUlU0akEwSFBOSGwyeU1ZN3p3SzdBcG83Y3FDUU05Q2ViWWRzaWJHTURMSEM5WQ?oc=5",
+          "published": "2026-11-11T03:58:30+00:00"
+        },
+        {
+          "title": "Rerouting ships to avoid killing whale sharks has little cost, study finds - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYUjJiMFd2Sm1SeUdGTXF6dXdoajdpNU9RMHVFYkRxc2RhVEQ2eUlJNWVFSkF6dXBUVnNfLVFnUUhVMmgxOGNnQy1xcTdGQktFa2JnX2VUODV3VURTTWd4UXB3a3hSb2JuLUVMRDFnb3k?oc=5",
+          "published": "2026-11-11T00:10:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "finland-white-tailed-eagle-comeback": {
+      "kind": "micro",
+      "title": "En Finlande, on souligne le succès du rétablissement de la population de pygargues à queue blanche",
+      "region": "Europe",
+      "summary": "En Finlande, des données à long terme ont montré un rétablissement réussi de la population de pygargues à queue blanche. Phys.org rapporte que l’histoire de l’espèce est devenue un exemple de réussite en matière de conservation. L’article s’appuie sur des observations menées pendant de nombreuses années et enregistre un résultat positif de restauration.",
+      "picture": "Un pygargue à queue blanche est perché sur une branche. C’est le symbole du retour de l’espèce après une période de déclin.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Finland's white-tailed eagle success story: What long-term data reveal about recovery - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1RXFFeVVDd3ZGbmtHc2JqdFVqcXl4TE8xZ3JuOU1hY1hmMFVpMVptRENHNUlFeElKOEk0eGdvWF9HcmJITnhuVmRGUkZMVW5CNWprdklkRzRYclM1UF9BTC0zUHVWYmk3NHVyNmUwNzJNVHN4S2I3Rg?oc=5",
+          "published": "2026-11-10T16:20:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "mystery-red-dots-explained": {
+      "kind": "micro",
+      "title": "Les mystérieux «points rouges» de l’Univers ont enfin reçu une explication plausible",
+      "region": "Monde / crypto",
+      "summary": "Des scientifiques ont proposé une explication plausible aux mystérieux « points rouges » de l’Univers. Phys.org rapporte que ce phénomène, source de débats, a enfin reçu une interprétation possible. Cela permet de mieux comprendre les données obtenues par le télescope Webb.",
+      "picture": "Un télescope spatial pointe vers des points rouges dans le fond du cosmos. C’est l’image d’une énigme scientifique qui se précise peu à peu.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Webb's controversial 'little red dots' may finally have an explanation - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16YnFWek93Y2tWYlB0Snd6c09tTGVTOWlGVmpGSEQtRU9qTUNTRVZzNXQzQ2JkRWJGUnliM3FsLVh2bG5Welp6SE01TFZ2bVdQdDNrNE51bDNqeXdhLVd2MGc5SWVMR28xUkpLNXhUV0lGSlYzUFVHdE53M1B0VGM?oc=5",
+          "published": "2026-11-10T20:40:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "women-in-africa-youth-olympics": {
+      "kind": "micro",
+      "title": "Les premiers Jeux olympiques de la jeunesse en Afrique ont débuté à Dakar",
+      "region": "Afrique",
+      "summary": "Les premiers Jeux olympiques de la jeunesse organisés en Afrique ont débuté à Dakar. The New York Times et AP indiquent que le Sénégal accueille les compétitions, tandis que les plages et les rues de la ville sont remplies de supporters et d’athlètes. C’est le premier forum sportif olympique de ce niveau sur le continent africain.",
+      "picture": "De jeunes athlètes tenant des drapeaux se tiennent sur la piste. C’est l’image du début du premier événement olympique de cette ampleur en Afrique.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
+          "published": "2026-11-11T05:00:21+00:00"
+        },
+        {
+          "title": "Photos of Dakar Youth Olympics, the first Olympic event in Africa - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzNuRTIzNjY1cDdmVU1BRGJFbGJLVHN0NUlzS1pqNGd0Y2FoTG9DeGZSSmRZckdBN1lzUEYtSVY2SDNNSVBBRXAxU2lzNU5vbGdJcGtsQXpFLTlMNHVVU3p3OHJ1a0dOWjUwY2RpWi02M3A0Q3Y0bkJNR0l5UE9aU2VqbTBlMXlQOWRVVnNOR0w5aDQzRGJpb2pRMEhaN3E0ZzRRZmhYSWJRNEtkZ1J5NXNBUERlUldRWUh4ZA?oc=5",
+          "published": "2026-11-10T21:45:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.929,
+        "r": 0.151
+      }
+    },
+    "ancient-script-soft-power": {
+      "kind": "micro",
+      "title": "La Chine mise sur les écritures anciennes comme outil de soft power",
+      "region": "Asie",
+      "summary": "La Chine mise sur les écritures anciennes comme outil de soft power. Le SCMP écrit que les autorités ont créé un institut pour préserver les disciplines historiques rares et menacées, tout en promouvant la culture traditionnelle comme partie du récit national. Cela s’inscrit dans une stratégie plus large d’influence culturelle.",
+      "picture": "Des caractères chinois anciens apparaissent sur des rouleaux. C’est l’image d’une tradition transformée en ressource d’influence culturelle.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Written in bone: China bets on ancient scripts for modern soft power",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/politics/article/3373970/written-bone-china-bets-ancient-scripts-modern-soft-power",
+          "published": "2026-11-11T03:00:38+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "fashion-exhibition-prada-milan": {
+      "kind": "micro",
+      "title": "À Milan, une exposition Prada s’ouvre et transforme un siècle de mode en nouvelles découvertes",
+      "region": "Europe",
+      "summary": "À Milan, une nouvelle exposition Prada s’est ouverte, présentant un siècle de mode comme un ensemble de découvertes inédites. AP rapporte que l’exposition revisite l’histoire de la marque à travers un format muséal. C’est un événement culturel pour l’industrie de la mode et pour la scène muséale de la ville.",
+      "picture": "Des mannequins et une vitrine en verre composent l’image d’archives de la mode. C’est le symbole de la manière dont l’histoire d’une marque devient une exposition contemporaine.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Prada’s new Milan exhibition turns a century of fashion into fresh discoveries - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2F2ZEE0QmE3d21yNE1NNmtCazkwOGNaNjZoZjNPTm41UUd5aHRKSlpWMGl0RGpUSlVXR2lXbUxOMFl0SHZvckFOdlloWmFJR0dReTRydHlySlF3aUR6Qms1NmVTV2UyQWI5TXF3Nm5ucDVWU19oT3NteXFtSkk2TFN1akpreEd3U1J5anZFUkFsb2ZYckRQMm5KQVhNZDVOZDZYeXRNcUp0S3dJ?oc=5",
+          "published": "2026-11-11T05:21:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "new-anime-awards": {
+      "kind": "micro",
+      "title": "Le lancement d’un nouveau prix Japan Anime Awards a été annoncé à partir de 2027",
+      "region": "Asie",
+      "summary": "Le lancement d’un nouveau prix Nippon Anime Awards à partir de 2027 a été annoncé. AFP fait état de la création de cette distinction, destinée à récompenser les réalisations de l’industrie de l’anime. C’est un signal important pour l’animation japonaise, qui obtient ainsi une nouvelle forme de reconnaissance.",
+      "picture": "Des trophées inspirés de l’anime, à côté d’une pellicule, signalent un nouveau prix. C’est l’image de la reconnaissance officielle de l’anime comme grande industrie culturelle.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "The Nippon Anime Awards to Launch in 2027 - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vcDdNQktiZ3U0Sm9ieDhtS2R0Y0Y3UE40ejZBY1ZQOEJqclRiOVBUT1Q3MDRYaHFFaHpZejAteGNYQ1QyMDNiSFVod0prczFnS1hzakVSMzV1VVpPb20zQzUzbm9tSTRJSjRj?oc=5",
+          "published": "2026-11-11T04:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "muslim-panto-lion-sheikh": {
+      "kind": "micro",
+      "title": "Au Royaume-Uni, le spectacle musical Muslim Panto revient avec une nouvelle version du « Roi Lion »",
+      "region": "Europe",
+      "summary": "Au Royaume-Uni, le spectacle musical Muslim Panto revient avec une nouvelle version d’une histoire inspirée du « Roi Lion ». Arab News rapporte une production intitulée The Lion Sheikh. C’est un projet culturel qui réinterprète un récit classique dans un nouveau format.",
+      "picture": "Un masque de théâtre, à côté d’une marionnette de lion, illustre l’alliance de la scène et du conte. C’est l’image d’une relecture d’une histoire familière à travers un spectacle musical.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Muslim Panto returns with a roaring new take on classic tale, The Lion Sheikh - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1E5YkFoaWduWDJzUS1sWVNzV3p2ejhFb05Kd3JaLUNJd2s1U0hwdXFlMmY1U19TcUNTcTc2S09aTkZWMDUxZ1NEZ2FjdlFZRC01ekU3NHZLWURyOEJYZ1hGQ2xSUlctVEdiN1k0SEVpbTBTNHZPV1p2bE00blNIaWRGTUpPLXEyT09rVGZ5ZTRuc2R6T3p6VkJUS3kySlpuTWRCNzhVT0RmSTBpTWZILTRxRlo0QnFx?oc=5",
+          "published": "2026-11-10T17:58:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "rare-orange-yellow-fish": {
+      "kind": "micro",
+      "title": "Un rare poisson orange et jaune a été découvert dans le port de New York",
+      "region": "États-Unis",
+      "summary": "Un rare poisson orange et jaune a été découvert dans le port de New York. UPI indique que cette coloration inhabituelle est liée à l’état biologique dans lequel le poisson est né. Il s’agit d’un cas naturel rare qui a retenu l’attention des chercheurs et du public.",
+      "picture": "Un poisson orange et jaune vif se détache sur l’eau. C’est l’image d’une rare particularité naturelle, visible au premier coup d’œil.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Rare orange-yellow fish found in New York harbor",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/10/yellow-orange-burbot-otswego-harbor/5541794336875/",
+          "published": "2026-11-10T18:58:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "deer-pumpkin-rescue": {
+      "kind": "micro",
+      "title": "Aux États-Unis, un cerf a été sauvé avec une citrouille en plastique sur la tête",
+      "region": "États-Unis",
+      "summary": "Aux États-Unis, un cerf a été sauvé alors qu’une citrouille en plastique était coincée sur sa tête. UPI rapporte que l’animal est resté ainsi pendant plus de dix jours avant que les sauveteurs ne puissent retirer l’objet. L’histoire est devenue un exemple inhabituel d’aide à la faune sauvage.",
+      "picture": "Un cerf avec une citrouille en plastique sur la tête a l’air perdu et vulnérable. C’est l’image de la manière dont des déchets ordinaires peuvent devenir un piège dangereux pour un animal.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Plastic pumpkin removed from deer's face after 10 days",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/10/deer-plastic-pumpkin-hines-park-westland-michigan/7381794333324/",
+          "published": "2026-11-10T17:58:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "foxes-save-young-swans": {
+      "kind": "micro",
+      "title": "En Australie, les sauveteurs tentent de gérer des renards qui effraient de jeunes cygnes",
+      "region": "Asie",
+      "summary": "En Australie, les sauveteurs tentent de gérer des renards qui attaquent de jeunes cygnes au sud de Perth. ABC indique que les efforts pour protéger les oisillons sur un lac asséché se heurtent à des procédures bureaucratiques. L’histoire soulève la question de la manière dont les retards administratifs entravent le sauvetage des oiseaux.",
+      "picture": "Un renard près d’un cygne et de ses petits illustre le conflit entre un prédateur et une progéniture vulnérable. C’est l’image d’une lutte pour sauver de jeunes oiseaux face à la bureaucratie.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Rescuers wrangling red tape as foxes pick off young swans south of Perth",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-11/swan-rescue-mclarty-lake-mandurah-foxes-taking-cygnets/107374194",
+          "published": "2026-11-11T09:04:29+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      }
+    },
+    "pregnant-heifer-from-mine-shaft": {
+      "kind": "micro",
+      "title": "Une génisse gestante a été sauvée d’un puits de mine grâce à un harnais spécial",
+      "region": "États-Unis",
+      "summary": "En Australie-Méridionale, une génisse gestante a été sauvée d’un puits de mine à l’aide d’un harnais spécialement conçu. ABC écrit que l’animal est tombé de trois mètres et a été remonté avec succès. C’est un rare exemple d’opération de sauvetage réussie pour un gros bovin.",
+      "picture": "Une génisse est hissée par un harnais de secours. C’est l’image d’une opération minutieuse et techniquement complexe, qui s’est terminée sans encombre.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Pregnant heifer rescued from mine shaft with purpose-built harness",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-11/pregnant-cow-escapes-unharmed-after-mine-shaft-fall-sa/107372472",
+          "published": "2026-11-11T07:30:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    }
+  }
+}

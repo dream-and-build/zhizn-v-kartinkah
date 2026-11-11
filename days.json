@@ -1,5 +1,254 @@
 [
   {
+    "key": "2026-11-11-1",
+    "date": "2026-11-11",
+    "image": "img/2026-11-11-1.jpg",
+    "aspect": 1.7778,
+    "people": 8325489108,
+    "spots": [
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.25,
+        "y": 0.464,
+        "r": 0.202
+      },
+      {
+        "id": "us-midterms",
+        "x": 0.167,
+        "y": 0.69,
+        "r": 0.21
+      },
+      {
+        "id": "us-iran-confrontation",
+        "x": 0.75,
+        "y": 0.464,
+        "r": 0.202
+      },
+      {
+        "id": "spain-europe-security-drone-warnings",
+        "x": 0.5,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "abu-dhabi-peace-talks",
+        "x": 0.487,
+        "y": 0.407,
+        "r": 0.221
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.75,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "hugh-jensen-scandal",
+        "x": 0.75,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "israel-election",
+        "x": 0.271,
+        "y": 0.44,
+        "r": 0.156
+      },
+      {
+        "id": "school-bomb-hoaxes",
+        "x": 0.838,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "global-inflation-rates",
+        "x": 0.438,
+        "y": 0.714,
+        "r": 0.202
+      },
+      {
+        "id": "ai-market-selloff",
+        "x": 0.75,
+        "y": 0.679,
+        "r": 0.202
+      },
+      {
+        "id": "spain-housing-strike",
+        "x": 0.25,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "anthropic-ipo-surge",
+        "x": 0.625,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-winter-crisis",
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.25,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "coreweave-ai-relief",
+        "x": 0.438,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "germany-clears-tesla-assisted-driving",
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "finland-white-tailed-eagle-comeback",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "fashion-exhibition-prada-milan",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "muslim-panto-lion-sheikh",
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "singapore-single-buyer-buzz",
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "ancient-script-soft-power",
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "new-anime-awards",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "foxes-save-young-swans",
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "last-ebola-patient-in-kenya-released",
+        "x": 0.812,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "women-in-africa-youth-olympics",
+        "x": 0.625,
+        "y": 0.929,
+        "r": 0.151
+      },
+      {
+        "id": "pope-in-argentina-huge-crowd",
+        "x": 0.396,
+        "y": 0.917,
+        "r": 0.156
+      },
+      {
+        "id": "coachella-2027-headliners",
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "toyota-mini-truck-us",
+        "x": 0.062,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "rare-orange-yellow-fish",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "deer-pumpkin-rescue",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "pregnant-heifer-from-mine-shaft",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "android-uptime-record",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "space-robot-builds-structure",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "uranus-magnetic-field-clue",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "exoplanet-disappeared-reason",
+        "x": 0.062,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "lunar-dust-lego-blocks",
+        "x": 0.062,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "purple-bacteria-waste-to-supplements",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "whale-shark-routing-study",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "mystery-red-dots-explained",
+        "x": 0.5,
+        "y": 0.036,
+        "r": 0.125
+      }
+    ]
+  },
+  {
     "key": "2026-11-10-1",
     "date": "2026-11-10",
     "image": "img/2026-11-10-1.jpg",
