@@ -1,5 +1,248 @@
 [
   {
+    "key": "2026-11-12-1",
+    "date": "2026-11-12",
+    "image": "img/2026-11-12-1.jpg",
+    "aspect": 1.7778,
+    "people": 8325677783,
+    "spots": [
+      {
+        "id": "global-inflation-rates",
+        "x": 0.463,
+        "y": 0.864,
+        "r": 0.221
+      },
+      {
+        "id": "us-midterms",
+        "x": 0.188,
+        "y": 0.786,
+        "r": 0.202
+      },
+      {
+        "id": "taiwan-china-tension",
+        "x": 0.738,
+        "y": 0.407,
+        "r": 0.221
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.625,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.287,
+        "y": 0.579,
+        "r": 0.221
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.375,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-winter-crisis",
+        "x": 0.479,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "spain-housing-strike",
+        "x": 0.396,
+        "y": 0.393,
+        "r": 0.3
+      },
+      {
+        "id": "brooklyn-building-collapse",
+        "x": 0.5,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "indonesia-vp-resignation",
+        "x": 0.771,
+        "y": 0.583,
+        "r": 0.156
+      },
+      {
+        "id": "school-bomb-hoaxes",
+        "x": 0.812,
+        "y": 0.25,
+        "r": 0.188
+      },
+      {
+        "id": "pope-peru-homecoming",
+        "x": 0.212,
+        "y": 0.45,
+        "r": 0.275
+      },
+      {
+        "id": "gaza-hospital-strike",
+        "x": 0.479,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "south-sudan-congo-ebola",
+        "x": 0.583,
+        "y": 0.726,
+        "r": 0.295
+      },
+      {
+        "id": "russia-ukraine-prisoner-swap",
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.125
+      },
+      {
+        "id": "cologne-carnival-start",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "polish-independence-march",
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "coral-restoration-facility",
+        "x": 0.938,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "makkah-debris-falls",
+        "x": 0.938,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "gaza-aid-appeal",
+        "x": 0.896,
+        "y": 0.702,
+        "r": 0.156
+      },
+      {
+        "id": "germany-history-award-bearers",
+        "x": 0.812,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "bears-return-ohio",
+        "x": 0.75,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "moose-icy-driveway",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "horses-on-bus-detroit",
+        "x": 0.25,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "peanut-squirrel-owner-detained",
+        "x": 0.062,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "emu-capture",
+        "x": 0.125,
+        "y": 0.679,
+        "r": 0.125
+      },
+      {
+        "id": "dog-tags-for-veterans",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "pope-leo-peru-homecoming",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "artificial-reef-ship-sinks",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "asteroid-close-inspection-hera",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "northern-taurid-meteor-shower",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "gemini-12-anniversary",
+        "x": 0.125,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "bright-yellow-fish-discovery",
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "rare-rhino-birth",
+        "x": 0.188,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "nasa-mars-sample-push",
+        "x": 0.312,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "fast-radio-bursts-heard",
+        "x": 0.5,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "glass-atom-thin-discovery",
+        "x": 0.688,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "dragon-ball-mollusk",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "gulf-climate-hosts-and-decor",
+        "x": 0.812,
+        "y": 0.107,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-11-1",
     "date": "2026-11-11",
     "image": "img/2026-11-11-1.jpg",
