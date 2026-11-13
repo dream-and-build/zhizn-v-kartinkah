@@ -1,0 +1,1796 @@
+{
+  "key": "2026-11-13-1",
+  "date": "2026-11-13",
+  "image": "img/2026-11-13-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "nvidia-spy-probe": {
+      "kind": "major",
+      "title": "Jensen Huang ha lasciato Nvidia sullo sfondo di uno scandalo di spionaggio e personale che mina la fiducia nell’azienda e nel mercato dell’IA",
+      "region": "Mondo / crypto",
+      "summary": "Secondo una raccolta di articoli, Jensen Huang ha lasciato Nvidia nel mezzo di uno scandalo legato alla sua vita privata e a sospetti di collegamenti con lo spionaggio. Reuters scrive che la sua uscita e l’attenzione crescente degli Stati Uniti mettono a rischio progetti in Cina per 3 miliardi di dollari legati a Nvidia, mentre altre testate riferiscono della preoccupazione degli investitori e del fatto che in azienda si stiano già valutando possibili successori. Financial Times e AFP sottolineano che, in questo contesto, in Cina sono cresciuti i timori per nuove restrizioni sulle forniture di chip, mentre negli Stati Uniti Huang e il segretario al Commercio Lutnick sono stati convocati per testimoniare al Senato. Nei materiali emerge però una discrepanza: alcuni parlano delle sue dimissioni, altri di un “ousted CEO” e dello scandalo intorno ai suoi legami con una donna sospettata di spionaggio per la Cina.",
+      "picture": "Nel dipinto compare una corona spezzata fatta di chip, avvolta da cavi e ragnatele, accanto a una figura con la maschera da spia e a documenti contrattuali sparsi. L’immagine rende il crollo del potere e della fiducia, oltre al legame tra successo tecnologico, intrighi segreti e denaro.",
+      "mentions": 100,
+      "significance": 97,
+      "velocity": 62,
+      "domain_count": 45,
+      "articles": [
+        {
+          "title": "NDTV: три выходца из Индии рассматриваются на пост главы Nvidia",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28315099",
+          "published": "2026-11-13T09:55:29+00:00"
+        },
+        {
+          "title": "Megaspeed: Gaming company to chips linchpin",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/megaspeed-gaming-company-to-chips-linchpin/article71697385.ece",
+          "published": "2026-11-13T09:52:44+00:00"
+        },
+        {
+          "title": "Trump's reliance on ousted Nvidia CEO in question ahead of China trip",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6038941/trumps-reliance-on-ousted-nvidia-ceo-in-question-ahead-of-china-trip",
+          "published": "2026-11-13T09:43:21+00:00"
+        },
+        {
+          "title": "Jensen Huang: ‘I’m a piece of shit.’ - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LdTg3ZjFzNjhweVRmVFNsRW1XNUtDM2JJSG5fTWU3MUxkMEJLNFdBN2VfbGhicWZ5ZTB3LUxZTDR3eDZ2MHB2bkhJem92dVk0b3k2OGhvWG9hX01HZ2Q5dWFZOE1mWVc2NktpaWczWkVqa0pvT18wZg?oc=5",
+          "published": "2026-11-13T09:23:40+00:00"
+        },
+        {
+          "title": "EXCLUSIVE Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+          "published": "2026-11-13T09:20:06+00:00"
+        },
+        {
+          "title": "Chicago Bears Win Despite Historic Mess Against Tampa Bay - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRERjcEwtZ3paVllCVmlIcVRkeW9fVE11dl91VXVrVkViYl9VbUZzRmlQRm1LeVRVZC1LbVJaSl82aUQwNXZ5andWQ2pyc3NxWm9wdzY1dVNkc1JIVy10MDFvd1lYUURGU3luRTZmNDhpM05HSEp4a1RFN19Cclo5aDI5SDV1c2Y5aU13?oc=5",
+          "published": "2026-11-13T09:15:56+00:00"
+        },
+        {
+          "title": "Silicon Valley insiders nervously eye Nvidia scandal fallout - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM1c0SzlPRE9FdFVpMFFtcDl2SGZmMnR3a1l4dTJnVnZLTk02NzdxNHA1TXczVGQtV1N4WnVqRDM0UFdCdjlWOW1WSGdYRW5FVThnTm5jcUwteUtRRF8xSDRSREo4VkJoMHliZzYzdWsybkxUUS1yZUJqQXNQNnRMWEZYWlJuUlUxMl9R?oc=5",
+          "published": "2026-11-13T09:09:22+00:00"
+        },
+        {
+          "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+          "published": "2026-11-13T09:07:28+00:00"
+        },
+        {
+          "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHRJRmZaWDY1TDNwelllbWd6OUZiV1NzaEllNG9aekhVYVVGWWhOREZuczlHQzJEZXFoeUotM2wwOW5ZTEJTOWlkb2JqSV82U2hmU01GeVhzYVlmZDZVYVFMZFo4UTNBenhOa0N4ejd0bkczZ0Nsa0I5YThHbk9iVGFkWlHSAYoBQVVfeXFMTlpCeWpuYTJhM2NHaUxJc2dkRlVSQUZ4TWxuUjh1QU1NOFE0WjJ2QUVlc0E1VWhjLUZZeGJGdEw1emRmWHM1aUNXSDdjWGRXMUhGLXJXMEpqaWlZSjUzTmY3b3lVTWhSTENiV0M0WjNZeGJTREpab09JczdLejZRTzh3SGNZWGxGVUZB?oc=5",
+          "published": "2026-11-13T09:06:38+00:00"
+        },
+        {
+          "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/tech-tries-to-soldier-on-without-huang-3-minutes-mliv-video",
+          "published": "2026-11-13T08:55:57+00:00"
+        },
+        {
+          "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+          "published": "2026-11-13T08:49:59+00:00"
+        },
+        {
+          "title": "Nvidia : l’ancien PDG de Nvidia et le secrétaire au commerce invités à témoigner au Sénat américain",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html",
+          "published": "2026-11-13T08:49:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.179,
+        "r": 0.239
+      }
+    },
+    "ukraine-peace-framework": {
+      "kind": "major",
+      "title": "Stati Uniti, Russia e Ucraina si muovono verso un nuovo round di colloqui con l’Europa, ma senza svolte",
+      "region": "Ucraina",
+      "summary": "Stati Uniti, Russia e Ucraina, secondo la stampa, stanno preparando un nuovo round di colloqui al quale potrebbero partecipare i Paesi europei. NYT, Euronews ed El País scrivono che a Mosca Witkoff e Kushner hanno chiesto a Putin di accettare la partecipazione europea, mentre Zelensky ha detto a Dublino che gli europei si uniranno al prossimo round. La Russia, però, non lo ha ancora confermato, e le testate sottolineano che non c’è alcuna svolta e che le richieste territoriali di Mosca restano il principale ostacolo. L’Europa cerca al tempo stesso un posto al tavolo negoziale, ma non presenta una posizione unitaria.",
+      "picture": "Nel disegno uno scudo-mappa spezzato è collegato da un nastro sottile; accanto si trovano documenti negoziali, un re degli scacchi e due lance puntate l’una verso l’altra. È il simbolo di un tentativo fragile di unire le parti e di una pace instabile, sorretta da un filo sottile.",
+      "mentions": 92,
+      "significance": 96,
+      "velocity": 69,
+      "domain_count": 40,
+      "articles": [
+        {
+          "title": "Фигуранты дела о бракованных бронежилетах ВСУ покупали недвижимость во Франции",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28315085",
+          "published": "2026-11-13T09:54:22+00:00"
+        },
+        {
+          "title": "Trump confronts dwindling options to end conflict with Iran",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6038881/trump-confronts-dwindling-options-to-end-conflict-with-iran",
+          "published": "2026-11-13T09:43:48+00:00"
+        },
+        {
+          "title": "Як скоротити відстань між вимогами ЄС і українською євроінтеграційною реальністю",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/columns/2026/11/13/8062579/",
+          "published": "2026-11-13T09:30:00+00:00"
+        },
+        {
+          "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
+          "published": "2026-11-13T09:26:32+00:00"
+        },
+        {
+          "title": "El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
+          "published": "2026-11-13T09:10:20+00:00"
+        },
+        {
+          "title": "Asean faces Myanmar dilemma as some members pursue closer ties",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044277/asean-faces-myanmar-dilemma-as-some-members-pursue-closer-ties",
+          "published": "2026-11-13T08:41:14+00:00"
+        },
+        {
+          "title": "Durban port crisis: Ford and Toyota supplier crashes after warning of force majeure - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUpQdDFvUENiSTg1TTdYMFRfazZTTWZWNHdScURsRExnWFZZZGYwOW4yTEpsLVJjODRpV0d5al9ha0ZRODJRUUxVMGVmNy1zWHJLUEc1b0tGSjBLX2Q2N1FFVWFUUFEweVVIZ2tKSUhNNWJTQkh4cWx4X25OOUNQQk5vLTVYR08zckhMNEt5Z0xtSlpQTzBpNm5yUlpjTnZoMmJNNjA3dDlBM0hiTW9XNVVzRlBOTDJlcW1QbVpsbUptX1JkX3Q3VUFZVkYxYldxRUpxaQ?oc=5",
+          "published": "2026-11-13T08:30:13+00:00"
+        },
+        {
+          "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+          "published": "2026-11-13T07:58:38+00:00"
+        },
+        {
+          "title": "US pushes for European presence at Ukraine-Russia talks, which Moscow refuses to confirm",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks",
+          "published": "2026-11-13T07:41:27+00:00"
+        },
+        {
+          "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/europe-pushes-for-seat-at-ukraine-peace-talks-but-lacks-unified-voice/article71696911.ece",
+          "published": "2026-11-13T07:41:12+00:00"
+        },
+        {
+          "title": "Passenger van plunges into river in northern Pakistan, killing 11 people - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVUJFNHhDWDdQaHlpQlQtdVFlZDZUZFc2TERSQk9aVEdtQzRWNUpIeXdVUFRBNUREeGJWV3NhSl8xQ1FJSXRGemM0X3FFaHo5YzcyTE5XaVRXaGJEbGt2MjFZZFRQQXNsaTJEZkNXMFhhX25aT090WXowMXlkRjc5TFFzc2M5YV9oNkZxUW1OeU5kdVI3MU01OExQTnZsN2w5NHlQOHBmOF94SC1PeGhvaUtqNmxYSlh3MFphT0pQSkYzMjZwNlZMRmwyTGU3SmVBWGFIS1o4MEw?oc=5",
+          "published": "2026-11-13T07:34:00+00:00"
+        },
+        {
+          "title": "Europe pushes for seat at Ukraine peace talks‌ but lacks unified voice - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjl3VUUwZnpqWVI3cEE5eEVMZlhzZmwyX3dZMy1oWXU1YjRidlVQa3NoMzhlSVdMbEJCazdBb2NFTFZ4Y2ZDVXZsbzFTTmxMR2E5MG5ndDQtZW5pUHRIRE9uQmQ2VmtCNjZRbWlSTFduYmhWcmNiNjRPRXY3R3ljd2hJQVFKNTJ1eHpFMUxfMkJ5WkJ1dkRQWDJHa3c?oc=5",
+          "published": "2026-11-13T07:19:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.393,
+        "r": 0.202
+      }
+    },
+    "taiwan-china-tension": {
+      "kind": "major",
+      "title": "La Cina intensifica la pressione su Taiwan con nuove manovre improvvise e segnali di intimidazione",
+      "region": "Asia",
+      "summary": "La Cina ha condotto esercitazioni non annunciate nell’Oceano Pacifico, che i funzionari taiwanesi hanno definito un atto di “intimidazione silenziosa”. Reuters e The Hindu scrivono che all’inizio del mese nella regione si erano radunate più di 100 navi militari e della guardia costiera cinesi, e che le manovre rappresentano un altro segnale di pressione su Taiwan. Sullo sfondo di queste notizie si discute anche di restrizioni più severe all’export di Nvidia verso la Cina e del loro impatto sul mercato dei chip. Altri materiali della raccolta collegano apertamente il tema al calo dell’immagine di Jensen Huang a Taiwan.",
+      "picture": "Nel dipinto un’isola di porcellana spezzata è circondata da gru e radar, mentre dall’alto incombe l’ombra di un drago sui vassoi di chip. L’immagine mostra la vulnerabilità di Taiwan e la pressione della Cina, soprattutto nel settore dei semiconduttori.",
+      "mentions": 72,
+      "significance": 89,
+      "velocity": 43,
+      "domain_count": 28,
+      "articles": [
+        {
+          "title": "China stages unannounced Pacific drills in ‘silent intimidation’ of Taiwan, officials say",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece",
+          "published": "2026-11-13T09:46:55+00:00"
+        },
+        {
+          "title": "IRGC says it destroyed US radar in Bahrain after attack on southern Iran",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
+          "published": "2026-11-13T09:39:16+00:00"
+        },
+        {
+          "title": "Personal data of startup support program participants leaked in cyber attack",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261113008500315",
+          "published": "2026-11-13T09:23:52+00:00"
+        },
+        {
+          "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+          "published": "2026-11-13T09:07:28+00:00"
+        },
+        {
+          "title": "In Taiwan, Jensen Huang's 'flawless' image damaged by affairs - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WSEI4YWhqSVlHRV90bHBHME5uaUI5eHR3ajJTeFNsSlJzNFM1eTFYakRXZnRHLUVMQWZaY1dGbVNnWktfRWd0VUJGZGZkeDBCM2o1c2J3WXFET1haVlBhQ0hPc2txNmRwRWt6c1lXdmd1X3RLaWpNaGxQTWRWdGc?oc=5",
+          "published": "2026-11-13T09:03:37+00:00"
+        },
+        {
+          "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUlzazdYOUVTS2RDeVNVZUw5MnRrampIYjc0d19CczZzX3JnYmhTak5YQ2JpWUFYTlgyT1dndUVsYUZWVzBNQWxfSGtuTHFxMTVscnlGVlgtU2pURkdETlB3NnZjd3RxTmc2WUdacW83NXI1akJFT1E3SkF4SHlpZ3V1VdIBiAFBVV95cUxNd3dzU3pLUjZaT0xrR2RtVTJ3YnZLbWx5LWpDbWhFTF9HbS1PVDU4U3RPeEp0UzNJaWIwLUtNT0JkREtGN1k3azZtVWNGMW5EclZOLWYtMjV4RjJPbmdtc0dSMGJSbTd1T1BNLWVxZDBhX0RhY09BclJObjZpTTZlUEFpdUo3eVhk?oc=5",
+          "published": "2026-11-13T06:16:37+00:00"
+        },
+        {
+          "title": "Thailand bets on local AI as Chinese drones dominate its skies",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/week-asia/economics/article/3374311/thailand-bets-local-ai-chinese-drones-dominate-its-skies",
+          "published": "2026-11-13T06:11:44+00:00"
+        },
+        {
+          "title": "Democratic political group launches new push to shape AI agenda ahead of 2028 - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzVjYVNGRU1NcXRJajlTQXJQRDV5SmQ2bG1iMlVjT0RSNzBmNFR1RDBoWmtuZjJoNDVQNVo0NktRcWZPMDV1MGdwM2RmRDM2ZHIwR2ZzdHdIU2xnRkJvSHRiVEpuNExvMUlIZmhtRk12Zm1lVThhanFMRjNtNEhTbjRVaEdjRzh5SVc1Q1huNEJNMGNZVzI0S1BzcF9mbjVpWWfSAaIBQVVfeXFMTkM1Y2FTRkVNTXF0SWo5U0FyUEQ1eUpkNmxtYjJVY09EUjcwZjRUdUQwaFprbmYyaDQ1UDVaNDZLUXFmTzA1dTBncDNkZkQzNmRyMEdmc3R3SFNsZ0ZCb0h0YlRKbjRMbzFJSGZobUZNdmZtZVU4YWpxTEYzbTRIU240VWhHY0c4eUlXNUNYbjRCTTBjWVcyNEtQc3BfZm41aVln?oc=5",
+          "published": "2026-11-13T05:01:00+00:00"
+        },
+        {
+          "title": "Quelle banque choisir pour réaliser des virements en devises ?",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/argent/article/2026/11/13/quelle-banque-choisir-pour-realiser-des-virements-en-devises_6809279_1657007.html",
+          "published": "2026-11-13T05:00:35+00:00"
+        },
+        {
+          "title": "Volleyball: BBE Jaguars knocks off defending state champs - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlAyUVRQZWx4ZjBZa29KODhuNHFPR1hLMm9rWHR4TTNJSGRrV0VfaWZKMDJDZWszWnZvQ2xDMFVvU2FkTmhWdGpkUGttTTBvdnptVUduamN6V2FnUXhmUERnbXF4MlM0VFNNeVRnT0NQcmhSb0k1aEZpdjFDaC01QlM0RTM2cEpZRlE?oc=5",
+          "published": "2026-11-13T04:59:00+00:00"
+        },
+        {
+          "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
+          "published": "2026-11-13T04:05:00+00:00"
+        },
+        {
+          "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+          "published": "2026-11-12T23:45:02+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.785,
+        "y": 0.615,
+        "r": 0.285
+      }
+    },
+    "global-outage-microsoft": {
+      "kind": "major",
+      "title": "Un blackout globale di Microsoft ha paralizzato posta e servizi in tutto il mondo",
+      "region": "Mondo / crypto",
+      "summary": "Microsoft sta risolvendo un blackout globale che ha interrotto il funzionamento di Outlook, Teams e di altri servizi in tutto il mondo. BBC, FT, AP e altre testate riferiscono che il disservizio non è legato a un attacco informatico o ad attività malevole, ma l’azienda ha finora ottenuto solo un ripristino parziale. Secondo The Hindu e Al Jazeera, i problemi hanno colpito governi e organizzazioni in decine di Paesi, mentre Microsoft parla di un carico elevato su parte della propria infrastruttura. I tempi per il pieno ripristino restano incerti.",
+      "picture": "Nel disegno compaiono una busta gigante incrinata e ingranaggi di nuvole, attorno a schermi d’ufficio spenti e cavi di rete aggrovigliati. È l’immagine di un’infrastruttura digitale guasta, che manda in tilt i servizi di lavoro più abituali.",
+      "mentions": 70,
+      "significance": 90,
+      "velocity": 86,
+      "domain_count": 27,
+      "articles": [
+        {
+          "title": "What we know about the global Microsoft outage",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T09:59:20+00:00"
+        },
+        {
+          "title": "Microsoft races to restore services after global outage",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+          "published": "2026-11-13T09:42:01+00:00"
+        },
+        {
+          "title": "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+          "published": "2026-11-13T09:41:23+00:00"
+        },
+        {
+          "title": "Microsoft hit by global outages: What happened and why?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+          "published": "2026-11-13T09:30:55+00:00"
+        },
+        {
+          "title": "Microsoft outage hits companies, governments worldwide as it struggles to fix issue",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/microsoft-outage-hits-companies-governments-worldwide-as-it-struggles-to-fix-issue/",
+          "published": "2026-11-13T09:10:30+00:00"
+        },
+        {
+          "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "published": "2026-11-13T09:08:16+00:00"
+        },
+        {
+          "title": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVhrSmRTdTNmRlhaOFEzNWpMYVpzbXEtR1B3TTFaV01vWlg1UHNOX0lReG04QzBrbEJtQ1l2eERsR3k2c1dYTVdjMDdQMHFkRFd3S0tHRXlKc0xfT252d0lxZEJneW02dWNLS19aaU81MThBaVVkcHhLRUJrZWRWYVM0WHJzbmRoMGc2Sm1lUXo5OHpuYjBQMjluZmUyNWdkQTZpQV9JN05jQmszVlRkTHVaRmg1MmxZUHpPQU5fcVpQcWly?oc=5",
+          "published": "2026-11-13T08:16:00+00:00"
+        },
+        {
+          "title": "Microsoft outage hits companies and governments worldwide as it struggles to restore services - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTkwzTDlPTzE3S0JmU3ZsYjFfMDd6NWxlZWJpa2x6Z1RIU1ZpTl9Wa1pTVlp4STdnZlRiV1l3UlJVYW85cWFGY2J6ZnY3VU1WZVhOUWFEZWwtWDdCWjRGLUU2VXNobTJ3T1RQOHNGUmxWbzBGWjJ2b1JtRWc5SXphMVRCdmUyR2NPcktvZUZpZ0p4bjFUYy1rdWpteHNGWlM1TDNHSUtOcTd5al96cmFMZU5fanE2Y0ljQ1cyWEkxMXNfUl9USjk2dFNqSEtJUl91d3VFOVJneVpRb19RRHc?oc=5",
+          "published": "2026-11-13T07:56:59+00:00"
+        },
+        {
+          "title": "Microsoft outage hits companies and governments worldwide as it struggles to restore services - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
+          "published": "2026-11-13T07:47:00+00:00"
+        },
+        {
+          "title": "Microsoft says 'not aware of any malicious activity' causing Outlook outage",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044258/microsoft-says-not-aware-of-any-malicious-activity-causing-outlook-outage",
+          "published": "2026-11-13T07:44:43+00:00"
+        },
+        {
+          "title": "Microsoft battles mystery traffic surge on servers as outage continues - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTJwWlFqeFV1SlliRFNTQ0hwVV9fMDEwWk0xUUFnN2lrbEhFM3hzRURYNWVnNmZYZmx3dHJVbTRGc2tLb2YtZXhyUW9kd0pqTGNjNjRDX3AybVRKLWdzR045TndxeWFlN1M5RDJYS2c0MWFhYjd5VFEyS2thSTl5Mk40ZXBOTHdpb2MybzlCX0w4M1E5blhCRHM5TUx2bkdEQjAxSzgwSXViY2I1TlRsM2VDU0hHTGpfbTNFdnVB?oc=5",
+          "published": "2026-11-13T07:40:06+00:00"
+        },
+        {
+          "title": "В работе Microsoft произошел глобальный сбой. Последствия затронули OpenAI и Anthropic",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/13/v-rabote-microsoft-proizoshel-globalnyy-sboy-posledstviya-zatronuli-openai-i-anthropic",
+          "published": "2026-11-13T06:56:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.469,
+        "y": 0.491,
+        "r": 0.268
+      }
+    },
+    "microsoft-ai-push": {
+      "kind": "major",
+      "title": "L’Europa ha tenuto il suo primo grande vertice sull’IA, mentre regolatori e aziende discutono sui ritmi della corsa",
+      "region": "Mondo / crypto",
+      "summary": "In Europa si è svolto il primo grande vertice sull’IA, durante il quale i leader dell’UE hanno discusso rischi, regolamentazione e ritmo dello sviluppo tecnologico. Reuters e altre testate scrivono che l’incontro è stato un tentativo di rispondere alle sfide legate alla corsa all’IA e alle sue conseguenze per imprese e governi. Sullo sfondo restano aperte le discussioni su come conciliare innovazione e regole, oltre che su come distribuire i benefici della crescita della produttività. I materiali della raccolta mostrano che il dibattito europeo procede parallelamente alla competizione tecnologica globale.",
+      "picture": "Nel disegno un grande telaio fatto di cavi intreccia libri di legge, microchip e un occhio vigile. L’immagine indica che l’IA viene costruita dalla tecnologia ma anche frenata dalle regole e dall’attenzione della società.",
+      "mentions": 68,
+      "significance": 82,
+      "velocity": 63,
+      "domain_count": 26,
+      "articles": [
+        {
+          "title": "Microsoft hit by global outages: What happened and why?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+          "published": "2026-11-13T09:30:55+00:00"
+        },
+        {
+          "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "published": "2026-11-13T09:08:16+00:00"
+        },
+        {
+          "title": "Watch: How Microsoft services went down around the world",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T07:18:17+00:00"
+        },
+        {
+          "title": "Ryan Reynolds - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wekt4Q09ETk80R3dPU3ZLS1VaZVN5c0VmaTlrNFJFOHdkWHM0QUJQR2E3QUpQS2g2bm1LU1MwZ0pSMkNEd0lIVEZMajhLMXhLbjZ4Q1djQXpMYlRiN0N3?oc=5",
+          "published": "2026-11-13T06:51:09+00:00"
+        },
+        {
+          "title": "EU leaders seek to tackle challenges at first ever AI summit - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5",
+          "published": "2026-11-13T06:06:00+00:00"
+        },
+        {
+          "title": "Democratic political group launches new push to shape AI agenda ahead of 2028 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFcwWkZEbUlrWUJEY3B2ZlBjUnhqci14R2xyV3FXWWFRM1FXTzdWbU1lZm4tcWxYbE1QbEhKRWVIQ0dNVnhHTktnZWdTVFk4T1QtZ2Y2RUJuRDIwaHVCZFhscjhaMEFmeEhTWVRSOEp5NURfZFlTOGpYZ2J6Y1d5NU55bnZ6UjRmTlo3WF9malo?oc=5",
+          "published": "2026-11-13T05:01:00+00:00"
+        },
+        {
+          "title": "Democratic political group launches new push to shape AI agenda ahead of 2028 - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzVjYVNGRU1NcXRJajlTQXJQRDV5SmQ2bG1iMlVjT0RSNzBmNFR1RDBoWmtuZjJoNDVQNVo0NktRcWZPMDV1MGdwM2RmRDM2ZHIwR2ZzdHdIU2xnRkJvSHRiVEpuNExvMUlIZmhtRk12Zm1lVThhanFMRjNtNEhTbjRVaEdjRzh5SVc1Q1huNEJNMGNZVzI0S1BzcF9mbjVpWWfSAaIBQVVfeXFMTkM1Y2FTRkVNTXF0SWo5U0FyUEQ1eUpkNmxtYjJVY09EUjcwZjRUdUQwaFprbmYyaDQ1UDVaNDZLUXFmTzA1dTBncDNkZkQzNmRyMEdmc3R3SFNsZ0ZCb0h0YlRKbjRMbzFJSGZobUZNdmZtZVU4YWpxTEYzbTRIU240VWhHY0c4eUlXNUNYbjRCTTBjWVcyNEtQc3BfZm41aVln?oc=5",
+          "published": "2026-11-13T05:01:00+00:00"
+        },
+        {
+          "title": "'SVU' Stabler makes life-changing proposal to Liv in stunning return. Spoilers! - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEZCdEtEbTBlOTBYUmhYbHVkcWhvMG1pblFZNjFqSVdxRF84dHZSRkVoY1dOcDBoRHQzeVRNSkdqRVdTcVNYY0E3MWlScG9NMWhCYWV2dUxaV2VIazlzNmxCX2wwSXBEaTNWc2NBVWVMdEk5OHpWRHZoZzNKVHZIenV2SWxGaVdidlBYYWFqcVF3OUNadkNCTmU5Y2JEUFJxaUdMNVNLdVp1Si1Bdk9BY1FrQk1VaWhIMTNibVlBYVdkMjNfeG1UaA?oc=5",
+          "published": "2026-11-13T04:39:00+00:00"
+        },
+        {
+          "title": "EU leaders to hold first ever talks on AI in Dublin - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGNuRXNENU0yTjJMVUVoOWRlek1GTG9RbXh0NzJvMm1jaU0xRlJUcUpxZzZZMmh0TmZOaUYwR2lEVXBybGJXWUhBS3dNS2x1MmNueDdRckxhQ0QxUEVKZjQxNjBSQlRmWExsV0ZjQWY1bGNaUjdQd1VNRkVHYzFIdVNrRXN6SEVMdjFENmV4UmRWelNw?oc=5",
+          "published": "2026-11-13T04:15:09+00:00"
+        },
+        {
+          "title": "Trusted online information may help networking skills translate into startup ambitions, survey suggests - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGU3aEktLWlwbzVjZ0IwYU1TeUJtSkdONkRyekhxNGpjdGlCZUpCY3VQejNTRzIwUFRENnVvWHN5N1dLSjRFOV9MVDZGWXRwVktQNm5FZ2MzcUwyWjJ0MzFma3B4Y3FSdEFaaWdNaTFad25LZ2hqdVUtd1BCcmM1UnlVVQ?oc=5",
+          "published": "2026-11-13T02:40:02+00:00"
+        },
+        {
+          "title": "EU leaders to hold first ever talks on AI in Dublin - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV2d1d0ZWWTc1b0RDZDE2YlNrX09FVjJCdS16RG92NDFfRkVGWTMwX3pvb2hjeWhrc3JudUNtSUNuMkw0dXprMGNUdERfWUZENmF5WVM3TUJ2QkV1T080bi1pcTMwUnpzcVBSZk5ocVRnREE?oc=5",
+          "published": "2026-11-13T02:20:01+00:00"
+        },
+        {
+          "title": "AI productivity gains need to be shared — but how? - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmtnUjdhUW03QW5kM0d2bi1IZzJMMTBQM3VIZ2w4UHd3ZkRXLVhUR18tX2VadHJYWnVPRF9sd3NJVlJGVGV4NjZiNVJGVXFMZ3pmdU5ucHJVbmpVMHg3N2NJUnU5eDF2T0h2ajU2NmNKT0ZpanBvZHdfQVQ3M2MyQU5NRmZSSHgzZFFiS2FVVDlKaW1SM3FMdkNYNk1ZZ0VCbk93UHRwczNrUmcxNk9zelhSVjM5d1c4MzdiM0Mzd29abWxhdi1iWjBXNm5kX0U?oc=5",
+          "published": "2026-11-13T01:18:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "gaza-hospital-strike": {
+      "kind": "major",
+      "title": "L’attacco israeliano a un ospedale di Gaza riaccende la catastrofe umanitaria",
+      "region": "Palestina",
+      "summary": "A Gaza, dopo l’attacco israeliano contro un ospedale, la situazione umanitaria è nuovamente peggiorata. AP, Arab News e France24 avevano già riferito di morti nell’ospedale, mentre i nuovi materiali di Al Jazeera e DW scrivono che forti piogge allagano i rifugi, danneggiano i sistemi solari e minacciano l’accesso all’elettricità e alla sanità. Le pubblicazioni parlano anche di migliaia di tende danneggiate e di nuove morti nel contesto della guerra e dello stallo politico. Le testate concordano sul fatto che il sistema sanitario e la situazione umanitaria nella Striscia restano estremamente gravi.",
+      "picture": "Nel disegno un letto d’ospedale rotto si trova accanto a una bacinella d’acqua incrinata, coperte strappate e una cassa di aiuti umanitari spezzata. Questa immagine mostra l’ospedale come simbolo di un sistema di soccorso distrutto, in cui nemmeno il sostegno di base funziona più.",
+      "mentions": 55,
+      "significance": 93,
+      "velocity": 55,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+          "published": "2026-11-13T09:43:30+00:00"
+        },
+        {
+          "title": "Humanitarian situation in Gaza worsens amid political deadlock",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-13T09:30:00+00:00"
+        },
+        {
+          "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
+          "published": "2026-11-13T07:00:00+00:00"
+        },
+        {
+          "title": "Turkiye's President calls genocide in Gaza ‘ecocide’ at UN climate summit",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/turkiyes-president-calls-genocide-in-gaza-ecocide-at-un-climate-summit/article71696637.ece",
+          "published": "2026-11-13T05:41:09+00:00"
+        },
+        {
+          "title": "An Israeli strike on a hospital highlights the devastation to Gaza’s health care system - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGJWRjNmT2tJMTRfcTB3aFlPS3I5djg5bmZoeHo1dDYxWDY3NHRySng0V0R4OU94SWt2VkNMdnotYVVjb1hVS0VWSWo1akNFdEZDMEo2MFFqYVhtSGNJTVlaUlpyYkRSeXJWM2V4QnUyUHZQMUoyUWNxaGZJVExubmthSFhZSG5UVnpTRTJoQW5pdGNHR3lvRzZocC1fQlN5MFJFdmh6RkNJbzNBdElhdVRENFZyeFU2NE5wcDNRUDRDTDU2SnNOelJPNA?oc=5",
+          "published": "2026-11-13T05:07:07+00:00"
+        },
+        {
+          "title": "An Israeli strike on a hospital highlights the devastation to Gaza’s healthcare system - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRoNWNUVU5mZVpLZ2VBVW1DUWxwYnVrX0JFemdmTHR1SFp4ZVFibDE1S1ltZzhQWl9OaUNwZVctTjh2b3IteDBOWldsRVk0MUJ3REY2MWx0MVpKOGEycE9xSjBKT2YyWTZQQ3I2RTc4MmEyMHN2anlUNWN0NFlhZ0hjZHR3aG1ZNDFoX2QxLVhLNHRfTW9uU0k5aWRtb0du?oc=5",
+          "published": "2026-11-13T03:28:00+00:00"
+        },
+        {
+          "title": "UFC 334 video: Josh Hokit chirps at Ciryl Gane during press conference faceoff - MMA Junkie",
+          "domain": "mmajunkie.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2hEWm5XU2VhVEM3d2xPSnB2TktMZG5WQUhxclBSeWxsWThGdDNwVUNXV01yWjlvVWhUMWdUWTdMRkJhajkwczR5cEhWdnYtS2xGRDh2eXhVdGU1MUxEbkRBanNHYTg1S1B6MUd3Nk4tQnQ2VWhtbUFSanpFSzF6dEtPcHZQYS04SGdyWVkyT2RSVXVhNWpkNC12c1ZOcm1VLXNkd3hfX0JZSndkNXZETmR0SUJaSkRyVHU1WVhfbVg2ZXR0dUc4MUNpOHk?oc=5",
+          "published": "2026-11-13T01:21:00+00:00"
+        },
+        {
+          "title": "Where does Kane rank among all-time England greats?",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T22:09:59+00:00"
+        },
+        {
+          "title": "After emotional return, Pope Leo denounces 'machismo' in Peru and demands respect for women - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0pFdHktTW5sX1BqOGFDNjdKU1RlVjNvU3hNaEFlNjhpQ1ZzRnBlSE16OFdkclVObG92UE5WdVM1MUxCVTJkNGJtaFVYaGc4NGFQQm81OE9La3pDQXpqRzJjTXpua2FVUXdza01jX2NLeERSeWNjYzUwaVloZl9SRWdhcjRrcGdtQTJpM0NQRmwyNkZUUHVzOXc0VTdVZXRBVEhHZnR0bUlfTFhNMzhkbkZ2bk5tLVYwNW1ONDJmcjfSAcYBQVVfeXFMT0VnaGdwdXBUZlpYTnVYZHVRT2lKcXd5QUZoSFY5NG40TlFVX1RVcWZmTmR2QW5EdVU4SXZsTk00cDJtY0o5ZHpfQTZtakZqNWw3U3BzNG1rMGN1WDhySGFQeUlsSkJpa1FhZmh5eXVKekpHNUxrcjVwb2ZhVHhFWVgxbVcwVWg4b2lvZkpWbGIzX2ZXbHA1Wkh4Q1V0R25ZbVA3LVRUQ0FlNnhvTE5vaTlpZkRnQ3o3MUdVV1ZOZWN1djY3Z0hB?oc=5",
+          "published": "2026-11-12T22:06:20+00:00"
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
+          "published": "2026-11-12T20:03:55+00:00"
+        },
+        {
+          "title": "‘American Doctor’ Doc Distributor Condemns Gaza Hospital Bombing Death of Dr. Rizk Abu Shaaira - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWRJYkx0NUpDUm40aGZsQ3JYbjREVkxYbVRzMFdSdmJDWXM5LVhyTm5vSkZPemZfRktxV2NYR2pwdXNzOWlsWGJpWUhTZlVieFZMTGhZam5qQjZ6b2ZweGNtWWNqSEgydW9FeF85QmdkVE53VmQyd0FsbHd4QnlLUk83MHJya2hlem5aVWotcGsxQ1BBWk1hTA?oc=5",
+          "published": "2026-11-12T20:00:50+00:00"
+        },
+        {
+          "title": "‘We were still trying to register what had happened’: Eyewitness describes D.C. shooting experience - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONFk5OWh6eVlYQVhhOWE1cEZ0SGszNVMxSnBwc1I1VkVoSVhBU2l0MERISGQtRmExalhLSFdEcEVBcWJDWmJWMTB1LWljc0podllveHZ6bTREOTNuSTBPT1NLQXVhQ0FObU1UU3JLTWh1SElJVU1hUG1LRFRXamt6X0pVV182NXJadDRMX2RLZ2I4eTA1aUNiOU4wZFdJMWljMTJpdFVsLUZtOENSODZ2VEg0MHU4XzNmejF1X0tETjdTZENoMnJ5X3BtRGptQ3hDVURUVlVMenRtOWF2UGJjQ2poZ191WklaNHhMSmU3UVVwY1R5MGxDRVZ1SzhMTDMxQ3EzV3gyUDNIRk56Y255VGJNNnRabEFHZUlOSnIzaHM2QQ?oc=5",
+          "published": "2026-11-12T19:24:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.458,
+        "y": 0.702,
+        "r": 0.23
+      }
+    },
+    "washington-dc-shooting": {
+      "kind": "major",
+      "title": "La sparatoria a Washington vicino alla Casa Bianca ha ucciso una persona e ferito diverse altre",
+      "region": "USA",
+      "summary": "A Washington, vicino alla Casa Bianca, si è verificata una sparatoria in cui una persona è morta e diverse altre sono rimaste ferite. Reuters, AP, USA Today e altre testate riferiscono che il responsabile è stato identificato e poi si è tolto la vita; la polizia collega inoltre il suo movente a una disputa legata alla gestione dell’edificio. Secondo la stampa, le vittime sono state cinque, compreso il morto. Dopo l’incidente, i residenti della città hanno organizzato una veglia in memoria dei feriti.",
+      "picture": "Nel disegno compaiono una pistola rovesciata, un campanello sportivo rotto, uno scudo incrinato e delle tracce sul pavimento. È l’immagine della violenza improvvisa e delle sue conseguenze per le persone e per la sicurezza pubblica.",
+      "mentions": 53,
+      "significance": 84,
+      "velocity": 59,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "Washington residents hold vigil after deadly shooting",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss",
+          "published": "2026-11-13T08:06:44+00:00"
+        },
+        {
+          "title": "What we know about the 4 additional victims shot by deranged DC doctor Matt Lambert - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnNMQVhlY1dTU3B1RGhMWDBvQmlyTjIzRTR6R2pqUmJuaS1uRjZlc1ZHM0p4Z3NLQ3d3WW1MTTNyYVM0ekFWQjBsSXAxekFjb3NBOURrMkRkQWY4Q2xEVnhNWUM4dzUzYWtWNGRlQnVxUEJNbTFxcHp6bTdKSlRUZWpkWmdxS1JKbGFNN2N1TE40RmNsTWU5UDBtV3hIZkl5Q0ZmWWlQS1pLX1UzOFNJUXloNnl6dWJidHlrSTZTWQ?oc=5",
+          "published": "2026-11-13T05:50:00+00:00"
+        },
+        {
+          "title": "D.C. gunman attributed attack to frustrations with building maintenance - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFk3YjF3a3pUaGttVHBHa3hEaEcyRF9sRUpnS1A5UFBPSkJpQXpBUzF2UmJ2dDBJN3dvd3E4RFQwOENJV3E3cHY3Z0xNZ09KeWl3QzJNYkJxT0hmOXlRWnJQUm15andsbEVnb0U2TURWNlNfNFBQWUowVy1UaERibWtXTndHZFFMdlM3VlloRzV0YkNhbnZQaFFHVXlQN1pUY2I4RHotbTZTOW9pN2RLc056SlVNZ2NjM01Ob0VYN2hEb2xaMXVhTnlfdGo?oc=5",
+          "published": "2026-11-13T03:57:00+00:00"
+        },
+        {
+          "title": "Suspect identified in DC shooting that killed 1, injured 4 - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXU5UDAwYllVM2dIekM0R2s3Y2NHb2ppcFQ4VXItbXJmZnJBQnFyd2NEVmUyUFFRRjFWZlQ3bjRubzZkc0ttb2p4NFF1RjlUakNIbkRPOUE3QkRnUjJJNGxMS1ZsOG1qeWQ5MXRBWGRGZVdBTndtS0t1Z1BmSE4tSDFDalBtQXd6THFXZmxPd1VEUFpuWUxrd1JXMlFZSEJOY2xN?oc=5",
+          "published": "2026-11-13T02:30:00+00:00"
+        },
+        {
+          "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+          "published": "2026-11-13T02:11:00+00:00"
+        },
+        {
+          "title": "Doctor identified as gunman behind deadly DC rampage, police say - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pV29jRHY5cmtNaGFqVHFKbW9VSUxPT1VkTjVLVzJKRHUyMm1qWTQ5alhocHozVXdVM2hOSXhhcTFZUllJalZmM0hNeVU?oc=5",
+          "published": "2026-11-13T01:54:00+00:00"
+        },
+        {
+          "title": "News Wrap: 1 killed and 4 injured in D.C. shooting - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFV5TTYxOE4wVkNvMVpRQ2UtRlRPWHdQdFVGamlLWGc1Zlc5ZzBjbUFTVlBJLWwyU2t4T2VZZHBfMHBRekE2SVBzbEE0TzFMem9yQms2aUU3WEZDeWlDQXZXVlR3d2VWcGhZbUZSenRueHliWjdVd3UtMDNudFZuWl9sOHlORGVyV3c?oc=5",
+          "published": "2026-11-12T23:45:02+00:00"
+        },
+        {
+          "title": "Gunman kills one, wounds four in busy Washington, DC, neighborhood - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
+          "published": "2026-11-12T22:30:44+00:00"
+        },
+        {
+          "title": "Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkVBOGhNOEhQRDNFQkQwcDFDYkFLOHJEdGpXenF1VURSM2dkZDR5Sk5KWXNRS3Y0cG82dlN0ZEIxUjgzaWpQRjFuVjNZUEI1M3lpZGlmb0dEdkcyWmRaOVhScVM3akZRVkJISkY1VDloX2w3TTFrU1VKb2lDcFU2ZkdObVFxSHJwcWhIX21rellSTlBEUTNTdkNDczVrUWo3bkZFRUF5U294Znc3UjhZSG9SMzFSeU1wWGFfX085amlacDTSAcgBQVVfeXFMTllSMnEyZGsybmZPNzJybUhzRWlieWVKWXZ0eXBsZVRjRV80S0pxR0VpcmEwOUp0dUtuMXpWUUFfQlBxTXNDRG5PMFpKWFNvWEEwYVMyNXM4czh4MzBER2xkN3RrS3ZzWi1LXzhPLXNUN2Y5bmNyQWZzVHJ3ZFdsSjRaSFNXV2ZhU0tXY01MZ1VvbVpibFBmVG5ubkFfV3Rtd1A4VFk2RElnbkRZRWNXQ05qMG16MkR6aHA3U0ZZbXA2Q0FGbklOcjY?oc=5",
+          "published": "2026-11-12T19:34:29+00:00"
+        },
+        {
+          "title": "“The rules-based international order is breaking down,” Thailand’s Foreign Minister warns",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
+          "published": "2026-11-12T17:30:04+00:00"
+        },
+        {
+          "title": "Washington DC shooting: One dead, four people injured",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/washington-dc-shooting-logan-circle-near-white-house-people-dead-and-several-injured/article71695104.ece",
+          "published": "2026-11-12T17:26:57+00:00"
+        },
+        {
+          "title": "One dead, four wounded in downtown Washington shooting: police chief - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkxoSkcyMnNkSHFvVkctSDA3b1lmaXJfdVYwOENoWlhUV2NfVzRVdmJHSGYxSVREMDBFeXN0VWt3VXBUQjhBSVZDVzh5VFA3YlZlVmY5bWxwa0FaWDNhVk5IUVBjd1VnbUV2MHZwRHhmT1lnakZLMXlfRnQ5b2I2cDJHZ0NhaUR5bDJTYnVHcw?oc=5",
+          "published": "2026-11-12T16:34:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.237,
+        "y": 0.621,
+        "r": 0.221
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "Nello Stretto di Hormuz tornano a bruciare le petroliere dopo esplosioni e attacchi, accrescendo la minaccia per l’energia mondiale",
+      "region": "Medio Oriente",
+      "summary": "Nello Stretto di Hormuz si segnalano di nuovo attacchi contro petroliere e un’esplosione su una nave che trasportava GNL. Reuters e The Hindu scrivono che le autorità iraniane hanno parlato di una petroliera fatta saltare su una mina, oltre che di un nuovo attacco a un radar statunitense in Bahrain. Alla luce di queste notizie, i prezzi del petrolio stanno salendo perché restano i rischi per gli approvvigionamenti dal Medio Oriente. Nel frattempo continuano gli sforzi diplomatici attraverso Qatar e Pakistan, ma Teheran lega qualsiasi negoziato al soddisfacimento delle proprie richieste.",
+      "picture": "Nel disegno due petroliere in fiamme restano strette tra scogli che si avvicinano, mentre intorno cadono gocce di petrolio e si spezzano cime commerciali. È l’immagine di un corridoio pericoloso in cui il trasporto di energia diventa vulnerabile a esplosioni e attacchi.",
+      "mentions": 51,
+      "significance": 91,
+      "velocity": 43,
+      "domain_count": 17,
+      "articles": [
+        {
+          "title": "IRGC says it destroyed US radar in Bahrain after attack on southern Iran",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
+          "published": "2026-11-13T09:39:16+00:00"
+        },
+        {
+          "title": "Oil Prices Rebound as Middle East Supply Risks Persist - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5",
+          "published": "2026-11-13T09:04:49+00:00"
+        },
+        {
+          "title": "Tanker carrying LNG hit mine, suffered explosion in Hormuz: Iran",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece",
+          "published": "2026-11-13T08:01:28+00:00"
+        },
+        {
+          "title": "Rambling Reporter - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtS0hMREFSWmJXNUI1Z196SzN1RkxZd0hGc0lpVlhpU3ZWUHZkdm5QaUFIc3JJdlkxQ3FhQVNuUEo1WDc5ajlLdGJqWkNjckdMZTFfVGJnU0VGeFF5NzlvQ2ZndzI?oc=5",
+          "published": "2026-11-13T07:28:52+00:00"
+        },
+        {
+          "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
+          "published": "2026-11-13T07:00:00+00:00"
+        },
+        {
+          "title": "Fabricated screenshot of news article falsely accuses Nigerian politician of tribalism - AFP Fact Check",
+          "domain": "factcheck.afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52SjZ6UXBuSmk1U0R5YTJRS1ZEZmtSZUw5SFFQZTlDT0cyeU0wa19oR3laaGpwYW42dW5CNjdYejBHNThMWVFXWVR6TGdqWmRfNUh2M1NxRzE?oc=5",
+          "published": "2026-11-13T06:54:29+00:00"
+        },
+        {
+          "title": "Los Angeles, CA Mayor Nonpartisan Runoff Election Election Live Results 2026 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1A3LU02UEMzODJVNUMwNVpGTkxzYjF3VW0xYi1WUlByTHN4ZmhjR0M0QnotWUt4c3ZXWnJ2dHcxVENGWHd3V0pVNEVCZWRMNzJmaUoyREhSUjFiLXQzcGtVbHN5QVhYemZ1ZU5mdUxYeTNteHFPbGVDRXh5UzZnZWJWQUE4RDg?oc=5",
+          "published": "2026-11-13T05:27:16+00:00"
+        },
+        {
+          "title": "Iran’s Guards say they targeted US radar system in Bahrain - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVMtc1ViMUdxTmVPWm16T0pTOGF6b2t1UGhvaGxtdzgydFBza25tT2x1MzhJNHlKSHZpaE1CSy0zcE04ZTNSeXRfUlNIbWxSUzNoUkhTWVNPUmxMRi03WFZlanUyS2g2VDhydGxLb0YxOU03UXl5UVptc0RIYXJXeDlkOXFIcDBzXzRETloyejQwNFI5alFGMXlJdGItRUgxOWphUA?oc=5",
+          "published": "2026-11-13T05:20:07+00:00"
+        },
+        {
+          "title": "Mississippi elects first black senator in nearly 150 years",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss",
+          "published": "2026-11-13T03:21:25+00:00"
+        },
+        {
+          "title": "Driver escapes moments before train slams into tanker truck - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XZXNIbWNOeUlPWTl2elFEckFwU01LMUhlZmsxbjZTMEhhTkRnRGlrRWVmaTVxWDFteE9rS2F6RHNaY0lIblFMM082XzI?oc=5",
+          "published": "2026-11-13T01:41:14+00:00"
+        },
+        {
+          "title": "Global climate policies continue to advance despite setbacks, research finds - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVY4Ml84Y2gyX0dDbVNGazI3VGVxV093SjczRlZpVU1JUXJmVlFpVTZnajJSb250X2hEd2JuUjFONGNCU0NaZjZKVVFsN25TeUlGM2F4T0ZBRXcwM19sUnFwSVhvNThsVm5VMzc0dXVBdE5Ld3c5VFhLZWZzZ2ZmYw?oc=5",
+          "published": "2026-11-13T00:00:01+00:00"
+        },
+        {
+          "title": "Bombshell new memo reveals supercharged El Niño set to smash California: ‘Not normal’ - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ21mQlEyMnVucUhrN2hnaWk2Z3J0WmFMRlJsemhlSUp1YWIxZ1FiREp4N2xsSTdaNlBzMVpNMTRlQ2VCVjNrU0dfSmV2RFY3U0VTYUlBYTZCdjRKcmRSN05pX0U3RXhYdG0tcjR1eUYwNGNaSXVuWnVIbUYzcVE1NDJiUzVSSk90NTNoSG9WZnlZT2J1SWZTaGgyakw?oc=5",
+          "published": "2026-11-12T22:25:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.412,
+        "y": 0.136,
+        "r": 0.221
+      }
+    },
+    "brooklyn-building-collapse": {
+      "kind": "major",
+      "title": "A Brooklyn è crollato un edificio residenziale, i soccorritori continuano a rimuovere le macerie e a cercare persone",
+      "region": "USA",
+      "summary": "A Brooklyn è crollato un edificio residenziale e i soccorritori stanno ancora rimuovendo le macerie. Reuters, AP, Washington Post e altre testate riportano otto morti, tra cui due bambini, e almeno 18 feriti; le ricerche di persone sotto le macerie sono proseguite per tutta la notte. Secondo il New York Post, la possibile causa sarebbero dei lavori di sterro vicino all’edificio, e il sindaco di New York ha ampliato l’inchiesta. Le pubblicazioni descrivono la tragedia come uno degli incidenti di questo tipo più gravi verificatisi in città negli ultimi tempi.",
+      "picture": "Nel dipinto compare una torre di mattoni incrinata sotto la quale sono intrappolate delle mani, mentre accanto c’è una scala di soccorso piegata. L’immagine trasmette il crollo improvviso di un edificio e gli sforzi disperati per salvare le persone sotto le macerie.",
+      "mentions": 48,
+      "significance": 88,
+      "velocity": 33,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "G League Lakers use dominant third quarter to defeat the Suns - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTW5sQ0F2VnNZYVVsc0lESlRrMlY0WTA3NkpjU2VPLTNRbk85b2xCajR5R2g0MzhHbU1UaUNXQjdQNGJjcGo0TUlKdFRYVFBxRTdMbXMyMndVUmdGeEdISU9VVDIzWU5fcGM5aFJUcERvZ1ZWX1JQZVRFNnViQ3RBSEhCTV85UQ?oc=5",
+          "published": "2026-11-13T06:53:00+00:00"
+        },
+        {
+          "title": "Eight dead and at least 18 injured after Brooklyn building collapse - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUVTRWRpd3hCUDJyTVgtU25LNmxyNFE2MlVXcnZNenNscFJLRGU2eTdwQUF0T0hNcDUzd3FUOTJlNzJZNVBubXJwVlc5cGdIUU1NTzUya2ZVWFVKR3Y4ZC04bmtCN0swdEhRYnFSaGoxUkVyZ1JMNmF5TWVPa3AwT3NWdF80dTN6QlBwTXIwbVB0cFU1SzNLVDB6VS16bFhkZExFdDMzczBrdHpLWl9RWDhEcEoyVng1ZEJXWFJOel9idDA?oc=5",
+          "published": "2026-11-13T05:18:00+00:00"
+        },
+        {
+          "title": "What we know about victims of deadly Brooklyn building collapse - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYm5RVDRFNXN5YXlhLW90OW03NUZ2Tm53c19BczBHT29tZmRvc2tSNnNSR0kzbnhHbEVvMm9aOHFuOWFqVURnSG00U0tsTGJ3Ml9wYW52VmMtUVVRRW8tNU1LblpPanBqNmdVQTlpaVFmS0kyNFBSbzNXNm9lZzhubGdKaVRkbXQ1OHJF0gGQAUFVX3lxTFBWNk9oT2paM2pVakk2NGVDLXdPZ2ctX0VNcU51QVBPTTVSTGhxUm1iRlljQkhPV09HeTVQUFVkMkV0TTZmRVBVem91VGczVE5rbjhQb3g4eWVNa1haS0huc3pLRk5ZSmdCN2xZandwQTFlazFpYVJBbjZrRG9ORnhHaXc5QjR4SFNLSnFZRWRkdA?oc=5",
+          "published": "2026-11-13T03:58:33+00:00"
+        },
+        {
+          "title": "Sustainability Issue 2026 - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrRTg3eWxfVTBiazJrQnhQSWNTUWVscUViMm4xa2RNNjlzb0VORUVrUTVFMVAzMklWSVdCVDJ5ZXdhb0lhTlBqOWE2N21IY3o4MDFYa0F0ejVKZVp1Z1Nxd1VlaG9Ld3A3ZEo5emxzSQ?oc=5",
+          "published": "2026-11-13T03:20:14+00:00"
+        },
+        {
+          "title": "Excavation work eyed as potential cause of devastating Brooklyn building collapse that killed 8 - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUFhRZWxyOHRPeVRtZkxSRGt2dzAtOUI2VzdPdTYyQURtZHNCd2UxdTlMOGVWbmtKNWlKamJaVV9JNUNYczNyNWYwTWZwV0NRR1BoSkNiRElBd3NnWXl3TUE4azFqRkxiRUVNaGsxbGFnQU9fLVFpSW1XbDhnMF94U0FXZmY3S01XOUZEbG1FR1hNQTJsWFdfN2U5M2s2UE5oaGlMekFoZGhrQ0M4cDFQeElLRFB2NElLeXZ2cDVEaHY3bHNITTNhTkxvQUdRMDFKelhSTUNFZW83bUdLZXZjSEt0ZC1wUQ?oc=5",
+          "published": "2026-11-13T00:15:00+00:00"
+        },
+        {
+          "title": "Witnesses who watched a Brooklyn building come crashing down felt helpless amid the chaos - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXBYQ0JobDdQREV2TlExUU9YNVRSM1doRk1ORFZNWWE2c005VF9uZGUzLUhQcWlyTThielhaMzB4UzkzREhUcjZ6SktDTzczbURoQjE5WjlnRU9VZjdsdnB3V1RBdUZ3TGtEbmJhZmZXdEJHUTJTNjFINFNDRm1McmJjSHFNMUJURHJJQjZZd2FWUkVGSFgySXdDdw?oc=5",
+          "published": "2026-11-13T00:07:00+00:00"
+        },
+        {
+          "title": "New York building collapse kills 8, including 2 children - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXpJQmoxc215LS01bUw1UTRlWWFVS3FTSEpvc0pHeVJfQjJ4VENZZ1gwY0RoSzZrWFcxSVJJblJXSGFqa211dS1fWDZqRUlJeFRYclNPVG1SSmgtQU5nUUdIc1ZlQlVZYUV6VGVXc3VXQWg3dVZfeG5hVVFfUXdwcjVYMzJ3VFduejdqTFM3RjZRR2M?oc=5",
+          "published": "2026-11-12T23:50:06+00:00"
+        },
+        {
+          "title": "Two children among eight killed in New York building collapse - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW5zVnNVNHk5aUcwSTR5amRxZEx2YUg3TEV5UXRiWFJGMndBZlpVdVA0NGtNclZoaFFSUHFVaFZVVUtsd21MVUQ2Q3NMdWtjSXRzNElDYW1iNHVQOXYtSTYza0lacE9FYVFUY2t2R0dLX29Ranl6LUhRRlV6VlpEY2E4UGVvbTZK?oc=5",
+          "published": "2026-11-12T23:18:11+00:00"
+        },
+        {
+          "title": "New York building collapse kills eight, including two children",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+          "published": "2026-11-12T22:58:23+00:00"
+        },
+        {
+          "title": "New York City building collapse kills 8, mayor expands probe - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDNXZXZfWXd6WXFDRWFCVThnWWRkVldNaFZ4a25wTF9HaW9JV2xNX1oyUzVSaF9JZ2gyM0J1MFhGd0p2UWNYcjdtc1RqaUFwRmxxZXF4ZEhFQmRxV0VQOTg4WFZGR0RydEVJVFNGeV8xUllsdmlSU0V4aDNLNXlVR3Vyb1NvdG1wVzJleFdrSURqOEpFVWdLYzJJZjFRMERKTzhB?oc=5",
+          "published": "2026-11-12T21:13:00+00:00"
+        },
+        {
+          "title": "How a Brooklyn apartment building fell into a construction pit - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzltTjhCWTZKUm04OWZvTHJXb3hIU1A4VWNFYWEtSC1KeHdJbHVfbUJhOWExR1JCdDNIaHBveWh5MFRTelhHbEFXcWYyVFVxWEVvd1F4cmFKZkUwQ3pSMGgwRW5xVTd0RFVaeDQ5Y1VkZlhGMy1WeTdKbWRmSzlNNVBtNEdpdFNFNDRsMmgwREtWSHRNTTdOQk5jX0pfZlZTbEE?oc=5",
+          "published": "2026-11-12T19:31:00+00:00"
+        },
+        {
+          "title": "How online video editing is changing the way people make and share content - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3VaNzFsTHh6Y2VTZ1cyZGdWcGxKYjRzVWt6SmFIV3RMTGVJTGhncF9IODQtQWNXdzNxWEZUTk5LaktLM3l0Z1pjM0NwNFBqWC1ZQ2Y4akI4WUx3c2E3ZHZzLUhCYzl1aEw1eXhPbGQzZ1c2Skl1RDlBM0xIXzZlSQ?oc=5",
+          "published": "2026-11-12T17:55:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.393,
+        "r": 0.202
+      }
+    },
+    "pope-peru-homecoming": {
+      "kind": "major",
+      "title": "Papa Leone XIV è tornato in Perù con grande emozione e ha parlato ancora della protezione delle donne e delle vittime di violenza",
+      "region": "America Latina",
+      "summary": "Papa Leone XIV è tornato in Perù con una visita emozionante e ha pronunciato discorsi sulla protezione delle donne e delle vittime di violenza. The Hindu, AFP, AP e PBS riferiscono che ha parlato contro il “machismo”, esortando a proteggere le donne e a rispettarne la partecipazione alla vita sociale. Il Papa ha anche incontrato le vittime di abusi e ha affermato che la Chiesa deve agire con verità e giustizia, mentre ai vescovi del Perù ha chiesto di sostenere chi ha subito danni. A Lima ha presieduto una veglia di preghiera per i giovani che ha riunito migliaia di partecipanti.",
+      "picture": "Nel disegno un bastone da pellegrino, un cuore in ghirlanda e una piccola colomba sono circondati da mani aperte. È un’immagine di ritorno, pace e cura per chi ha bisogno di protezione e sostegno.",
+      "mentions": 46,
+      "significance": 62,
+      "velocity": 67,
+      "domain_count": 15,
+      "articles": [
+        {
+          "title": "Pope Leo XIV warns on pressures facing modern families",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+          "published": "2026-11-13T09:11:37+00:00"
+        },
+        {
+          "title": "UN nuclear watchdog urges Iran to take ‘steps’ to allow inspectors - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXNMaWU1dUdGYWlyQXVhWDJWUHBiVVB1QkNZelJhVWs5VU4tU1pHVVFCM3dTYllQZHNZbDRmMkxreC1uOGhSRUJwbXloR1lyQUJVR3FCQzA4NnpIWUt4SWp4UkRhWVUyOXdEMC1ZOUs0Qy1RZjhDZDVtSTlEUmhYR3VLQlMzRUhIbElHMG5SRlpEQW5OR1loRXdWcHh0QVFGdVU1LWRR?oc=5",
+          "published": "2026-11-13T08:38:12+00:00"
+        },
+        {
+          "title": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
+          "published": "2026-11-13T08:11:29+00:00"
+        },
+        {
+          "title": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece",
+          "published": "2026-11-13T07:54:05+00:00"
+        },
+        {
+          "title": "Pope in emotional return to 'beloved' Chiclayo - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJN2RBV2x6U0MyM1RBRXczOGFjSmhMY01oSDV2N0FYc2puZ3pCVXdtSjJXakwwTTF3WkZLMHF4OE9aM3QwcFVmMVh0YjViMDBHZS1INzJTODJuWDFBdG9jc2FDSlZidmdxRzZ2bW9B?oc=5",
+          "published": "2026-11-13T07:03:14+00:00"
+        },
+        {
+          "title": "La visite du pape au Pérou ravive l’espoir de justice pour des populations paysannes autochtones qui se disent spoliées",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/la-visite-du-pape-au-perou-ravive-l-espoir-de-justice-pour-des-populations-paysannes-autochtones-qui-se-disent-spoliees_6809287_3210.html",
+          "published": "2026-11-13T06:00:10+00:00"
+        },
+        {
+          "title": "Pope Leo XIV meets abuse victims in Peru, says Church must make 'amends'",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends",
+          "published": "2026-11-13T02:58:33+00:00"
+        },
+        {
+          "title": "Pope Leo calls on followers to \"value women\" and \"respect girls\"",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/pope-leo-calls-followers-value-women-respect-girls/",
+          "published": "2026-11-13T00:35:20+00:00"
+        },
+        {
+          "title": "Víctimas de abuso se reúnen con el papa León XIV en Perú; pide a obispos peruanos actuar con \"verdad y justicia\"",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/victimas-de-abuso-se-reunen-con-el-papa-leon-xiv-en-peru-pide-a-obispos-peruanos-actuar-con-verdad-y-justicia/",
+          "published": "2026-11-13T00:18:32+00:00"
+        },
+        {
+          "title": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261112-peruvian-pope-leo-xiv-comes-home-to-a-country-that-shaped-his-life-and-faith-through-hardship",
+          "published": "2026-11-12T23:33:05+00:00"
+        },
+        {
+          "title": "La historia del papa León XIV en Perú: de misionero entre los pobres a ciudadano ilustre de Chiclayo",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/historia-papa-leon-xiv-peru-misionero-pobres-ciudadano-ilustre-chiclayo_0_uRhcRKQt9o.html",
+          "published": "2026-11-12T23:11:28+00:00"
+        },
+        {
+          "title": "After emotional return, Pope Leo denounces 'machismo' in Peru and demands respect for women - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0pFdHktTW5sX1BqOGFDNjdKU1RlVjNvU3hNaEFlNjhpQ1ZzRnBlSE16OFdkclVObG92UE5WdVM1MUxCVTJkNGJtaFVYaGc4NGFQQm81OE9La3pDQXpqRzJjTXpua2FVUXdza01jX2NLeERSeWNjYzUwaVloZl9SRWdhcjRrcGdtQTJpM0NQRmwyNkZUUHVzOXc0VTdVZXRBVEhHZnR0bUlfTFhNMzhkbkZ2bk5tLVYwNW1ONDJmcjfSAcYBQVVfeXFMT0VnaGdwdXBUZlpYTnVYZHVRT2lKcXd5QUZoSFY5NG40TlFVX1RVcWZmTmR2QW5EdVU4SXZsTk00cDJtY0o5ZHpfQTZtakZqNWw3U3BzNG1rMGN1WDhySGFQeUlsSkJpa1FhZmh5eXVKekpHNUxrcjVwb2ZhVHhFWVgxbVcwVWg4b2lvZkpWbGIzX2ZXbHA1Wkh4Q1V0R25ZbVA3LVRUQ0FlNnhvTE5vaTlpZkRnQ3o3MUdVV1ZOZWN1djY3Z0hB?oc=5",
+          "published": "2026-11-12T22:06:20+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.821,
+        "r": 0.239
+      }
+    },
+    "spain-housing-strike": {
+      "kind": "major",
+      "title": "In Spagna le proteste contro gli affitti e le case troppo care continuano a mettere sotto pressione il governo prima delle elezioni",
+      "region": "Europa",
+      "summary": "In Spagna le proteste contro il caro casa e gli affitti continuano a fare pressione sul governo in vista delle elezioni. Reuters e The Hindu scrivono che il premier Sánchez fatica a mobilitare i sostenitori delusi e che il malcontento per la situazione resta forte. Dopo le manifestazioni di massa, il parlamento ha approvato parte delle misure abitative, incluse restrizioni e tutele per gli inquilini, ma non tutte le proposte sono passate. Le testate concordano sul fatto che il destino di queste decisioni dipenderà dallo scontro politico e dall’esito elettorale.",
+      "picture": "Nel disegno una città è costruita con pile di blocchi di affitto, sopra i quali si trovano cartelli di protesta e una ricevuta dell’affitto. È il simbolo della pressione degli abitanti sul potere e di come la questione abitativa sia diventata politica.",
+      "mentions": 32,
+      "significance": 74,
+      "velocity": 27,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "As election nears, Spain's Sanchez struggles to rally disillusioned left",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/as-election-nears-spains-sanchez-struggles-to-rally-disillusioned-left/article71696797.ece",
+          "published": "2026-11-13T07:38:37+00:00"
+        },
+        {
+          "title": "Trump's key ally, the multiple affairs, and a Chinese spy | Trump 100 - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalVzaE5iMDVnOXdsdnU1TzVxbHdNTzZwWnpwekh1a0REQmpRWHhRWlg0ZURzcWVBV0U1NWJnMXIzZFZRMHh3WVROMmEyWjgyUFpwZU9hZHdTY3FLOWNzZ25WaW00U1Zhb3JFd3ppTi1pX0VMUnVsc2htQm1LMTF0eHNuUDFmVG91N280ZVJHMUVETUg3bWJ0YVBRX1ZTOVhIaVE?oc=5",
+          "published": "2026-11-13T05:26:06+00:00"
+        },
+        {
+          "title": "As election nears, Spain's Sanchez struggles to rally disillusioned left - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEdIdklzemVxYVBScFNuVEVObkNwNFc3NlpDeWFNUDZuYVc0anZEOWFHUFJDRWxSenRjLUdxalJyWXJmZFBDUzdHZmdvQUdoQmVrMEU1WWJGQUhZR0ZLMHZpc1Q0R2FSam43LWhybHBlUFBrY3RETW1vWDJtMkd5RURGWE9kX2Vpckw1QnkxMHFZZm5STWJoWUMzTm1PSFdzQkVSU3JMdjdFdw?oc=5",
+          "published": "2026-11-13T05:03:00+00:00"
+        },
+        {
+          "title": "Parlamento da Espanha aprova 'decreto Maricarmen', que dificulta despejos, em meio à corrida eleitoral",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/parlamento-da-espanha-aprova-decreto-maricarmen-que-dificulta-despejos-em-meio-a-corrida-eleitoral.shtml",
+          "published": "2026-11-12T21:41:00+00:00"
+        },
+        {
+          "title": "España: un día después de la huelga general por la vivienda, Sánchez logró aprobar uno de sus decretos con mejoras para inquilinos",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/espana-dia-despues-huelga-general-vivienda-sanchez-logro-aprobar-decretos-mejoras-inquilinos_0_Ye9SnkBaAz.html",
+          "published": "2026-11-12T19:34:00+00:00"
+        },
+        {
+          "title": "Spain rocked by violent protests over rising cost of living - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xTnIxaTFia3BuYy05SlFrU0xNNEFlNXdfZE1uVUF1eExvQkdDR1pzOFpVOFQyWG8yNXh6OXRQZ1VBRGZneG1wY2c0MDg1Zzd2OFVMTDFn?oc=5",
+          "published": "2026-11-12T15:34:27+00:00"
+        },
+        {
+          "title": "Четыре миллиона жителей Испании вышли на общенациональную забастовку из-за резкого роста арендной платы. На следующий день парламент с перевесом в один голос одобрил жилищный декрет, принятия которого",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/12/parlament-ispanii-s-perevesom-v-odin-golos-odobril-zhilischnyy-zakon-stavshiy-prichinoy-massovyh-protestov",
+          "published": "2026-11-12T15:07:43+00:00"
+        },
+        {
+          "title": "Spain approves housing measures after huge protests. Their duration may depend on election result - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVJabHpwZTFJUkM5NFZZTVVGT1BfM3NUX2x6YkhFVUtSSnVodlptZ2luMWtEVzhlbmlSWHd0THFaSktsOWdhbk10YzRESEpETDRFemFwLXluazVCTjBJeU1Mb2p2Q29ocVd0eEtxVDZtaFVUdE5aM2NoT0JrbUcyWm14dlF3bEZUMXRhRWVxLVJrNFpUZEd2OWFFdG1qTHRPa2swTG96ektlNG93LXR1QkU0cWLSAboBQVVfeXFMUEVtSUJOOU5wRExrNUhwUVlzeHFnQjRZdFJYcGU4amlJNUZtcHJucHRZX1dzU3V0S0JZNG5BZVFlekFISC11Ml9UeHRfNEtTTld0cGM1QWxIMER5ejBkYVZLeGZwUnlFemcxTkhLVGIzd3RMWVlldmZ2aFZ2bFVvMElPdFRBQWl5RGtpUG1hY0U2ZWJnTnFDeUlocFMyTlFlalZscm41N2lJcXBDUVdvaEctajlNZVNXeTNR?oc=5",
+          "published": "2026-11-12T14:52:55+00:00"
+        },
+        {
+          "title": "Spain approves housing measures after huge protests. Their duration may depend on election result - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXBKWGJabnpPdWxiMlVyeVJmOVB6OGpsX0RNeXVmeEhwRzhnLW1SeXRMZ0h5ZG1TWE9nYXNfZDVfcmxyRl9KZlpsSklrRzhSYnEtaWI1SURoRjFvZzBSeUNqeFpsaGgybjc3amdXUm9YeVVQTGl4T1dVdF9sMV85TlpfLUJ6MUc5cjFhSnBtRi1kVE1qaElUbC1rVVZHaWN4eEhKVldBZUs?oc=5",
+          "published": "2026-11-12T12:47:00+00:00"
+        },
+        {
+          "title": "Spain approves one of housing decrees that triggered snap election - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNTRleFlxc0FVMWNJUXhYenhBc1ZWcFlPVV9iQXROcTBzaDhGdmp6eHhGMlRmQ3hkdE0ybHJHZ2g5OHg5S3dCXzNGeFhhUU9QSFRQWGIwTjRWM1FIb25QWGVTREF5NklHTXhPSkhCYW5iZXFnR2hFZ19fNFE3YlVob0hzMG9JTm5CS2VDNENObjlwS1pNYU9NdGNqQjkwWmZKelB3MFNiYkw?oc=5",
+          "published": "2026-11-12T13:03:51+00:00"
+        },
+        {
+          "title": "GOP governor and prominent Dems congratulate senator-elect on flipping Mississippi seat blue - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZjQyUnpPQ2dEZlIzZFBLWXN0SG1HX2N2Mm9FZlg2c2NOSDB5NDRQOEZueXc4dWpqRmYxd2VHOHV4cFlWd3pkYk1HT2pJY2VuNENPSXlpTHBudVZaN21qWWFjYjJnX1hhaTRhVjJkWDM1RE9DVkMzVElua1VyaU1LS3IwMmVLYTc0QnFBYjVoYS1rczFRc211di1qd0RWZDdaV3ZJOGR6Q25kdkhKaVlmUi1La2xraWNvT0E?oc=5",
+          "published": "2026-11-12T11:46:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.214,
+        "r": 0.151
+      }
+    },
+    "indonesia-vp-resignation": {
+      "kind": "major",
+      "title": "Il vicepresidente dell’Indonesia si è dimesso in un clima di crisi di legittimità e fratture nella coalizione",
+      "region": "Asia",
+      "summary": "Il vicepresidente indonesiano Gibran Rakabuming Raka si è dimesso nel mezzo di una disputa sul suo diritto a ricoprire la carica e sui suoi documenti accademici. AP, NYT, NPR e altre testate scrivono che in precedenza la Corte costituzionale e quella suprema avevano ritenuto insufficienti i documenti sul suo percorso di studi all’estero per soddisfare i requisiti elettorali. Le sue dimissioni hanno rafforzato le voci sulle crepe nella coalizione di governo e sulla crisi di legittimità. Le pubblicazioni sottolineano anche che Gibran era un simbolo importante dell’alleanza che ha portato al potere il presidente Prabowo Subianto.",
+      "picture": "Nel disegno una poltrona da vicepresidente rovesciata si trova accanto a un diploma strappato e a corde di coalizione che si disgregano. L’immagine mostra la perdita della carica e l’indebolimento dell’alleanza politica.",
+      "mentions": 27,
+      "significance": 68,
+      "velocity": 29,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
+          "published": "2026-11-13T08:41:05+00:00"
+        },
+        {
+          "title": "Indonesia’s vice president resigns as his eligibility and academic credentials are questioned - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5",
+          "published": "2026-11-12T23:49:00+00:00"
+        },
+        {
+          "title": "Indonesia’s Vice President, Gibran, Resigns",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+          "published": "2026-11-12T23:40:14+00:00"
+        },
+        {
+          "title": "Vice da Indonésia renuncia após Justiça questionar formação escolar",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/vice-da-indonesia-renuncia-apos-justica-questionar-formacao-escolar.shtml",
+          "published": "2026-11-12T18:15:00+00:00"
+        },
+        {
+          "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+          "published": "2026-11-12T14:22:50+00:00"
+        },
+        {
+          "title": "Indonesia’s vice president quits as cracks deepen in ruling political alliance - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMm1PMnJBUlFSY3RSU3ZKNVMtY3NhOENxblpxZllTZlhuLW94MUV0ejR0SDdEZXVmMWZ2SzItNmZBTHdxTm5jZTAtbFdYX0FjR3ZqeXl0T0lFOFpFdUlkZnY2b2ZKRXpaeVY2VUtDY3ctYXNzdzdNUkx6elRSTnhHTnc4WHg5bEExMzFHMVh6eDJLbGtQMi1BUEtTRGdFNk9tUWxqcEhoMGxBZkQxUW5pOXFvenRvSUk?oc=5",
+          "published": "2026-11-12T13:00:47+00:00"
+        },
+        {
+          "title": "Indonesia's Vice President resigns as eligibility and academic credentials are questioned",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece",
+          "published": "2026-11-12T10:06:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.646,
+        "y": 0.798,
+        "r": 0.156
+      }
+    },
+    "hollande-finds-jobs": {
+      "kind": "micro",
+      "title": "A Delhi è stata registrata la peggiore qualità dell’aria al mondo",
+      "region": "Asia",
+      "summary": "A Delhi è stata registrata la peggiore qualità dell’aria al mondo: la città ha superato Lahore. Reuters e Dawn riferiscono che il livello di inquinamento ha raggiunto valori pericolosi e che la visibilità è diminuita a causa dello smog che ha coperto la metropoli. Si tratta della capitale dell’India, con una popolazione di circa 20 milioni di abitanti. È l’ennesimo richiamo alla crisi cronica dell’inquinamento atmosferico nella regione.",
+      "picture": "Nel disegno la sagoma dei grattacieli è nascosta da uno spesso smog. L’immagine indica una città in cui l’aria è diventata così pesante da cancellarla quasi alla vista.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Delhi overtakes Lahore as world's most polluted major city as air quality deteriorates",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044265/delhi-overtakes-lahore-as-worlds-most-polluted-major-city-as-air-quality-deteriorates",
+          "published": "2026-11-13T09:55:15+00:00"
+        },
+        {
+          "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
+          "published": "2026-11-13T03:56:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.75,
+        "r": 0.125
+      }
+    },
+    "first-black-senator-mississippi": {
+      "kind": "micro",
+      "title": "Il Mississippi ha eletto il primo senatore afroamericano dai tempi della Ricostruzione",
+      "region": "USA",
+      "summary": "In Mississippi è stato eletto il primo senatore afroamericano dai tempi della Ricostruzione. Le Monde, Washington Post, ABC News e Africanews scrivono che il democratico Scott Colom ha ottenuto una vittoria storica dopo un lungo conteggio dei voti. Secondo le testate, è anche il primo democratico a occupare questo seggio dal 1982. L’evento è considerato una svolta politica importante per uno stato tradizionalmente repubblicano.",
+      "picture": "Nel disegno un politico sorridente tiene in mano un volantino elettorale. È l’immagine di una vittoria storica e del momento in cui gli elettori cambiano un equilibrio politico abituale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Midterms 2026 : au Mississippi, ancien Etat confédéré, l’exploit du démocrate noir Scott Colom, élu sur le fil au Sénat",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/midterms-2026-dans-le-mississippi-victoire-historique-du-democrate-scott-colom-premier-senateur-noir-depuis-plus-d-un-siecle_6809285_3210.html",
+          "published": "2026-11-13T05:45:05+00:00"
+        },
+        {
+          "title": "Mississippians celebrate Democrat Scott Colom’s historic win - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNktUQmI2WE9FdEJ5SFlSME5nOEo5Y3RKODdXM2toWHpvNmRKWUowZGVhVnBSQVJNUmx4OGEzSkV4czB4dTlSYXpaLUxCTGtjUzRSLXdjcENhSzN4Z1U0bHA5V3I1bURrNi00aHhTazZvSlZkSGthbldHS3VjY2VuOVZLeWVhQjRyQmNKZ0c3VFpQSUlEaE9qRm92WkhUcTVuZEVvTWYwREs2aUZnQnpKZlFCMTI0N0VraGFtc0p2Q3U3OWtNMVkxRHh5R0FLTER2VjZjNzlOelFFUllGbkw3XzU5aEFHWVdPZDBUTkNwOVFXM0NMUjdB?oc=5",
+          "published": "2026-11-12T20:48:00+00:00"
+        },
+        {
+          "title": "Democrats flip Senate seat in Mississippi - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NUGF3ak01YnR3NkxNdGtOaXRScEhQN3QwZVIzX3FCUUhGRW5MT05QOHJ4dldvRnlzaDA5WW1oUk91cVB1ck5YV3pqdG0?oc=5",
+          "published": "2026-11-12T16:22:15+00:00"
+        },
+        {
+          "title": "Mississippi elects first Black US Senator since post-Civil War Reconstruction",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/12/mississippi-elects-first-black-us-senator-since-post-civil-war-reconstruction/",
+          "published": "2026-11-12T14:47:53+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "latam-music-night": {
+      "kind": "micro",
+      "title": "Rosalía ha conquistato il premio principale ai Latin Grammy",
+      "region": "America Latina",
+      "summary": "Rosalía ha ricevuto il premio principale ai Latin Grammy: album dell’anno per il suo lavoro Lux. AP, The Hollywood Reporter ed El Universal riferiscono che la sua vittoria ha rappresentato il culmine di una serata molto brillante della cerimonia. In una delle pubblicazioni si segnala anche il successo di Milo J, che a sorpresa ha vinto il premio per la registrazione dell’anno. Le testate concordano sul fatto che la notte sia stata particolarmente favorevole per la musica in lingua spagnola.",
+      "picture": "Nel disegno la cantante tiene in mano una statuetta d’oro a forma di grammofono. È il simbolo di un grande riconoscimento musicale e della vittoria nel principale premio latino.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXROUWxpZzdDQUdnSzV6SlNpY1hIWEotZGZ6cVZlNDByRzUwZ2tJQ3VjdmwwdFRhcVN6Z0FuNlpmOGozajJpNVpZZEVUMEtSeG1KXzVYNFRqTlpDMVRPUVg5bmpqOUdaZm5GV2M5aG5QNzZVczZyMTA3YkxwbkVyU055dmc?oc=5",
+          "published": "2026-11-13T04:47:00+00:00"
+        },
+        {
+          "title": "Rosalía y Milo J conquistan los Latin Grammy; ella se lleva álbum del año y él sorprende con grabación del año",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/espectaculos/rosalia-y-milo-j-conquistan-los-latin-grammy-ella-se-lleva-album-del-ano-y-el-sorprende-con-grabacion-del-ano/",
+          "published": "2026-11-13T04:26:38+00:00"
+        },
+        {
+          "title": "Latin Grammys 2026: Rosalía Wins Album of the Year - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0RlWXMxMGMxLVQ4UllMSHRBSVZzQkZ3ZGFNUzR6N3JDNWJIQ1RPM1N2dUhkeXM0TjlyTjFMTUdCMVdKbUhwS3l4ZnRVZlZRRmZGZzFMUzRoa2lQNnpBcFlwR0pRVlYyeklVSGZfb091ZXJObDI0cjFRS09DSmU2ay1hYkdZYi1CMHlCa0ZZa3dZSEROcE43TWpwVm5IQm5TZ3hBbklfU080YlRWNHZlWkxTX2xndw?oc=5",
+          "published": "2026-11-13T04:25:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "old-saber-auction": {
+      "kind": "micro",
+      "title": "La spada laser di Darth Vader venduta per quasi 5 milioni di dollari",
+      "region": "USA",
+      "summary": "La spada laser di Darth Vader, utilizzata nel duello in «L'Impero colpisce ancora» e «Il ritorno dello Jedi», è stata venduta per quasi 5 milioni di dollari. ABC News, AP e South China Morning Post riferiscono che è stato uno dei pezzi forti dell'asta. Le testate sottolineano che il cimelio è stato usato nella scena cult di «I am your father». La vendita è diventata un evento notevole per collezionisti e appassionati di «Star Wars».",
+      "picture": "Nell'immagine una spada laser rossa è esposta su un supporto, quasi fosse un reperto da museo. L'immagine mostra come un oggetto della storia del cinema si trasformi in una preziosa reliquia per i collezionisti.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Darth Vader's light saber used in ‘I am your father’ duel sells for nearly $5 million - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3Z0NzM0WHRlSVMtcXhjN283c05GNW9udE41TFRIWUVpeU94a21pa3N6RUtlNnM4MV84enc4czhxc1I3cGpVRlZjb3ljMFNYcDc1bVo2VWdpUTNYSjdxa290VTlkQXo0UmRwLWk2cGNYNVV6U0RDZU12b2p2VTMyM0hsLVNQVU9WV2FaNUlPcWZVeTNidE9vR9IBngFBVV95cUxQNFYyZHhQRFVJQ0RDLU1DSDVhRTh2YzdkSXlRX2JGZnZRaDczYXpFcGlhSmlnNVNVOUw1VzA2d3Z1a2FEeG9uSFBGdm1VVVk3a29BbXEzQ2pLVmxvUUFMc2lxM1pKOVRhRU1IVEFRNnJSUHhnVzFnWE9mXzhZYUZxcW5ZSnU2TXdqWm9fNGlLWmRwM0dseURXOFVHeEdEZw?oc=5",
+          "published": "2026-11-13T03:53:01+00:00"
+        },
+        {
+          "title": "Darth Vader’s light saber used in ‘I am your father’ duel sells for nearly $5 million - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGkxeDB2SFY3SEtVc2hLa3pKWWJBbHRvVzNFb2FhME5Fb1RjT2dySkhDWWlyMUNKc2tTS25mcGxCX2NCaUdvWjhnVlV6QWlieGVKSjMtSGhQMW1zeG4tVi1FLTNLUjNLVXVySmlBNXliczhoaFJmMWxfbDdTS3ZXRWI5MVcxTjlOcjBock04T3NPamg0TXoxcTJULUg?oc=5",
+          "published": "2026-11-13T01:42:00+00:00"
+        },
+        {
+          "title": "Darth Vader lightsaber from iconic duel sells for nearly US$5 million",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3374272/darth-vaders-lightsaber-used-i-am-your-father-duel-sells-nearly-us5-million",
+          "published": "2026-11-12T23:32:29+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "darth-vader-saber-sale": {
+      "kind": "micro",
+      "title": "La spada laser di «Star Wars» venduta all'asta per una cifra record",
+      "region": "USA",
+      "summary": "La spada laser di Darth Vader, usata nel duello con la frase «I am your father», è stata venduta all'asta per quasi 5 milioni di dollari. Lo riferiscono ABC News, AP News e South China Morning Post; tutte indicano che si tratta del cimelio proveniente dai film «L'Impero colpisce ancora» e «Il ritorno dello Jedi». La somma è stata definita record per questo tipo di oggetto.",
+      "picture": "Nell'immagine si vede una spada laser rossa luminosa su un supporto. Un'immagine del genere richiama il cimelio cult di Darth Vader e ne sottolinea il valore museale e collezionistico.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Darth Vader's light saber used in ‘I am your father’ duel sells for nearly $5 million - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3Z0NzM0WHRlSVMtcXhjN283c05GNW9udE41TFRIWUVpeU94a21pa3N6RUtlNnM4MV84enc4czhxc1I3cGpVRlZjb3ljMFNYcDc1bVo2VWdpUTNYSjdxa290VTlkQXo0UmRwLWk2cGNYNVV6U0RDZU12b2p2VTMyM0hsLVNQVU9WV2FaNUlPcWZVeTNidE9vR9IBngFBVV95cUxQNFYyZHhQRFVJQ0RDLU1DSDVhRTh2YzdkSXlRX2JGZnZRaDczYXpFcGlhSmlnNVNVOUw1VzA2d3Z1a2FEeG9uSFBGdm1VVVk3a29BbXEzQ2pLVmxvUUFMc2lxM1pKOVRhRU1IVEFRNnJSUHhnVzFnWE9mXzhZYUZxcW5ZSnU2TXdqWm9fNGlLWmRwM0dseURXOFVHeEdEZw?oc=5",
+          "published": "2026-11-13T03:53:01+00:00"
+        },
+        {
+          "title": "Darth Vader’s light saber used in ‘I am your father’ duel sells for nearly $5 million - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGkxeDB2SFY3SEtVc2hLa3pKWWJBbHRvVzNFb2FhME5Fb1RjT2dySkhDWWlyMUNKc2tTS25mcGxCX2NCaUdvWjhnVlV6QWlieGVKSjMtSGhQMW1zeG4tVi1FLTNLUjNLVXVySmlBNXliczhoaFJmMWxfbDdTS3ZXRWI5MVcxTjlOcjBock04T3NPamg0TXoxcTJULUg?oc=5",
+          "published": "2026-11-13T01:42:00+00:00"
+        },
+        {
+          "title": "Darth Vader lightsaber from iconic duel sells for nearly US$5 million",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/europe/article/3374272/darth-vaders-lightsaber-used-i-am-your-father-duel-sells-nearly-us5-million",
+          "published": "2026-11-12T23:32:29+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "ss-united-states-reef": {
+      "kind": "micro",
+      "title": "Il leggendario transatlantico SS United States è affondato e diventerà una barriera corallina",
+      "region": "USA",
+      "summary": "Il leggendario transatlantico SS United States è affondato e diventerà la più grande barriera corallina artificiale del mondo. Washington Post, USA Today, Axios, ABC News e AFP scrivono che la nave è andata a fondo dopo essere rimasta a lungo ormeggiata a Philadelphia. Nelle pubblicazioni si osserva che presto i sub inizieranno a immergersi vicino ad essa. La storia della nave si è conclusa con la trasformazione in un sito sommerso per la vita marina.",
+      "picture": "Nell'immagine un transatlantico è parzialmente sommerso accanto a una barriera corallina. È l'immagine della fine di un'epoca e di un nuovo inizio per la nave come parte dell'ambiente marino.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "The SS United States has sunk. It will become the world’s largest artificial reef. - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOOEFudlpSTXJFLXBxSHZ1UHU5MHdBakhubmhETEdsR1JPT0lsUTNlcW1uWmVxQnVlWC1QVkZqQV9sSzJzOHpORWF3MzhTSEcwamNwWlNXSkI1SVliQmFyVnhuUkhlYW9ZR0JmSHFGa2I2VElGdG0teTEtb2UzbGt1MXNYVWpQeDFsZFlWb3Z0WGpmTWF0c1hYcXg4QnpLTGRLa29UbHFfTkdmTWJHV1M1YmxKd3cyRUdyR2hfbWZDVVptSWxSWmU5dmRwX1dVX2t1MkV3Z1Z3cllsSzdVTDhweTVwLXVFVnM3OFV4UktEODdnenlKNkJNazJWWlNqd0J5LVNwaFlyWTAtZGdsVzBybFJtT3gwUUd0Y0VaTTZRc2I?oc=5",
+          "published": "2026-11-12T20:34:00+00:00"
+        },
+        {
+          "title": "SS United States is on the seafloor. Eager scuba divers will follow. - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFhQOUZYc1NhQ2Z0eGdMeHhGcWRvX1Y1MHVmYjd4WTA1N2VWUjRtM2xBVDQtSUQtTGw4T1VTMHdLU1ZJclNtMFNFYUIyU0NNNmk4NHcxUjM3Ty1VVm9RcHNoNGlsWnFpS2IwN25zdlZVcjRWdUVkSE9RaThWeFZvTFVPdGpLR1QyVHl6amJGa1J0cFVfSjlVSw?oc=5",
+          "published": "2026-11-12T17:05:00+00:00"
+        },
+        {
+          "title": "SS United States, long docked in Philly, goes under the waves - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUYxS251WjFZMFRQMmlGZVk2YWFBUjJIV2RSRlFXQnNwWHhESmlZYTU4aWV4ZEIxYXVsaFNwM1hWUUhhd1pDQmpPUFRfSGo2aEdWemNXVExCdnI3RHNCdDRjeFFMM1R3d21WVmNfazhyZEpSYlNHdncxdUZMdW5tbGlvdWc1MWZBTHRHU1lmOXZXR1ZZa0JlTWo1UlNhQQ?oc=5",
+          "published": "2026-11-12T14:01:41+00:00"
+        },
+        {
+          "title": "Historic ocean liner is sunk to make largest artificial reef - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lMHFKa0g5OUNWYUFPemZPZmZIb2l3Yld3NHE5Wk43TDF0c0hlMlVRcmpQZGZaSWZwNGIzOXo5aFA4Z0hhallMTi1rTUY?oc=5",
+          "published": "2026-11-12T12:24:06+00:00"
+        },
+        {
+          "title": "Historic ocean liner SS United States reborn as artificial reef - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHo1aU5hbEwzRjViQ19LUnhfNkRXU3hnZ0dLaEFDcG0wZWZDWHJKUjRSOWtjbUtNTFF2aWF6Y3NFUmpPUTNVdlV5OGIxVy1vSmtLSlRZRHdrTkgtZW9BbVFIckxjX0NpVjZmRE5xRnpiTkx1WGdSVmJENWxfWS0xNDR1MHkyYVpFWDFj?oc=5",
+          "published": "2026-11-12T12:05:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "penguin-returns-zoo": {
+      "kind": "micro",
+      "title": "I pinguini di Magellano sono tornati allo zoo di Los Angeles",
+      "region": "USA",
+      "summary": "I pinguini di Magellano sono tornati allo zoo di Los Angeles. Il comunicato dell'AZA parla solo del rientro degli animali e del fatto che i visitatori possono rivederli. È una notizia locale senza ulteriori dettagli sulle ragioni dell'assenza o sul numero del gruppo.",
+      "picture": "Nell'immagine due pinguini camminano accanto a un guardiano. L'immagine trasmette il tranquillo ritorno degli animali nel loro ambiente abituale e l'incontro con il pubblico.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Magellanic Penguins Return to the Los Angeles Zoo - Association of Zoos and Aquariums (AZA)",
+          "domain": "aza.org",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLU9raDFZdlFFZEEtSVhLbU5fanhnUXZYM203b000aFZSOWZ6UndXWUhMVVZLRVl4ZmY1VnA0ZnlwS0FNWjNaUDVaNmtyZXdZN2FBU01PM1NoSHFIbVRrdl9naUhXRWpsMHVmeG5zSTExLVJ5ajhYQVBQaXQ1c1c5WmpnWVBWb1hSQVl0VnVLNkM3dkVEVDB0Qw?oc=5",
+          "published": "2026-11-13T04:46:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "sloth-baby-zoo": {
+      "kind": "micro",
+      "title": "Allo zoo di Atlanta è nato un cucciolo di bradipo",
+      "region": "USA",
+      "summary": "Allo zoo di Atlanta è nato un cucciolo di bradipo. Zoo Atlanta riferisce che si tratta di un bradipo di Hoffmann a due dita, mentre il giornale locale parla di un nuovo piccolo nella collezione dello zoo. Nella selezione non ci sono dettagli sulla salute o sul nome del cucciolo. La notizia riguarda la vita dello zoo e l'arrivo di un nuovo ospite.",
+      "picture": "Nell'immagine il cucciolo di bradipo si aggrappa a un ramo. È l'immagine di un nuovo animale fragile, accudito e protetto.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Zoo Atlanta welcomes new baby sloth - Atlanta News First",
+          "domain": "atlantanewsfirst.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHRyWGZvOWFhSGgxTGdZbHRNaXpkSzJGelY1SzF5VWZwYmN1YTg5a0lrcm92UjJmaWM4X1daei00QmNpV1dEZ0hrcExRaUppQ0pwbGl0RmtXRTN5dnduMGhDck55TmlOMjlxa3FSYTdWVGlmNTZlQ3d6cTVEYk5FSWc2dDZ2Nk0?oc=5",
+          "published": "2026-11-12T21:39:00+00:00"
+        },
+        {
+          "title": "Hoffmann’s Two-Toed Sloth Born at Zoo Atlanta - Zoo Atlanta",
+          "domain": "zooatlanta.org",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4R2hJMy14bGJlMXd3aWw0NmoyNDR1VTlNM3NZaloxdWVaODVxM0t0dG84RkZiYXVWelJCWTMxVDlaRzJubXVlVmVWZ25INXUxaVgzVEVYLUEwbkZ0eGloVDBXYVhaZDY4b1hxbEVIWDhJcDBaaGFN?oc=5",
+          "published": "2026-11-12T17:04:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "baby-boom-zoo": {
+      "kind": "micro",
+      "title": "Allo zoo di Fresno è boom di neonati e il lavoro è frenetico",
+      "region": "USA",
+      "summary": "Allo zoo di Fresno è stato registrato un vero boom di nascite, che costringe i guardiani a fare straordinari. ABC30 riferisce che per il personale il carico di lavoro è aumentato a causa dell'elevato numero di cuccioli. Nell'articolo non compaiono dettagli sulle specie coinvolte, ma viene sottolineata la mole di lavoro per il personale. È una storia locale sull'afflusso stagionale di piccoli nello zoo.",
+      "picture": "Nell'immagine un guardiano dello zoo tiene in braccio un cucciolo di animale. L'immagine mostra il lavoro intenso dei dipendenti che si occupano contemporaneamente di molti piccoli abitanti.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Fresno Chaffee Zoo's baby boom has keepers working overtime - ABC30 Fresno",
+          "domain": "abc30.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2pGNGxuRi1oeEI2QjFFQXFCOHotNzFqRGlOQVpIaTRGa3l1c3lCTjVGSmVpZjdHYmRwSEVON1VHM1hwV0wzbkdpdnM0LTdnN3EyS01CeHd6TXB4UFpQQkdUNnk5LWloSURoWFVxcW9qTTVWQlNRN3BubExWUUlySGtxUk1GREpVZ05UaS1KY1FjQTF4alHSAZsBQVVfeXFMTmJDbW94cmhpTmtTSmxmMDlrWWNCa1ZSWnEtZ3JhRVh3WkIwQnVYRFJtbTBXWUZvakw0cWhOcFpzbk5JS0tnN21sRENfWkdQc04yNF9zRTA4cVBXM0FmUVQ4eUk4YTYwdEttSXE2MXpBWklFbXJxSWNuLWVQeVB1UlBLd01yUkNMTjg0dzNXU1FEZ0prTWtTVW5MWE0?oc=5",
+          "published": "2026-11-13T01:29:46+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      }
+    },
+    "bearers-pink-diamond": {
+      "kind": "micro",
+      "title": "Un raro diamante rosa venduto per 14,6 milioni di dollari",
+      "region": "Mondo / crypto",
+      "summary": "Un raro diamante rosa è stato venduto per 14,6 milioni di dollari. ABC News definisce la gemma la «Monna Lisa dei diamanti rosa», sottolineandone l'eccezionale rarità e il valore. Nella selezione non ci sono dati sull'acquirente o sul luogo dell'asta. Il punto centrale è il prezzo elevato e lo status di gemma unica.",
+      "picture": "Nell'immagine è mostrato un diamante rosa scintillante su velluto nero. È l'immagine di rarità, lusso e alto valore d'asta.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Rare 'Mona Lisa of pink diamonds' sold for $14.6 million - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TeWRPb0pHb2dUOTFIeHN4dEpSdWlaUzNpMUl2MGl1MGJvMW1iZW5zX3p5V1MzUXphMnY1cmxGMzhiNGZEaFR3dXY3V2M?oc=5",
+          "published": "2026-11-12T16:50:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "meteor-shower": {
+      "kind": "micro",
+      "title": "Stanotte è atteso uno spettacolare sciame meteorico",
+      "region": "Mondo / crypto",
+      "summary": "Stanotte è atteso uno sciame meteorico. Nella nota disponibile di Arab News non ci sono ulteriori dettagli su orario, intensità o area di osservazione. È un breve avviso astronomico per chi ama osservare il cielo.",
+      "picture": "Nell'immagine una meteora traccia il cielo pieno di stelle. L'immagine indica un fenomeno celeste brillante e fugace, visibile di notte.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Meteor shower - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00VUY2LWJ0ZWxqaTFLYno1OExOc3o2UG1mTk5NYXJGejZYOTJLNkl5bmQzeGxTbDl4b2FQTElCYnhWNkl4a3ZaektITWJWTjhMMGtmd0ZWX0hBaE9YUDhyOEhjYktZRms?oc=5",
+          "published": "2026-11-12T22:16:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "euclid-quasars": {
+      "kind": "micro",
+      "title": "Il telescopio Euclid ha scoperto la più antica coppia di quasar",
+      "region": "Mondo / crypto",
+      "summary": "Il telescopio Euclid ha individuato una coppia di quasar molto antica, e i materiali di Phys.org e Space.com la definiscono un passo importante per la cosmologia. Nelle pubblicazioni si parla di un sistema straordinariamente distante, legato ai buchi neri, e di nuovi dati che potrebbero aiutare a comprendere l'universo primordiale. Le testate sottolineano che l'osservazione fissa un nuovo livello per la ricerca cosmica. I dettagli interpretativi nella selezione non divergono.",
+      "picture": "Nell'immagine due quasar luminosi fluttuano nel profondo spazio. L'immagine mostra una coppia rara e lontana di oggetti che aiuta a guardare nell'universo primordiale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Space telescope Euclid sets the new standard for cosmology - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmtpTjdTeEJHWUZCS1pTSHNZMGVLM0R4S1VmeXNWamlheWZKSlhrSHktZ0JiMXpmdnBxbk1DckZPYjhkdkFRQ3A2Q1dyM1NlMVdRZHBDdFg2ZkYzZTF3WVJhc2hCcnIyLThfZTJQSWVXMDQ0VlNkNjVwVklJdUk3a3Rn?oc=5",
+          "published": "2026-11-12T21:00:01+00:00"
+        },
+        {
+          "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQndfd0d1T0hQNG1QZEF5WWx2Tm56Nmo3ai1QWU9tZmktSnpvbWhqZHZnMlFQemVCZm5jcjQxQXlHTGYxMV9WeU53bHBiNlBHakRBOGF6OTJKcVAxS2N4d0J2VVNiRkJ6SktVQkhiVE8tRWQ0OUk5R2UtNFNoWl9nOWh4R1dDSk1MOFk5X0FGbGw4YkFZenhsWDV0a0oyWk5nMWJuWWM2Wko0djF2OGlQWjFoYWJoS0RzQkt2OTM0cENYbFpBMGtvUWw4Y2RXVHU3TERTQ3VDeE11VmNlX3A3QzljeV9xRXRhS1E?oc=5",
+          "published": "2026-11-12T13:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "radio-signals-every-eight-minutes": {
+      "kind": "micro",
+      "title": "Gli astronomi hanno scoperto misteriosi segnali radio ogni otto minuti",
+      "region": "Mondo / crypto",
+      "summary": "Gli astronomi hanno scoperto un raro sistema stellare che invia segnali radio ogni otto minuti. Phys.org, New York Post e The Conversation riferiscono che il segnale proviene da una stella morta e che il suo compagno assomiglia al Sole. Gli scienziati definiscono il fenomeno insolito e lo classificano tra i transienti a lungo periodo. La scoperta potrebbe aiutare a comprendere meglio l'interazione tra coppie stellari.",
+      "picture": "Nell'immagine una stella lontana emette onde radio. L'immagine trasmette il ritmo misterioso di un segnale che si ripete dalle profondità del cosmo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "A rare star system emits radio signals every 8 minutes - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YWmZqMEJOQTNENy1qZzMzVmIyUHhuQU9ISnBvX1ZnV21lOUNoa2dhWG9iOWNuN2NzbWVLZkptdVBCQWdGRFlvTEg1cnBUcnVHZkJXUjlDTGRmNnJuV1BBdnk2LVZXaW5NaF96TjRGZV9rZw?oc=5",
+          "published": "2026-11-12T18:20:05+00:00"
+        },
+        {
+          "title": "Scientists discover mysterious radio signals coming every eight minutes from deep space - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajAtNlVXc1lFYkFYbVZ6eU4zcjFWeUlBNWtLZ2VoNFBHbzlTVmhrRnpabE1vOUpZMWRkUHl0cWZHRXZ1TzFaX0NoSGJyQnFDWURvWENvRXp3OHNfcDk4NHVYWHlWMEQzenVkV095TmZQTmw4ZjFCVFdjUFNiWGY3ZC0zakxFbTJ5QWkyYlUzN1dFWFZTYnBMMllrMEJ3RjIzMkNMRGNwc1ZXRW5oQkFBak9hel8zd0ttMlh1aWxSNA?oc=5",
+          "published": "2026-11-12T17:03:00+00:00"
+        },
+        {
+          "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the Sun - The Conversation",
+          "domain": "theconversation.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFZOWkJWdDJEZzdsNjAzVncwYzgzOVFHTk5JcHQ2TWQtVi1mZVBJLWRyLWFOZDY2SlFnbjlCV2VvTHlIZmdISHFmOTBieWpoYnMyNzNLV0VIZmtjX0tzd056aUxHQnpTSW9WUVFSTk9MSTNlNDhpMU1BN0t5c1plZzQwQ2RWTDdBREE1VFZ4QXNNY3FTQk5TU0l3RmN2dWtDRThjNEVLSVVDY2hJZmY3eldUTDhHZDNaODJYMmtpMmZSQ0pDRlE?oc=5",
+          "published": "2026-11-12T10:06:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      }
+    },
+    "cats-call-for-food": {
+      "kind": "micro",
+      "title": "Uno studio mostra che i gatti miagolano per attirare l'attenzione umana",
+      "region": "Mondo / crypto",
+      "summary": "Uno studio ha mostrato che i gatti miagolano per attirare l'attenzione umana, soprattutto quando si tratta di cibo. Phys.org riferisce che un test sul cibo ha aiutato a verificare questo comportamento. La nota non offre molti dettagli, ma la conclusione è chiara: il miagolio funziona come segnale per l'essere umano. È una piccola storia scientifica sul comportamento quotidiano degli animali domestici.",
+      "picture": "Nell'immagine un gatto guarda intensamente una ciotola di cibo. L'immagine esprime attesa e il tentativo di richiamare l'attenzione del padrone sul pasto.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Talking or just meowing? Food test suggests cats call for human attention - Phys.org",
+          "domain": "phys.org",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jTmFBZngtaHB0ekNGZTYyZGVUdnFhYnpWbzBLUXRvajlRVW9oakxUeHpnWnhZQ00yQzZYUFVvams5MTF5Ny1hRmVIMHN5T2ZGQlRzOWtzTjVWa0JJWmVad1BaMFc1Xy1VZWJvWFpZcnhvY3pmdUlr?oc=5",
+          "published": "2026-11-12T19:40:20+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "turkey-colors-caught-on-camera": {
+      "kind": "micro",
+      "title": "Un tacchino selvatico dai colori insoliti è stato ripreso in video",
+      "region": "USA",
+      "summary": "Un tacchino selvatico dai colori insoliti è stato ripreso in video. Il Wisconsin Department of Natural Resources, secondo UPI, ha spiegato che si tratta soltanto di una fase cromatica e non di qualcosa di allarmante. La notizia riguarda l'aspetto insolito dell'uccello e la spiegazione ufficiale degli esperti. Nella selezione non ci sono dettagli sul luogo delle riprese.",
+      "picture": "Nell'immagine un tacchino selvatico con un piumaggio insolitamente vivace. L'immagine mette in risalto una rara anomalia visiva che ha attirato l'attenzione delle persone.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "'Just a phase': Wild turkey with unusual colors caught on camera",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/",
+          "published": "2026-11-12T18:58:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "emu-warning": {
+      "kind": "micro",
+      "title": "In Nuova Zelanda avvertito di non inseguire un emù fuggito",
+      "region": "Mondo / crypto",
+      "summary": "Nel New Jersey le autorità hanno avvertito i residenti di non inseguire un emù fuggito. UPI riferisce che l'uccello è libero nel Brendan T. Byrne State Forest e invita le persone a non avvicinarsi né a inseguirlo. La notizia ha carattere di avvertimento e riguarda la sicurezza nella natura. Nella selezione non ci sono dettagli sulla cattura.",
+      "picture": "Nell'immagine un emù corre davanti a persone sorprese. L'immagine mostra l'incontro inatteso con un grande uccello e la necessità di tenerne le distanze.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "N.J. officials warn residents not to chase loose emu",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/12/loose-emu-pine-barrens-new-jersey/8421794500759/",
+          "published": "2026-11-12T16:40:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "cow-rescue": {
+      "kind": "micro",
+      "title": "I soccorritori hanno liberato una mucca rimasta incastrata in una recinzione",
+      "region": "USA",
+      "summary": "In Idaho la polizia ha salvato una mucca rimasta incastrata in una recinzione. UPI scrive che gli sceriffi hanno condotto quella che loro stessi hanno definito un'operazione di salvataggio «mu-ving». È una breve notizia locale su un animale in difficoltà. Nella selezione non ci sono dettagli su ferite o sul luogo dell'incidente.",
+      "picture": "Nell'immagine una mucca è rimasta incastrata in una recinzione, mentre i soccorritori la aiutano a uscire. L'immagine mostra una semplice ma importante operazione di salvataggio animale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Idaho deputies rescue cow stuck in cattle guard",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/12/valley-county-idaho-cow-stuck-cattle-guard/9291794506180/",
+          "published": "2026-11-12T18:38:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "rabbit-festival": {
+      "kind": "micro",
+      "title": "In Ohio annunciato un festival per famiglie con conigli e musica",
+      "region": "USA",
+      "summary": "I materiali disponibili non corrispondono al titolo sull'Ohio e sui conigli: nella selezione ci sono notizie su luci festive e festival a Oklahoma City, Topeka, San Antonio e Long Island. In questi annunci si parla di eventi stagionali — accensione dell'albero di Natale, installazioni luminose, luci dello zoo e festival per famiglie. Sulla base degli articoli forniti non è possibile confermare un festival per famiglie con conigli e musica in Ohio.",
+      "picture": "Nell'immagine ci sono striscioni da festival e un coniglio mascotte sorridente. Questa immagine allude a una festa per famiglie e all'atmosfera di fiera, ma non conferma il luogo o il programma specifici riportati negli articoli.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Thousands gather for OKC Tree Lighting Festival - KFOR",
+          "domain": "kfor.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5clFCQ1pMUVdmVkc4dDdMWWtwVkVuQjduMERlNFdHRk1yWFVBSl9lYm54QlJ1M2FabW5ERXhNeVNrNlhjYzY4bkN4LU5nUEprWG5nOUstekNTeXg0aHVKc09MOXU0N002M1U4YUZHeXAyZmRaSFBfSDhB0gF_QVVfeXFMTWFud0lZc2RKSWxYWnp2WVdrcjZDS1AyclJwcWFEU1BBeVo0UmtUYmZwcVVJQWhVcC0yMUNBT1JKVklSbGRoS2swWjZxQUJsMGZkNWMxNUlBWTNjVlZqcUtmY0h0R3FfTTdXZHUxV2VSNDhOSlZRb2tkOVJRektEUQ?oc=5",
+          "published": "2026-11-13T04:04:43+00:00"
+        },
+        {
+          "title": "Topeka Zoo Lights set to open next week, what to know - KSNT 27 News",
+          "domain": "ksnt.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkIzeWRJckxMTEpZU01HTVVJSV9IS0FnVFNlQ2JOMzNzQlF2T1h3MkVTM0JXbXhNbVVDeU40V3BZeGo4VzUwZk9RbUtCbDJPQjg3cmR6RjNRcU5aVHE5ZzNqYVV2ZlcyZDdUc2dnb2xxWXpCVkREZG41S0F6Tm1qbUVhVFg2TkFBR25YRXc2MVRBQ1BL0gGaAUFVX3lxTE9nYU1feHpKeWhiZ1p5czF6eE8zZDAyMWV5cDkzaEZYRnJKSTFHUFI0d011Ql9Wcmx2eEdMa01LeEFSV0M3cm94ZDRzUWZLa0pYUmFHclRYSG15MlBqQk5XcXRPS2VTU3Q1Z1NiUFdWOFVKWkwwRlM0dThCbzBtcGpaNmlnMm1OMmpwc3Z5bDhfcXp2ZUJtVWg1aFE?oc=5",
+          "published": "2026-11-12T23:51:03+00:00"
+        },
+        {
+          "title": "Zoo Lights returns to illuminate San Antonio Zoo’s pathways for holiday season - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3ZUNUZveUJGNW5XX1M4cmlLRms1RUZaYXJvU0hzanY4TDhKZGJ4el9Uc3lRN2xkOWFhQ3JWbU40Q1RvdGZLSG1nUjZCeE55SWU0Wkg1ZHVXZDJSOWlIeVZ3V2J0ZXZSN0ZNelNtRWtOMkN1VzZZak1TNmpBRHZWdVdhRG9QanctNFRtcS03dzZmYjdKZVhrWmxvb0x0bDYtcW9KNWFmdUtMN2hvM3RnTy0xUk5PNUVTSTNOZnlB?oc=5",
+          "published": "2026-11-12T22:04:38+00:00"
+        },
+        {
+          "title": "Saladino Invites Residents to Free Family Fall Halloween Festival - Town of Oyster Bay",
+          "domain": "oysterbaytown.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhCaDhDdVF4LTk3SVlrZ2xkSmIyNElPVkl0NUZNeXZuWGcwNzFnbm1HODR2c2g3YlpIS0Nsb2w4MnRUZUtma0xHUVpWU0kzNXoyZklGRy1NQ2szR3M0UmhmLWNOMjhxWTRCbVdkNDRlOWcwR2VyV0p0VVRqcENwR0ZCMTlEMjY5S19idFUtMEJzaDdsQ2JwVXp3?oc=5",
+          "published": "2026-11-12T21:22:04+00:00"
+        },
+        {
+          "title": "Luminaria returns to downtown San Antonio with expanded arts festival along Houston Street - Texas Public Radio | TPR",
+          "domain": "tpr.org",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWGs0MThXUWtTQlZYdW00SmlGX1BmaVh4enE3SmNLYnhVdU42bFY3SVZQblFLeXV1MndNOV91aGhwZWFLWm9OZ3BGQUNiSnpWWVlkcnJBWWNyNEtpR2Y3X0thVkkzckc3cnc2S0VzbmhDYXZMZGVMbjM0SVFEZ1RZTTN2RmNEemliMTZyM0xzMkdkUXRwWHVkOVc1dEdwWU8zQzFoTUJuNFFLdW8tVGQ4SjdtY2UyNTg4OU83alhYaWpCRER6NkR1Y3R0R2VQM00?oc=5",
+          "published": "2026-11-12T20:27:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "zoo-award": {
+      "kind": "micro",
+      "title": "Lo zoo di Lincoln Park ha ricevuto un premio internazionale per il benessere degli animali",
+      "region": "USA",
+      "summary": "Lo zoo di Lincoln Park ha ricevuto il premio internazionale WAZA per il benessere degli animali. È una notizia interna dello stesso zoo, che annuncia il riconoscimento del suo lavoro da parte di un'associazione internazionale. Nella raccolta non vengono forniti dettagli sui criteri del premio. Il punto centrale è lo status ufficiale e il riconoscimento pubblico dello zoo.",
+      "picture": "Nell'illustrazione la medaglia dello zoo è accanto a una scultura di leone. L'immagine simboleggia il premio per la cura degli animali e il rispetto per l'istituzione.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Lincoln Park Zoo Wins WAZA Animal Welfare Award - Lincoln Park Zoo",
+          "domain": "lpzoo.org",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzQm05eThxM281VTVYUXh2eFZjaHVqb0FiVFZFaTR6YWQzdV95aGhpMmdJZHJHdTBUcTFhWmVXQVdBU0hOQkktRUNKYkVrQ283d3JRX0Vlc0Q4QjRuT0hpODB2ZGNLbzBQX3NmaDRlNE1hbEp3YTZ0Xy1B?oc=5",
+          "published": "2026-11-13T08:03:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.107,
+        "r": 0.125
+      }
+    },
+    "world-record-catapult": {
+      "kind": "micro",
+      "title": "In Slovenia un uomo-catapulta ha stabilito due record mondiali",
+      "region": "Europa",
+      "summary": "In Slovenia due base jumper hanno stabilito due record mondiali, venendo lanciati in cielo con l'aiuto di una gigantesca catapulta umana. Euronews scrive che la struttura era installata su una ciminiera industriale alta 360 metri a Trbovlje. Il servizio parla di record e di uno spettacolare gesto estremo, che gli organizzatori definiscono la più grande catapulta umana del mondo. Si tratta di un episodio sportivo ed estremo senza contesto politico.",
+      "picture": "Nell'illustrazione una persona viene scagliata fuori da una gigantesca fionda. L'immagine trasmette rischio, velocità e un lancio spettacolare da record in aria.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Slovenia: Red Bull human catapult sets two Guinness World Records",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/12/slovenia-red-bull-human-catapult-sets-two-guinness-world-records",
+          "published": "2026-11-12T11:50:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      }
+    },
+    "food-delivered-to-chimps": {
+      "kind": "micro",
+      "title": "I droni hanno consegnato per la prima volta cibo agli scimpanzé isolati da un'alluvione",
+      "region": "Africa",
+      "summary": "In Florida i droni hanno consegnato per la prima volta cibo agli scimpanzé rimasti isolati a causa di un'alluvione. Euronews riferisce che il personale del santuario di Fort Pierce non poteva raggiungere alcuni animali e ha iniziato a inviare banane e altro cibo dall'alto. Si tratta di una misura forzata per prendersi cura degli animali in condizioni di allagamento. La notizia evidenzia come la tecnologia aiuti a salvare e nutrire gli animali durante un disastro naturale.",
+      "picture": "Nell'illustrazione un drone trasporta frutta sopra gli scimpanzé. L'immagine mostra come la tecnologia aiuti a consegnare cibo dove le persone non possono passare a causa dell'acqua.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Drones deliver food to chimpanzees stranded by flooding",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/12/drones-deliver-food-to-chimpanzees-stranded-by-flooding",
+          "published": "2026-11-12T10:35:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.896,
+        "y": 0.798,
+        "r": 0.156
+      }
+    },
+    "sloth-homecoming": {
+      "kind": "micro",
+      "title": "A Houston è stato nominato un nuovo manager con un passato in Team Israel",
+      "region": "USA",
+      "summary": "A Houston è stato nominato un nuovo manager degli Astros: si tratta di Brad Ausmus, che in passato ha lavorato con Team Israel. Times of Israel scrive che torna a Houston, dove ha trascorso 10 stagioni come giocatore MLB. Il giornale osserva anche che Ausmus diventerà l'unico manager ebreo della lega e aveva già ricoperto questo incarico in altre due squadre. È una notizia sportiva su una decisione dirigenziale del club.",
+      "picture": "Nell'illustrazione un allenatore di baseball tiene in mano un tablet per gli appunti. L'immagine indica una nuova fase nella carriera del manager e il suo ritorno in un club familiare.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Houston Astros hire former Team Israel manager Brad Ausmus as next skipper",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/houston-astros-hire-former-team-israel-manager-brad-ausmus-as-next-skipper/",
+          "published": "2026-11-12T23:09:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      }
+    },
+    "museum-of-jewish-past": {
+      "kind": "micro",
+      "title": "A Baghdad un nuovo museo ebraico attira folle di visitatori",
+      "region": "Medio Oriente",
+      "summary": "A Baghdad un nuovo museo ebraico attira molti visitatori e aiuta a riscoprire il passato ebraico dell'Iraq. Reuters e Arab News riferiscono che il museo è diventato un luogo di interesse per il pubblico che desidera vedere e ricordare questa parte della storia del paese. Nei materiali viene sottolineato soprattutto l'interesse culturale e storico, non il conflitto politico. È un esempio significativo del ritorno della memoria dell'eredità ebraica dell'Iraq.",
+      "picture": "Nell'illustrazione ci sono vetrine museali con libri e reperti. L'immagine mostra uno spazio della memoria in cui il passato diventa accessibile ai nuovi visitatori.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Baghdad’s first Jewish museum draws crowds to rediscover Iraq’s Jewish past - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXk3VlJ6MXY1NE5ZZmJHTTFGSDd2MkY5QlFhcnBjWmVJaVhOTnFGT1M0RVNjZ0lVNmNlaVJFOWRkN3dVQVZPZW8zMmxxcEJkMVYtclhpSER4ZjI3ckhtekJ0TzFjdWRYYV9MQjRTVkFwN1VmWFVtMW9GZjY0X0VsWWREOWlack53MHVzTmFlRXFidjRIWXhEc2M4clp6RHdBeHI2emY0aDFsSlh5eTRXa3lsUFVtNkRBM1E?oc=5",
+          "published": "2026-11-12T21:48:14+00:00"
+        },
+        {
+          "title": "Baghdad's first Jewish museum draws crowds to rediscover Iraq’s Jewish past - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVhOYmRoZl9ral9naUExLWtRV1RCMzlvMFdIeWM3MEFsM1NDMENNMmpXMk9DQ3Z3eE1DY3RjUlEzRUVXbFlkU2ZxTjBuQ1B6dWJnUW93MlJUWnVLV3R2REM3X3ltTTAzdzVSU19jT3RkMkFVNDZqem9vUkx4NXdIbFMwRHBCd2hGbk9ISExrUlpILTVQb0ppS0c4SnpTTXBrRlhEakQ2eFVlOWE2c0xyVjdMa2t2OFcyUGgydHhPUXBMQQ?oc=5",
+          "published": "2026-11-12T12:01:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.357,
+        "r": 0.125
+      }
+    },
+    "papa-in-peru": {
+      "kind": "micro",
+      "title": "Papa Leone XIV è tornato emozionato in Perù e ha parlato della protezione delle donne",
+      "region": "America Latina",
+      "summary": "Papa Leone XIV è tornato emozionato in Perù e ha nuovamente parlato della protezione delle donne e delle vittime di violenza. AFP, AP, El País e altri media riferiscono che ha criticato il “machismo”, ha esortato a rispettare e proteggere le donne e ha incontrato vittime di abusi. Secondo la stampa, il Papa ha chiesto ai vescovi peruviani di agire con verità e giustizia. È il proseguimento della sua visita, descritta dai media come personale e molto emotiva.",
+      "picture": "Nell'illustrazione il Papa saluta le persone e alza la mano in un gesto di benedizione. L'immagine trasmette il ritorno, il sostegno e il richiamo al rispetto e alla giustizia.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Pope meets abuse victims in Peru, says Church must make 'amends' - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkFiWU9oNTUtaWJBTWFjUjBlSnJpeEM3LS0yYUJ3TnBkalI5bEFhaFl4Vm9DTWpUWHBIMUptUDZtLWlCZzNsckhsSHJvOVYwVVBXTTZWTGdrWUhXM2RXdU9wNDZET2xDMS1aREpzbEp6NmtrTm9tYVdOcnZrNWVpQVhybFlrUlRz?oc=5",
+          "published": "2026-11-13T00:10:45+00:00"
+        },
+        {
+          "title": "After his emotional return, Pope denounces 'machismo' in Peru and demands women be protected - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUFHUkI5Y1p6WVhYVWZmYTEwWjVPa2FjaHlEazlGUjNkX1dWbGw3ZzgyekFjc1JPTWRLcGk3bDFfUHNyM1c1Q3NHXzE2S1BfT0xzRjI5dkVzVlI3ZXIxUHhIaVNYZXUwVldQVXBSVGI3ZFpUdDZuLTE4dHZyZ1VRMXNQZXB4YlFaeDloZENzOWk2cFIteTVzbg?oc=5",
+          "published": "2026-11-12T23:51:00+00:00"
+        },
+        {
+          "title": "Pope Leo XIV returns to his adopted home and other top photos from Latin America and the Caribbean - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNenRweVNPalQxMXlxRXcyb0trRFhLN2cwa1dWY2J4c2NSemFiWGxYblM2dlptcEwwZVQxeW5femU1eUIyNENIUHJzWXdxLVA2M0Jick1qTjVYd3V0QTB4WldUYTNIb2pRZlQweDVybDQwRUcteE5YTDY4bjhKc1V1cF96RFJDSFFyUjFVZGhnaDMxUHVCQnfSAZYBQVVfeXFMTXp0cHlTT2pUMTF5cUV3Mm9La0RYSzdnMGtXVmNieHNjUnphYlhsWG5TNnZabXBMMGVUMXluX3plNXlCMjRDSFByc1l3cS1QNjNCYnJNak41WHd1dEEweFpXVGEzSG9qUWZUMHg1cmw0MEVHLXhOWEw2OG44SnNVdXBfekRSQ0hRclIxVWRoZ2gzMVB1QkJ3?oc=5",
+          "published": "2026-11-12T20:23:00+00:00"
+        },
+        {
+          "title": "El papa León XIV en Perú: duras críticas al machismo, reclamo de concordia política y mensaje contra los abusos en la Iglesia",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/papa-leon-xiv-peru-duras-criticas-machismo-reclamo-concordia-politica-mensaje-abusos-iglesia_0_fX8lfML1IP.html",
+          "published": "2026-11-12T20:09:07+00:00"
+        },
+        {
+          "title": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
+          "published": "2026-11-12T19:50:49+00:00"
+        },
+        {
+          "title": "Pope tells Peru's bishops to accompany their flocks and respond to abuse victims with truth, justice - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVA1dUVSQldoMmJqYTY4VnBEenh6LVVESGpGTVhsNThHdmduS3lOMTdEdENUODdMMThnemVRZWFMbEh2MEVUWGZYUTRHQWd1MjFQSVk2blBUMWdpUFlsY2dEZDI3ckVFYm1jTGJCZFlKa29tZEt2WUc1RVRtSWpoWjJpQjh4azV4UVhZRHpjM3lEYmt5a3dNQWhzand5Z2I2QzBNbEhYcU8zUDA5VEHSAbMBQVVfeXFMTjdGMzJfM0tvZXZhLVNmVS1pQVJmMFhQMkMydjlLc182OExVcDZmRU9yc254QThtOUNZMV9yWlNMdnVydUFmNHJHdU5yOG9veHdzMkNIaU83Tm9wTzBoNGhMTGYtLWJTeGpKdjRCZWV3aExGc0pFY2UtVWJkLTBmTGNGVVNZaTRxb0ZvcTlmcHBLOG96U2RzenZBQkJFdEVSQThEQ3NPYnEtZkZGbl92aGdrSFk?oc=5",
+          "published": "2026-11-12T16:06:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.662,
+        "y": 0.936,
+        "r": 0.221
+      }
+    }
+  }
+}

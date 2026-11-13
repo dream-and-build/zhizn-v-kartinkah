@@ -1,5 +1,230 @@
 [
   {
+    "key": "2026-11-13-1",
+    "date": "2026-11-13",
+    "image": "img/2026-11-13-1.jpg",
+    "aspect": 1.7778,
+    "people": 8325866457,
+    "spots": [
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.688,
+        "y": 0.179,
+        "r": 0.239
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.25,
+        "y": 0.393,
+        "r": 0.202
+      },
+      {
+        "id": "taiwan-china-tension",
+        "x": 0.785,
+        "y": 0.615,
+        "r": 0.285
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.469,
+        "y": 0.491,
+        "r": 0.268
+      },
+      {
+        "id": "microsoft-ai-push",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-hospital-strike",
+        "x": 0.458,
+        "y": 0.702,
+        "r": 0.23
+      },
+      {
+        "id": "washington-dc-shooting",
+        "x": 0.237,
+        "y": 0.621,
+        "r": 0.221
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.412,
+        "y": 0.136,
+        "r": 0.221
+      },
+      {
+        "id": "brooklyn-building-collapse",
+        "x": 0.75,
+        "y": 0.393,
+        "r": 0.202
+      },
+      {
+        "id": "pope-peru-homecoming",
+        "x": 0.188,
+        "y": 0.821,
+        "r": 0.239
+      },
+      {
+        "id": "spain-housing-strike",
+        "x": 0.25,
+        "y": 0.214,
+        "r": 0.151
+      },
+      {
+        "id": "indonesia-vp-resignation",
+        "x": 0.646,
+        "y": 0.798,
+        "r": 0.156
+      },
+      {
+        "id": "world-record-catapult",
+        "x": 0.938,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "museum-of-jewish-past",
+        "x": 0.938,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "hollande-finds-jobs",
+        "x": 0.875,
+        "y": 0.75,
+        "r": 0.125
+      },
+      {
+        "id": "food-delivered-to-chimps",
+        "x": 0.896,
+        "y": 0.798,
+        "r": 0.156
+      },
+      {
+        "id": "latam-music-night",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "papa-in-peru",
+        "x": 0.662,
+        "y": 0.936,
+        "r": 0.221
+      },
+      {
+        "id": "first-black-senator-mississippi",
+        "x": 0.438,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "old-saber-auction",
+        "x": 0.062,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "darth-vader-saber-sale",
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "ss-united-states-reef",
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "penguin-returns-zoo",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "sloth-baby-zoo",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "baby-boom-zoo",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "turkey-colors-caught-on-camera",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "cow-rescue",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "rabbit-festival",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "zoo-award",
+        "x": 0.125,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "sloth-homecoming",
+        "x": 0.062,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "bearers-pink-diamond",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "meteor-shower",
+        "x": 0.438,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "euclid-quasars",
+        "x": 0.562,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "radio-signals-every-eight-minutes",
+        "x": 0.75,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "cats-call-for-food",
+        "x": 0.938,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "emu-warning",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      }
+    ]
+  },
+  {
     "key": "2026-11-12-1",
     "date": "2026-11-12",
     "image": "img/2026-11-12-1.jpg",
