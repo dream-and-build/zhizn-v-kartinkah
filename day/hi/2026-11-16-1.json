@@ -1,0 +1,2258 @@
+{
+  "key": "2026-11-16-1",
+  "date": "2026-11-16",
+  "image": "img/2026-11-16-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "nvidia-spy-probe": {
+      "kind": "major",
+      "title": "एनवीडिया घोटाला बढ़ता जा रहा है: जासूसी, चिप लीक और कंपनी के भविष्य की लड़ाई",
+      "region": "दुनिया / क्रिप्टो",
+      "summary": "जेंसन हुआंग को हटाए जाने के बाद एनवीडिया से जुड़ा घोटाला और फैल रहा है, जिसमें जासूसी, चिप लीक और कंपनी के नेतृत्व पर दबाव से जुड़े रिपोर्ट सामने आए हैं। कई प्रकाशनों के अनुसार एलन मस्क सहित तकनीकी हस्तियां हुआंग की वापसी के लिए दबाव बना रही हैं, जबकि अन्य रिपोर्टों में कहा गया है कि अमेरिकी अधिकारी एनवीडिया में बड़े फेरबदल और अधिक खुलासे की मांग कर रहे हैं। रॉयटर्स का कहना है कि मेगास्पीड पर निगरानी बढ़ने के बीच सिंगापुर और अमेरिका चर्चा जारी रखेंगे, और CNBC ने बताया है कि विश्लेषकों ने नतीजों से पहले एनवीडिया के लक्ष्य मूल्य घटा दिए हैं। मीडिया इस बात पर बंटी हुई है कि क्या हुआंग कंपनी में लौटेंगे और निदेशक मंडल का पुनर्गठन कितना दूर तक जाएगा।",
+      "picture": "चित्र में चिप का टूटा हुआ ताज केबलों के जाल में उलझा है, और इधर-उधर अनुबंध तथा सिक्के बिखरे पड़े हैं। यह उस कंपनी की छवि है जिसकी ताकत और प्रतिष्ठा दबाव में आ गई है, जबकि उसके चारों ओर छिपे खतरे और विवाद घिरते जा रहे हैं।",
+      "mentions": 100,
+      "significance": 92,
+      "velocity": 86,
+      "domain_count": 31,
+      "articles": [
+        {
+          "title": "Nvidia gets two more price target cuts from analysts ahead of earnings - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXM2WlNzd2l0SW1PN1NVa2prRmI1Q0dhLUIyLXFKZEd1RHNUZ1YwcE1YWmFjZENBMW02dGRsVlk5THd3OE9jcFo4el84dE9xNW9LWWdTT2Q4UVdHR1lySWFqR2ZGTk0xTWtROUlZZlhBeUU5VV9fVUprekljcGxOOEw5X2IyaWV4UFRuZkJmemlJTGlvbFN4bDgyeUFOWE8wUUozMHIwZXZpclk?oc=5",
+          "published": "2026-11-16T12:36:20+00:00"
+        },
+        {
+          "title": "Symbol of neglect",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044870/symbol-of-neglect",
+          "published": "2026-11-16T12:32:36+00:00"
+        },
+        {
+          "title": "The one thing that may have doomed Jensen Huang - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIX1NTYi1FcmF4dFlfNkU5OHZTSjFmaFdXY3EzRGtaS0VzRkFCSUVIN2FZSVhsV2NIRWFJU3ZoTzVWY1ktd21rVTJUdmlNZWNrR3V2Zy1Pc1pvUFh6LWZfMDNVUGJ3RWs?oc=5",
+          "published": "2026-11-16T12:21:59+00:00"
+        },
+        {
+          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T12:20:49+00:00"
+        },
+        {
+          "title": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pxOWhsOERwTHZyU2JuUjFrSENFSkNUWnlLdFBvaEdkb2NKQkxVUmNOZXVHSS1qdkJobDF6ZzB4MzdESk5BZHhaY3ZlV0JVZWRfR1FrSUc2WGdWbTVJaTN2a1hjWnRXY25yZ2R2SFRBSEYyaklDUml5ekFrWnhIbEhCd3ZxVjh2am1oMXFkZG5QaFNOa1VUUWVtcEJZWjNLVllyUG53bmZXaldEaXRKT29CeXc0aWNPLWZxVQ?oc=5",
+          "published": "2026-11-16T12:16:27+00:00"
+        },
+        {
+          "title": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return - Yahoo Finance",
+          "domain": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzVrZl9udUdNTVdUdnNoUG1meHJncG1HUVN6WXlXQ3JkTGNSOE9HQU1pcHJ5RFhEZ01STzQ0ZHFlNUh4YVV6eVNpN3NHNXR0eUpoT2l6bTY2QW5hT05yaXMzaGtZcVBrUWdOa25YeWNkckJ6SW80U3Q1VFhsUUJjUjV1dzNyM0EtUlR5OWh6T1paRnVjeUIzSjVqS0hIaDA1REVkMGMxM3lzMDhYdG1wOFZCLVdxRjRleXNDNTdYc2pQSDVmZVhzZ1ZTUThfWUgwdkRnUzhQOGc?oc=5",
+          "published": "2026-11-16T12:10:18+00:00"
+        },
+        {
+          "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14 - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXd4UlN6UWw5UmxJZGc3QnA5Sm5hVi1hRUl1blh3bnRfSnc3Zk4yeG53UjdFbjFvaklZbWRrN0ludmgxbm02cDFBZURTaXdDQTNxZ0gyZUk0OG5XeGVUUy1CZW94T19IUmVLWmFacU02eDVLbnYxcGU0TDI5SDVxMTQ3T0RaanNTdFFaUWpWZEZIbnVDU0hyUFpUVHAzajF4bTlJaWlCUQ?oc=5",
+          "published": "2026-11-16T12:07:32+00:00"
+        },
+        {
+          "title": "New religious freedom rankings reveal surprising state divide as legal expert warns of costly burdens - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmNXaXVOSUZGNXo2T19hRnBDcWR5TGxQRjBwT3dUUlJ6UjFUV0ZTSVBzYS02RkVpUUJiOWVQbTFPQnAxalRxeHVXWE9vNFlhZ192MFR6LTctOVRjNDZFcm1wdm5NVXJ5RDhCYnpGRFBkMmhDYlpNRkNRUDhyZThMRDVteEhOZFd0Q1FZRF90TWlnbGgtYTFmT1dJUWZZTHBpSGtjYUVRMHlZWDl0aHRYWXhPZ2dPSzc3aU43SV93?oc=5",
+          "published": "2026-11-16T12:00:58+00:00"
+        },
+        {
+          "title": "Why many Chinese Nvidia employees are staying on the sidelines as Huang leaves",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/science/article/3374605/why-many-chinese-nvidia-employees-are-staying-sidelines-huang-leaves",
+          "published": "2026-11-16T12:00:08+00:00"
+        },
+        {
+          "title": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
+          "published": "2026-11-16T11:54:43+00:00"
+        },
+        {
+          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+          "published": "2026-11-16T11:30:35+00:00"
+        },
+        {
+          "title": "Nvidia’s CEO Search Draws Fire; ‘Max Overweight’ on Stocks",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-opening-trade-11-16-2026-video",
+          "published": "2026-11-16T11:07:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.286,
+        "r": 0.202
+      }
+    },
+    "ai-chip-race-regulation": {
+      "kind": "major",
+      "title": "तकनीकी दौड़ के बीच दुनिया एआई, स्वायत्त हथियारों और चिप निर्यात के नियमों पर बहस कर रही है",
+      "region": "दुनिया / क्रिप्टो",
+      "summary": "अलग-अलग देशों और अंतरराष्ट्रीय मंचों पर एआई, स्वायत्त हथियारों और तकनीक के निर्यात के नियमों को लेकर बहस जारी है। रॉयटर्स की कवरेज और अन्य सामग्री दिखाती है कि सरकारें, व्यवसाय और अंतरराष्ट्रीय संगठन साझा सीमाएँ तलाश रहे हैं, जबकि एआई की दौड़ तेज हो रही है। रिपोर्टों में संयुक्त राष्ट्र के तहत वार्ताएँ, एपेक शिखर सम्मेलन के बीच साझा AI safeguards की अपील, तथा स्वायत्त हथियारों को लेकर अमेरिका, रूस और अन्य देशों के बीच मतभेद शामिल हैं। कुछ प्रकाशन इन बहसों को वैश्विक सुरक्षा और चिप व्यापार की व्यापक एजेंडा से जोड़ते हैं।",
+      "picture": "चित्र में सर्किट बोर्डों का भूलभुलैया, एक अंधा न्यायाधीश, स्वयं लक्ष्य साधने वाली धातु की भुजा और निर्यात से भरे बंद बक्से दिखाए गए हैं। यह इस बात का प्रतीक है कि तकनीक नियमों से आगे निकल गई है, और दुनिया उस चीज़ पर नियंत्रण बनाए रखने की कोशिश कर रही है जो बहुत शक्तिशाली और खतरनाक होती जा रही है।",
+      "mentions": 86,
+      "significance": 88,
+      "velocity": 86,
+      "domain_count": 25,
+      "articles": [
+        {
+          "title": "Iran rules out inspections of damaged nuclear sites until war ends",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+          "published": "2026-11-16T12:42:26+00:00"
+        },
+        {
+          "title": "Fed weighs AI's promise and risks - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3FYQi1FRlFyVE9JeXN0ZmhwRjF6dW9KQ01sRnRGdFFnVk93TjJ3UFBqTnR3MklGWXlWSmZCNkozSGhYNFNqRGN3b0dZLTE4a2Njc0QtdW9DTnduOVF1cmF0eDFfemcyQ1FOU1o1Z2o2QlpfcEpIU3RCUFdmbnlqWg?oc=5",
+          "published": "2026-11-16T12:27:48+00:00"
+        },
+        {
+          "title": "Apec CEOs seek common AI safeguards as adoption accelerates: Deloitte",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374612/apec-ceos-seek-common-ai-safeguards-adoption-accelerates-deloitte",
+          "published": "2026-11-16T12:00:10+00:00"
+        },
+        {
+          "title": "NBA eyes slam dunk with multibillion dollar fund to woo football giants - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTVLQ3k4Y0p2Yy1na1VSSVlYcFNxOUtkWHczSUwxcUNBNHQ5cnhBSUJBdHc2NzBsWF9sSkNsakNqVHoxVWRyRy1JYXZmUXhDbGNVUFp1TWpXdzlXTF9Edk9aWGxCbUwyMVU2MFlQbFNPd25pYmRSM0VPTE9FZlhWRDAzSUhvQWR1ZlV2ck0yOFFQYjJCdllrTUprR1ZwcTRkblpsbzNHRnAyQmM?oc=5",
+          "published": "2026-11-16T11:44:37+00:00"
+        },
+        {
+          "title": "Armes autonomes : « Confier la décision de tuer à des systèmes algorithmiques revient à franchir une ligne rouge morale »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/16/armes-autonomes-confier-la-decision-de-tuer-a-des-systemes-algorithmiques-revient-a-franchir-une-ligne-rouge-morale_6811701_3232.html",
+          "published": "2026-11-16T11:30:07+00:00"
+        },
+        {
+          "title": "AI law firm Alecto raises a seed round led by Insight Partners - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOS1aTnhrakFQUDlSUGVRdE91S2dTXzZiOUxxaVU0Tkd5dHNBaHkxVXdsOHh0T0ZsZkFrQjA4RUw1UE91Z1k1Q2I2S085cURNaHBNYmdDV244VWpoSDFKYmNUcV9WMkFFXzVaVnZ6WVIxYXVMeTg0OXV6MWt0VzIyUHNR?oc=5",
+          "published": "2026-11-16T11:20:54+00:00"
+        },
+        {
+          "title": "UN-backed talks consider possible rules on lethal autonomous weapons",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece",
+          "published": "2026-11-16T11:17:03+00:00"
+        },
+        {
+          "title": "UN climate chief warns of AI 'double-edged sword' at COP31 - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sbG9vSnlXdktqOEhZZGNrT1N5VnNVQ0l5OVAyamU1UmdDc3N0OXZMWDhtbklRcXdvcnhmRVduYlpEYUhHbGFLbXpLcUVxTHN0R213bzhDY241NkFaRWhudzloQ29FTW1ieXZac0lZMGpuckZSVkVQcWxrR1FJZw?oc=5",
+          "published": "2026-11-16T11:04:04+00:00"
+        },
+        {
+          "title": "EU renews push for global AI rules after midterms weaken Trump",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
+          "published": "2026-11-16T10:37:38+00:00"
+        },
+        {
+          "title": "🚨 Champions League ball gets new sponsor: Nike replaces Adidas - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjZJQkRzX0tPdHFVYXJyeUpYODRaSVFKN3BrMDJYbEgxc2dqVFctdk9YRkYwSjgxR3A3YVU3b0F2NS1yUzhYSG1Kdzg4UWczOHNPNmJFYnRMYkpOekE2X0hSMFBaZGhaUGs4cTRPMENKZFRJZ25adjNPNUNyU0JTY2pFZ0p4bkF4TVUw?oc=5",
+          "published": "2026-11-16T10:27:00+00:00"
+        },
+        {
+          "title": "Страны ООН хотят ограничить применение автономного оружия с ИИ. Россия и США выступят против переговоров, утверждает Reuters",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/16/strany-oon-hotyat-ogranichit-primenenie-avtonomnogo-oruzhiya-s-ii-rossiya-i-ssha-vystupyat-protiv-peregovorov-utverzhdaet-reuters",
+          "published": "2026-11-16T10:04:49+00:00"
+        },
+        {
+          "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+          "published": "2026-11-16T10:03:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.412,
+        "y": 0.35,
+        "r": 0.3
+      }
+    },
+    "us-flight-chaos": {
+      "kind": "major",
+      "title": "अमेरिका में विमानन प्रणाली की गड़बड़ी और उड़ानों की सामान्य स्थिति में वापसी को लेकर फिर से जाँच-पड़ताल जारी है",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "अमेरिका में विमानन व्यवस्था धीरे-धीरे सामान्य हो रही है, उस गड़बड़ी के बाद जिसने बड़े पैमाने पर देरी और उड़ान रद्द होने की स्थिति पैदा की थी। मीडिया रिपोर्टों के अनुसार अधिकारियों को उम्मीद है कि स्थिति सोमवार के अंत तक स्थिर हो जाएगी, लेकिन हजारों उड़ानें अभी भी ground stop के असर से प्रभावित हैं। अलग से इस बात पर चर्चा हो रही है कि इस गड़बड़ी का कारण क्या था और भविष्य में ऐसे हादसों को कैसे रोका जाए। कुछ रिपोर्टें इस विमानन अराजकता को व्यापक डिजिटल बुनियादी ढांचे की विफलताओं से भी जोड़ती हैं।",
+      "picture": "चित्र में विमान ज़मीन पर खड़े हैं, एक टूटी हुई नियंत्रण टॉवर के चारों ओर उलझे हुए, पास में फेंके गए सूटकेस और खामोश रडार पड़े हैं। यह एक ऐसी जड़ हो चुकी व्यवस्था की छवि है, जहाँ एक तकनीकी समस्या पूरे देश को तुरंत रोक देती है।",
+      "mentions": 74,
+      "significance": 77,
+      "velocity": 45,
+      "domain_count": 20,
+      "articles": [
+        {
+          "title": "Catch up quickly: Flight chaos; weakened Trump; healthiest breakfast - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzZfTFFCTTl0ZFVTRHQyZXlPTjdTeTVXc0xWTVRPcE8waS1zbUkxM0VUZUFTYnZaVnpYRWJmY09NOXhnQjQ0RHJEdnBmZjhLM0hMRHdTTzRNYnpKV0JtS2FYU1R0Q3JSby1LRkdLeG9vVDl0ZUtsTmx5dWxGdno4dERyUEZFR3JNOUJFaVFn?oc=5",
+          "published": "2026-11-16T12:47:43+00:00"
+        },
+        {
+          "title": "Video Air travel recovering after nationwide ground stop - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pZjRYTmJfY2xNUXVhYlBnQldyNkJ5SWM1LVYySjg1a3NnR0ZEUzVWWkotOG0wRFhTenFRUjZ0Q3c1UUpTUnBWUVB3c1E?oc=5",
+          "published": "2026-11-16T12:31:10+00:00"
+        },
+        {
+          "title": "Microsoft confirms all services are restored after global outage - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEJfV21haXpneld6cDBuakxMSkthMDlzUnJ0QTE2NHRYV2gyMWpxY2sxQ1VLOXFxVS1WVDEtYUp1enJUbWtjZGtvbWlITVI2dlU2MVZXclV5SGc5WXlwVmlRN005OW5VamR3TnQtMjNUN0pJcnlQX1FweU5lRTl1OXpwaUtYZERqYzdDaWJkZ2tLWFZwVDVnT096OWdvaWEtS1E?oc=5",
+          "published": "2026-11-16T12:27:51+00:00"
+        },
+        {
+          "title": "US airports slowly return to normal after three days of disruption caused by take-off ban",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/16/us-airports-slowly-return-to-normal-after-three-days-of-disruption-caused-by-take-off-ban",
+          "published": "2026-11-16T12:11:16+00:00"
+        },
+        {
+          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+          "published": "2026-11-16T12:08:14+00:00"
+        },
+        {
+          "title": "US airports slowly return to normal after 3 days of disruption",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044934/us-airports-slowly-return-to-normal-after-3-days-of-disruption",
+          "published": "2026-11-16T11:25:37+00:00"
+        },
+        {
+          "title": "Duffy Wants $50 Billion to Prevent Future Aviation Disruption - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM00xbTN3YlJuUks4aVN2aGl5Rkdkb0xRQjRKUHR5Mi05eFFWZXk3c1FyUXVfenIxVzhUSGZHTndWUklsREFmMTI2RTdobUx5RTVONlVOclk3TEtaYjh6ZWluNk02d1RlSW5KUTFEY3NKSXFta2VLMG9UTEZEX2lZVklQdlFEdnVHZFlXdGM5V3ZTWFVRRm1SdENFWW9XUzZCLTZMZTdka29IbVlNNTlFY3FNMFlFSE9HTlNPdmo0YmExM0RZVGczazhXVlBLSmpvSE9RRzdmSFJIZw?oc=5",
+          "published": "2026-11-16T11:08:00+00:00"
+        },
+        {
+          "title": "Suspension des vols aux Etats-Unis : au moins 276 vols annulés, et plus de 850 retardés, lundi",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/suspension-des-vols-aux-etats-unis-environ-240-vols-annules-et-quelque-530-retardes-lundi_6811688_3210.html",
+          "published": "2026-11-16T10:49:03+00:00"
+        },
+        {
+          "title": "104 flights cancelled due to weather conditions at Sydney Airport",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-16/flight-delays-cancellations-at-sydney-airport/107392306",
+          "published": "2026-11-16T08:58:08+00:00"
+        },
+        {
+          "title": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUENIeGFqX0FwQk9Vcm5VekZSY0xES05yc3k2bHFqY1JDZ0Y2cG0wWTl0QXNqZ1lJR3N0VUZYM0hGR3R5NVR4dGlXZ0JzMGFESDdVZi1hR3dBREM2SmsxODAwQmItd2xtS2RFdkVvZjQ1LUNWOV9OZkdTSVJfQ3piTkVZYlVMdw?oc=5",
+          "published": "2026-11-16T07:27:00+00:00"
+        },
+        {
+          "title": "US airports expected to return to normal after three days of disruption - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZG9wUzhmTk9pTVd0ZWlhUnhXZnFJcFRqY1VtSUdYbW1Eajgwcy1YQ3ROQjNUdUw4M3R0bHh0d0NYdXhWbF83RzlNZDVfS2FmMlppTGxwY01DVFlwY2JfUnEyS1drLTVCMFktQS1IakxwdUZhVWgtMENqX3FXcWswVDQxWHZya0gzc09scDBB?oc=5",
+          "published": "2026-11-16T00:39:23+00:00"
+        },
+        {
+          "title": "Caos aéreo: Estados Unidos promete regularizar este lunes el tráfico luego de bloquear 20.000 vuelos",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/caos-aereo-estados-unidos-promete-regularizar-lunes-trafico-luego-bloquear-20000-vuelos_0_TL4t5LdXme.html",
+          "published": "2026-11-15T22:24:12+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.643,
+        "r": 0.151
+      }
+    },
+    "ukraine-peace-framework": {
+      "kind": "major",
+      "title": "यूक्रेन में युद्ध एक नए और खतरनाक चरण में प्रवेश कर रहा है: पुलों और ऊर्जा ढांचे पर हमले, परमाणु घटनाओं का जोखिम बढ़ा",
+      "region": "यूक्रेन",
+      "summary": "यूक्रेन में युद्ध एक नए और खतरनाक चरण में प्रवेश कर रहा है: रूस ऊर्जा और बुनियादी ढाँचे पर हमले तेज कर रहा है, जबकि यूक्रेन जवाब में रूसी क्षेत्र पर बड़े ड्रोन हमले कर रहा है। रॉयटर्स और अन्य प्रकाशनों के अनुसार क्रीमिया पुल पर हमला हुआ है और युद्ध शुरू होने के बाद से यूक्रेन का सबसे बड़ा ड्रोन हमला दर्ज किया गया है, जबकि पश्चिमी मीडिया यूक्रेनी शहरों में गर्मी, पानी और स्वच्छता के खिलाफ रूस के शीतकालीन अभियान की रिपोर्ट कर रहा है। कुछ रिपोर्टों में यूक्रेन के कई क्षेत्रों में बिजली बाधित होने की बात भी कही गई है। प्रकाशन हमलों के पैमाने और नुकसान की मात्रा को अलग-अलग ढंग से प्रस्तुत करते हैं, लेकिन इस बात पर सहमत हैं कि तनाव बढ़ता जा रहा है।",
+      "picture": "चित्र में एक टूटी हुई ढाल-मानचित्र, नष्ट हुआ पुल और चमकता रिएक्टर दिखता है, साथ में चेतावनी वाले कागज़ और एक-दूसरे की ओर तनी भाले। यह उस युद्ध की छवि है जिसमें मोर्चा, नागरिक बुनियादी ढाँचा और परमाणु सुरक्षा तीनों खतरे में हैं।",
+      "mentions": 74,
+      "significance": 96,
+      "velocity": 52,
+      "domain_count": 20,
+      "articles": [
+        {
+          "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+          "published": "2026-11-16T12:50:08+00:00"
+        },
+        {
+          "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
+          "published": "2026-11-16T12:42:10+00:00"
+        },
+        {
+          "title": "Ucrânia ataca ponte da Crimeia; Estônia fecha fronteira com a Rússia",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ucrania-ataca-ponte-da-crimeia-estonia-fecha-fronteira-com-a-russia.shtml",
+          "published": "2026-11-16T12:28:00+00:00"
+        },
+        {
+          "title": "Война. 1727-й день. Украина атаковала Крымский мост, автомобильное движение по нему закрыто. «Происходит оценка незначительных повреждений», — заявили в Кремле",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/16/voyna",
+          "published": "2026-11-16T12:15:48+00:00"
+        },
+        {
+          "title": "Глава МЗС Естонії назвав умову миру в Європі: \"Позбутися сірих зон\" між НАТО, ЄС і РФ",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/16/8063091/",
+          "published": "2026-11-16T12:02:00+00:00"
+        },
+        {
+          "title": "Israel under pressure as winter rains lash Gaza",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/463238ee-2d5f-4ae8-b48b-8a39444c08bd?syn-25a6b1a6=1",
+          "published": "2026-11-16T11:58:17+00:00"
+        },
+        {
+          "title": "Ukraine hits Russia's Crimea bridge in 1,300-drone barrage - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXVOU3E3b1lHME5xWU1abDM3dnliSUNjRkMwQW52MDJrLXlEaC1SdnA0eEc3NHVlRWY5cjZiVGh4MEZPUGFrTUVjbTNCSGdPRTZWRXBuUGxscGNZX1h6bUxWdU5ZU2FYZDBOWXNTb2xLMFc4aDRXTGZ5V1ZJSUFNRS13?oc=5",
+          "published": "2026-11-16T11:25:45+00:00"
+        },
+        {
+          "title": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks",
+          "published": "2026-11-16T11:18:47+00:00"
+        },
+        {
+          "title": "Ukraine fires 1,336 drones into Russia in one of war's largest attacks, Moscow says - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3owSHVqaFpmYndPVDdyYzNIajZpTElDTUJEdi1QVHZ0ZjZHdEwwUV9QU25uZzJCY3ktcVpNRDRmUDMxUzRtVDdTNDFPaVRvdGJ1YU54TTBYbHp0MTRLRmFOeW9qQW1RbnAwXzg2T1FrTENSancwaUZkNko2ZWZaRDVtNE95M2FfYkgxSmtyY0ZvbXU0dHdobkdUNjU5RGUtMWpjVlVsYjBjUdIBrwFBVV95cUxOM29Fdy05Q0FEcFJibFAxTDZxcUhOYTI5ZDREcVliNzY0c1d0YnhTb2lzaHE0dkNwSlM2Ml8xUVZESm9wcmNld0V0VzZKTEYzcVZCNlZBZ2VoOWhneHcwLXZZM3YzQ2FIQzcxRld0YlJzX2pqRVdXZzNXY2hHOVhhbnRBLUZWWTBLME4yZGYyeHZnWGxCVG1fdUFzNWtiQ1BvYm85OXhmLTg0QlRubWtR?oc=5",
+          "published": "2026-11-16T10:57:59+00:00"
+        },
+        {
+          "title": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
+          "published": "2026-11-16T10:45:35+00:00"
+        },
+        {
+          "title": "Denuncia Ucrania problemas con sistema Starshield",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/denuncia-ucrania-problemas-con-sistema-starshield/",
+          "published": "2026-11-16T10:44:29+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : des coupures d’électricité dans six oblasts ukrainiens après des attaques russes",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-une-attaque-russe-prive-plus-de-50-000-foyers-d-electricite-dans-l-oblast-d-odessa_6810982_3210.html",
+          "published": "2026-11-16T10:41:10+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "asean-myanmar-peace": {
+      "kind": "major",
+      "title": "आसियान और पड़ोसी बिना किसी बड़ी सफलता के म्यांमार को हिंसा में और गिरने से रोकने की कोशिश कर रहे हैं",
+      "region": "एशिया",
+      "summary": "दक्षिण-पूर्व एशिया के नेता शिखर सम्मेलन में क्षेत्र को नए संघर्षों और हिंसा से बचाने की कोशिश कर रहे हैं, लेकिन कोई खास सफलता नहीं मिली है। खबरों में दक्षिण चीन सागर पर बातचीत, संयम और साझा नियमों की अपील, साथ ही म्यांमार में हिंसा की निंदा और उसके नेतृत्व पर पाबंदियों के विस्तार का उल्लेख है। रॉयटर्स और एपी लिखते हैं कि चीन और आसियान देश विवादों से बचना चाहते हैं, जबकि अन्य रिपोर्टें शिखर सम्मेलन और व्यापार वार्ताओं के व्यापक एजेंडा को जोड़ती हैं। केंद्र में बिना अंतिम समाधान के तनाव कम करने की कोशिश है।",
+      "picture": "चित्र में फटी हुई पगोडा के चारों ओर हाथों का एक नाज़ुक घेरा है, पास ही शांति के कागज़ और खिंचे हुए बैनर के रस्से हैं। यह दिखाता है कि क्षेत्रीय खिलाड़ी एक ऐसे अस्थिर संतुलन को बनाए रखने की कोशिश कर रहे हैं जो आसानी से टूट सकता है।",
+      "mentions": 57,
+      "significance": 78,
+      "velocity": 64,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "China, Asean pledge restraint as talks on South China Sea pact face key hurdles",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/china/china-asean-pledge-restraint-as-talks-on-south-china-sea-pact-face-key-hurdles/articleshow/135888093.cms",
+          "published": "2026-11-16T12:18:23+00:00"
+        },
+        {
+          "title": "China, Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/china-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/article71707568.ece",
+          "published": "2026-11-16T11:13:20+00:00"
+        },
+        {
+          "title": "China says Xi, Trump, Putin to discuss 'world peace' - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hb3Mta2h4dE1KWjVld2VtRS0zY09TUWVqY3l6cVE0RDlUREdaU3I2RUZHdGgwUG9QUGM4SzJwYVNCMllQYUU2WThZTDg2V3NYd2ExMjZfNEhGMUIwb25yRW1jUFZvQmZEZVRtc1NaaDM0cC13SERV?oc=5",
+          "published": "2026-11-16T10:03:43+00:00"
+        },
+        {
+          "title": "S. Korea's Lee holds summit with Philippine President Marcos",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261116009000315",
+          "published": "2026-11-16T09:42:12+00:00"
+        },
+        {
+          "title": "China and Southeast Asia pledge to avoid disputes during talks on South China Sea pact - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm55YWVEb1owRy1QZUFycGFRcDZJdWlmcE1TSm1HbGh4OVRjTWNDNl9BYlpsd0ZUekYtMGRPTUtnVGdFQVJwZTd3WGhDYXlMNnowOTA5Q21EUl9LVUhOcFhpUERNZkQyRmh5eXp5UWdPMWhQRnBsZzcxWmpPOFk4ZDlIVlRqZG9DMUdpV0ZKZHloXzR1ZnRCQ2dn?oc=5",
+          "published": "2026-11-16T09:31:00+00:00"
+        },
+        {
+          "title": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+          "published": "2026-11-16T08:49:51+00:00"
+        },
+        {
+          "title": "APEC Reviews China Trade Framework Before Shenzhen Leader Meeting",
+          "domain": "econotimes.com",
+          "url": "https://econotimes.com/APEC-Reviews-China-s-Trade-Framework-Before-Shenzhen-Leaders-Meeting-1777507",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0MyZ3lxSkpUNXBvTUJuRGgta0lValdjb1dfQmpMVGJVdGNjVDU4ck9aZ1NtOGlUN0NkeXpsZklCcm1LeEJfRy02ZENUMHIxWkRHbVZ0YUxlNjNGTzBaUmhLOVIxVVZHcldFY2FZV1diOFFzSGJycjFPVk1UUkJBYUNza1RGNHhTYndPaVdUU21xempNRTZSMGFUdUdVZC1aM1QzSGtNakRudldZYjNkZG9oR1pLWkhW?oc=5",
+          "published": "2026-11-16T05:40:00+00:00"
+        },
+        {
+          "title": "China’s upgraded trade pact with Asean to take effect on December 1 – as it happened",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374527/chinese-premier-li-qiang-addresses-asean-summit-manila",
+          "published": "2026-11-16T02:15:26+00:00"
+        },
+        {
+          "title": "Southeast Asian leaders denounce violence in Myanmar and extend ban on its leader - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVVITGhkbTdKVzAtNlVzTmo1NWZTcWpQMW1UWmlmNl9NMHBuMi1zQk95M0Q5VGIxSWNMOWhRSnJZLXo1dWlEVjBvR0laVGsxc05STlRKWEU5dFdyUGFCYUxMSE1sX2RMdXRTUlJkRGc5aHEtZFQ1UzlTMmN5NU5zei1jeGJGbnBrdTFhWllkeHI4eGhweVNUQXprN2NkNlBpZGlPMDl2MGNlaEQwWGFydzJfZmI4N2pZcWZmaQ?oc=5",
+          "published": "2026-11-16T02:03:56+00:00"
+        },
+        {
+          "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkhyWVBDd29nSk9adWt5a0NSZGJSSGc0YTd0TC16UE5ISGRONGJzX1hfYkFkbFlDXzE0WWRuVjg4al9EbEVHODRubGplMnlMUkgtX20ybDhQeEhpNWpHN29HcVhPU1I2UFlIWXVFeDRMb0dhcXhKLURMSlZoZXFVV3FiZlhNb0FDc2YzN0dOQ2lXeTdEazR0NXZ3eW5yT1BRUDk2M182OGttaWgwSzdkV09TaXdrU3RsRndIOGJOX1JwR01OUE9lQy15ZlVQRGPSAdQBQVVfeXFMTkEyYU1HX1lLeUNZMEYxSk5Cd05MUHg3LUhPOThPVndLUzduT3RpYjhISVhRVDhLeFkya0c1STRkRVhyOWxrUGN1SV9QMlhiV0YxN3oyeFdnbTMxeU14VnBhZWppR0ZqN2R2YkVzajRra05feFg1Y0szdGdMcnZyNnppTlA5TUZudlRBbDQyeG1RNm5udjlCX0Q4RFFIMGF0eEZJVFkxWXh3elh3Mk1leWNyWnJ5Qzdaa1k0aENoLWJXX1J5ME50WTBEQm9pRmZpVlg0YVo?oc=5",
+          "published": "2026-11-15T21:21:00+00:00"
+        },
+        {
+          "title": "Southeast Asian leaders denounce violence in Myanmar and extend ban on its leader - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM25rTjRiUmZZMXI5T1o4U1NVMDJBMFZQTVhQenlwTDVabHlHZk1MMGpaNFRueFZ0a3RqY2U1a1ZxN05HeVJZN3BvZHpSd0theFNKd2ZsUWpQNl9GZDA3S2Zub3pXbmIzc2xlREpSck1YN2lmaDctVEI3WHRtUFB6Z2pKU2J5ZkxZaFBjTGJDQS1VNkxJeDYzMDY2Uy1PXzJYT3pCamJwNC1qd1V6dzhBNkV3MnDSAboBQVVfeXFMT21FQzZfX2xmTXlzSUdUQ29WQlBQVGR4emIxQjhQbndfMjA4dDg5bzZGbjB4clZBTGdiRE5DcTAwUzBWQjZVX0h6aHBKVFg1TUs4eWVGQVFiVDBaVnhUY0lXN0MxOWdLOXVvTkpqNm5VTFhMZC1tV1hhREhEajRkVGpoMG1ULUJjUGg1amY1MHVBekQxRzUzT1RzWHNZeHdLYnNsaXZDcWEyZ0tpcUNRVjRsQU4ybk5RZi1B?oc=5",
+          "published": "2026-11-15T15:32:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.729,
+        "y": 0.726,
+        "r": 0.156
+      }
+    },
+    "pope-peru-homecoming": {
+      "kind": "major",
+      "title": "पोप पेरू और अमेज़न की यात्रा पूरी करते हुए मारे गए पर्यावरण रक्षकों के लिए न्याय की मांग कर रहे हैं",
+      "region": "लैटिन अमेरिका",
+      "summary": "पोप लियो XIV दक्षिण अमेरिका की यात्रा, जिसमें पेरू और अमेज़न शामिल हैं, पूरी कर रहे हैं और मीडिया रिपोर्टों के अनुसार हालिया ऑपरेशन के बाद भी कठिन यात्रा को अच्छी तरह सह रहे हैं। पेरू में उन्होंने मारे गए पर्यावरण रक्षकों के लिए न्याय की अपील की और अमेज़न की रक्षा कर रहे आदिवासी समुदायों के प्रयासों का समर्थन किया। एजेंसियाँ इस यात्रा को स्वास्थ्य की परीक्षा और उस क्षेत्र में एक प्रतीकात्मक वापसी के रूप में लिखती हैं, जहाँ उन्होंने पहले मिशनरी और बिशप के रूप में सेवा की थी। अलग-अलग प्रकाशन अलग जोर देते हैं: कुछ पोप की शारीरिक सहनशक्ति पर, तो कुछ अमेज़न की रक्षा पर उनके शब्दों पर।",
+      "picture": "चित्र में तीर्थयात्रा की छड़ी, माला से सजा दिल, एक कबूतर और उष्णकटिबंधीय वर्षावन की पत्तियों के बीच फैली हुई हथेलियाँ हैं। यह आध्यात्मिक यात्रा और अमेज़न के लोगों व प्रकृति की रक्षा के आह्वान का प्रतीक है।",
+      "mentions": 57,
+      "significance": 58,
+      "velocity": 80,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+          "published": "2026-11-16T12:43:11+00:00"
+        },
+        {
+          "title": "Willie Geist to Exit MS NOW’s ‘Morning Joe’ for Expanded Role at NBC’s ‘Today’ Show - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdE12MnNOcHUwampzU3RFSU1iMFYwLUh1XzFjUTF5M1ZMTFpwTExvblRoNzBCU09qMGpLLXh3RHVzM01aMTFqNVd4QjRaUzIzSTVrdFdLcEg5dzZUVmI3dkhTdU5PaVlSN2VZUnZCV0p5NXFGNEwtbkNuTmktRFlpeldWM290dE5ZY3M3Ujl6NnNjYnJSOHZjd3NMQ2g1aFdBT2tEWW1JOUctaFNoR3dYVWdmSEUxN3BJ?oc=5",
+          "published": "2026-11-16T12:20:44+00:00"
+        },
+        {
+          "title": "Pope Leo wraps up South America tour that tested recovery from cancer surgery",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261116-pope-leo-wraps-up-south-america-tour-that-tested-recovery-from-cancer-surgery",
+          "published": "2026-11-16T12:15:46+00:00"
+        },
+        {
+          "title": "A ‘miracle’ or Chicago grit? In South America, a post-op pope shows endurance. - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzFnXzgxSmNsdmE3c2c5QXlxSDU1anh4YjQtUk15dzRRQWdKblF5Uk00R3g2VENhcVBlZzQzWW5YYkN0Mmk3MDJrNGY3Nkg1d2M2eTRpeGNvVGFzTC1DV19Rd1QyaVltazZaeFN1cGdXUjhRb01TTXlqRkZ0SjNCbzNRM3pGZW51OTZRajAzbXcwM0lxaExJbmNDOU9FX3Jqd2hvRms5Z1lwT0RHS1N5aEJMZmVSUQ?oc=5",
+          "published": "2026-11-16T11:33:01+00:00"
+        },
+        {
+          "title": "Peruvians honour Pope Leo XIV with procession through Lima",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/peruvians-honour-pope-leo-xiv-with-procession-through-lima",
+          "published": "2026-11-16T08:55:08+00:00"
+        },
+        {
+          "title": "Pope Leo wraps up South America homecoming that tested health - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazdoN2NuSFpaRnl0X01PQnFmeWNObVNCZWdSUTJqSkJhaTF2aVNOdUk5ZE4xVkhUNXU0bE94cV9KckFfMFJ5UVFyYjduV2NsMVRneU9RR0dZdUlKenlUbVh0bDdDdGNlamVEMVItUndzT0lLckdUWGN4TVRhcGpkbkNB?oc=5",
+          "published": "2026-11-16T06:07:21+00:00"
+        },
+        {
+          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
+          "published": "2026-11-16T03:19:00+00:00"
+        },
+        {
+          "title": "Pope Leo revisits Peruvian city where he once served as a missionary, bishop",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/",
+          "published": "2026-11-16T01:55:00+00:00"
+        },
+        {
+          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzBNT2hSYXpjVXhlLTZVdUw1b1VDTV9xdXB4VXQ1aVpvcElKd045UWoxZU9MMDl4RzhjaXVySkdTQmJ1aXY4Y2N2UEx3X3Z4aFlEY1ptMGt0Wm5ydmpPWUU2eEh5NmM0WDlLaTFSLW00UHdDSEduV0RZWjA1SXpPV1VjRm5HMWtWNElrSXZ5NnF4aWhjQlhCOHB3TC1xbGhfVUHSAacBQVVfeXFMTXUxQlBjQjhVQkhJZmhhRWVFWUpyYlItcW9GeUhwZ2Fja3BZNVBBaktlMUY5R2RKeUJuOWk5RlJwdmRQVFJQSjZDX1dUcjNRMFkxWV9iU20zcGhsVWZzZ1Q0S1R1cUhkWWd2eXFIeW1zRzdtTFE2aXBWM3Z4UnFyaHdhZzlaSmZkWjdXdWtCTWljYjluRVczYnRxbjVfTWtmTnJIZmJwSDA?oc=5",
+          "published": "2026-11-16T01:39:07+00:00"
+        },
+        {
+          "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+          "published": "2026-11-16T01:13:44+00:00"
+        },
+        {
+          "title": "Pope laments Amazon’s ‘cry,’ says rainforest and peoples under threat - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2VBUldtUEY2eEoxYjFwdGw0bXNjT3JiMFNiSVB1U2Q5ZHZDbHJqdHFHNE9oMjBfdmRZV0xBSEVicnVXNGhNZ05fcmJOeGRaSVg3OVNPcHhEUHNiVVlsVUFDc1NQRXV5RS1yZ1VVaS1PSWZubzEtSnhGZnkxOWVQQ284TVJ5RF9IbXFWTXV2NUdVSFlDbzBZRVc2VGxhTUtzUU9jbzlkNA?oc=5",
+          "published": "2026-11-15T22:16:31+00:00"
+        },
+        {
+          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQm1kWFJtUzFLSmpqSm9GdjlieFFETVBPQlJ4M0NYT01xYWg2eEIwX2x4WkR0RDhheVJjaXlXYkJzZ0szUk94aGFQM25RZE5UMnRWRzJfZjdKOEFxVHRWQmJKRHNSSEl0bkRock0tb1BIZGhJd0RSR3YtbkFubWRpRDNYYw?oc=5",
+          "published": "2026-11-15T21:41:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.771,
+        "y": 0.845,
+        "r": 0.156
+      }
+    },
+    "gaza-hospital-strike": {
+      "kind": "major",
+      "title": "गाज़ा में बारिश, हमलों और मदद की कमी के बीच मानवीय संकट और गहरा रहा है",
+      "region": "फिलिस्तीन",
+      "summary": "गाज़ा में मानवीय स्थिति बिगड़ती जा रही है: सर्दियों की बारिश क्षेत्र को ढँक रही है, और अंतरराष्ट्रीय संगठन तथा इज़राइल के सहयोगी सहायता पहुँच को तेज करने की मांग कर रहे हैं। फाइनेंशियल टाइम्स लिखता है कि इज़राइल तंबुओं समेत जीवनरक्षक सामानों के प्रवेश पर रोक लगाकर संकट को और बढ़ा रहा है, जबकि बीबीसी और अन्य मीडिया ब्रिटेन, ऑस्ट्रेलिया, कनाडा और इटली की ओर से मानवीय सहायता के लिए रास्ता खोलने की संयुक्त अपील की रिपोर्ट कर रहे हैं। रिपोर्टों में बारिश और आपूर्ति की कमी के बीच विस्थापित लोगों की कठिन परिस्थितियों का भी उल्लेख है। प्रकाशन इस बात पर सहमत हैं कि स्थिति गंभीर बनी हुई है, हालांकि कारणों और जोर को अलग-अलग तरीके से प्रस्तुत करते हैं।",
+      "picture": "चित्र में टूटी हुई अस्पताल की बिस्तर के पास पानी की दरारदार कटोरी, फटी हुई चादरें और सहायता का टूटा हुआ डिब्बा दिखाया गया है। यह ऐसी मानवीय व्यवस्था की छवि है जो दबाव झेल नहीं पा रही और लोगों को बुनियादी सुरक्षा से वंचित छोड़ रही है।",
+      "mentions": 51,
+      "significance": 95,
+      "velocity": 68,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "Israel under pressure as winter rains lash Gaza",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/463238ee-2d5f-4ae8-b48b-8a39444c08bd?syn-25a6b1a6=1",
+          "published": "2026-11-16T11:58:17+00:00"
+        },
+        {
+          "title": "‘Whatever you do, you are just a Palestinian’: Journalist recounts ‘nightmare six-hour ordeal’ with Israeli soldiers - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS0NpSF82UXZyc1pFN1FJMWVESHV1OGF1QnpSQWUzVmoyX0w5SndzeGZWeUFCRW50dGJMbnVmck0tbkp3YmxMR1lLOGRlWktTY2dJNmpYR2Q3Snc0WENDbE1MdFZHTFN1ZXpia0V1czJ6NURhWDl6bUVsdmVIcFR5akhtU3dfaGZLSUQ1OXc5R3NNZkpMU1ZRYlNzbDR6bDE5RHROeGptT1ItcGhCazJsUjR1WHE1RDBuc2pzVnZDUTNoOFdha2c5REJHZjEtVlU2TkV5MVUxMzd4Vk9YdERqbERXSQ?oc=5",
+          "published": "2026-11-16T11:44:46+00:00"
+        },
+        {
+          "title": "The tragedy of recurring Rohingya refugee deaths",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/the-tragedy-of-recurring-rohingya-refugee-deaths/article70917953.ece",
+          "published": "2026-11-16T10:26:13+00:00"
+        },
+        {
+          "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
+          "published": "2026-11-16T09:10:00+00:00"
+        },
+        {
+          "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T08:56:04+00:00"
+        },
+        {
+          "title": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders",
+          "published": "2026-11-16T05:10:26+00:00"
+        },
+        {
+          "title": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S. - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDJzX3ZZUmk0ZHJvY3hHNFpBbDRfQlBpT25MWEZNNGY1QUsxWnlRVkl2WXNFN3puTS1ra2pHc2ZkeDI5WUxZcm9yZ1JheGRQYXlGM0VfMVRmY01UdmVDc1R1UDYyUk9MWGpKTzQ0bzFKOGJQS3VhMDhJdzkyaDQwanNLTFMzVU5vRVdUbVRudjQtQ0NCZXdleUJOeWwxaEVXQ3c0TEs1dkNZSTY4RnAxc1I3c1JhY3dNNy1JRFR4cmJnWHNl?oc=5",
+          "published": "2026-11-16T02:18:13+00:00"
+        },
+        {
+          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzBNT2hSYXpjVXhlLTZVdUw1b1VDTV9xdXB4VXQ1aVpvcElKd045UWoxZU9MMDl4RzhjaXVySkdTQmJ1aXY4Y2N2UEx3X3Z4aFlEY1ptMGt0Wm5ydmpPWUU2eEh5NmM0WDlLaTFSLW00UHdDSEduV0RZWjA1SXpPV1VjRm5HMWtWNElrSXZ5NnF4aWhjQlhCOHB3TC1xbGhfVUHSAacBQVVfeXFMTXUxQlBjQjhVQkhJZmhhRWVFWUpyYlItcW9GeUhwZ2Fja3BZNVBBaktlMUY5R2RKeUJuOWk5RlJwdmRQVFJQSjZDX1dUcjNRMFkxWV9iU20zcGhsVWZzZ1Q0S1R1cUhkWWd2eXFIeW1zRzdtTFE2aXBWM3Z4UnFyaHdhZzlaSmZkWjdXdWtCTWljYjluRVczYnRxbjVfTWtmTnJIZmJwSDA?oc=5",
+          "published": "2026-11-16T01:39:07+00:00"
+        },
+        {
+          "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+          "published": "2026-11-16T01:13:44+00:00"
+        },
+        {
+          "title": "11/15/2026: The Cost of War; Kratom; John Malkovich",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/60minutes-2026-11-15/",
+          "published": "2026-11-16T00:00:00+00:00"
+        },
+        {
+          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQm1kWFJtUzFLSmpqSm9GdjlieFFETVBPQlJ4M0NYT01xYWg2eEIwX2x4WkR0RDhheVJjaXlXYkJzZ0szUk94aGFQM25RZE5UMnRWRzJfZjdKOEFxVHRWQmJKRHNSSEl0bkRock0tb1BIZGhJd0RSR3YtbkFubWRpRDNYYw?oc=5",
+          "published": "2026-11-15T21:41:00+00:00"
+        },
+        {
+          "title": "Australia, Canadá, Italia y Reino Unido instan a Israel a permitir acceso \"rápido\" de ayuda para Gaza; se registran 5 muertos por lluvias",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/mundo/australia-canada-italia-y-reino-unido-instan-a-israel-a-permitir-acceso-rapido-de-ayuda-para-gaza-se-registran-5-muertos-por-lluvias/",
+          "published": "2026-11-15T21:22:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.857,
+        "r": 0.202
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "फारस की खाड़ी और होर्मुज़ के पास हमले और विस्फोट फिर से समुद्री व्यापार और तेल के लिए खतरा बन रहे हैं",
+      "region": "मध्य पूर्व",
+      "summary": "फारस की खाड़ी और होर्मुज़ जलडमरूमध्य के पास हमलों और जवाबी कार्रवाइयों के कारण समुद्री व्यापार पर जोखिम फिर बढ़ रहा है। Euronews और अन्य प्रकाशन अमेरिका और ईरान के बीच नई गोलीबारी, तथा जलडमरूमध्य क्षेत्र में जहाजों पर बढ़ते हमलों की रिपोर्ट कर रहे हैं। Bloomberg के अनुसार ईरान ने बहरीन में फिर से लक्ष्यों पर हमला किया है, जबकि बाजार अधिशेष के पूर्वानुमानों के बीच तेल आपूर्ति पर खतरे का आकलन कर रहे हैं। रिपोर्टों में जोर दिया गया है कि स्थिति अस्थिर बनी हुई है और परिवहन तथा कीमतों पर सीधे असर डाल रही है।",
+      "picture": "चित्र में दो जलते हुए टैंकर सिकुड़ते हुए चट्टानों के बीच फँसे हैं, चारों ओर तेल की बूंदें और टूटी हुई व्यापारिक रेखाएँ हैं। यह उस समुद्री गलियारे की छवि है जो माल और ऊर्जा के लिए जाल में बदल जाता है।",
+      "mentions": 48,
+      "significance": 90,
+      "velocity": 45,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Oil Prices Slip as Market Weighs Supply Surplus Forecasts Against Fresh Mideast Attacks - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFRTOG40c09ReVZDUGcyOVFJZUFUMG9GMHRJYmNCUUFhV1cxeXR5YWpjV0FCM0NDSEFpcloyTDZlNFJwQzUxeWQ4elFTRV9rbVZwUTJSc3NhVkhTLVQtRlBkTWZwdnpCQnVfU0szZVpyTkRudjhKZ2w0cVpac0JrZ094a1NQZlAyZEQyU1p0RXFiUHZ2ems3Mk5JaE8zcVFKc29SYy1iOWpNZEVyVDB0czl2c0k3MmVRS0ZCcHBxWlBGUQ?oc=5",
+          "published": "2026-11-16T12:00:00+00:00"
+        },
+        {
+          "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+          "published": "2026-11-16T11:42:16+00:00"
+        },
+        {
+          "title": "Linda Creed joins Rock Hall, cementing Philadelphia Soul's legacy - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDZXbmlaN2NzT1FaYUlNYzV2RGdmbkZPczUxd3ZyVjhTOTF1Q0k2ZlFpLWlFRnp4ODcwOWlNc0tnUXROSHRBcVRIM2NHU0JXd0s1RGN3Z3o0dkdqZzhRaXJfc2FfenhScW1YenYxcmY3eDBQLURib1FpNlRfTERDbm5RekJ4SHptSWZWV05vdFpQWHZ2clE?oc=5",
+          "published": "2026-11-16T11:22:34+00:00"
+        },
+        {
+          "title": "Iran Targets Bahrain Base, But Stays Open to US Deal",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/iran-targets-bahrain-base-but-stays-open-to-us-deal-video",
+          "published": "2026-11-16T11:09:49+00:00"
+        },
+        {
+          "title": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUs2NE56Z2hUTXR1OHUtM3RLaUFRdkYzeS1IdkZaV1BfbkM2N29XamhOa2lhUkM2TUxNTkdNY0JyQWQ1LVJ1SlhnbEZHZ1RxSjZOeGp3WXljM0xkd3VyekJHUldSYmd2YlY3NUJjWHpFUkRDc3ZrRXpwN3hha1RrbFRVMjBMdHZVeVJVdzVUdWg4OThDWjJYSXFCUWdsclFLWHVCZFJTSnlEODg?oc=5",
+          "published": "2026-11-16T10:13:29+00:00"
+        },
+        {
+          "title": "Art meets AI in Najla Al-Saleem’s ‘A Shifting Horizon’ - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhDSWpWbHVpZkhDZUxaWndkeW9ZQVh3NE56MzRiNnJlbG96SW5Mampnd1djZi03eUNZUVJISWR5M2J4R2JYU1hVZHFTWE9EdVl2ZEF1THhhWFpHamNYeGZUbWVvOFpTbFdHdFFiT0F6dlY1dm56S3pYSzlaMGZsSEFuTExqX0hWUFBkV2c2dXJKSGhXSERjTlZR?oc=5",
+          "published": "2026-11-16T09:18:54+00:00"
+        },
+        {
+          "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
+          "domain": "oilprice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2RPcjNKVi1OUEJFUkU4Z1NfUWk3MTZSZWRlMVVkXzVucFZET25jNF80WFpwUzN2QzVVUkJBanM0cENqOW51VWpNWkhxVlZxVG9sYl92V0RHR1FLa1NXaEpYejl2LUN5YUM2YmloTm9GaU4tSXY5c3NYbFZrR3pnSHdOVmZHXy1fNmlrRl9uUXNhdUYwYmpncFdRSzZMM193WFFGem9jS1M0TlF2TzFN0gG0AUFVX3lxTE1nb0lQdFlLa0plY0FMYmcwTVQwc3pIbkxyYW9PQkQ4OXNMQ3FsWXdybktqNWZ4YW5Pb0JWT0tUdWs5dnNPZVBHYXRnaEs3Yi1SR3BlWTlUT2ZhOG5YQXpuZS1tNUk0T29oNWltU2wwRUJYRmtDVnpQMVl4N2hxRGgxOUVjNzFsVXVabnBWVnMtb1o2QzY0Skd1d0VDeFhib3Bua3RFSlFUR3N5WWg2aHJDbUVFdA?oc=5",
+          "published": "2026-11-16T00:17:38+00:00"
+        },
+        {
+          "title": "Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkRyOS1XV2l4TTM3SmhRNWRXVXdLNkdfYjV6bXlEbDYtNi1qSlBKbndMcG5YRkViWmtrd3hRQjJzVy1QclRTUnYxVHFtWE1LbjgwMlZCckg0VjVCdjhPZnUxQU5DbkFRVVR0MWM5MThGSGQzQlhxem9LeDJKNHdnemdORmpzeXFq?oc=5",
+          "published": "2026-11-15T23:41:00+00:00"
+        },
+        {
+          "title": "Major Red Sea strait falls under full Houthi control as Yemeni forces retreat - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVg1SDVYaGJ2NVNhVnQxMEM4dU1FX3EyelA1QTl6aTZiMmhmTXIzWkVPbzJkaEpYTy1aU0dUdUxUYjRCUlQxREhpcUVPQnl0ZE1LcU5jQ1pOTnBhdkhLcGc3MmppdzMzVG9JRnBacS1RQ3JrVXBIU0ZMaG5XbVJJcVJZOXA4UUtjYWJIRlNIOC04OUdBSlFReHY1S29KQ1AxTl91dnRqYlNCUUhCcVVFZDUwWGk2TjlnOHdB?oc=5",
+          "published": "2026-11-15T22:33:00+00:00"
+        },
+        {
+          "title": "Guatemala decreta estado de sítio em duas regiões após morte de deputado e policiais",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/guatemala-decreta-estado-de-sitio-em-duas-regioes-apos-morte-de-deputado-e-policiais.shtml",
+          "published": "2026-11-15T13:24:00+00:00"
+        },
+        {
+          "title": "Oil Prices Rebound as Middle East Supply Risks Persist - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5",
+          "published": "2026-11-16T08:41:23+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "estonia-border-closure": {
+      "kind": "major",
+      "title": "एस्टोनिया तोड़फोड़ और आगजनी की कोशिश के बाद रूस के साथ सीमा बंद कर रही है",
+      "region": "यूरोप",
+      "summary": "एस्टोनिया ने रक्षा कंपनी Threod Systems के खिलाफ आगजनी की कोशिश और संभावित तोड़फोड़ के संदेह के बाद 1 दिसंबर से रूस के साथ सभी सीमा चौकियाँ बंद करने का फैसला किया है। रॉयटर्स, AFP और अन्य प्रकाशन लिखते हैं कि एस्टोनियाई अधिकारी इस घटना को रूसी खुफिया से जोड़ रहे हैं और कई लोगों को पहले ही हिरासत में लिया जा चुका है। एक रिपोर्ट में यह भी कहा गया है कि संकट की स्थिति में सरकार क्लाउड सेवाओं के जरिए राज्य चलाने की तैयारी कर रही है। सभी रिपोर्टें इस बात पर सहमत हैं कि यह निर्णय सुरक्षा संबंधी बढ़ती चिंताओं के बीच लिया गया है।",
+      "picture": "चित्र में सीमा के फाटक वेल्ड करके बंद किए गए हैं, पास ही ड्रोन का जला हुआ ढाँचा और टूटी हुई चाबी है, किनारों पर बर्फीला नक्शा दिखता है। यह उस सीमा का प्रतीक है जिसे तोड़फोड़ और संभावित तनाववृद्धि के डर से बंद किया जा रहा है।",
+      "mentions": 48,
+      "significance": 68,
+      "velocity": 76,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Эстония закрывает сухопутную границу с Россией из-за диверсии. Правительство готовится управлять государством через облачные сервисы — на случай российской оккупации",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/16/estoniya-zakryvaet-suhoputnuyu-granitsu-s-rossiey-iz-za-diversii",
+          "published": "2026-11-16T12:43:50+00:00"
+        },
+        {
+          "title": "Estonia to close Russian border crossings after attempted arson attack on drone ‌maker",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
+          "published": "2026-11-16T11:43:54+00:00"
+        },
+        {
+          "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOF84RU1Bb01RbGlqNU00TzBhV3p0YzRHa2duaFd1Z19YRVJITzVRNUtxSHhZaEw3dl9UckdxSC1idU9OYlJ3Y3l2Wm5qSERvUzl2dFlFMW56NnBFUXI0TzVLakJYNDcxOE91SHYwejJLRVh2VFBFbEpMY1JlN09FYtIBhgFBVV95cUxNNXJkeHBhemJPNlhlS05hS2o5UE9VQVQ5NVdOR1BIenhDX3hMbUdvT29pMW1qUkVtUDdBcE1FVGxjbkM0SzhGQ3BKcUx4SzkzbG9BY25pWFptbUZRdUhZclN1UHBOMUh1aHIwVDl4NmMzaXAzanEwRk00by1sOXBsNnpxRFRRdw?oc=5",
+          "published": "2026-11-16T09:30:31+00:00"
+        },
+        {
+          "title": "World : Estonia to close Russia border after sabotage bid",
+          "domain": "newvision.co.ug",
+          "url": "https://www.newvision.co.ug/category/world/estonia-to-close-russia-border-after-sabotage-NV_244236_112026",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "Estonia to close Russian border crossings after attempted arson attack",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
+          "published": "2026-11-16T05:52:02+00:00"
+        },
+        {
+          "title": "Estonia to close Russia border after 'sabotage' bid - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHa0txZGl3clJCekwzSkZHb1NTV3dZaC1rbkQ0elZzNXZMekNROVNWNy1NUTJyNjJUNFROMGVTUXZCSmpPRDM0X0ZaWTctRGpuWDJMQWxwbnR1aExHWE9PSjY0QkhwemZqbGRJUU5hZVF3WE0zUmZrRA?oc=5",
+          "published": "2026-11-16T03:02:35+00:00"
+        },
+        {
+          "title": "Estonia to close Russian border crossings after attempted arson attack - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2ZXYWhpMzhOR0xINV9lWXoxRmpjdklVa05UWGtyUFFpYVl5ZU9iSF9qQWVGSEJ0LTlrYlpHRGtXc0ZRV0xXWTB1MlFZVmhfYS1ZbEtYYVgzcmNYQS13OTRNenhrZUdWZXVtSFhWM0I5UmdDY0IwaW1QVUJsaU1GbVd2T2M0TEVWVzdXRVF6QkhfSHliRElDdDNqbnh0ZkZYMlJQLTl5UHk4bnVMZ2c?oc=5",
+          "published": "2026-11-15T23:02:55+00:00"
+        },
+        {
+          "title": "Estonia plans to close Russian border after attempted attack - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbkpTaEFiWHU1d0puMmlIWVU2Q2JWMEh5NjNMdVdtM0VTYjd2X1FWbHFaT2ZLV2ZMUU5rX1JuakstSjNvbUMybWxrdm0wandOZnVmRWVB?oc=5",
+          "published": "2026-11-15T22:37:50+00:00"
+        },
+        {
+          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+          "published": "2026-11-15T22:17:09+00:00"
+        },
+        {
+          "title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
+          "published": "2026-11-15T20:49:24+00:00"
+        },
+        {
+          "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+          "published": "2026-11-15T20:33:37+00:00"
+        },
+        {
+          "title": "В Эстонии попытались поджечь оборонное предприятие. В диверсии обвинили российскую разведку. С 1 декабря все пункты пропуска на границе с Россией закрываются",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/15/v-estonii-popytalis-podzhech-oboronnoe-predpriyatie-v-diversii-obvinili-rossiyskuyu-razvedku-s-1-dekabrya-vse-punkty-propuska-na-granitse-s-rossiey-zakryvayutsya",
+          "published": "2026-11-15T15:45:50+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.237,
+        "y": 0.479,
+        "r": 0.221
+      }
+    },
+    "trump-asia-trip": {
+      "kind": "major",
+      "title": "टैरिफ, कमजोर घरेलू स्थिति और चीन व सहयोगियों के साथ वार्ताओं के बीच ट्रंप एशिया जा रहे हैं",
+      "region": "एशिया",
+      "summary": "डोनाल्ड ट्रंप घरेलू तौर पर कमजोर स्थिति, टैरिफ विवादों और चीन व सहयोगियों के साथ तनावपूर्ण वार्ताओं के बीच एशिया जा रहे हैं। मीडिया लिखता है कि वह क्षेत्रीय नेताओं से मिलेंगे, जिनमें ऑस्ट्रेलिया के प्रधानमंत्री भी शामिल हैं, और फिर शी जिनपिंग से, तथा कुछ घोषणाओं के अनुसार व्लादिमीर पुतिन से भी। कुछ प्रकाशन इस यात्रा को एनवीडिया से जुड़े विवाद और अमेरिका में हालिया मध्यावधि चुनावों की प्रतिक्रिया से जोड़ते हैं। रिपोर्टों में इस बात पर जोर दिया गया है कि यह उनके लिए घरेलू राजनीतिक नुकसान के बाद पहली बड़ी विदेश यात्रा है।",
+      "picture": "चित्र में एक काँपते सूटकेस पर ग्लोब रखा है, पास में टैरिफ के तराजू, तीन दूर के झंडे और एक टूटी हुई हाथ मिलाना दिखाई देती है। यह उस यात्रा की छवि है जिसमें कूटनीति, व्यापार और राजनीतिक दबाव साथ-साथ चलते हैं।",
+      "mentions": 48,
+      "significance": 79,
+      "velocity": 86,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "What to Know About Trump’s Trip to Asia",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+          "published": "2026-11-16T11:26:58+00:00"
+        },
+        {
+          "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+          "published": "2026-11-16T11:00:58+00:00"
+        },
+        {
+          "title": "Trump heads to Asia for 2nd high-stakes meeting with Chinese President Xi amid Nvidia CEO scandal - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUtHYnVlaWdlcExUdkJCSGNHMXgyd3cxQUNmNlQ2eXBMNnFfczVPZ0loYldxc2MycjFpU09OQl9YWkpQQV9SWjYxWHE1X0tRalJFX0c1TEZEZklDXzZSamxNUkJMQjJ1OTd0NjEtNFptT0xmSE9iMWxISV9NdklSOTdwNWY0MUtENUozQVFTSDJQNWZBQmRYMlF5UHTSAaIBQVVfeXFMT1kxeEZOcnFfSVFpd1ZRVzNQOThoUlBHcmxQd1VzUGVsaFZ2NHkxYkdIYmRqNmdVb1NtXzNXS2tObmg1aFNYWGEtS2VkWmt2UkJxQy1tRDBhVHNGMHR6aWFJWkJ2UUFFS09nWi1MNnZMOXFnVkV0aGpzNzdyMTJTcU1KWkl0aHBxOUdERnpzdHFOS1djVWMyYjU3bUNETUFwWjRB?oc=5",
+          "published": "2026-11-16T10:12:15+00:00"
+        },
+        {
+          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Trump’s Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
+          "published": "2026-11-16T09:09:00+00:00"
+        },
+        {
+          "title": "Trump not welcome : Manila erupts in protests ahead of US President Asean visit",
+          "domain": "economictimes.indiatimes.com",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-not-welcome-manila-erupts-in-protests-ahead-of-us-presidents-asean-visit/articleshow/135875291.cms",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "Spy scandal and midterm defeat heat up Trump Asia visit",
+          "domain": "lufkindailynews.com",
+          "url": "https://lufkindailynews.com/news_reuters/top_news/spy-scandal-and-midterm-defeat-heat-up-trumps-asia-visit/article_4fc2dfef-ce2f-5565-b01a-d09245e3c16b.html",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "Run up to Budget 2027 28 : Nominal GDP growth likely around 11 11 . 5 %",
+          "domain": "businesstoday.in",
+          "url": "https://www.businesstoday.in/latest/economy/story/run-up-to-budget-2027-28-nominal-gdp-growth-likely-around-11-11-5-percent-567618-2026-11-16",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "Trump trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+          "domain": "canadianinquirer.net",
+          "url": "https://canadianinquirer.net/2026/11/16/trumps-trade-tariffs-take-center-stage-at-asean-summit-as-leaders-seek-new-markets/",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "What to expect from U.S. President Trump's visit to Asia - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hSkpTcTI2RUFJQVJITTFZQVJGZS05amVkUzhETXBaOE5VOXRvV2FNcFdPWHd5NTlLSlVOUzYyb2RGOVhjODRfLTNRMnZKcDh3WTBMZnNET2tac3JMc1hZbE1YcG1jenp5UGVOTHBMWkY1YzRrR0ZBWEJn?oc=5",
+          "published": "2026-11-16T05:48:32+00:00"
+        },
+        {
+          "title": "La reunión con Putin y Xi, el plato fuerte del viaje de Trump a Asia",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-16/la-reunion-con-putin-y-xi-el-plato-fuerte-del-viaje-de-trump-a-asia.html",
+          "published": "2026-11-16T04:30:01+00:00"
+        },
+        {
+          "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+          "published": "2026-11-16T09:38:53+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.537,
+        "y": 0.636,
+        "r": 0.221
+      }
+    },
+    "bahrain-iran-strikes": {
+      "kind": "major",
+      "title": "ईरान और क्षेत्रीय प्रतिद्वंद्वी हमलों का आदान-प्रदान कर रहे हैं, जिससे पश्चिम एशिया में बड़े युद्ध का खतरा बढ़ रहा है",
+      "region": "मध्य पूर्व",
+      "summary": "ईरान और उसके प्रतिद्वंद्वी हमलों का आदान-प्रदान कर रहे हैं, जिससे पश्चिम एशिया में बड़े युद्ध का खतरा बढ़ता जा रहा है। रॉयटर्स, CBS और Bloomberg के अनुसार बहरीन ने ईरानी हमलों को रोक दिया, जबकि ईरान ने बहरीन और क्षेत्र के अन्य स्थानों पर अमेरिकी ठिकानों पर हमला किया। कुछ रिपोर्टों में अमेरिका और ईरान के नए हवाई हमलों का उल्लेख है और कहा गया है कि यह पहले से ही नाज़ुक वार्ताओं को कमजोर कर रहा है। कई रिपोर्टों में यह भी कहा गया है कि दोनों पक्ष चेतावनी भरे हमले जारी रखे हुए हैं, लेकिन पूर्ण तनाववृद्धि रोक नहीं पा रहे हैं।",
+      "picture": "चित्र में गुलेल से चिंगारियाँ एक किलेबंद दुर्ग की ओर जा रही हैं, पास में चेतावनी देने वाले सींग और एक चाँद-तारे का टूटा प्रतीक है। यह उस संघर्ष की छवि है जो परस्पर हमलों की श्रृंखला से भड़क रहा है और नियंत्रण से बाहर जा सकता है।",
+      "mentions": 45,
+      "significance": 93,
+      "velocity": 55,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+          "published": "2026-11-16T11:42:16+00:00"
+        },
+        {
+          "title": "Iran Targets Bahrain Base, But Stays Open to US Deal",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/iran-targets-bahrain-base-but-stays-open-to-us-deal-video",
+          "published": "2026-11-16T11:09:49+00:00"
+        },
+        {
+          "title": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+          "published": "2026-11-16T09:00:31+00:00"
+        },
+        {
+          "title": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S. - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDJzX3ZZUmk0ZHJvY3hHNFpBbDRfQlBpT25MWEZNNGY1QUsxWnlRVkl2WXNFN3puTS1ra2pHc2ZkeDI5WUxZcm9yZ1JheGRQYXlGM0VfMVRmY01UdmVDc1R1UDYyUk9MWGpKTzQ0bzFKOGJQS3VhMDhJdzkyaDQwanNLTFMzVU5vRVdUbVRudjQtQ0NCZXdleUJOeWwxaEVXQ3c0TEs1dkNZSTY4RnAxc1I3c1JhY3dNNy1JRFR4cmJnWHNl?oc=5",
+          "published": "2026-11-16T02:18:13+00:00"
+        },
+        {
+          "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2RPcjNKVi1OUEJFUkU4Z1NfUWk3MTZSZWRlMVVkXzVucFZET25jNF80WFpwUzN2QzVVUkJBanM0cENqOW51VWpNWkhxVlZxVG9sYl92V0RHR1FLa1NXaEpYejl2LUN5YUM2YmloTm9GaU4tSXY5c3NYbFZrR3pnSHdOVmZHXy1fNmlrRl9uUXNhdUYwYmpncFdRSzZMM193WFFGem9jS1M0TlF2TzFN0gG0AUFVX3lxTE1nb0lQdFlLa0plY0FMYmcwTVQwc3pIbkxyYW9PQkQ4OXNMQ3FsWXdybktqNWZ4YW5Pb0JWT0tUdWs5dnNPZVBHYXRnaEs3Yi1SR3BlWTlUT2ZhOG5YQXpuZS1tNUk0T29oNWltU2wwRUJYRmtDVnpQMVl4N2hxRGgxOUVjNzFsVXVabnBWVnMtb1o2QzY0Skd1d0VDeFhib3Bua3RFSlFUR3N5WWg2aHJDbUVFdA?oc=5",
+          "published": "2026-11-16T00:17:38+00:00"
+        },
+        {
+          "title": "Iran launches drone attacks against US military base in Bahrain",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+          "published": "2026-11-15T18:03:56+00:00"
+        },
+        {
+          "title": "Iran says it attacked US base as Bahrain issues first threat alerts since September - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdkFZY0NaRFRNaklidHpRQW5JVGd4SFEwSUpiVndVdXY4OXlUM1hmMVBDLTFOcW12Y0I3YnREcEV1TklBc2c3Z0QteGZyYlBLcnBrOGhOUG1ibVBsdTMyb045bGI5SmNsYTVDLWc5bm92YlAzbzYyUm92aDRzS1l6a3VRSWpkOWRZQ0N1RzZUMFRtTXVTVW9jLTlhNUdqUUVDUGVtckktWUhfY2RnZDlKaThVWGwyZDZ4WlVBSGVWQVlBTDQ?oc=5",
+          "published": "2026-11-15T17:30:20+00:00"
+        },
+        {
+          "title": "Irã ataca Bahrein e amplia escalada militar no Golfo",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ira-ataca-bahrein-e-amplia-escalada-militar-no-golfo.shtml",
+          "published": "2026-11-15T16:53:00+00:00"
+        },
+        {
+          "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5",
+          "published": "2026-11-15T15:56:00+00:00"
+        },
+        {
+          "title": "Iran Attacks Bahrain for the Second Time in Days",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+          "published": "2026-11-15T15:55:09+00:00"
+        },
+        {
+          "title": "Israel warns US of alleged Iranian plot to attack President Trump - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wR3k5WDZsN20xRWFvN0w3MlY1SDZCVmYwQkJlQ3RUMEE2d3RpSnVnaHVkdkh1VTNBSFdKUDUxaWU4ZXpoVXh6SGRhU19xV00zSW1jRnZR?oc=5",
+          "published": "2026-11-15T22:32:14+00:00"
+        },
+        {
+          "title": "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtxTVNnWUVXRlAzQmltYXZWRl8ybFR6WmlKb05PQWxaaDBTS0hyMnp6X04wd3I2Xy1WUHpnRUYtUFgyNml2NTFVeDc1T1NfcDhaU0pWc1BoSGZFdU5MZE9PN3Boem90OW9udGpYOTRfTTltMGYtaDJQZ29xQWVQY2xZYjZydnY2SWc4M3JDY3U2X0o4RlAxaWxicXNIRklrX1FDYjhtaGZLSXPSAbABQVVfeXFMTjFLSGNkSm5LMVJtUlB2S1RmMzZTWHVpUVJNbDBmYmh1azE3NEpyY0lxWXlJMEF3UGJfOEtCUUU3bk9QUlZxeGZ4eWtfal9GaDRxVk5jV0ZsajFsRTR1RlV6Z0c3UEFjU1pObkR5VXZfRkhtZXJWRmN3R3plRmF5ZjMwN1UtYjdMZ3QtaDV2QmZYYmlBYmk4c2ZKancxUlVxZGpuUlNXdlRVakR6ZlJxd1k?oc=5",
+          "published": "2026-11-15T20:58:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.631,
+        "r": 0.156
+      }
+    },
+    "global-outage-microsoft": {
+      "kind": "major",
+      "title": "दुनिया फिर डिजिटल बुनियादी ढाँचे की नाज़ुकता का सबक झेल रही है, बड़े सॉफ्टवेयर गड़बड़ियों और विमानन अराजकता के बाद",
+      "region": "दुनिया / क्रिप्टो",
+      "summary": "माइक्रोसॉफ्ट ने बड़े वैश्विक व्यवधान के बाद अपनी सभी सेवाओं की बहाली की घोषणा की है। इस घटना के बीच मीडिया फिर से चर्चा कर रहा है कि डिजिटल बुनियादी ढाँचा कितना नाज़ुक है, और इस संकट को विमानन तथा अन्य प्रणालियों में हुई व्यापक गड़बड़ियों से जोड़ रहा है। AP लिखता है कि नई FAA SMART प्रणाली को लेकर सवाल अब भी बने हुए हैं, हालांकि अधिकारी ground stop से इसके संबंध से इनकार करते हैं। रिपोर्टों में अन्य कंपनियों की साइबर घटनाओं और यह संतुलन बनाने की चुनौती भी चर्चा में है कि टिकाऊपन और नई तकनीकों को अपनाने के बीच कैसे संतुलन रखा जाए।",
+      "picture": "चित्र में एक विशाल टूटा हुआ बादल और लिफाफा दिखाया गया है, पास में बंद सर्वर रैक, टूटे कार्यालयी चाबियाँ और बिखरी नेटवर्क केबलें हैं। यह उस डिजिटल दुनिया की छवि है जो अदृश्य लगती है, जब तक कि वह एक साथ कई जगहों पर ढहने न लगे।",
+      "mentions": 39,
+      "significance": 73,
+      "velocity": 45,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Microsoft confirms all services are restored after global outage - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEJfV21haXpneld6cDBuakxMSkthMDlzUnJ0QTE2NHRYV2gyMWpxY2sxQ1VLOXFxVS1WVDEtYUp1enJUbWtjZGtvbWlITVI2dlU2MVZXclV5SGc5WXlwVmlRN005OW5VamR3TnQtMjNUN0pJcnlQX1FweU5lRTl1OXpwaUtYZERqYzdDaWJkZ2tLWFZwVDVnT096OWdvaWEtS1E?oc=5",
+          "published": "2026-11-16T12:27:51+00:00"
+        },
+        {
+          "title": "Microsoft Service Restored After Widespread Outage, Company Says - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZmZCcS1rWDBlU1EtNTRYbFY4TE00cEVObWk3ak9jcnNsaWtabW83MjNuemxSUk1WWXZ5Q2VubUtCZ2Y5YnZkN2dNR3htVEhHUkpPbjNuczc0VmpDb1dIZ0Z3TVFaTW43Z1hrc00tTWFQQ0M5cFd4SUd6TG1ldw?oc=5",
+          "published": "2026-11-16T11:27:49+00:00"
+        },
+        {
+          "title": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUENIeGFqX0FwQk9Vcm5VekZSY0xES05yc3k2bHFqY1JDZ0Y2cG0wWTl0QXNqZ1lJR3N0VUZYM0hGR3R5NVR4dGlXZ0JzMGFESDdVZi1hR3dBREM2SmsxODAwQmItd2xtS2RFdkVvZjQ1LUNWOV9OZkdTSVJfQ3piTkVZYlVMdw?oc=5",
+          "published": "2026-11-16T07:27:00+00:00"
+        },
+        {
+          "title": "Microsoft outage opens up conversations on balancing resiliency & innovation: Hitachi Vantara - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVVvLW0yYUpWNU9hOHlFX0tSLUxITWtSQS1LMU1najdyR3lRVVEwekdHSlIyNnh4UFI2aEc1QWcxMFpaNWtCdnVsNlNWYWJFNXp5c2otN2Fod1RXOVhiUnE1cExYRnBEQXFLOW9SNkl0a2Z4OTZUYjRIZnFVdHEwUTVlam10SG9uUjlDakhXZmxBRjlMZkVZZEtoRjdVWWVBQTl1akpVYWJaSkJTa3dxQw?oc=5",
+          "published": "2026-11-16T03:48:16+00:00"
+        },
+        {
+          "title": "Coles probes cyber security incident, says no evidence customer data compromised - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUozZVlTVHJkcG5vekViSUtBcWJQTXZ2UzVCZUVuazg3UFRwNXdlLVoxUmw0bTk3cWY2RUhsaE81VVFhMmtTb0RtTjVXZ09OTkVCbk94cldiZDJrcFBMTF9KNjJ5OVlGRnV0MjFETlZodTRUTUU1OHpRUk9uRkd2R21Gb1RDekJUQ2oyRjk3aUZ0MnZjSkdhdEk2ek05MkxaU3FGQkFXc0VBTnBmYWFYa0RpX0JpazNQd3M1Y3c1Y2lYQzN1dUFHb2EzZE8?oc=5",
+          "published": "2026-11-15T22:31:43+00:00"
+        },
+        {
+          "title": "Billy Evans Reacts to Amanda Seyfried’s Portrayal of Elizabeth Holmes in ‘You Can See Everything’ - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHdvOVBsWVU4YXQ0ckFuR3Z3QUpPWGRLUFllTHdjUlV1NmptRnVieU1vZ01WVDE2RzE2bm5ZZjVPeWx5V1lvTWp6VnEtc1JuVk9ZOUZJbmptX2JmVFRYeWYyYUpHcm5reWlMUDRyMnNCWUc1cUpEcllsYzE1YjRrTnUzdmlkbk4xUE9zOWEwY25BcDlwNTd1UFlkVEZPRmNQLTJmSWo1eU5uVGluQ3lrV0JvZUlKNTlQeDl6azNORG1xVHM?oc=5",
+          "published": "2026-11-15T20:31:49+00:00"
+        },
+        {
+          "title": "Microsoft is bringing back the original Xbox bootup animation. - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXpKVGpJTWlVOVhPRWRoenZ1OVJkUkNZS01WdUJxV25FSmFhN25RSHhXZjMwZGxMeFB2ZW00UFlDTGQ1c0EtSnpPTC02TVQ4blJMZHdFbUFqeGlkeFpsMmpmMnJ2LXMxMTFzaWpxb2NkUG05b3NLWjBHQWx6TlpxbGllbko3emktNDNQZWRYYnhpWS1GVXhPRUhodUVlaGxLdHc?oc=5",
+          "published": "2026-11-15T19:21:47+00:00"
+        },
+        {
+          "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5",
+          "published": "2026-11-15T17:05:04+00:00"
+        },
+        {
+          "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+          "published": "2026-11-15T19:10:00+00:00"
+        },
+        {
+          "title": "After days of flight disruptions, officials see system back to normal by Monday - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5",
+          "published": "2026-11-15T16:49:00+00:00"
+        },
+        {
+          "title": "Fans cheer as popular online platform for spinoff stories nears full return after security incident - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUU2NjRXaDVTU3JDM1h5ZktGLVFiWjlXQWx3ekdMaTlfMURyTWl0QzNwOVJnVVB4QnBPcGhFdjJxdXd6Q0dqLWRMRFRVLXpYNmN4UEN3SnZkOFlfdHo2TzJQcVEtNDZpMWRnZ2lEYnAzMFpCdUpCNk81MERMUTVYTDFqSTFMb0REMXhVVlM5N3ByVUl4VG42cw?oc=5",
+          "published": "2026-11-15T16:30:00+00:00"
+        },
+        {
+          "title": "US aviation shutdown blamed on L3 Harris installed router - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5",
+          "published": "2026-11-15T16:03:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.637,
+        "y": 0.479,
+        "r": 0.221
+      }
+    },
+    "south-africa-shootings": {
+      "kind": "major",
+      "title": "दक्षिण अफ्रीका में सप्ताहांत में दो सामूहिक गोलीबारी, हिंसा पर फिर से सवाल उठे",
+      "region": "अफ्रीका",
+      "summary": "दक्षिण अफ्रीका में सप्ताहांत के दौरान दो सामूहिक गोलीबारी हुईं, जिनमें 17 लोगों की मौत हो गई। रॉयटर्स, बीबीसी, एपी और स्थानीय मीडिया के अनुसार यह घटनाएँ अलग-अलग प्रांतों में हुईं, जिनमें क्वाज़ुलू-नताल और गौतेंग शामिल हैं। पुलिस ने जांच शुरू कर दी है, लेकिन अभी तक मकसद स्पष्ट नहीं हुआ है और किसी गिरफ्तारी की सूचना नहीं है। मीडिया इस बात पर जोर दे रहा है कि देश में उच्च स्तर की हिंसा के बीच यह एक और घटना है।",
+      "picture": "चित्र में उलटी पड़ी कुर्सियाँ, टूटा हुआ सड़क-लैम्प, खोखे, खाली जूते और स्मृति मोमबत्तियाँ दिखाई गई हैं। यह अचानक हुई हिंसा की छवि है, जिसके बाद केवल निशान और शोक रह जाता है।",
+      "mentions": 39,
+      "significance": 67,
+      "velocity": 86,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "В ЮАР произошли два случая массовой стрельбы",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28322353",
+          "published": "2026-11-16T12:50:41+00:00"
+        },
+        {
+          "title": "17 killed in two deadly shootings as South Africa battles rising violent crime",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/",
+          "published": "2026-11-16T12:41:56+00:00"
+        },
+        {
+          "title": "Two mass shootings in South Africa leave 17 dead",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T10:57:48+00:00"
+        },
+        {
+          "title": "17 dead as 2 mass shootings rock South Africa within 24 hours",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/17-dead-as-2-mass-shootings-rock-south-africa-within-24-hours/articleshow/135884485.cms",
+          "published": "2026-11-16T10:50:38+00:00"
+        },
+        {
+          "title": "At least 17 people killed in two separate shootings in South Africa - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0EtSHJEdnhTcDRHTnBZdXJqb2s2TUU5S0k5U2xIQmhGbDhrbVZQcDVSWS1FNDFTVHJsZzBzdUp4em53TzYwcl9HQkRpSnRnRjZlWElvUHY2QmcwX09qakxMU19kNlpScFotanhLLVN5eFFPQzRwaVBLc2p3aTcyVXdsbXlvOG9RdkpBTnlsclc0UzdvMDhkVm1neHRDSkV5anFINGVR?oc=5",
+          "published": "2026-11-16T09:54:07+00:00"
+        },
+        {
+          "title": "South Africa police probe two weekend shootings that left 17 dead",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/south-africa-police-probe-two-weekend-shootings-that-left-17-dead/article71707200.ece",
+          "published": "2026-11-16T08:49:29+00:00"
+        },
+        {
+          "title": "South Africa police probe two weekend shootings that left 17 dead - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3YwdHNsRmtzNE9pVlVwU1hVUTRZYTE5eTRzMGRweG83S0ZuVXNFZ3BFUWtiLV90XzdIU1dZRTBqMUJkeVJMV09DbjdFZVhVdjRqNU10N1pQWldybVhSVElCbXRNOXhRYkw5QU5zVzM4d0NBQnNncU54dXQyVTVHbWZVaXYwdFdhZWxTSWJUSjVjd3F6MHNjV2xEMHJsM2lfZWVmZENNdXE3alVNX1FkRUp3Q1E?oc=5",
+          "published": "2026-11-16T08:26:41+00:00"
+        },
+        {
+          "title": "At least 17 people were killed in separate shootings in South Africa - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5",
+          "published": "2026-11-16T08:18:00+00:00"
+        },
+        {
+          "title": "Gunmen kill 17 in two separate shootings in South Africa",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/gunmen-kill-17-in-two-separate-shootings-in-south-africa/",
+          "published": "2026-11-16T09:11:18+00:00"
+        },
+        {
+          "title": "At least 17 people killed in two separate shootings in South Africa",
+          "domain": "news.sky.com",
+          "url": "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711",
+          "published": "2026-11-16T08:55:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.786,
+        "r": 0.202
+      }
+    },
+    "brooklyn-building-collapse": {
+      "kind": "major",
+      "title": "न्यू ऑरलियन्स में स्टीयरिंग सिस्टम की खराबी से टैंकर और क्रूज़ जहाज़ की टक्कर, सभी बचाए गए",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "न्यू ऑरलियन्स में स्टीयरिंग सिस्टम की खराबी के कारण एक टैंकर क्रूज़ जहाज़ से टकरा गया, और सभी लोग बचा लिए गए। NTSB और अन्य स्रोतों के अनुसार टैंकर का नियंत्रण फेल हो गया था, और चालक दल ने टक्कर से पहले मदद माँगी थी। दुर्घटना के बाद अलार्म संकेतों और चालक दल की कार्रवाइयों समेत घटना की परिस्थितियों की जाँच जारी है। रिपोर्टें इस बात पर सहमत हैं कि गंभीर दुर्घटना के बावजूद कोई जान नहीं गई।",
+      "picture": "चित्र में टैंकर नदी के क्रूज़ जहाज़ से टकराता दिखता है, आसपास बचाव घेरे पहने यात्री, मुड़ी हुई सीढ़ी और तैरता सामान है। यह उस दुर्घटना की छवि है जिसमें एक क्षण की तकनीकी खराबी शांत यात्रा को बचाव अभियान में बदल देती है।",
+      "mentions": 28,
+      "significance": 64,
+      "velocity": 26,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Video Officials investigating steering of tanker in New Orleans riverboat collision: NTSB - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lbkN5SXNkOU5CNE1LSVVUaTNDVTQyMWRrTjMydnphWHdiQko5eEJTZUxmZjB4TmttNnlkYXU1OFluV3liTlJiUk5kcjY?oc=5",
+          "published": "2026-11-16T11:11:32+00:00"
+        },
+        {
+          "title": "Tanker crew called for help before New Orleans cruise ship collision, NTSB says - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MQXNYc0ExTEV2NElpVUctUEx1Y2pDcm9FenlRbllHTnpDSUZIODQzT2hHNFFyY3dWTVZIdDdzQkNKcHBLcHIwRnZKMzFIbGg3Ui1JWVh3?oc=5",
+          "published": "2026-11-16T00:16:03+00:00"
+        },
+        {
+          "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHZfcjFyZGs2aXl4S0tFQmpabE9BMWNKMGltcm5PbEFkUXZITnpiaTFCbkVUYW1KRldUX1NwQTh3TDlmcW5FRHBEc3R2MDRmcFZSMmdCeG5Qd2RPQXRKUzR0US1hWmxvODlPcU83WGw0aGN5dE5rRWRDcEVzdzlHckdfaklHSXNzcmFNM0E5MlNlSW94SDRSblZlQWNkeThhX2xKYTk4VUNEZEN5aGxHZmRYdWVqWFJoN183aDZReU4wRU1Wamc?oc=5",
+          "published": "2026-11-15T23:02:00+00:00"
+        },
+        {
+          "title": "Officials say a tanker’s steering failed before it crashed into a cruise ship in New Orleans - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzRlMk9HbE5GN2FtV3V1X3VvTW1EZFhsM3BFOUR0TnA4Mm0wSTFKUkFsS01CRjNhY1lmUlY4R0dwX1ByRjBNZ1lzSW83R1hXXzIxdEExa3lhSHh5VFRKX1kwbGI5RkdrdWlsZE9xZU5EeDFZY1RhbGlvLVRVZ2NaRjBXSjcwMmR1YktTY2xDZ1NVM1kzSG9lNGZTb1Q?oc=5",
+          "published": "2026-11-15T22:41:00+00:00"
+        },
+        {
+          "title": "Steering problem on tanker caused collision in New Orleans, NTSB says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXBEMnhoWXdETmQ4d2JPM3Q2OUw0MDByaUV2di1Nc3ZVcmJHaGJ6bnNLN1lsc3gzeG5hSGlEYnBKaHJOajU2SzlrRXp4UUZtdU5Dc0I1TlNmYlFxWThaUFZvRk11UVJSY2YyakpJSFFGNWlVbmZrMDNXTXkyLXM2MWlydzN1YWwydGc5dmM3WVZjeFVVZDlIVGR2aGFEMzZrUkE3QnRXU1hibDlpU2RWQkkwTkRyZw?oc=5",
+          "published": "2026-11-15T21:23:00+00:00"
+        },
+        {
+          "title": "Officials investigating steering of tanker in New Orleans riverboat collision: NTSB - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRl8xcTFMblltYUhvLTl2SWxRd3FoSmFvMGNwSHhkRDZWTWZFMFh5NDZiQnIzU0lHVFpDMGVUN3dlUjJqcE9pVXM5UWtRNldobFkwN3o3a05IUkNqWXF2aE9YdUQ1UVFjX0dIcU5LeTdZQlFyY1RaOU1SYnJXMXNpSFk3YVBKejhhSHl3VGNvQ1B3X2M5dU1oQTgyZG9GVWw5VmFtZGtOZFpIR2hQT2w5WkxSQdIBuAFBVV95cUxPMjMxRmQ5QVVPc045RTQ1QTZEbWFlTW9Va09VTGo0ejByRkE2Sm5kMnprMk9IMnRYeEh2Z0ZMNXg4eHhoWjdzaTVsZk9LVExLN2UyYkl6OHVST2xFZ1FqeVhEWDFyOVRMalVYLVBXVXlXU1MtYWNZVzZnS1F4dVgtTUpQc0RMbXFpNUZSNTN6ZFFxRUV1SDBTclRvM3JucDBmZWVVaUpMeDZxUENUZnhiVUlSYWxWRjdr?oc=5",
+          "published": "2026-11-16T05:02:22+00:00"
+        },
+        {
+          "title": "NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmtNWVg3MnJhV29hOEdGN0t3SkJURTVmWmdKRmwyQjZyMko3TlUyaGxzdTJNNVg3d3RORDAzeVU5Tm0xbTlNSDhwMXFWRFdpWWRha2hfdmNCMjNJNWR4WHhYUER0OHI5eGZFMkY3SExnVTVYQjNJSkFVbFZNUDZHcTU2NEU3a3ZvRmh2azlyTEtBUlVpWm55YkVnV3BiUVZCY09WandCeFNZZTkzcnlOOVNMbGljMFMtUHZzWl9jbXlCYVJxT1gw0gHMAUFVX3lxTE5XOW4takNzc2pLMk1UU3RrTHFoVWphWi1NODNpUm5OczJlY2pxVzd1eW5WT0VNUEJLZXRYRHFNbXlsSGhEd08ySUZ1RFh4QWEzNGZsNFpUSWpNRHVDR2g5UEtPUXZYTDY2U3ljRGpTdTc3VGdzaW8xcHJlNFdMbnZieEdfdlA0eHcwTWtRTlQ3MENJVDFjNHFsbEg1RE5lcWU2OUM1dEh2eVZHcmhyci1zRzhCU1pDU2N2RFVpZ3YzdWR1aWV6WTRUSXYtcw?oc=5",
+          "published": "2026-11-15T23:26:19+00:00"
+        },
+        {
+          "title": "'Miracle': All rescued from capsized New Orleans riverboat in tanker collision - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPek41NDJkQzhoRExGSVh1a2VOUWQzNkdrRzU3Mk1nRVdHOVRET3dwLTVaN25yRGVLcy1YYnVhS3JQSXptbXIwcmhGUDZfV1Y3bEhQS1IyRVZtUTFPcm1FMlZPeWdoaVFZNmxneE9TQ0ItR0RKR1I2Zm1KeVR1SXJLZzgxbzdsbHU3YkZlY0VWZTBhNnZwUklabk1RMDg5aDBZb1lsZNIBqgFBVV95cUxQWFhpaU15cE1tOHdQSHo1TjZEVExVMERBMERIcE9YNzIwTmttd0pnaFlYTFB3Z3RmcWtoa3pQUE54cGxJSmZjOEpTODdsUHlrcko1dDlHN3ZHOHJERnp1Q3RfN2JKdnVoX1ZSckl0d2lQOUZlTERYRXN1Ynd5b1hjZXRfV0JHS0xSVEFrdlF3UUNRbUZtYXc2d2pyVGRuaC0tUlJHam1vdm1Wdw?oc=5",
+          "published": "2026-11-15T20:04:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.488,
+        "r": 0.156
+      }
+    },
+    "cape-verde-election": {
+      "kind": "major",
+      "title": "केप वर्डे ने राष्ट्रपति को फिर चुना, और प्रवासन व उत्तराधिकार की चर्चा और तेज हो गई",
+      "region": "अफ्रीका",
+      "summary": "केप वर्डे में राष्ट्रपति जोज़े मारिया नेवेस फिर से चुने गए हैं, और प्रारंभिक व अंतिम रिपोर्टों के अनुसार उन्हें लगभग 64% वोट मिले हैं। रॉयटर्स के अनुसार उनकी प्रतिद्वंद्वी, जिसमें राष्ट्रपति चुनाव की पहली महिला उम्मीदवार भी शामिल थीं, ने हार स्वीकार कर ली है। मीडिया यह भी याद दिलाता है कि यह अभियान उत्तराधिकार और देश की स्थिरता की चर्चाओं के बीच हुआ। मुख्य तथ्य में कोई बदलाव नहीं है: नेवेस ने नया कार्यकाल सुरक्षित कर लिया है।",
+      "picture": "चित्र में एक छोटा द्वीपीय मतपत्र खुली हथेलियों पर रखा है, पास में प्रवासी का सूटकेस और शांत प्रकाशस्तंभ है। यह उस देश की छवि है जहाँ चुनाव प्रवासन, स्थिरता और सत्ता के उत्तराधिकार के विषय की छाया में होते हैं।",
+      "mentions": 28,
+      "significance": 46,
+      "velocity": 60,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Reserved Seats Bill: Can Tinubu break Nigeria’s cycle of failed gender reforms?",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/features-and-interviews/925547-reserved-seats-bill-can-tinubu-break-nigerias-cycle-of-failed-gender-reforms.html",
+          "published": "2026-11-16T12:37:46+00:00"
+        },
+        {
+          "title": "Cape Verde president re-elected with 64% of votes, defeats first-ever woman candidate",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-president-jose-maria-neves-re-elected-with-64-of-votes-defeats-first-ever-woman-candidate/articleshow/135882316.cms",
+          "published": "2026-11-16T09:59:44+00:00"
+        },
+        {
+          "title": "Cape Verde President Neves wins second term, challenger Rosa concedes defeat - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWxnVEpfWXdSVkNERnExVXJGbFJzUW5MTFR3MEtGWHBYMFZWZkZHRldTal9oLS00VnJQdnM1MmNJVkhkRFlkVjJEYjVMLWo4Tk5xUzV1OG9Xa1BxYUdmZ3FSaVp5Q0htZGYwcFpZSFZCYnFrR0szX1FRRk1yNHcteXRWWkpvZkFvck5scnFydzRnME55WktPVngxTklNSWxwVUl5Z3B3TWJHZVQwNDY0NG5CbGNuNmphV0o4?oc=5",
+          "published": "2026-11-16T05:58:00+00:00"
+        },
+        {
+          "title": "Cape Verde's President Neves projected to win re-election with 64% of vote",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/cape-verdes-president-neves-projected-to-win-re-election-with-64-of-vote/",
+          "published": "2026-11-16T05:53:45+00:00"
+        },
+        {
+          "title": "Cape Verde election could deliver first woman president since independence in 1975 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEZaaVg2di1CeGcyQlpLZjBmeHpaYXQ5YTRGMk8xM0NyZkVtSmFuX2d1ckFqOExOMVhmbzk4U0lEYk96VVd3OENPVTd6bERTNTJDQl8tR3ZxS2JZX2xER3JfSHdCRF9JQkxLMm11bnFTYmN1LUN4R3lfRy15MmJsSS04VUEzX183SDFYSVFDaHJIaTJFT1VQeHljX2FFbkYwV0hmY1VB?oc=5",
+          "published": "2026-11-15T19:52:00+00:00"
+        },
+        {
+          "title": "Cape Verde president re-elected with 64% of votes, defeats first-ever woman candidate",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-president-jose-maria-neves-re-elected-with-64-of-votes-defeats-first-ever-woman-candidate/articleshow/135882316.cms",
+          "published": "2026-11-16T09:59:44+00:00"
+        },
+        {
+          "title": "Cape Verde election could deliver first woman president since independence in 1975 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEZaaVg2di1CeGcyQlpLZjBmeHpaYXQ5YTRGMk8xM0NyZkVtSmFuX2d1ckFqOExOMVhmbzk4U0lEYk96VVd3OENPVTd6bERTNTJDQl8tR3ZxS2JZX2xER3JfSHdCRF9JQkxLMm11bnFTYmN1LUN4R3lfRy15MmJsSS04VUEzX183SDFYSVFDaHJIaTJFT1VQeHljX2FFbkYwV0hmY1VB?oc=5",
+          "published": "2026-11-15T19:52:00+00:00"
+        },
+        {
+          "title": "Presidential polls open in Cape Verde with first female candidate",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/15/presidential-polls-open-in-cape-verde-with-first-female-candidate/",
+          "published": "2026-11-15T13:16:38+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.786,
+        "r": 0.125
+      }
+    },
+    "starship-flight-15-orbit-breakthrough": {
+      "kind": "progress",
+      "title": "स्पेसएक्स ने पहली बार Starship को कक्षा से वापस लाया और उसे टॉवर पर पकड़ लिया",
+      "region": "अंतरिक्ष",
+      "summary": "स्पेसएक्स ने एक नई सफलता हासिल की: Starship कक्षा से लौट आया और लैंडिंग के दौरान टॉवर ने उसे पकड़ लिया। The Washington Post, AFP और अन्य प्रकाशन इसे ऐतिहासिक पहली घटना बता रहे हैं और लिखते हैं कि अंतरिक्षयान ने प्रक्षेपण के लगभग 22 घंटे बाद वापसी की। रिपोर्टों में इस बात पर जोर दिया गया है कि यह Starship कार्यक्रम और भविष्य के प्रक्षेपणों के लिए एक अहम कदम है। प्रकाशित सामग्री में उपलब्धि के तथ्य पर कोई बड़ा मतभेद नहीं है, लेकिन इसके महत्व और कंपनी की आगे की योजनाओं का वर्णन अलग-अलग तरीके से किया गया है।",
+      "picture": "चित्र में एक विशाल रॉकेट यांत्रिक ‘हाथों’ में नीचे उतरता दिखाई देता है। यह तकनीकी सफलता का प्रतीक है, जब किसी अंतरिक्षयान को पहली बार सिर्फ़ प्रक्षेपित ही नहीं किया जाता, बल्कि उसे नियंत्रण में वापस भी लाया जाता है।",
+      "mentions": 100,
+      "significance": 98,
+      "velocity": 5,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "SpaceX launch : After Starship spectacular midair catch , Musk firm to launch Falcon 9 on Thursday",
+          "domain": "livemint.com",
+          "url": "https://www.livemint.com/companies/news/spacex-launch-after-starship-s-spectacular-midair-catch-musk-s-firm-to-launch-falcon-9-on-thursday-11794808344348.html",
+          "published": "2026-11-16T08:15:00+00:00"
+        },
+        {
+          "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+          "domain": "science.nasa.gov",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+          "published": "2026-11-16T05:05:00+00:00"
+        },
+        {
+          "title": "SpaceX catches Starship rocket on return to Earth - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGg4VG9qSF9TUkJLN3c3eXBVQnJ5V0c4cG40cWYxZThDS2dBeGMxb3RPdUJINlFyM1NBTzc1c3BFTVBNamd2VDJlTktpMGZ0SGtKTHhoSHdrNFQzUUdiMnNfMUw0V1Q5Sm9EOVNPOXRySmFqQ21ZeHI2SXhPY3JseHRvc21QTXV0UnE0Z2g4RGtPUVV5eWxTV3YzSktBUQ?oc=5",
+          "published": "2026-11-15T22:30:00+00:00"
+        },
+        {
+          "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
+          "published": "2026-11-15T20:26:00+00:00"
+        },
+        {
+          "title": "Burger King, McDonald’s and Trump old X posts hijacked with offensive links - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlRxSGJwckRvOTVmWWhZdkh3RWZUNEJhRHdkb1ByWGdsRVh2dFQtZF8tUENJZVBBd1d2TkVUMHNOMVkxN0s2OXQzTnhRdGNRdzFBMW1rSENGMHZVVlBqQ01vZzlxREZubWxOWFFZT0hfREN2QjUwQk40TzVZQW1uNV9NVWwyZFd6VUlyU09oWFZ2UGlNb0tJQS1hY2E0OVFFV0lMMXB6MEotTnhUV2c?oc=5",
+          "published": "2026-11-15T17:05:00+00:00"
+        },
+        {
+          "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-spacex-starship-orbit-captured-pad.html",
+          "published": "2026-11-15T13:06:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.594,
+        "y": 0.107,
+        "r": 0.191
+      }
+    },
+    "voyager-1-light-day-record": {
+      "kind": "progress",
+      "title": "Voyager 1 पृथ्वी से एक प्रकाश-दिन की दूरी के मील के करीब पहुँचा",
+      "region": "अंतरिक्ष",
+      "summary": "Voyager 1 पृथ्वी से एक प्रकाश-दिन की दूरी के मील के करीब पहुँच रहा है, जो एक नया तकनीकी और खगोलीय मानक होगा। ABC News और South China Morning Post याद दिलाते हैं कि यह यान लगभग आधी सदी पहले प्रक्षेपित किया गया था और अब भी संकेत भेज रहा है। रिपोर्टों के अनुसार, यह मील 18 नवंबर को अपेक्षित है। यह उपलब्धि अंतरिक्ष मिशन की दीर्घायु और NASA मिशन की इंजीनियरिंग विश्वसनीयता का संकेत है।",
+      "picture": "चित्र में अंतरिक्ष की गहराइयों में एक छोटा प्रोब उड़ता दिखता है, जिससे एक चमकती हुई संकेत-रेखा निकल रही है। यह विशाल दूरी के पार संचार और एक लगभग अनंत वैज्ञानिक यात्रा का प्रतीक है।",
+      "mentions": 46,
+      "significance": 86,
+      "velocity": 49,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "A NASA probe from the '70s is still talking, and Wednesday it will be a light-day away - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEg4dFlsam9ZOXNfbDhhdUo5OXhCVDJkNzg4NWtMVlU3WEUyamppcFAyR21wX25RcC14d291b05IOEFhcnZfLU84a3pqVEw5dGprUkRmTFlCdVJLOTJQUTJtME90TGRod1FYbEt2c3RzbUpzMnN3WUZNMGkyenN1Q29tT3hIS2xrejkxONIBkgFBVV95cUxQY0VpdnlTX3p3dFgwS3VweHRMZEFOTlBoUW5fMzhiLU5wNkp2V0RCTnJQOS1FcjdxWTFqaXRVSzAwREJrWVF0cTZWY1VXdUl3a1VwcE03eTlFU0h4akg2WlZzWXBBc1o5TGVGX2hsNG11MGVFS0g5ZU5SdzlEOElNMC1xYm01WnpyMlRsTEdYZXE3QQ?oc=5",
+          "published": "2026-11-16T10:23:07+00:00"
+        },
+        {
+          "title": "Nasa’s Voyager 1 to make history by reaching a light-day from Earth",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/article/3374556/nasas-voyager-1-make-history-reaching-light-day-earth",
+          "published": "2026-11-16T05:52:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.071,
+        "r": 0.125
+      }
+    },
+    "alzheimer-biomarkers-brain-signals": {
+      "kind": "progress",
+      "title": "वैज्ञानिकों ने मस्तिष्क के नए संकेत खोजे, जो पहले से अल्ज़ाइमर रोग का अनुमान लगा सकते हैं",
+      "region": "चिकित्सा",
+      "summary": "इस संकलन में दो प्रकाशन हैं, लेकिन विषय में वे मेल नहीं खाते। TASS मस्तिष्क की संरचना में उन बदलावों के बारे में लिखता है, जो कॉस्मिक किरणों में हीलियम से जुड़े हैं, और इसे नए वैज्ञानिक संकेतों की पहचान के रूप में प्रस्तुत किया गया है। ScienceDaily MIT के एक अध्ययन की जानकारी देता है, जिसमें नींद के दौरान छोटे, सटीक और कोमल गुलाबी शोर के स्पंदनों से मस्तिष्क की रात्रीकालीन ‘सफाई’ प्रक्रिया को मजबूत करने का तरीका खोजा गया। भेजे गए परिचयों में अल्ज़ाइमर रोग का सीधा उल्लेख नहीं है, इसलिए इन खबरों को उससे जोड़ना उचित नहीं है।",
+      "picture": "चित्र में एक मस्तिष्क दिखाया गया है, जिसमें छिपे हुए संकेत तारामंडलों की तरह चमक रहे हैं। यह छवि मस्तिष्क में मौजूद उन सूक्ष्म, लेकिन महत्वपूर्ण संकेतकों का भाव देती है, जिन्हें स्पष्ट लक्षणों से पहले पहचाना जा सकता है।",
+      "mentions": 46,
+      "significance": 79,
+      "velocity": 65,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Выявлены перемены в структуре мозга, связанные с гелиевыми космическими лучами",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/nauka/28322335",
+          "published": "2026-11-16T12:43:45+00:00"
+        },
+        {
+          "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+          "domain": "sciencedaily.com",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+          "published": "2026-11-16T01:40:04+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.071,
+        "r": 0.151
+      }
+    },
+    "measles-elimination-status-lost": {
+      "kind": "progress",
+      "title": "चल रही महामारी के कारण अमेरिका ने खसरा-मुक्त देश का दर्जा खो दिया",
+      "region": "चिकित्सा",
+      "summary": "अमेरिका ने 26 साल बाद खसरा-मुक्त देश का दर्जा खो दिया। KSL और अन्य स्रोत लिखते हैं कि जारी प्रकोप के कारण डॉक्टरों को फिर से उस बीमारी का सामना करना पड़ रहा है, जिसे लंबे समय से पराजित माना जाता था। रिपोर्टों में जोर दिया गया है कि मामलों में वृद्धि उन चिकित्सकीय प्रथाओं और चिंताओं की वापसी का कारण बन रही है, जो वर्षों से नहीं देखी गई थीं। यह सार्वजनिक स्वास्थ्य में पहले की सफलता के टूटने का एक महत्वपूर्ण संकेत है।",
+      "picture": "चित्र में एक लाल वायरस ‘measles’ लिखे ढाल को तोड़ता दिखाई देता है। यह उस स्थिति का प्रतीक है, जब हासिल किया गया प्रतिरक्षा-रक्षक अवरोध संक्रमण की नई लहर के सामने अपर्याप्त साबित होता है।",
+      "mentions": 29,
+      "significance": 88,
+      "velocity": 7,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "After 26 years, the US has lost its measles elimination status - KSL News",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0c1WmkyVE1LWTM5cTBWalNBVDdqVEFTQUdyZzR4enVwNU80S2FHSmthaUFPVm5nUGJlSEhmaHNCQkpxN3MzYm1pbGtYNXBDdS1sdXdvWkswN3hoWmFnbkctb2RFb00tc3A3UWV1V3c5UmtkV1lsQ2RQR3pPUXZUeUJKMHpXQWJpQTRuZmdEODdHUmpCQlVaT0JQTlZmVFk?oc=5",
+          "published": "2026-11-15T21:39:08+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.863,
+        "y": 0.093,
+        "r": 0.221
+      }
+    },
+    "cat-reunited-with-owner": {
+      "kind": "micro",
+      "title": "गुम होने के बाद बिल्ली को फिर उसके छोटे मालिक से मिलवाया गया",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "ब्रुकलिन में एक इमारत ढहने के बाद गायब हुई बिल्ली को उसकी छोटी मालिकिन से फिर मिलवा दिया गया। BBC, AP और ABC News बताते हैं कि परिवार की भावनात्मक अपील के कुछ दिन बाद मलबे में से पालतू जानवर मिल गया। इस कहानी को त्रासदी के बाद एक दुर्लभ, गर्मजोशी भरे अंत के रूप में पेश किया गया है। सभी प्रकाशन इस बात पर सहमत हैं कि जानवर को बचाकर घर लौटाया जा सका।",
+      "picture": "चित्र में बिल्ली और बच्चा अपनी नाकें छूते हैं। यह राहत और बड़ी विपत्ति के बीच एक छोटी जीत का प्रतीक है, जब खोए हुए प्रिय पालतू को वापस पाया जा सके।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Watch: New York teen reunites with cat missing after building collapse",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T04:36:45+00:00"
+        },
+        {
+          "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjI1ZmhJQVcyOGtfNHFaWDBBTVJkWGF4NFZxaGprVmNieXFfOEFQSXV1RVZQRzF3c0xabzhsVTlEQ2dGU3k4blUxeW5jY0RVbU1RSDNWU3BSc1ViaFBoa3B4ajBkVnB4aXVqVGMyTjM5TmNoX29fMjg0Y3ZiNnlqWmdERS13aGZ6a3NDR0hDdGw4VFhXeW1pY2FvNXJpYkNFN3I3N2ZpdXI0QQ?oc=5",
+          "published": "2026-11-16T03:55:00+00:00"
+        },
+        {
+          "title": "Cat missing after Brooklyn building collapse reunited with family - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90MHBWOTY2Q0cwX3M2WVVWeU0xeW9hVHdPcVRBQjV1WnlsOGs4MUhFc2ZQX3hvSnJyWVc4MnVEcGhaWV9rdlQtRzdGVmU?oc=5",
+          "published": "2026-11-16T01:38:28+00:00"
+        },
+        {
+          "title": "NYC child reunited with cat that was missing in deadly Brooklyn building collapse - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3NUZXEzV1BURXJ5TWZJUkx3Uk5rSHl0a0NQUWhoaVU3QkxxSnY4OVdCLVFucm9BcFp6c0tqc2t0LWhaOWk0VlBFLUNrZ3duZjFnZ0IzU3RRX0YyMXpCYWpNblZQcXRwanVOZzdOa0hBOTlhYjlyX0RFcktmVUFSNEZfbnN0NVAwRmYyYUMxdDI0QkFiM3ZHSXVkNkZFSFZXQk8zdnNnWXdxRDRCR1RObA?oc=5",
+          "published": "2026-11-16T00:56:02+00:00"
+        },
+        {
+          "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVI0R3oyVWxDSGlSdGdCZ08zM2pWYkpCZVBaU3J3LWd4X3hISjQxbE5mV2RPWUlFN1JFaXZhNEVOdVA5S2FKMWJWeDRLX2RxT0VBOXpjWHRONkJkUGxTdFBfM3FkT09LNDhzdXJmVERMT0pIa3R0dUw5eGgzakpXbktJbWZrbVA3dnZKdmVlYjZGUXR2MUgweFYzX1U4YnVhUDhiV0dRU2swcUFocFHSAa4BQVVfeXFMTXVSNEd6MlVsQ0hpUnRnQmdPMzNqVmJKQmVQWlNydy1neF94SEo0MWxOZldkT1lJRTdSRWl2YTRFTnVQOUthSjFiVng0S19kcU9FQTl6Y1h0TjZCZFBsU3RQXzNxZE9PSzQ4c3VyZlRETE9KSGt0dHVMOXhoM2pKV25LSW1ma21QN3Z2SnZlZWI2RlF0djFIMHhWM19VOGJ1YVA4YldHUVNrMHFBaHBR?oc=5",
+          "published": "2026-11-15T23:22:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "migrants-reach-canary-islands": {
+      "kind": "micro",
+      "title": "दो दिनों में दो हज़ार से अधिक प्रवासी कैनरी द्वीपों पर पहुँचे",
+      "region": "यूरोप",
+      "summary": "स्पेनिश समुद्री सेवा और अंतरराष्ट्रीय एजेंसियों के अनुसार, दो दिनों में दो हज़ार से अधिक प्रवासी कैनरी द्वीपों पर पहुँचे। Reuters, AP, Euronews और अन्य लिखते हैं कि नावें पश्चिमी अफ्रीका के देशों से आ रही हैं, और बचाव दल द्वीपों के तट के पास ओवरलोडेड नावों की मदद कर रहे हैं। प्रकाशन आने वाले लोगों की संख्या के आकलन में सहमत हैं, हालांकि वे मार्ग और संख्या को कुछ अलग ढंग से बताते हैं। यह स्पेन की ओर जारी एक महत्वपूर्ण प्रवासन प्रवाह का विस्तार है।",
+      "picture": "चित्र में प्रवासियों से भरी एक ओवरलोडेड inflatable नाव दिखाई गई है। यह जोखिमपूर्ण समुद्री यात्रा का प्रतीक है, जिसमें लोग सुरक्षा और भविष्य की तलाश में किनारे तक पहुँचते हैं।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Nearly 2,200 migrants arrive in Canary Islands over course of two days",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/nearly-2200-migrants-arrive-in-canary-islands-over-course-of-two-days/",
+          "published": "2026-11-16T08:53:54+00:00"
+        },
+        {
+          "title": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
+          "published": "2026-11-16T08:23:19+00:00"
+        },
+        {
+          "title": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5",
+          "published": "2026-11-16T07:55:00+00:00"
+        },
+        {
+          "title": "More than 2,000 migrants arrive in Spain’s Canary Islands in two days",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/more-than-2000-migrants-arrive-in-spains-canary-islands-in-two-days",
+          "published": "2026-11-16T07:10:36+00:00"
+        },
+        {
+          "title": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+          "published": "2026-11-15T21:06:01+00:00"
+        },
+        {
+          "title": "Spain says nearly 2,200 migrants have reached Canary Islands in 2 days - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0NIQkFFd09EaEN0dVdUaWFBTDVuQWZuNGxsNmhjOTJwdUs3ZXAwV0QteDV5R0twVFVONzdrczBEUElCc2lybGYyeDZhOFh6bnczMnYyUXl6T3p3cTMwMWYtT3BzaDZaQjhKTl83YzhaaEIwalhpRkRIUGJMWHJhUTYtUzVLZFozbUpuc3hxOUtNdVZOTFktaTdnRE1DUWZZSmxZVDNR0gGrAUFVX3lxTFAxY1pGM3FMdDZ2Sl9tRWVYWVR3bDNBMkFMWmNMYUh2Qnlwc1lSUnRoa05jTXdhQXhvLXZoeXg4YTdFT1hCckhKeHF6aFFLa0pBYl8xdEtyV1EybUNsZlJjX2ZVNDRDdml4dTAyOS0yUGMwQWRsVWNkdEY0OXFNV2J5OWJOZUhtMEZGRnJaaC1NNm5hY3Rzb2xMb2xPQ0l1amw1MlZIdDk3eXppVQ?oc=5",
+          "published": "2026-11-15T13:05:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "rotting-red-crabs-migration": {
+      "kind": "micro",
+      "title": "क्रिसमस द्वीप पर लाल केकड़ों का वार्षिक प्रवासन शुरू हुआ",
+      "region": "एशिया",
+      "summary": "क्रिसमस द्वीप पर लाल केकड़ों का वार्षिक प्रवासन शुरू हो गया है। Euronews के अनुसार, लाखों केकड़े जंगलों से तट की ओर जाते हैं, ताकि समुद्र तक पहुँचकर प्रजनन कर सकें, और वे सड़कों तथा विशेष पुलों से गुजरते हैं। इस मौसमी प्राकृतिक घटना ने फिर से द्वीप की ओर ध्यान आकर्षित किया है। रिपोर्ट में केवल नियमित प्रवासन का उल्लेख है, और कोई अतिरिक्त विवरण नहीं है।",
+      "picture": "चित्र में सैकड़ों लाल केकड़े सड़क पार करते दिखाई देते हैं। यह वार्षिक प्राकृतिक आंदोलन का प्रतीक है, जिसमें पूरा द्वीप थोड़े समय के लिए छोटे जीवों के समुद्र तक पहुँचने के रास्ते के अनुरूप ढल जाता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Millions of red crabs begin annual migration on Australia’s Christmas Island",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/millions-of-red-crabs-begin-annual-migration-on-australias-christmas-island",
+          "published": "2026-11-16T11:18:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      }
+    },
+    "sheep-in-nuremberg-streets": {
+      "kind": "micro",
+      "title": "न्यूरनबर्ग की सड़कों से भेड़ों के झुंड को शीतकालीन चरागाहों की ओर ले जाया गया",
+      "region": "यूरोप",
+      "summary": "न्यूरनबर्ग में लगभग 600 भेड़ों को सड़कों से होकर शीतकालीन चरागाहों की ओर ले जाया गया। Euronews लिखता है कि यह जुलूस राहगीरों का ध्यान खींचने के साथ-साथ जानवरों के शीतकालीन रखरखाव की वार्षिक प्रक्रिया का हिस्सा था। यह एक स्थानीय परंपरा है, कोई तात्कालिक घटना नहीं, लेकिन इसने शहर में फिर से दर्शकों को इकट्ठा कर लिया। रिपोर्ट में अन्य कोई महत्वपूर्ण विवरण नहीं है।",
+      "picture": "चित्र में भेड़ों का झुंड शहरी सड़क पर चलता दिखता है। यह शांत मौसमी परिवर्तन का प्रतीक है, जब एक साधारण शहर थोड़े समय के लिए जानवरों के रास्ते में बदल जाता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Nuremberg streets in Germany fill with sheep heading for winter quarters",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/nuremberg-streets-in-germany-fill-with-sheep-heading-for-winter-quarters",
+          "published": "2026-11-16T06:22:45+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      }
+    },
+    "santa-school-in-london": {
+      "kind": "micro",
+      "title": "लंदन में भविष्य के सांता क्लॉज़ के लिए स्कूल खुला",
+      "region": "यूरोप",
+      "summary": "लंदन में उन लोगों के लिए एक स्कूल खुला है, जो 2026 के त्योहार सीज़न में सांता क्लॉज़ की भूमिका निभाएँगे। Euronews के अनुसार, पेशेवर सांता लोग सांकेतिक भाषा सीख रहे हैं, नए खिलौनों पर नज़र रख रहे हैं और बच्चों के कठिन सवालों के जवाब देने की तैयारी कर रहे हैं। रिपोर्ट इसे मनोरंजन नहीं, बल्कि क्रिसमस के काम की तैयारी के रूप में पेश करती है। कहानी का सार त्योहारी प्रस्तुतियों और बच्चों से संवाद के प्रशिक्षण में है।",
+      "picture": "चित्र में सांता टोपी, दाढ़ियाँ और प्रशिक्षण के लिए घंटियाँ दिखाई देती हैं। यह उस स्कूल का प्रतीक है, जहाँ त्योहारी पात्र बनने के लिए भी तैयारी और कौशल की ज़रूरत होती है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "UK: London's Santa School trains Father Christmas performers for 2026",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/15/uk-londons-santa-school-trains-father-christmas-performers-for-2026",
+          "published": "2026-11-15T17:13:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      }
+    },
+    "honey-festival-cairo": {
+      "kind": "micro",
+      "title": "काहिरा में शहद उत्सव की शुरुआत हुई",
+      "region": "अफ्रीका",
+      "summary": "काहिरा के ज़मालेक इलाके में 9वें मिस्र शहद महोत्सव की शुरुआत हुई। Egypt Today के अनुसार, कार्यक्रम Al-Horreya पार्क में शुरू हुआ, जहाँ शहद और उससे जुड़े उत्पाद प्रदर्शित किए जा रहे हैं। यह बिना किसी संघर्ष या राजनीतिक संदर्भ की एक स्थानीय सांस्कृतिक-मेले की खबर है। मुख्य तथ्य महोत्सव के नए संस्करण का उद्घाटन है।",
+      "picture": "चित्र में शहद की बोतलें और लकड़ी के डिपर दिखाए गए हैं। यह मेले का प्रतीक है, जहाँ मुख्य आकर्षण मीठा उत्पाद, शिल्प और उत्सव का माहौल होता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "9th edition of Egyptian Honey Festival kicks off at Al-Horreya Park in Zamalek - Egypt Today",
+          "domain": "egypttoday.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUlPQmgyVzRsYXVMY1dGcDJaQ1JoRFdPQkNjNHFERXZXS1BGT2hrbVV6UVVScjNBd1V0TGtlUGd6WUloRHhYX3hrWWNmWkdzdFRMWnlINXMyczJ5dEQya2JDSUFCWmFITlFnUmlnVVBCRU1sWTB6LVZkNEh0cTlPdUxFbHI2Sm9hR2tQX2pBZmQzajFDYm44SW9GQmZQMHc?oc=5",
+          "published": "2026-11-16T11:40:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "food-and-wine-festival-wraps": {
+      "kind": "micro",
+      "title": "पाम स्प्रिंग्स में भोजन और वाइन का उत्सव समाप्त हुआ",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "पाम स्प्रिंग्स में शहर का भोजन और वाइन महोत्सव समाप्त हो गया। KESQ शहर के केंद्र में हुए कार्यक्रम के समापन की रिपोर्ट देता है, बिना किसी अतिरिक्त नाटकीय विवरण के। यह एक संक्षिप्त स्थानीय सूचना है, जो एक गैस्ट्रोनॉमिक आयोजन के समाप्त होने से जुड़ी है। मुख्य अर्थ यही है कि महोत्सव अपने अंत पर पहुँच गया।",
+      "picture": "चित्र में वाइन के गिलास और खाने की छोटी प्लेटें दिखाई गई हैं। यह उस गैस्ट्रोनॉमिक उत्सव का प्रतीक है जो समाप्त हो रहा है, जहाँ भोजन और पेय मुख्य आकर्षण बन जाते हैं।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Palm Springs Food and Wine Festival wraps up downtown event - KESQ",
+          "domain": "kesq.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObElIZURzdldVTzlNRjJabmEtVjNEcHlaQnROa0h1LUU2NjAtSFd0SHRpRnlTNjJvWWhxd3pWWDdlcUpYY3hib1dYVDJRajJaelRSelRHZENkcUtfYklIOEllbnFOUldWY2dYS0U3Nks4cUxIb1NCWF9QNWw4YzNIQTZ1YldGTkp4TFpudlMyUExCN3g0Y3JBOA?oc=5",
+          "published": "2026-11-16T01:32:58+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      }
+    },
+    "cat-tour-massachusetts": {
+      "kind": "micro",
+      "title": "मैसाचुसेट्स में बिल्ली-प्रेमियों के लिए एक टूर आयोजित किया गया",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "मैसाचुसेट्स में एक ‘Cat Tour’ आयोजित हुआ, जिसने बिल्ली-प्रेमियों को एक साथ जोड़ा। ABC News के अनुसार, इस आयोजन में वे लोग शामिल हुए जिनकी रुचि बिल्लियों में थी, और यह समुदाय के लिए एक थीम-आधारित मिलन बना। यह एक छोटी सकारात्मक कहानी है, जिसमें कोई गंभीर समाचार-संघर्ष नहीं है। रिपोर्ट में टूर के स्वरूप के अलावा कोई खास विवरण नहीं दिया गया है।",
+      "picture": "चित्र में कैरियर में बिल्लियाँ और मुस्कुराते लोग दिखते हैं। यह मित्रतापूर्ण मुलाकात का प्रतीक है, जहाँ साझा केंद्र पालतू जानवर और उनके प्रति प्रेम बनते हैं।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "'Cat Tour' brings together cat lovers in Massachusetts - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2ZmZjczJaVFRvVGprQTNaUnMtSzZkY3RMako5VTE3R0hodFNRRHA3LWpDVm9QN1VYQXNBZHhwXzlCN1JqZTFTSG45RWY?oc=5",
+          "published": "2026-11-16T09:30:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "leopard-cub-named": {
+      "kind": "micro",
+      "title": "चिड़ियाघर में एक चंचल अमूर तेंदुए के बच्चे को दिखाया गया",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "चिड़ियाघर में एक चंचल अमूर तेंदुए के बच्चे को दिखाया गया और उसके लिए नाम सुझाने में मदद माँगी गई। South Bend Tribune के अनुसार, Potawatomi Zoo में एक नया शावक आया है और स्थानीय लोगों से उसके लिए नाम प्रस्तावित करने की अपील की गई है। यह बिना किसी विवाद के एक छोटी चिड़ियाघर-समाचार है। मुख्य बात शावक का जन्म और उसका पहला सार्वजनिक प्रदर्शन है।",
+      "picture": "चित्र में तेंदुए का बच्चा एक गेंद के साथ खेलता दिखता है। यह एक युवा जानवर का प्रतीक है, जो रुचि जगाता है और दुर्लभ प्रजाति के संरक्षण की ओर ध्यान खींचता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Video: Watch Potawatomi Zoo's new Amur leopard cub playing - South Bend Tribune",
+          "domain": "southbendtribune.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEV4aVQxUDF2SnpNcjlhQWRyVG8zRllqcS1vX0k3djQ3aGpzQXpnWEpKc0pNVDZhVHdpcmpidnFCR3NRRHdpUTR5YzlOaGIyODNnWVhCaEM4bXMxRDdzU1FDdFJKbUtQZ3RVaEFNcFgxWEd1a0N5OGlFWm9oLVk3d1g4bkhSYVRtYnlOT0owdlM0SUF5NG5JZUNQNUJqWTRURXowdFpqU25OV2RhN3NUVHloZk92eThBeXR0LWxkSnEteVE?oc=5",
+          "published": "2026-11-16T10:12:38+00:00"
+        },
+        {
+          "title": "Potawatomi Zoo asking for community's help naming new Amur leopard cub - South Bend Tribune",
+          "domain": "southbendtribune.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONm9YQkd0ck5VNnRwd3oyaEFDUno0YmUtajYwbjdJM1A4SGNpUEhWMkQwTkJNclJWU3NxUmdJWVNINFN4SE83YTVPQUhZcTczV3Y4NUxpWUc1N2Z5Z1V3Znd5LU1ZaXI1b2lhbjRsSjJzUnpmRjMxMlV3RjY0Q1gzVURvOUxaU3R4MmJteE54cDdZa25GaG10dGFTYWl1VmY3YkZHckZSTE9qTTRFLVItNVMtaEk0cWRGR1ozWE9aSHpSWHNIMlV2YVZwTWo4MGUwQmZuNEtSYw?oc=5",
+          "published": "2026-11-16T10:01:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "muntjac-fawn-born": {
+      "kind": "micro",
+      "title": "चिड़ियाघर में एक मादा मंटजैक का जन्म हुआ",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "ओहायो के चिड़ियाघर ने एक मादा मंटजैक के जन्म की जानकारी दी। 10TV और Yahoo News ने Columbus Zoo में पैदा हुए नए बच्चे के बारे में बताया। यह ज़ू-कलेक्शन में एक नई वृद्धि की छोटी खबर है। जन्म के तथ्य के अलावा रिपोर्टों में कोई खास विवरण नहीं है।",
+      "picture": "चित्र में एक छोटा हिरण बगल में खड़ा है। यह नए आरंभ और नाज़ुक जीवन का प्रतीक है, जिसे चिड़ियाघर के आगंतुकों को दिखाया जाता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Ohio zoo announces birth of new fawn - Yahoo",
+          "domain": "yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHZxMnFFdEdQU040aUJTeklNMWMwenhfYzVUb3BQOTRSZzlwVDhpTG1HMTFrZlY1QTNDcGFqTjBWSXhPaEdocWhnQ0xpOHFXbzlIUURvUXd3RE40YV84QlFlWjk2dzJyai1SQ3Q1OTcxTVZWMjhmcHJCZm5CQWlWQktQY0J6ZjA?oc=5",
+          "published": "2026-11-16T08:34:25+00:00"
+        },
+        {
+          "title": "Columbus Zoo celebrates birth of female muntjac fawn - 10TV",
+          "domain": "10tv.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdkNBNm03YXFtbzlOZDRabzhRZG1nc2l1amNVQTI5VkRZbHliTFBMSjNmN2o0V3JZZ2FYX2lQd24xeXdkMXN3aU1DZFBSY2lFY2tlSEZNMzlUVFhvOGdnMXFYMC1UTlBJMDg2Vm55bUdhX0lwVlNOdDAxdmV0bkZqWmtaUVpZZkJvWEQyVS0yTXY1dWNuall3VVlud3d6RlkxQXYxR01ZeFlqZ2pHb1lrMjhFajFXdkMtVGx0alZrRFBiZWZDcTRxTHN3?oc=5",
+          "published": "2026-11-16T02:01:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.893,
+        "r": 0.125
+      }
+    },
+    "white-tiger-cub-at-zoo": {
+      "kind": "micro",
+      "title": "चिड़ियाघर ने पुनः शुरू होने के बाद पहली सफेद बाघिन का बच्चा दिखाया",
+      "region": "अफ्रीका",
+      "summary": "लीबिया के एक चिड़ियाघर में पुनः शुरुआत के बाद पहला सफेद बाघ का बच्चा पैदा हुआ। Africanews के अनुसार, चिड़ियाघर खुलने के कुछ महीनों बाद यह दुर्लभ घटना हुई। रिपोर्ट में प्रकृति में सफेद बाघों की दुर्लभता पर जोर दिया गया है। यह खबर सकारात्मक और प्राणी-वैज्ञानिक प्रकृति की है।",
+      "picture": "चित्र में एक सफेद बाघ का बच्चा छिपने की जगह से झाँकता दिखता है। यह दुर्लभता और नवीनता का प्रतीक है, जो चिड़ियाघर के फिर से काम शुरू करने के बाद ध्यान खींचती है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Libyan zoo welcomes first white tiger cub months after reopening",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/libyan-zoo-welcomes-first-white-tiger-cub-months-after-reopening/",
+          "published": "2026-11-16T11:21:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "himalayan-sky-guides": {
+      "kind": "micro",
+      "title": "भारतीय हिमालय में युवा महिलाएँ पर्यटकों को रास्ता दिखाने में मदद कर रही हैं",
+      "region": "एशिया",
+      "summary": "उत्तरी भारत में युवा महिलाएँ हिमालय में पर्यटकों को दिशा-निर्देश देने में मदद कर रही हैं। Arab News स्थानीय गाइडों और पर्वतीय मार्गों व आकाश-दृश्यों के बीच यात्रियों का साथ देने में उनकी भूमिका पर लिखता है। यह क्षेत्र में महिलाओं के रोजगार और पर्यटन क्षेत्र में उनकी भागीदारी पर आधारित सामग्री है। इसमें और कोई महत्वपूर्ण विवरण नहीं है।",
+      "picture": "चित्र में युवा महिलाएँ ट्रेकिंग डंडों और मानचित्रों के साथ दिखाई गई हैं। यह नए मार्गदर्शकों की छवि है, जो दूसरों को कठिन पर्वतीय रास्ते पर सुरक्षित आगे बढ़ने में मदद करते हैं।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "In India’s far north, young women help tourists navigate Himalayan sky - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenVuZHp4OW9lTjlDWldXVFlkdzROQVBxRl9jV09OZWplcWZaelRaU3F6ZVRnSWVsNEIzbmZiVlFhWER4ZDF2UFZSRk5yc2NYN013SWx5MnBCUGk3MzA1SUwtRWIxSzlqTnMtNThCMWh4b3FRUU1CMmJRQ1hZeFN1eUE0RnQ0VDVERFlBTFhyc1pIa2dmZ2UwbHNVNlNTekkxbWtUQTZCd3hBV28?oc=5",
+          "published": "2026-11-16T09:57:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "school-festival-culture": {
+      "kind": "micro",
+      "title": "स्कूलों और समुदायों में संगीत और नृत्य वाले छोटे उत्सव हो रहे हैं",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "स्कूलों और समुदायों में स्थानीय स्तर पर संगीत, नृत्य और सांस्कृतिक कार्यक्रमों वाले उत्सव हो रहे हैं। समाचार संकलन में अमेरिका के अलग-अलग शहरों में हुए कई ऐसे आयोजनों का उल्लेख है, जिनमें मेले, भोजन उत्सव और स्कूल प्रस्तुतियाँ शामिल हैं। यह एक ही घटना नहीं, बल्कि छोटे-छोटे स्थानीय समारोहों की एक श्रृंखला है। इसका समग्र अर्थ है कि समुदाय संस्कृति और मनोरंजन के लिए एक साथ जुट रहे हैं।",
+      "picture": "चित्र में बच्चे चमकीले मुखौटों में नाचते दिख रहे हैं। यह समुदायिक उत्सवों की छवि है, जहाँ संस्कृति संगीत, गति और परिवारों की भागीदारी के माध्यम से अभिव्यक्त होती है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "International Festival Brings the World to Peeples - TheCitizen.com",
+          "domain": "thecitizen.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2l0aVAweXEyeEU2dk5NbXhpNF9NbVYxVVhweElrUVRVU0UwX3dqLXU5N2w1V011dzNJb0YyVUd3WDRjeVZUQUlBanY5OW1VMkNOeDhjM2hraWtiNG5oamlXOTk5ckw2RVB2ZWZhcGFWUWVhU3lXeURGU2pJbnFxS1RtYldTY1JfalhuOHl3?oc=5",
+          "published": "2026-11-16T11:37:59+00:00"
+        },
+        {
+          "title": "Waterloo Center for the Arts’ annual Holiday Arts Festival has something for everyone - Waterloo-Cedar Falls Courier",
+          "domain": "wcfcourier.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjN0RENlenNuNU1LeFU5Q2x2Vk9MaEM5TnA0RHE2VzU0SzNNVjg3TFFxYVZ5RGlMYmpDb3lfSFR4cUVteXVOWUJJUVdkZzQ2MTBnS2VXcFg3Y2d3VmFwcVZkMkFkS1VtOW5XbDd0SWMyWWl1Ym9SQ2RONTJNUF9zdHcyMnlyNTMyQ1lJ?oc=5",
+          "published": "2026-11-16T11:30:00+00:00"
+        },
+        {
+          "title": "Pella High School Thespians Perform Well at State Festival - KNIA - KRLS",
+          "domain": "kniakrls.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEhXOFl6RkUyeTdPZnJCSktJUnhxNWlkTGNYZXRVdkdCSkRkZkFRblRLWHNkXzJNS0FNNDNGMzBkV1dhZ1ZIZVc4LU5XSmJKWVY3M1JmT2hyS29Xb2hNMF9iUXo2dDROTm1xaTdNaGhNUFFINFlmVVJRRkZ0RWw2TUxaLUE3LUswN0Q3TQ?oc=5",
+          "published": "2026-11-16T11:26:15+00:00"
+        },
+        {
+          "title": "St. George Food Truck Fest bringing over 100 vendors, live music to Airline Highway Park - The Advocate",
+          "domain": "theadvocate.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQlhvWmlJdWpNeG8xMGpzTEtpYVFkMEF1YXRfRkpQSlQ5QS1ydDAzX0N2N3h0cWkwYTFnWWh5N21HRUxmd0dpTXd4Y05YU3VjNUQwMUhtc3NtczZOeGFKTzg3Zjhjd0hSSHVuVmF3RGtiZm1CMWpvYUQ0c3ZKX0R2S091ZHJSa2Mzbkt3Q1lXNXRBVG9NRFBzUHg4eDdJOENlUlpUT2pkZDhZOVB1VGdrb3A3UEZBQllwT0tfS0UzUUEtTWVUYnhaRjdjdmI0eHFudERUbQ?oc=5",
+          "published": "2026-11-16T11:00:00+00:00"
+        },
+        {
+          "title": "Corpus Christi's Jewish Food Festival celebrates 41 years of community, culture, and homemade recipes - KRIS 6 News Corpus Christi",
+          "domain": "kristv.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamoyQW1pSDFMNWQ0TlZRdmZvQUs3ci1TWlRIenNYcGQycGw5Z2xmME1XekJQbU1TWDhKMWdBT1piaHVGWk5zX193Ujh0MVRuRTBXT2psdldNNnpXV2Ywc3hQLTdVR2NfNW1fU2FmR3RxMWVoV3dwTWI4czBfNkZ3MGNhcXFDZ1RyZ3lGQ1UyaksxMGxDWFpuMEdpQVJCWGxxLXJNbWZRdXpTRkJtVXQwMkxSLTJPa1ZwbThpSFhkZE52VVZkQlRkRkRqYTF1alJia2Zv?oc=5",
+          "published": "2026-11-16T08:10:53+00:00"
+        },
+        {
+          "title": "STHS Winter Festival: Winter Wonderland — Together We Shine - South Tahoe Now",
+          "domain": "southtahoenow.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakV2MW1hdXFYZ2xSQkJjbEI0QlRPdTcteGNTdjBJTkJGWUJmWWVsOGw2LVRyaGxES1BNTjlHLTd6YjJwZm9EMDFXU2plNWNDZWJhZG9Ba3o2RnpZRm5HTll6Vlh4YmpBUjVCUGtEY0NLUnduQnkzMzlxc3FWa1J4ZUhVVVNCcFlnclpZeG9hSVM4R2Q2Wm9JbQ?oc=5",
+          "published": "2026-11-16T07:44:47+00:00"
+        },
+        {
+          "title": "MSU holds annual Global Festival with cultural exhibits, live music and dance - WILX",
+          "domain": "wilx.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVRDVV9GZWRURXBPNzJzUGVhaVBXNm1KVjNCUXNFaXBsZkZ2WXpSUzA3TDExdWotNEVnNmV3QTV1MEdYQ0kxWnBSN2xfenhSN3lvSEM4RG5kNl9SVFk2VDdxRkJCQjRudkJOcUFoelkza0ZSSmpDRVRGQW51RTNvMW52RE1pYmlhQ05vN19hNlVwTFp0WUx0RHZVRmRRSWw1Q2xnMGhNcGHSAbwBQVVfeXFMTS1sY3Nqald6S2pCZEE5VlYwdWRhQ05hYWhJeDBYall5MjdLZmFRVGdIbVVraTkycUhMSkM5dFdsLWhiclk0Y2ZFSVFZa2ZHcjllUWppbW03ZEpXbExGUGJPYTR0LUlmeDJLZnVucHd0ZlZGMm95Wnh0XzRFa1lOdnJfamNMWC1yQ3M3Wmcyc1hTYUpRSzRDejh1QnRWVlRxOEVxNzNwdkZWVjR4OVItV1F5LUJfNTVMZE9wUjI?oc=5",
+          "published": "2026-11-16T05:27:00+00:00"
+        },
+        {
+          "title": "Jewish communities gather in Burlington for food festival - WCAX",
+          "domain": "wcax.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjgyaTFTNF9oMTZ0d0JrV2V1S2ZLTVhaVFBxZ2JkZnlIazcxdE92VlplNllycGNUS19ueUFzbVpiT3ZleHJHR2prYmlzQ0lqTXlYQ1JTcVdLNzJBamlCOWpkZFZyTnE0MlBqM0M2X2RzTUUxaUpUQ1lyQ0RQS2xoT2F3dTZJS1RReHhR0gGfAUFVX3lxTE90NFEzTGdYTElRRDlYRXc4cnAyUHBxdXowcU1qTDFEZGlhSUllSFFYSzVvNy1yOE14Sk03WmpNcFdEakJCWHBQSDdhUzA5cFI0a1dHcW1jOUFiaWZWazZJMlVzUkY2eV9la3NoZ3YxbHpfdDF3bGxramNUQVZ0VnduT25ZczRfcVduQ0FKVUpaekNfRlVKc09rTjV2SkYyYw?oc=5",
+          "published": "2026-11-15T23:21:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "holiday-lights-at-zoo": {
+      "kind": "micro",
+      "title": "चिड़ियाघर त्योहारों के लिए रोशनी के शो और जगमगाहट भरी सैर की तैयारी कर रहे हैं",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "अमेरिका के चिड़ियाघरों में फिर से त्योहारों के लिए रोशनी के शो और शाम की जगमगाहट भरी सैर शुरू हो रही है। ABC Columbia, WTMX और KGW कई शहरों में Wild Lights और ZooLights कार्यक्रमों की वापसी की रिपोर्ट दे रहे हैं। ये सर्दियों के त्योहारों के लिए तैयार किए गए पारिवारिक आयोजन हैं। खबरों में खास तौर पर रोशनी की प्रदर्शनी की शुरुआत या घोषणा की बात की गई है।",
+      "picture": "चित्र में रोशनियाँ जानवरों की आकृतियों के चारों ओर लिपटी हुई हैं। यह त्योहारों वाले चिड़ियाघर की छवि है, जहाँ सर्दियों की रोशनी साधारण सैर को एक शाम के शो में बदल देती है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Riverbanks Zoo’s Wild Lights is back this holiday season! - ABC Columbia",
+          "domain": "abccolumbia.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUZ1bUZEWUZxX1Z3VG1RWmFfVUFQVmhhSFppdVItdVZkVmpNcFJ4M3M5VEk4ZzNET2xiRUhPcWk4MUo2bUdFWUtUcTQzMTd5MC1pM2hrNG1aTnJ1eks0MHRVU2h3OG1uNF9CVm5lMW5xSV9zQmhHUHRBaEJzTUJDbnNEZVhkQTA2V0pQdmJMZWlJZklNem1TOVlhTQ?oc=5",
+          "published": "2026-11-16T12:08:03+00:00"
+        },
+        {
+          "title": "Lincoln Park Zoo Lights presented by ComEd and Invesco – 101.9fm The MIX - 101.9fm The MIX - WTMX Chicago",
+          "domain": "wtmx.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0d2S250blg4M3RtWEFjQjUzcVRuSC1JU2taa0lKZjhvZGx2bXZLTWxpdl9Uem9WR1pXa0RuWTgwR1VsVHZMYW11SFVlVkNpeDJkQUJCU3lWQ3FHZkE5a0llVU90ZW1MMUkxbGV3aVh5QlB3Skhkejlmemg5YkhmU1N4YmY?oc=5",
+          "published": "2026-11-16T07:00:31+00:00"
+        },
+        {
+          "title": "Oregon Zoo previews annual ZooLights holiday display - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlNOZkVacjd3cGV1YlFtalZhWER3bE9oVnNqQ1NSb1luYVR6MGRSckVJY0gwaHNRZ3FFZ0Z2ZXRuSVNzV1Q5RUVjLUVkMWoyMWk0aUxScGpwZVRRSlR5TVUtSFQyX20xeGZORTJKY0lzODl2Q2N5R3g5RjNUcXA2ajFIOXNITFBYZFcxMkZXYnB0R3BiR2ZVVzBSTFNIaXo1NFJFTThUVTg2Z01kbllfYWFWS2Ixc0FBdzdSemZHNG8tLWVidFhiaXI2bVJ6NjAxbnFkem5UMA?oc=5",
+          "published": "2026-11-16T06:11:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.964,
+        "r": 0.271
+      }
+    },
+    "festival-of-trees": {
+      "kind": "micro",
+      "title": "पुस्तकालयों और पार्कों में फिर से सर्दियों के मेले और पेड़-उत्सव खुल रहे हैं",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "पुस्तकालयों, पार्कों और सामुदायिक केंद्रों में फिर से सर्दियों के मेले और पेड़-उत्सव खुल रहे हैं। स्थानीय खबरों में Festival of Trees, Reindeer Rendezvous और इसी तरह के पारिवारिक आयोजनों का उल्लेख है, जिनमें सांता क्लॉस, कैरसेल और त्योहारों से जुड़ी गतिविधियाँ शामिल हैं। यह बड़े समाचारों के बिना स्थानीय घटनाओं का संकलन है। इसका सामान्य अर्थ है कि समुदायों में सर्दियों के त्योहारों का मौसम शुरू हो रहा है।",
+      "picture": "चित्र में सजे हुए क्रिसमस पेड़ और रोशनियाँ दिखती हैं। यह सर्दियों के त्योहार की छवि है, जिसमें रोशनी, सजावट और पारिवारिक मिलन मुख्य प्रतीक बनते हैं।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Mary J Barnett Library Excited for Festival of Trees - Raccoon Valley Radio",
+          "domain": "raccoonvalleyradio.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUUxU0Z3Z05nSTdsNkNTWE5EQlJPbVE2dy14bVRCYjR2WjNnNnhTdWhUUENyc3MyaENmN01jekl5RjhuMGxSNl9VNGdCVERVZk1IMVRIM0hpVGwwS3pFSHd5dGNieUdTMm5LcHZ2SmY3T2hNUGJTS1VKZFFEZ2l0T2JoS2NURnJKNExvRHdJYUJwV1B0UzM4WDdLbzZoSUJnU2hN?oc=5",
+          "published": "2026-11-16T11:32:55+00:00"
+        },
+        {
+          "title": "Reindeer Rendezvous returns with Santa and carousel rides - Journal & Courier",
+          "domain": "jconline.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlE0cXVjekRETnNmMGxkUjJsSGtnWWNGR3pGcTZ4cFYxbEd3cFdZV2VNaUxZMXRyRTQzNThDYnJLMUVNcmhhOG4wLXlFUXE3T1lwdDR3bC1hMEJEdXRwVUIxWURobVUyLU1jak9GZmZtMVREQWNzdlVoeFNTRDc4MHNBa0JQOUwwQ3RiM0hHMV9VNjBhcXJmdk1GbFhWZ1NrVGFzcy1UWmJmbnFPdEIzdGFDeVZ2ZHk3aFd4VUxEUUtfWUJsaVB3R0lWRENHajRuNm41NGRpUTQ?oc=5",
+          "published": "2026-11-16T10:01:00+00:00"
+        },
+        {
+          "title": "Fall Festival combines family fun with school support - The News-Enterprise",
+          "domain": "thenewsenterprise.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUVR0THpCWnJuUGlDcDZNWjZtVkd6UWpaNTdYOXZ5ZmVVU2hKMHpLQ1ZvY0lZQkJjS1g2LWhYUEx0Qmh1cVpYaUQySWYyVXZ4VnZMSF9nSXp6aUlSNFNaSlZDTk14NkFmR2d2T1c0TjhEN0RvYnJNdFpYMXd2WFluS1JPaEMtOWVKLXVLbW5VV1R1Sno3LXNpZkQyQnY3T3dLTWpsUDNOMmY5UEw1RF9sTV94VXZ0WEZIVlI4OWo4bkluUXBHWG14ZUEzMGdPVFhoS09nU0xhLWZQMFNZNF9iYktR?oc=5",
+          "published": "2026-11-16T09:00:00+00:00"
+        },
+        {
+          "title": "STHS Winter Festival: Winter Wonderland — Together We Shine - South Tahoe Now",
+          "domain": "southtahoenow.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakV2MW1hdXFYZ2xSQkJjbEI0QlRPdTcteGNTdjBJTkJGWUJmWWVsOGw2LVRyaGxES1BNTjlHLTd6YjJwZm9EMDFXU2plNWNDZWJhZG9Ba3o2RnpZRm5HTll6Vlh4YmpBUjVCUGtEY0NLUnduQnkzMzlxc3FWa1J4ZUhVVVNCcFlnclpZeG9hSVM4R2Q2Wm9JbQ?oc=5",
+          "published": "2026-11-16T07:44:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "pickle-party-record": {
+      "kind": "micro",
+      "title": "फिलाडेल्फिया ने अचारों के साथ रिकॉर्ड तोड़ पार्टी की",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "फिलाडेल्फिया ने अचारों के साथ रिकॉर्ड तोड़ पार्टी आयोजित की। Metro Philadelphia के अनुसार शहर ने अचारों को समर्पित इस अनोखे सामूहिक आयोजन के कारण इतिहास में जगह बनाई। यह एक छोटी और हल्की स्थानीय खबर है, जिसमें कोई राजनीतिक या सामाजिक टकराव नहीं है। इसका मूल संदेश असामान्य रिकॉर्ड और शहर का उत्सव है।",
+      "picture": "चित्र में अचारों का एक विशाल कटोरा और कंफ़ेटी दिखती है। यह शोरगुल भरे और थोड़े अजीब उत्सव की छवि है, जिसमें रिकॉर्ड एक साधारण लेकिन पसंदीदा खाद्य पदार्थ के इर्द-गिर्द बनता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Philadelphia makes history with record-breaking pickle party - Metro Philadelphia",
+          "domain": "metrophiladelphia.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQME9YRTFHVlNtNkc3Q1VsS2x3NlMzaEtjTl9tZExyTS1Id2FnbmI0X3hGa09xT1paVFJ2VjBIZVRCYWpnd2dOZ0VyN2xCWWw4Wm5oWWYwRV9uakxwV1IyTm5ud0Npang4T192djBNV01vVTZXVDNUMW90TnJtYnc4ZXJQdw?oc=5",
+          "published": "2026-11-16T11:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "worlds-largest-grey-cup-fest": {
+      "kind": "micro",
+      "title": "कैलगरी ग्रे कप उत्सव और प्रशंसकों की मस्ती के लिए तैयार हो रहा है",
+      "region": "दुनिया / क्रिप्टो",
+      "summary": "कैलगरी में ग्रे कप उत्सव और प्रशंसकों की मस्ती की तैयारियाँ चल रही हैं। इस संकलन में स्रोतों में समाचार रिपोर्टों की बजाय कार्यक्रम के स्ट्रीम और घोषणाएँ अधिक हैं। इस आयोजन का अर्थ है कि खेल के फाइनल के आसपास प्रशंसक और शहर का उत्सव कार्यक्रम एकत्र होता है। पाठ में खास समाचार विवरण लगभग नहीं हैं।",
+      "picture": "चित्र में मेपल झंडों के साथ फुटबॉल प्रशंसक दिखते हैं। यह बड़े खेल उत्सव की छवि है, जहाँ सबसे महत्वपूर्ण माहौल, एकता और मैच की प्रतीक्षा होती है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "‍‍‍!+[LIVE@STREAMs]FREE!] 2026 Grey Cup Festival 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQM21rVUxhQUtNdlJYYWxYR0NrR2hoN3h0RWt6Sjd3VVFJY2ZoTWhYal9NWkhlLXFEYm5vR2hoeTUxdVNWYUZhNmFLSmVHVy1SYjBHM29OMzJ6X3djNWIwVlcycTVuanJMR3E2U2xDZjUzUjNSV2ZMSEVxU3JKam9vSlJ1aDFSazVlbjkxY3hCSVYyQjN3c2RXUEcwVVF0N1NXVldNMjViaHd3SzBBSHUyb29EWWpSbFJyT0E4NV91U0lGN1VmbUM0RWhPc01tQkkyMHVRNkdaZ0JvYmM1NjlGNE5Pem1VUlpyY05zLVVtMXh5QUY0amtyRnVtZkEzMlhWTDNlRHU3OGx2MjhiMUNHbW03WnZoaWYxNWc?oc=5",
+          "published": "2026-11-15T23:54:17+00:00"
+        },
+        {
+          "title": "‍‍‍*∇#[+[!LIVESTREAMs!]TV] 2026 Grey Cup Festival Live Free Grey Cup 15 November 2026 top - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMXhucGJSakh4MGdsRVFJQUU3TG56UmIzX3h1YV9yWF91dmdwS0Z4S3ROd0p1aWdjbUMtUFBtQnZwaGZXcXBCNk11RVktX3pDS0V2NVMtQURpMndtZDdiaGo4T2lScXFWcHQxbjc2eTFwZGlLdUNPLVB1SHBJWXFuUEZSbEpheWFBQV9nOER6ZWNsbjNHUFMtVlVwYXJsYlNrUVpBQ3NnbmlmT0NBY2NyLUQ3dkZONjJIeVZlV05hbk5MRGg0Y2VQd0twWTZBUnhTLWRKVkxIaURhc3doTXd1QXI1S2JTZS1PbnRROVl4MUpGRjZndHFvcnl4M1dJcXdWb2ZSSF9ReDg0ZDZBTVFyN1h4QW5YbEpYSnc?oc=5",
+          "published": "2026-11-15T23:27:12+00:00"
+        },
+        {
+          "title": "‍‍‍=++[WATCHLIVE]TV!] 2026 Grey Cup Festival Live Free Ｓｔｒｅａｍｓ On Ｔｖ 15 November 2026 - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbWpHOW1XOVpEUk1KNmJYczI3VktJVHI1LVlsbDJjdHhMby1vUEdUM2doaW5UNW1yZmpGaUJVZm1QeU4tdEJ4UjNPMm95TEluaG5zMGFkWlJJQ2NZODVlWkNVM2lUSWRzeHJNcFoxS1Zra1lteGloeEdra2dxMVE0cXhHV3FCZjRyRFNNSWJScVEtWUFXbE5sazhMMzJ4bnRQanVXaTdCZkQ4Nnl0WGFhX3pEVmhzU0NfeTMxWDBHdFM1c1Z5RHpGV3YwU2RUMkpyc0VwTVY3RlhVUlZJSTd5NUVTcTM5NjBZX0dPbEM5Ul9vZU5sZjBpMVFDSDRkY285WjJNSDZBX25WUG81dG9lMjFkVWlkakQ3dXc?oc=5",
+          "published": "2026-11-15T23:27:12+00:00"
+        },
+        {
+          "title": "‍‍‍=++[LIVESTREAM]TV!] 2026 Grey Cup Festival Live Free Grey Cup in 15 November 2026 - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOTnVldGt6T0E2NXRySjBuM2twR3JVTXc3cVF1dTRaamd5MFBobmJLcktuX1REUi1ncGpvNnhieDFzNnFXUnctTjYzMmhEaDFmd1hRbDc3cE9zaUtkS3BvRXNXc0VMMVQ1N2N5bEluX2gtWHhvdGhsb0tIX1hBNHl1YUtJWEg3ZVE5TmYwdFI2S094cEVQRzRmblp0U0hWMjl4clN3cHI0RlpQWXVBZkd0M0REU1V1RXVVYVE0RUlTMmJMV2JPQ29HMHFaOXFBdi1tT2l0bWh4ZkhUc3Fma1VTeTJvdVdJRHowejhNRzQ5TzBDbllTem1rSHJWeFFidFYxUEhtbnd4VEVmZFI4czZaemxfMzg1cmlXa1E?oc=5",
+          "published": "2026-11-15T23:10:47+00:00"
+        },
+        {
+          "title": "‍‍‍(DIRECT GRATUIT) Activités du Grey Cup Festival 2026 - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOcVVhVy14ekN2WFBxTC1IaTZhSkU0REtzOHdlSGZveGx4VThJU0Z4QXFDcHlEYS1nUTU5dGZrb1dnZ19saVlkQTh5YjBJek1hejlrZzVIeEl3Zk5oODZ3QWV4cTNvV3BPMS1sUUVQWHIzR0wwdkpLUGpOb3RuenZCMmx6d0JFWVIyU1FuNjJ5UWZHVFBhOWhja1JuSVd5NFFjbFE5X09JU3ZjN1NrNHRYdjczUGVKeGx5Q2UySjdDb1N5T1k0eUZzcXVpa3NkLTRwVVc3NjhFMUxUQkVYYjUwWWRLS2JGcWtqU09NbTk2eFJ1aVRZcUl3MDBfdzNzSTlMNlE5anQ3V2tCb250TVZlVE5OeWhkNk1OWEJmcnZJQ09PX3hSR00wREplLUtBTzFsR2RWaERqRTVwOU5TUDE0R0VUaDg2S0NzVU44OWYyRVF5UWhyRWJoRF8tRDU4R3ZiTGROejY5NGRwOG0t?oc=5",
+          "published": "2026-11-15T23:10:34+00:00"
+        },
+        {
+          "title": "++VOICI*COMMENT Grey Cup Festival 2026 en direct gratuit - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNVGUzeFVsUGE4MmUxd2p4dXo1NXgwZWwtcjR0cS1rMnl0cEI5Z1NpN0tpX3RTb3pwUzZ5OUdqakQ1YnRxdWlUNkVUajFHck1Fc1AtUXRqRHZYRUxSWXJSWTVkYWZvbmMxM1ZoN0RrQi1seWdHU243eVRlQXJUZ29IcTByN3N6TjA5Nl9mLWNDRlJLYnhhNXpocUVta0JFMmRydmNnZHZrOUxFSzY0RnZoS2lSdm5fWU5vMl9wZU9jNVUxdWoxdEVseGp6d05EaC03TDhyd1AzcFE1TG1ILWZIM3F5UjZYN3hrVm9MSHdWdTQyRHhQZ2VDUXo5a1VWekxRa0JMRk80OGpZN2JtWWYyME5WWmhSYzh1Zk1qeXNKMDA3aXYtejVkU21keU9aWWZvNlZ5YkJsX3JxSjZOZy1uZGI0X2t0Vk9qbUUwaE5YOFJOVVNQSTNlR2tyai1YYUZ3V3pxaw?oc=5",
+          "published": "2026-11-15T23:10:33+00:00"
+        },
+        {
+          "title": "[DIFFUSION EN DIRECT]Festival de la Coupe Grey 2026 - UB - Universitat de Barcelona",
+          "domain": "ub.edu",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPZDV0eDlzaldiVWZxMTZTNnU4Y0FoUjdvTFRQZHNta3lodkNEbkF3SzNlckx0S0s5eTdKMWdkMzNzbk04cEZLZ3FrT0pLQUZxWW9SRW5YMDk2WU94LXZoaTBQR0J3dm9uQlhyNFBWeUI4cTJCdm9GNnoyMWVHajFNR3JLU0FqdE5zSHRIcTVPLXMxRERJaVB6WlZLTnBJazlkTG9jTXNNU0pHU0t1MkR3VWMwcEpFa1IxdC1wZUs5VTJ6TG5fYVdBNHRZOGZNY1Byb2g2c014cHlZdTVJX1dEWlVQczdOd2FtLU52SGNUOFJQX2gzdmxNb3VZamxmUGxYcURvYlFTdEgtaHVjTDdpQWFHcWhNSDJkSGdjdXIyUmRqSnZPdXVsQ1BXbDRtX1dUZVRNWFQzTEJFekplWk1nckdTc0Z2YkJJeFZENDVJV3AzSFRoaGJQRWJneDZ2T3VKS1Vsa2FpZVNmSFVE?oc=5",
+          "published": "2026-11-15T22:39:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "mcilroy-wins-race-to-dubai": {
+      "kind": "micro",
+      "title": "मैकलरॉय ने रिकॉर्ड आठवाँ Race to Dubai खिताब जीता",
+      "region": "दुनिया / क्रिप्टो",
+      "summary": "रोरी मैकलरॉय ने रिकॉर्ड आठवाँ Race to Dubai खिताब जीता। BBC, AFP और News24 के अनुसार उन्होंने DP World Tour Championship के फाइनल टूर्नामेंट में दूसरा स्थान हासिल किया, लेकिन समग्र अंकतालिका के लिए यह पर्याप्त था। यह गोल्फ सत्र का महत्वपूर्ण समापन और खिताबों की संख्या के रिकॉर्ड की बराबरी है। प्रमुख परिणाम पर सभी संस्थान एकमत हैं।",
+      "picture": "चित्र में गोल्फ ट्रॉफी के पास एक मुस्कुराता खिलाड़ी खड़ा है। यह उस सत्र की छवि है जो एक बड़ी उपलब्धि और नए रिकॉर्ड के साथ समाप्त हुआ।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "McIlroy wins Race to Dubai after thrilling final day",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/golf/videos/c5lyk087yxjko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-15T15:34:04+00:00"
+        },
+        {
+          "title": "McIlroy wins record-equalling eighth Race to Dubai title - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1N0UUZqTDI0YnZUbkVTYnd5bVBhRjJjaF95RUJhQ01Ud29paUpYaThaZmlHZW9FLW1yWWV0cGp3ME9mSEhCekVIblQyeU1CQllGN3BpTXItNEFOc184SkJDMXJ0djZtbkN5cE45NmhIdmp5eGZjTVMzV0NQOW1kSG84bmRfTy15eHAxQXRPcDYtTGY1TEtweDVIOFdLcHFJMHkzY0JOVQ?oc=5",
+          "published": "2026-11-15T13:47:59+00:00"
+        },
+        {
+          "title": "McIlroy wins record-equalling eighth Race to Dubai title - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXdNUkdPRnpmR2xDY0dUOXAyZnNnbEU4bnhiWVF2c1cxSG00bF9rWVQ5cTJwTjVyMzJRM2l2dTFNTVA1OE9sOUdZU2l2VHZaeGVDTFhTNkhPUkY4WERWY0NpZHQ1NTcta3ZpQ0xRcnhUTm1Zc3NodTA3aWkxbm5lNmhR?oc=5",
+          "published": "2026-11-15T13:15:40+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      }
+    },
+    "lindy-duncan-first-lpga-win": {
+      "kind": "micro",
+      "title": "लिंडी डंकन ने लंबे प्रयासों के बाद पहली बार LPGA टूर्नामेंट जीता",
+      "region": "दुनिया / क्रिप्टो",
+      "summary": "लिंडी डंकन ने पहली बार LPGA टूर्नामेंट जीता, और यह उपलब्धि उन्होंने लंबे प्रयासों के बाद हासिल की। Yahoo Sports, Golfweek और AFP के अनुसार जीत 222वें स्टार्ट में आई और उनके लिए भावनात्मक सफलता बन गई। खबरों में यह एकमत है कि यह LPGA स्तर पर उनका पहला खिताब है। इस कहानी को एक दुर्लभ और लंबे समय से प्रतीक्षित व्यक्तिगत सफलता के रूप में प्रस्तुत किया गया है।",
+      "picture": "चित्र में एक गोल्फ खिलाड़ी आंसुओं के साथ ट्रॉफी उठाती दिख रही है। यह उस लंबे सफर की छवि है जो आखिरकार पहली बड़ी जीत पर समाप्त हुआ।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Lindy Duncan Ends 222-Start Drought With Emotional First LPGA Victory - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDRmSU1MbFdXTTJqWGJBWXlnNlZHOHhxZlNnek1GV1JRSGdLemxuOVl1MUVOQnpZZFpxc3h2SGdWWEoxNkNLOGNscTZVeFJBa01KMDA2aVVqUk5JVzR0Z1pfQ0laN25sWllhSGZ1cGZaemNScnNVQjdsZXh0S0J1ZEpR?oc=5",
+          "published": "2026-11-16T12:00:40+00:00"
+        },
+        {
+          "title": "Inspiring Lindy Duncan, 35, clinches first LPGA title in 222nd start - Golfweek",
+          "domain": "golfweek.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNy10RVNyLUxibkFnOUlPT28wUllSUTc4YVhVX2J3aFVyZm5lMmJtQzIwQW5IVm93YTVKYkpKQ0M5OHRGTHdYSHVETUJJSnNDSGFzTlF2VzhLMGhWeFZPUzVvZG9zYnpYcVJ4RC12ZnB3Ul9pWWRmcEx5TjBkLVpxTXluMFdhT3RoOWlXSnFXOE95VzBGUERUc2hma1ZRamJWNWM1QlRkZkg0M3dKcl9EZUpRbjJxS2IyMjZQZnpnaDVreVhJbjVNbg?oc=5",
+          "published": "2026-11-16T00:56:00+00:00"
+        },
+        {
+          "title": "Duncan claims maiden LPGA win with Annika victory - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ReWhLbVNqMGVaVGw5TVpDLXEweDJ4T2wydXczQW5MMnpKQmJ5Tmk1VHB5empYSmxFLXFlWlNHdnJSWTQzRUxyU3dZbVhTUXNWLWpnZlZqMmVsbWx2bXFMVlZOOVFzMXV2X1VwRGE0eHUyV1Zxamc?oc=5",
+          "published": "2026-11-16T00:03:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "england-beat-spain": {
+      "kind": "micro",
+      "title": "अंग्लैंड ने एक रोमांचक मैच में स्पेन की लंबी जीत-श्रृंखला तोड़ दी",
+      "region": "यूरोप",
+      "summary": "इंग्लैंड की राष्ट्रीय टीम ने स्पेन को हराकर उसकी लंबी अजेय श्रृंखला समाप्त कर दी। AP, Reuters, Sky News और AFP के अनुसार इंग्लैंड ने मैड्रिड में नेशंस लीग मैच 3:2 से जीता। सभी संस्थान स्कोर और इस बात पर सहमत हैं कि स्पेन की रिकॉर्ड अजेय श्रृंखला टूट गई। यह एक महत्वपूर्ण फुटबॉल खबर है, क्योंकि इस परिणाम ने स्पेनिश प्रभुत्व की लंबी अवधि को समाप्त कर दिया।",
+      "picture": "चित्र में दो फुटबॉल खिलाड़ी गेंद के पीछे गोल की ओर दौड़ते हैं। यह तनावपूर्ण मैच की छवि है, जिसमें नतीजा अंतिम सीटी तक चली तीखी लड़ाई में तय होता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "England ends Spain’s 43-game unbeaten streak with 3-2 win in Nations League - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTJjVS1PRGc2ZXl3eFJ5UnBGRnllaEZyekRXam9haWpFVVdVLS1WamRudUlvLVVRZjlRS0Zla19NOWZEdm1IbFcwdGpYQm9NUjR4NzZiMGZYYWlJN3ZPdExMSDBZakdKVTRjZjVMUkxLT19iSkVFTmd3UzdsdlZpSHNNOF8wY1FSVzFzYXlnS3BkZ1dWc3dNR003bUpRSnAxbWc?oc=5",
+          "published": "2026-11-16T00:02:00+00:00"
+        },
+        {
+          "title": "England end Spain's long unbeaten run, Italy crash out of Nations League - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3ZhSGtta2ltYVFfbXVVSC00alNLM3hwX0JOR09kbkZiQW5mQy10clVEX2lXYUhacnUtTjRPbUtYbC1SZTM4bThUNkp3WVg5RXl2VURGYlREMm5BNU14NjNic2RrNEg3bldja1liYmx5SXI0dnBsaHRidldoYmczQ3hjWnptRzFKMmlpd2w5S2RuSGJfeUZxUDlPdmZxMjJNQVc3TE1iS3hJblFCN2ZqRmJxdzFfYzBK?oc=5",
+          "published": "2026-11-15T23:37:42+00:00"
+        },
+        {
+          "title": "England hang on to beat world champions Spain 3-2 in Madrid thriller - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnI3WUVRTzlMUUh5MVIwbWJPQ0hGdFU4U2Iwem9Mc19SUV9hMmFGRElyWi1TRlUwQ2FIN3Q0LXozZmc4eE82YVpBRDJHSVdXNVBhUFNvNE9kTlhsTDExd2loZUlUNjVCdGd2Sm9hU2NoZktTQUhOdGRjNHU4WGgyZl9MTXlLNDA1dGdjYlowU1J5dG85bzRwcHRYejBDbzMwMEE?oc=5",
+          "published": "2026-11-15T23:06:05+00:00"
+        },
+        {
+          "title": "England topple Spain as Belgium smash Italy to reach Nations League quarters - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTAzeVNTUkJsNTB4alRKMWwyZmVvNGhjM0ZTNmJHaDQ4SlpiM1hPOGRuM2FJWlM4WUY1TFJId3lTOWlGZmxkN1NTazlabzJwN0tiRlBfLVAxTk05MVhOUlBEeTBtSDdrYm5ndlM1UVY1bmlHck5ITW9sMlczS0paZ2REZFJWZWZncjRyb1l0SXpheEVTWm9nZQ?oc=5",
+          "published": "2026-11-15T23:02:56+00:00"
+        },
+        {
+          "title": "England beat Spain in Nations League to end record unbeaten run - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjktZG1oNEtLQndoSF9pY2pNWTFobUFXeGo3N3kwZDRieDRqVVhkZ2h3ZUs5V2ZWdzFmdVFFTTRUb09XQ1FIeDNRMXN3Qy1pUE9UeDl2UWhoS3VEUmFyZWRpeGRENy1jZ3VnRVNMdXBhVDN0YkR2MkkyMWlkYjdLZlM3RXd5WGJ6Q2FyczlNT1JCN1o2OWNWdUdWZ0I4U0ZkM1o1b0FzQzM?oc=5",
+          "published": "2026-11-15T22:42:46+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "bengals-beat-steelers": {
+      "kind": "micro",
+      "title": "बेंगल्स ने बड़े NFL मुकाबले में स्टीलर्स को आराम से हरा दिया",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "सिनसिनाटी बेंगल्स ने पिट्सबर्ग स्टीलर्स को 38:18 से हराकर AFC North में एकल बढ़त हासिल कर ली। AP, Fox News और अन्य संस्थान जो बुरो के शानदार खेल और प्राइम-टाइम में स्टीलर्स के कमजोर प्रदर्शन की ओर इशारा करते हैं। यह अंकतालिका और डिवीजन की जंग के लिए महत्वपूर्ण परिणाम है। खबरों में मूल बात पर कोई मतभेद नहीं है।",
+      "picture": "चित्र में फुटबॉल खिलाड़ी टचडाउन का जश्न मनाते हैं। यह एक आत्मविश्वासी जीत की छवि है, जो सत्र में शक्ति-संतुलन बदल देती है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "NFL Week 10 INSTANT reactions: Bengals & Jags dominate, Mendoza's first start, vintage Patrick Mahomes - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHRoNmUtMkZOcGdkSmo0cHhRcFVReHJ6SGd0cGFmMWNUcnYySEJVdE9EZmJSODZVRUNtRXRMZlFJeDZzbjlqWklPc3haeGhwZGdkUEF2YWhDSUtsZll6MUtoT1VsN0FIVUZiYVZhbk02QXlnZWFwbVJHNjRfSkNUSl81Y05zZDBTenItTms4N2VoOXdBbjBTOGQ3VlIwSV9KcWNHYU90c3ZiZDZaRFlwSVFDNnNxQUo5ckdtYkVqbGEzX1FkQWU5RWVYQVJyaWxTanlmOGxEZ0R6QVZCV3lEbmJFSQ?oc=5",
+          "published": "2026-11-16T07:22:00+00:00"
+        },
+        {
+          "title": "Joe Burrow and Bengals dominate Steelers 38-18 to take AFC North lead alone - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEd6ZUdzd1IwR282aWNoYldiZGhldVJaOExjSUxkUjJLTkZMaUE2SG1PbDM1OHY5cnZYb3kxNmk3dmZzRGJHeG10bDZ0RVlpbU80d0R2X3l0NWtDSlEzLTFacURXaXZBR3ExMHdwY2dWU2txSnZLZVloWjhDLWRJbHpRalZGTDlvb1E?oc=5",
+          "published": "2026-11-16T06:15:00+00:00"
+        },
+        {
+          "title": "Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll to 38-18 Scorigami win - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0VfV0dxSTlYRmZhSGtBMUl6bTBsSFF2RmdUbXdZandpS3owOFYzcDJITkUwXzk2S19SQmIyTFpveTJrajcxRUctT3k3NXM2Y1BkM2Y1TDVUUFpicTd3NWhQdks0V3F0eG1GRXkxWVpOdkhhZ1A3S00yYnlUOW5Wam1QcmtxVHNXZ0w4d3I4cm5qRTZFdjRyaGpDOHgtNnRldldKWVlZeG1WQWw5NjFaejRTRXExVFJON1c2RA?oc=5",
+          "published": "2026-11-16T05:08:40+00:00"
+        },
+        {
+          "title": "Instant analysis after Bengals destroy Steelers in primetime - Bengals Wire",
+          "domain": "bengalswire.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGRwVDA1bnJBdGZoMndIOVVBc0hDRFUwUFo3cUthd1p5M2p5cEY2aktyVi1VcGQwRnRCcGUwREtsc05PcEp0c1EzdnprSlNxMUNaeS1ockVoRnpwQ05vcFVaUElocl9JQjVqb1gzZ1ZQakx1ZGZmaHozVWF3ZmtYS0VTaFZIeE5SU2RrNHVUUk5hYUlNSGlQT2hKUVJsMHlLNnVnRGp3djNnVXZadDNpY1ZfcFIxNWp1VmpHc2xrQl83RXdmZ1lVNg?oc=5",
+          "published": "2026-11-16T04:25:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "49ers-shootout-win": {
+      "kind": "micro",
+      "title": "49ers ने Cowboys पर बेहद उच्च-स्कोर वाली जीत दर्ज की",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "सैन फ्रांसिस्को 49ers ने डलास Cowboys को 46:40 से बेहद उच्च-स्कोर वाले मुकाबले में हरा दिया। AP, Fox News और अन्य रिपोर्टों में क्रिश्चियन मैककैफ्री के बड़े खेल और आक्रमण की दमदार परफ़ॉर्मेंस का उल्लेख है। खबरें विशाल यार्डेज और असामान्य रूप से ऊँचे स्कोर पर जोर देती हैं। यह NFL के नियमित सत्र की एक उल्लेखनीय जीत है।",
+      "picture": "चित्र में खिलाड़ी और उड़ती हुई गेंद दिखती है। यह उस मुकाबले की छवि है, जिसमें आक्रमण रक्षा पर हावी रहता है और स्कोर लगभग बिना रुके बढ़ता जाता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Best performers from 49ers' shootout win vs. Cowboys - Niners Wire",
+          "domain": "ninerswire.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlVCa0pTcXJXcWxRS3VDOHplNk81akZyNEhEWlowUGJtc0FGeWs1NWc0dFNPbjNHb3ZPQ08xS19oVWxIMTN0YjRXajFNZmJ4Y0JIUlNHSWpFcmFDYmx5SjN5Yl9IMENBdUg5b2FMc015ZWdLUUstcU03Z2tnTXp5aTRxamh2XzE0SUJYTUlqUFk2cWRzVlFwV0h6N2ZLQW5IOE5VaXlwbk0ybVJMWFVrUFhpdlNSRHA5MVM5b3QzdFNrZWxVQ1czVQ?oc=5",
+          "published": "2026-11-16T04:14:00+00:00"
+        },
+        {
+          "title": "McCaffrey's TDs of 74 and 66 yards and Samuel's 70-yard score help 49ers beat Cowboys 46-40 - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWlxTUVnbHBjOU9ZelJZb0V2MDZoNm1wREFNTlpFVTZPaENCNE1qckNkTDAzMVdPdjJnaS1UUjZfbWF2TFI5aVgyLVg4WTZ3a3ZMSE5WV29YamhOYnJMaGFGTnpudTktZlRiU3hkamh3NEpCMy1CMld4OEVjU1BiUDVPaUlKdw?oc=5",
+          "published": "2026-11-16T02:49:00+00:00"
+        },
+        {
+          "title": "49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1p0alNyUldmUlIwM2h5cGlaWXFpcnRDUTBNRXg2SUFqRlMzOHpKRnI4V3hKMlFIRWUtN2lqcVlPeEtYYjhOTGx4UVJjWGoxbEFTS1d0OXhMa1RJNzhoMVhzNVRsUDZzS083M09EeEh3NllRNTlmcVF5bWpzanpxa1hfSWN4aXFvNTZmTlkwSjVjY3pmckNGM2RGd0pFMHBaVV9NQmVHU2JzZFJvSjNQU21vTUY?oc=5",
+          "published": "2026-11-16T02:44:53+00:00"
+        },
+        {
+          "title": "49ers report card: Offense earns straight A’s in win over Cowboys - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0dpTTVRc3dpbkg3MW16aGZXVmVDQUFNWFY5QmVIdkxnZF9WYldmN2tBRHFpaXBUZlliVnIwS2xBanVwYk1ySmJ0LVVuZnV4TU5mYXVqRXNwdmpiOXotYWV5UF84Sk5WV0JOZU50VlRyZFZRZTV3X0pSOW5XYkZoMUg2amNFSDc4WUlQN2kwdTI?oc=5",
+          "published": "2026-11-16T02:13:00+00:00"
+        },
+        {
+          "title": "49ers offense did something never done before to Cowboys - Niners Wire",
+          "domain": "ninerswire.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTcwZWRybzZfTE1zWUFicm4yTU1Iay04dGczdXNmRm9YaGdKX01CZWItZklwSWpvVlpxVVhWRm14cndZOFM5TWZxU1hzQVZXTTJMS1J0V0tvS3JKQlZNSlFSeDFnTU9uSGNmTWpvekdpMjZ6dTZzZnBuVnR4V1IwVzdYZzBfUTVZVUlJSkVnanNYVFltclVYcUVENWJrel9PQWc0Y2poUHpWSkRMZ0xJVzU0M09hZjI1OWFHNVR2dFFxOGhUQlJtN0lnaGM1Sl95YVE?oc=5",
+          "published": "2026-11-15T23:43:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "lakers-winning-streak": {
+      "kind": "micro",
+      "title": "डॉन्चिच के शानदार खेल से लेकर्स की जीत की लय जारी रही",
+      "region": "संयुक्त राज्य अमेरिका",
+      "summary": "लॉस एंजिलिस लेकर्स ने लुका डॉन्चिच के 43 अंकों की बदौलत अपनी जीत की लय आठ मैचों तक बढ़ा ली। Yahoo Sports के अनुसार टीम ने Suns को हराया और उस समय NBA के सर्वश्रेष्ठ रिकॉर्ड की बराबरी कर ली। यह क्लब के लिए एक महत्वपूर्ण श्रृंखला और डॉन्चिच का एक और शानदार मैच है। खबर में मुख्य जोर जीत की लड़ी और उनकी स्कोरिंग पर है।",
+      "picture": "चित्र में एक बास्केटबॉल खिलाड़ी सफल खेल के बाद हाथ उठाता है। यह नेतृत्व और आत्मविश्वासी लय की छवि है, जब एक खिलाड़ी पूरी टीम का रुख तय करता है।",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Lakers guard mimics Paul Pierce’s iconic line after burying Suns - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0Q0NXhxUllpNTlVbDlNd0FDQWZLTEVURlUweTkzOU9IeUxkQUNLZTZJaERTQWdjdl95LTg4SjdTai1jdUFvTURXZVcybmxDOGxSR19ndlpJNmRIc21pSHUyNUhZVEE1UTE3OEFvQW1jQk90UGFDWVp5SmFGSm5BNEY2Q0xqTEhGU0tzb1BLYTRWWW1idHc?oc=5",
+          "published": "2026-11-16T05:28:00+00:00"
+        },
+        {
+          "title": "Luka Dončić scores 43, leading Lakers over Suns for eighth consecutive win, tying for NBA's top record - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcllObVRmaTZ0ZEtkRURzWTVFTnFyUnk1cm91MzRFTFVvQTIzb3JoWTlPTWhmd1ZNOXBmaUwtVzBHcTlRZVV1WDYzRUp5U3hEb2JndUVVOUZITjg0QTBNMjNfcjgzbVRRRlVlcDVROVpIeTE4VnhwY1VwR2Q2SGhoaGlMaFl0VmNqYUtPVnJRbDdreFJFTHZvSnRtLXExM1dFMFNrVGtoa0M1aDRjR2xicFlnS0dhTWVIU0c2VDQ2MWI2MDNENDhxQmZDd1FDQXpScnllMHZIVXhLb2RhZktLUUxWTl82QQ?oc=5",
+          "published": "2026-11-16T00:46:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      }
+    }
+  }
+}

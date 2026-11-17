@@ -79,7 +79,7 @@ function render(day) {
     <div class="meta">${esc(formatDate(day.date))}${e.region ? `<span class="tag">${esc(e.region)}</span>` : ''}</div>
     <h1>${esc(e.title)}</h1>
     ${e.summary ? `<h2>${esc(t('happened'))}</h2><p>${esc(e.summary)}</p>` : ''}
-    ${e.kind === 'major' && e.domain_count ? `<p class="stat">${esc(t('outlets', { n: e.domain_count }))}</p>` : ''}
+    ${e.kind !== 'micro' && e.domain_count ? `<p class="stat">${esc(t('outlets', { n: e.domain_count }))}</p>` : ''}
     <h2>${esc(t('picture'))}</h2>
     <div class="picture">
       <a href="${back.getAttribute('href')}" aria-label="${esc(t('back'))}"><div class="fragment" style="${fragment}"></div></a>

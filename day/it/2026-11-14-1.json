@@ -1,0 +1,2264 @@
+{
+  "key": "2026-11-14-1",
+  "date": "2026-11-14",
+  "image": "img/2026-11-14-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "nvidia-spy-probe": {
+      "kind": "major",
+      "title": "Lo scandalo intorno all’ex capo di Nvidia si approfondisce: storia personale, spionaggio e pressioni sul mercato dell’IA",
+      "region": "Mondo / cripto",
+      "summary": "I media scrivono dello scandalo intorno all’ex capo di Nvidia Jensen Huang: viene accusato di aver nascosto relazioni personali e di aver fuorviato gli avvocati dell’azienda nel contesto delle indagini sui legami con una imprenditrice cinese e con la società Megaspeed. Secondo diversi organi di stampa, la vicenda sta già influenzando il dibattito sul futuro di Nvidia, alimentando le discussioni sui rischi per il mercato dell’IA e sul possibile impatto sui colloqui tra Stati Uniti e Cina in materia di sicurezza dell’intelligenza artificiale. Le testate collegano inoltre il caso a un’eco politica negli Stati Uniti e alle tensioni nei rapporti tra Washington e Pechino. Alcune note, infine, si limitano al quadro generale della «caduta» di Huang e delle sue conseguenze per la Silicon Valley.",
+      "picture": "L’immagine mostra una corona di chip caduta, avvolta da una ragnatela di cavi, accanto a una spia mascherata, contratti sparsi e monete d’oro spezzate. È il simbolo della perdita di potere, delle manipolazioni nascoste e del colpo inferto al denaro e all’influenza attorno all’IA.",
+      "mentions": 100,
+      "significance": 93,
+      "velocity": 38,
+      "domain_count": 36,
+      "articles": [
+        {
+          "title": "Jensen Huang - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VLVhCZlI5bXRldmNjNXFySHpxUzhMT05weTRMemd6T2Z4NVNERzZWeWtnQUQyQzVqcFRQVDk1d2x4eVFYT0FyLUpSSQ?oc=5",
+          "published": "2026-11-14T09:58:25+00:00"
+        },
+        {
+          "title": "Nvidia Co-Founder Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTWpBNEFVQXdpaDFva1g3eFVXMExBVzdia3oxdDdmVURaLXl3aEt0enBhYmU2Y1NTdE4xUU03Yzg1bjJCRmxHX2J4WWNKd1RvbDY4TUxxcDI4WklaaVh0Zm5uVjgzcHd0V29vRmtjV0hjUUpNUi1v?oc=5",
+          "published": "2026-11-14T09:31:44+00:00"
+        },
+        {
+          "title": "Cupón FOREO en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/cupones-y-descuentos-foreo/",
+          "published": "2026-11-14T09:28:45+00:00"
+        },
+        {
+          "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+          "published": "2026-11-14T09:00:19+00:00"
+        },
+        {
+          "title": "Relação entre EUA e China nunca mais será a mesma após a inteligência artificial",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/11/relacao-entre-eua-e-china-nunca-mais-sera-a-mesma-apos-a-inteligencia-artificial.shtml",
+          "published": "2026-11-14T09:00:00+00:00"
+        },
+        {
+          "title": "British newspaper boycotts F1 as FIA bans journalist after Leclerc column - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmJ0RDlIemJnR241ZmE0TXUxazVoZmo4N0FKb1g5dEcyR04wYWNuVnRxbnFQSGM2VlZ0WFhWU2ZMMUprRFN0N0V1UFVlOFVkUDQwVEFFUDRFTExSRjY2ZTlERE1DeVZvZDdsU3FDb0x6REhpWFU0U3g0WUlCQkFzRjVnd2xSdTBpckE?oc=5",
+          "published": "2026-11-14T09:00:00+00:00"
+        },
+        {
+          "title": "Musk joins calls for Jensen Huang to be reinstated as CEO of Nvidia - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhlbTRQQ1N5SDNnU3V2a1BObGlkTXFTUm5QalRXS1NIaXVYUU4yajluRkwxdUt4ZllpNVpCVWdHOGM3Q0Jqc3BXRWxobnJzcjdxYkZ1YU9kZ1pmX1gyZ2JTT3BYbWVRTlR1VkZjemZkTmhrRjYtUFlBbmdidTdtQzhpMlR2QldFUlF5ZVlXUzhXb0J5WmhXay1LVkdsVkNCQ3pxaWRHZXk5UQ?oc=5",
+          "published": "2026-11-14T07:00:00+00:00"
+        },
+        {
+          "title": "Nvidia scandal looms over US-China AI talks",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044477/nvidia-scandal-looms-over-us-china-ai-talks",
+          "published": "2026-11-14T06:39:34+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, l’affaire Nvidia tourne à la crise politique pour Donald Trump",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+          "published": "2026-11-14T05:00:42+00:00"
+        },
+        {
+          "title": "Former Nvidia CEO Jensen Huang misled top lawyer on affair with Alice Huang: report",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/former-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-alice-huang-report/article71700767.ece",
+          "published": "2026-11-14T04:32:18+00:00"
+        },
+        {
+          "title": "Nvidia scandal looms over US-China AI talks - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbW1tdkR2V0N2VFlYSlc5UkRJamR5d0FwbS1wcHk0dUdCNWZFcElGem1FWExSVEltVnIzMHhMVEZZTVlhT0dlcXV1bGwyS3Uzd0dtc3pWWThreXhTYWtjbzVFRTZVdzFpU1BUWDR6a2JYVlFU?oc=5",
+          "published": "2026-11-14T03:26:15+00:00"
+        },
+        {
+          "title": "‘I persuaded Anton’: Johann Rupert blasts ‘nepo baby’ tag - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2hBWnFDbDd2c2hlMDRqbkJIZUM5My1KV1JZZnE2TjJGWWFLZzhHVDJpazctUWkwNUxEbDFKakVoRzA0bi1ZbWtrZmRKeUtIb29obEhQWFJhRzQ0WmdhWjA4OERRSWVYS2U3Y1VyNldtdU0xdzBNQS1mZFJuWXA2eTdFdU1qMjlGdUxmNURvcXJxQl9pa1doRndMVjJobE9Qa0ppLW1nOWh3YndP?oc=5",
+          "published": "2026-11-14T01:51:10+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.896,
+        "y": 0.274,
+        "r": 0.156
+      }
+    },
+    "taiwan-china-tension": {
+      "kind": "major",
+      "title": "La Cina intensifica la pressione su Taiwan nel contesto della corsa all’IA e della rivalità tecnologica",
+      "region": "Asia",
+      "summary": "Nel contesto della corsa all’IA e della competizione tecnologica, la Cina intensifica la pressione su Taiwan, mentre a Hong Kong la polizia si prepara ad avviare il riconoscimento facciale in una rete di sorveglianza in espansione. Diversi servizi collegano inoltre l’escalation ai prossimi colloqui tra Stati Uniti e Cina, in cui il tema dell’IA e della sicurezza delle tecnologie sarà centrale. Separatamente, si riferisce dei preparativi di Shenzhen per il vertice dell’APEC e del fatto che Pechino sta discutendo la questione nordcoreana e l’agenda regionale più ampia. Le pubblicazioni enfatizzano in modi diversi sia il rafforzamento del controllo sia il più ampio contesto della rivalità strategica.",
+      "picture": "L’immagine raffigura un’isola di porcellana spaccata, circondata da gru e radar, sopra la quale incombe l’ombra di un drago su vassoi di chip. È il simbolo della pressione su Taiwan e dello scontro tecnologico attorno ai microchip e all’IA.",
+      "mentions": 84,
+      "significance": 90,
+      "velocity": 45,
+      "domain_count": 28,
+      "articles": [
+        {
+          "title": "Código Promocional Duolingo en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/codigo-promocional-duolingo/",
+          "published": "2026-11-14T09:26:30+00:00"
+        },
+        {
+          "title": "Hong Kong police to activate AI facial recognition across surveillance network",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374436/hong-kong-police-activate-ai-facial-recognition-across-surveillance-network",
+          "published": "2026-11-14T09:11:26+00:00"
+        },
+        {
+          "title": "Relação entre EUA e China nunca mais será a mesma após a inteligência artificial",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/11/relacao-entre-eua-e-china-nunca-mais-sera-a-mesma-apos-a-inteligencia-artificial.shtml",
+          "published": "2026-11-14T09:00:00+00:00"
+        },
+        {
+          "title": "Город птицы Пэн: чем Шэньчжэнь важен для Китая и почему АТЭС пройдет именно там",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28315581",
+          "published": "2026-11-14T08:00:01+00:00"
+        },
+        {
+          "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5",
+          "published": "2026-11-14T07:16:42+00:00"
+        },
+        {
+          "title": "Nvidia scandal looms over US-China AI talks",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044477/nvidia-scandal-looms-over-us-china-ai-talks",
+          "published": "2026-11-14T06:39:34+00:00"
+        },
+        {
+          "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+          "published": "2026-11-14T05:20:13+00:00"
+        },
+        {
+          "title": "Beijing details N. Korean leader's China visit in FM talks with Seoul: official",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261114001900315",
+          "published": "2026-11-14T05:04:07+00:00"
+        },
+        {
+          "title": "South Korea should not fear China's rise, foreign minister says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
+          "published": "2026-11-14T04:49:00+00:00"
+        },
+        {
+          "title": "Nuclear Arms On Agenda: Trump plans reductions with Putin and Xi; officials expect no deal",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/trump-putin-and-xi-to-hold-unprecedented-trilateral-meet-whats-on-agenda/articleshow/135822661.cms",
+          "published": "2026-11-14T04:36:54+00:00"
+        },
+        {
+          "title": "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/all-departing-us-flights-grounded-due-to-communication-outage/article71700667.ece",
+          "published": "2026-11-14T02:41:10+00:00"
+        },
+        {
+          "title": "FAA Lifts Nationwide Ground Stop on Flights That Halted Travel Across the U.S. - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekNjTF9wcEdCNmd2bnU4eVp4UXNsVFdCRmp1YzYtVzdoODdpeXpidk5vSjU2ZU5WcENqZ1M3dnhERzlDU0Ezc2Rra1NMLXJ2QTM4TGRzTlJhTU0zTXd1TENncHNSdEJteDNySV9fZmowMTVuY3o1ajUyMVNLYThJbl9zajN5SS1SWG1JX29WdjBaS3FFOWU3UUNmek5BYnVtVzVmTk92eUl2REJ3MnpoeF94OWg0R014MkY2bQ?oc=5",
+          "published": "2026-11-14T02:02:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.863,
+        "y": 0.336,
+        "r": 0.3
+      }
+    },
+    "ukraine-peace-framework": {
+      "kind": "major",
+      "title": "Stati Uniti, Europa, Ucraina e Russia preparano un nuovo round di negoziati senza una svolta",
+      "region": "Ucraina",
+      "summary": "Stati Uniti, Europa, Ucraina e Russia preparano un nuovo round di colloqui per porre fine alla guerra, ma non vi sono segnali di svolta. The New York Times e altri media scrivono che dopo l’ultimo ciclo di discussioni ad Abu Dhabi Kiev ha dichiarato che per la prima volta è stata sollevata la questione di concessioni territoriali in cambio dell’ingresso nella NATO, ma l’Ucraina non lo accetta. Le comunicazioni ucraine e occidentali riferiscono inoltre che Mosca avanza richieste all’Occidente, tra cui il ritiro delle truppe della NATO ai confini del 1997, suscitando scetticismo in parte dei senatori americani. Si riferisce inoltre dei piani per un incontro trilaterale tra Trump, Putin e Xi in Cina.",
+      "picture": "L’immagine mostra uno scudo-cartina spezzato, unito da un nastro sottile, accanto a documenti negoziali, un re degli scacchi e lance puntate l’una contro l’altra. È l’immagine di un processo di pace fragile e ancora instabile.",
+      "mentions": 82,
+      "significance": 92,
+      "velocity": 37,
+      "domain_count": 27,
+      "articles": [
+        {
+          "title": "Código Promocional Cinemex en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/promocion-y-descuentos-cinepolis/",
+          "published": "2026-11-14T09:53:34+00:00"
+        },
+        {
+          "title": "Desgaste com voz faz Lula cancelar declarações nas Filipinas",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/desgaste-com-voz-faz-lula-cancelar-declaracoes-nas-filipinas.shtml",
+          "published": "2026-11-14T09:16:00+00:00"
+        },
+        {
+          "title": "У Сенаті США відреагували на повідомлення про вимогу Росії до НАТО відвести війська",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/14/8062841/",
+          "published": "2026-11-14T09:10:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont proposé des concessions territoriales en échange d’une adhésion à l’OTAN",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-les-dernieres-informations-au-14-novembre-2026_6808609_3210.html",
+          "published": "2026-11-14T08:56:15+00:00"
+        },
+        {
+          "title": "Война. 1725-й день. Москва на переговорах озвучила требования к Западу. Они почти повторяют ультиматум 2021 года. Среди них — отвод войск НАТО к границам 1997 года",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/14/voyna",
+          "published": "2026-11-14T08:42:17+00:00"
+        },
+        {
+          "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044481/trump-xi-putin-to-hold-historic-meeting-in-china-white-house",
+          "published": "2026-11-14T08:00:02+00:00"
+        },
+        {
+          "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+          "published": "2026-11-14T07:56:00+00:00"
+        },
+        {
+          "title": "Tibi exposes messages said to show Netanyahu camp sought Arab help while attacking parties publicly",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/tibi-exposes-messages-said-to-show-netanyahu-camp-sought-arab-help-while-attacking-parties-publicly/",
+          "published": "2026-11-14T07:47:25+00:00"
+        },
+        {
+          "title": "Trump, Xi, Putin to hold historic meeting in China: White House - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOU5VcUlzV2Z2dWRXQzBMYnVQMnBWUEwzbXR2dktwaEZ5dUYxUXBvSmdEZjVZTmJDek5GQUIxdFBTNVprcHpFNE9WTC1taF9iZnp6aWNpN2YxbmplX1NOS0hBN0UwYnp3T3pGeXpYOEdMMDFzYkd5d2x2X05nSWZjOTNpLTJURnhSLTJoVzdkaVFsZk5Rb0hrVUtvYThmVmRL?oc=5",
+          "published": "2026-11-14T06:36:12+00:00"
+        },
+        {
+          "title": "Rubio assails international court in speech to conservative legal group",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/rubio-assails-international-court-in-speech-to-conservative-legal-group/article71700928.ece",
+          "published": "2026-11-14T06:20:28+00:00"
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T05:52:31+00:00"
+        },
+        {
+          "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
+          "published": "2026-11-14T05:36:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.271,
+        "y": 0.369,
+        "r": 0.156
+      }
+    },
+    "brooklyn-building-collapse": {
+      "kind": "major",
+      "title": "A New Orleans una petroliera si è scontrata con una nave da crociera, ma senza vittime",
+      "region": "USA",
+      "summary": "A New Orleans una petroliera si è scontrata con una nave da crociera sul Mississippi, dopo di che i passeggeri hanno dovuto essere soccorsi. Secondo diverse testate, le persone sono state evacuate, decine sono state portate in ospedale, ma non vi sono morti né feriti gravi; le autorità locali hanno definito l’episodio un «miracolo sul Mississippi». Le descrizioni parlano anche del fatto che la nave si sia ribaltata oppure sia affondata parzialmente dopo l’urto. Tutte le versioni concordano su un punto: l’incidente è stato serio, ma non ha causato vittime.",
+      "picture": "L’immagine mostra una petroliera che sperona un battello da crociera fluviale, con persone attorno in salvagente, una scala inclinata e bagagli che galleggiano. È il simbolo di un incidente in acqua in cui la tragedia non ha avuto esiti fatali.",
+      "mentions": 80,
+      "significance": 67,
+      "velocity": 68,
+      "domain_count": 26,
+      "articles": [
+        {
+          "title": "Cupón Luuna en Noviembre 2026",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/cupones-y-promociones-luuna/",
+          "published": "2026-11-14T09:34:57+00:00"
+        },
+        {
+          "title": "В Ростовской области возобновили движение по трассе Р-280",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/obschestvo/28317655",
+          "published": "2026-11-14T08:38:02+00:00"
+        },
+        {
+          "title": "'Miracle on the Mississippi': 180 rescued after river cruise boat collides with tanker - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE40eFVRaHlnVnRkYml0dUVfYkJlVnlJQUwwcUQ1eDBiLWZYZ05QZU5hY3BMSXRhdmFSR2JRTmJOYk1XVEY3MnprVkloRVVjR2J1TXdUZFpydndkenJ6aUt3Qm45c3ZSWVpiV3UySlRCQjc3aXpxSm9PdWg1NnpJY1E5V29Bcy1LbkdmQ0tGN1I4RWVXYWFpZG9kQXh5OTlqcGRDZWRyZ3pFa2dEenJqWFg2QUpZN0hfRVM4?oc=5",
+          "published": "2026-11-14T08:10:26+00:00"
+        },
+        {
+          "title": "Tanker strike sinks cruise ship in New Orleans, plunging passengers into river - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUWR0dFNjR3JLWHJRYlh2SWV3bGEzX1QtUThZWmE0ZjFNTEVobEsxa3N4SDYyOHJuLWh6QUoyWnFQREY4XzdLbmxjdm02N1g2QWV2VEhWdGJRX3FJTXVtUXA4SFFfV1FFbnR4WXFJYmNOOTFIWVI5VWQ0YXNSTVNMWV9qWVZjS1Q3cUZrbmZYNkx4Mmp0ZnRMU1NZZGdjRXBISm1BbXA5NHJwY2NwbkEwcFItVHNsN2hheVdSNkh1VTBjUQ?oc=5",
+          "published": "2026-11-14T07:59:42+00:00"
+        },
+        {
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T07:42:11+00:00"
+        },
+        {
+          "title": "In Obingwa, good governance campaigned for Gov Alex Otti, By Ferdinand Ekeoma",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/promoted/925070-in-obingwa-good-governance-campaigned-for-gov-alex-otti-by-ferdinand-ekeoma.html",
+          "published": "2026-11-14T07:40:14+00:00"
+        },
+        {
+          "title": "'Miracle': All rescued from capsized New Orleans riverboat in tanker collision - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPek41NDJkQzhoRExGSVh1a2VOUWQzNkdrRzU3Mk1nRVdHOVRET3dwLTVaN25yRGVLcy1YYnVhS3JQSXptbXIwcmhGUDZfV1Y3bEhQS1IyRVZtUTFPcm1FMlZPeWdoaVFZNmxneE9TQ0ItR0RKR1I2Zm1KeVR1SXJLZzgxbzdsbHU3YkZlY0VWZTBhNnZwUklabk1RMDg5aDBZb1lsZNIBqgFBVV95cUxQWFhpaU15cE1tOHdQSHo1TjZEVExVMERBMERIcE9YNzIwTmttd0pnaFlYTFB3Z3RmcWtoa3pQUE54cGxJSmZjOEpTODdsUHlrcko1dDlHN3ZHOHJERnp1Q3RfN2JKdnVoX1ZSckl0d2lQOUZlTERYRXN1Ynd5b1hjZXRfV0JHS0xSVEFrdlF3UUNRbUZtYXc2d2pyVGRuaC0tUlJHam1vdm1Wdw?oc=5",
+          "published": "2026-11-14T03:48:25+00:00"
+        },
+        {
+          "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "published": "2026-11-14T03:11:28+00:00"
+        },
+        {
+          "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans - WDSU",
+          "domain": "wdsu.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
+          "published": "2026-11-14T02:54:00+00:00"
+        },
+        {
+          "title": "Dozens of passengers rushed to hospital after tanker lost control and collided with cruise ship: mayor - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUXNRaVpDT2FON19tR1VjWEFWZTFTZFk3Z0tSQlBaSFg3VmFJcFQ0bmUwQWw0RGlXOTlObUlKd2J4OWxjSXRBMXFRVW1tbnpaN2ZIeWRjZXZUV0lIN1M2bHdUWE50MkszY3ZTR0Y1cjRfdFlpZVhpRzNwR1N6TTItcWJaSGxYQUx3cF9haHpCRWQ5UGwyeDRlZWtlaFE4bXd5eXdTUU1EOTJsQ1NxakhPVVRQWG1uUmVGaVZXM2duVmstakZ5RU9pRWVUQzZXTEV5MGpoOUJwOA?oc=5",
+          "published": "2026-11-14T02:47:21+00:00"
+        },
+        {
+          "title": "Mississippi River cruise crash has no fatalities, critical injuries - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tVERzcWIwLU5sQzdVa0xSbXgyQjVIemdSR3ZKenVNeXQ3akI2V1dPVGRVVjJyRFRqZTZJUmRMS2xxVjhBSVlHZ0pibGl2VVoteTBjeUlYeDRta21fSmlzZVd6Y1ViR2d1dkZPZ21KQkxIYjBmQklORjdR?oc=5",
+          "published": "2026-11-14T02:18:41+00:00"
+        },
+        {
+          "title": "All passengers aboard New Orleans riverboat survive after collision with tanker - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtNmM0dnRWaEYwdENCZmtLdWx2OUttSjFVTVIzV2lOUGctSTdLWExxOXpELVhldXUtQi1IYkRxdFVvbndjUWxwa0tUTGk1a2M1NWNCb1dB?oc=5",
+          "published": "2026-11-14T02:14:12+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.844,
+        "y": 0.411,
+        "r": 0.222
+      }
+    },
+    "global-outage-microsoft": {
+      "kind": "major",
+      "title": "Microsoft ha ripristinato i servizi dopo il blackout globale che ha colpito posta e sistemi aziendali",
+      "region": "Mondo / cripto",
+      "summary": "Microsoft ha dichiarato di aver ripristinato completamente i propri servizi dopo il blackout globale che ha interrotto le comunicazioni aziendali e di lavoro in tutto il mondo. Secondo agenzie e giornali, i problemi hanno interessato Outlook, Teams, Copilot e altre piattaforme, e il disservizio è durato più di un giorno o quasi un giorno. L’azienda ha attribuito l’incidente a problemi di rete o all’infrastruttura dei server; alcune pubblicazioni lo collegano anche a un aggiornamento della rete. Il dato centrale in tutti i resoconti è che i servizi sono tornati operativi, ma gli effetti del guasto si sono fatti sentire ancora a lungo.",
+      "picture": "L’immagine mostra un’enorme icona cloud incrinata e una busta, accanto a rack di server spenti e cavi aggrovigliati. È il simbolo del crollo dell’infrastruttura digitale e dello stop ai servizi di lavoro.",
+      "mentions": 66,
+      "significance": 88,
+      "velocity": 52,
+      "domain_count": 20,
+      "articles": [
+        {
+          "title": "U.S. flights resume after FAA ground stop, but travel chaos continues - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yNU1iYi1qSUg2aEhWenhhdTI3STdFT19jVEw3WjFnMGR3WXRPdHRPODY3d3hNTTF2RlAtMzFsSUV5cS1SNDQzLUZibDNWZTV4cU5LTkJCNGlxNk1nOVlQUVNTMTU5TGI4VmNLTXA1LUswN0d1WHNqU24yRUFRUlnSAYQBQVVfeXFMT010VGJCQ0VzZG1tbFZiRlhSZlgzZm85SUlQc1Zha1ZLOHNTZ0ItVmtWX1VzRnFfcEVRMWEyWkZxR0FfNVRxNE1LRS11SWpCcFdyUUJYZGVaeVZhNFdVaDZnTmlMbWVrcWVWc3EwRFNiQks0cHV4WlBvQ1FwWVM1bUNxdGdx?oc=5",
+          "published": "2026-11-14T09:26:23+00:00"
+        },
+        {
+          "title": "Microsoft says services fully restored after hourslong global outage - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+          "published": "2026-11-14T09:12:00+00:00"
+        },
+        {
+          "title": "Microsoft восстановила работу своих сервисов. Масштабный сбой продолжался больше суток",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/14/microsoft-vosstanovila-rabotu-svoih-servisov-masshtabnyy-sboy-prodolzhalsya-bolshe-sutok",
+          "published": "2026-11-14T09:09:04+00:00"
+        },
+        {
+          "title": "Microsoft says all services working again",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-14T09:06:00+00:00"
+        },
+        {
+          "title": "Microsoft services fully restored after outage roiled world - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTNIbGU3MGhuSGwwbXRuSUJjd1Z0MWJEMmd6TXpsQV9DTkRDbXhFQlhDZmR2X0gzZ3FYOS1QNHhxckJCU1Q4QU1YZkNleGVaWXgtcHhrQUNCclJIWERLdnJtT1JEUVF1OUlUajl4Tkx0TWQ0bExzZTFncW9zQV9wTDFhMUZjcmtkQVcyUUpXaWxUN3JreDNxQldOeEh4Nk9PVEsxeDR5VXY4bUlMR2UzMGZ4Yjlxdw?oc=5",
+          "published": "2026-11-14T08:45:44+00:00"
+        },
+        {
+          "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
+          "published": "2026-11-14T08:41:48+00:00"
+        },
+        {
+          "title": "Microsoft restores service to Outlook and Teams after global outage",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/microsoft-restores-service-to-outlook-and-teams-after-global-outage/",
+          "published": "2026-11-14T08:19:46+00:00"
+        },
+        {
+          "title": "Global outage: Microsoft blames network upgrade",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/business/business-news/925073-global-outage-microsoft-blames-network-upgrade.html",
+          "published": "2026-11-14T07:46:16+00:00"
+        },
+        {
+          "title": "Microsoft заявила о восстановлении работы сервисов после сбоя",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28317583",
+          "published": "2026-11-14T07:33:40+00:00"
+        },
+        {
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T06:42:27+00:00"
+        },
+        {
+          "title": "Microsoft says all services 'fully recovered' after global outage",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+          "published": "2026-11-14T06:07:56+00:00"
+        },
+        {
+          "title": "Microsoft says consumer products services recovered; still monitoring enterprise services - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
+          "published": "2026-11-14T05:40:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.625,
+        "y": 0.5,
+        "r": 0.151
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "Dopo gli attacchi e le mine nello Stretto di Hormuz crescono di nuovo i rischi per l’energia mondiale",
+      "region": "Medio Oriente",
+      "summary": "Nello Stretto di Hormuz permangono rischi elevati per la navigazione dopo attacchi e incidenti legati alle mine, e questo comincia a incidere sull’energia e sulle forniture alimentari. Reuters, media ad essa collegati e testate arabe scrivono di nuovi danni alle petroliere, mentre l’ONU segnala la morte di 25 marinai nell’area di Hormuz dall’inizio della guerra degli Stati Uniti e di Israele contro l’Iran. Il Consiglio di cooperazione del Golfo avverte del rischio di una crisi alimentare a causa delle interruzioni nelle forniture di fertilizzanti e ammoniaca. Le testate concordano sul fatto che la situazione nello stretto resta pericolosa e incide sui mercati mondiali.",
+      "picture": "L’immagine mostra due petroliere fumanti strette tra scogli che si avvicinano, con gocce di petrolio e cime commerciali spezzate tutt’intorno. È il simbolo di un corridoio sempre più stretto per il commercio e l’energia mondiali.",
+      "mentions": 62,
+      "significance": 91,
+      "velocity": 59,
+      "domain_count": 18,
+      "articles": [
+        {
+          "title": "В ССАГПЗ указали на угрозу продовольственного кризиса из-за ситуации в Ормузе",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28317755",
+          "published": "2026-11-14T09:34:36+00:00"
+        },
+        {
+          "title": "The U.S. Cut Cuba Off From the World’s Oil. Now It Runs on American Fuel. - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXJtWUNoVUNYYjFfd3JRV1pKNkNQQk5CTkpFSll2UXI1VGF4bE9yNldtbTlGXy1zcnYzU2E0V0VobERyc192UEpfVUd4SlFrMy0xelV2b19BeVJrN3o4UWxCYVdyVm4tY3NCdDlFUGQtN0ZlTWFNZGJ2QVJUWVVDaGNKbFRaN005c2lPZkZhb3Z3dGh4OUxDVGZVWVpuOFp4MVo4YjFfMA?oc=5",
+          "published": "2026-11-14T09:02:16+00:00"
+        },
+        {
+          "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
+          "published": "2026-11-14T08:30:00+00:00"
+        },
+        {
+          "title": "Merab Dvalishvili makes statement after being released from custody - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFNZc19jSnBEODhhVFJheF80UmtsaWw2RTRZdWRZcGdWeWk3YTBHYkRnRDJmZV9QYm43RXdWV2dvcEZVeVdGbXNRX09qNk9uc2w5T01kN2RoSmNnRktNMERrLU5DNU9qSi1DNG9jYTFUSnFyaDE2TU1CTGlrbTZNZ1BuWHFzTUN2VjhKenRvei10UQ?oc=5",
+          "published": "2026-11-14T08:25:08+00:00"
+        },
+        {
+          "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+          "published": "2026-11-14T07:46:36+00:00"
+        },
+        {
+          "title": "Nvidia scandal looms over US-China AI talks",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2044477/nvidia-scandal-looms-over-us-china-ai-talks",
+          "published": "2026-11-14T06:39:34+00:00"
+        },
+        {
+          "title": "Iran Guards say two oil tankers hit by mines in Hormuz - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTZlTEN0Y0pmLVRqaHN1ZnlNZEplYU9WdHJINEI2eThyR3RJQ0x6QjNvOUxUMVFiVVNTUFN3b2VzN2FjQ29Pc1lidXAtVWpVbENGSV8xa3F2XzJvZ2pTMzgyU2o0ZENKaUpqZXFYQjRyQkRPdjEwWFlKeFA3RHN0NnJVVW1ZYlNaandYRUhrUV9YbXJ0MnM2SXJMcUkwU2VB?oc=5",
+          "published": "2026-11-14T04:42:59+00:00"
+        },
+        {
+          "title": "Mississippi River cruise crash has no fatalities, critical injuries - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tVERzcWIwLU5sQzdVa0xSbXgyQjVIemdSR3ZKenVNeXQ3akI2V1dPVGRVVjJyRFRqZTZJUmRMS2xxVjhBSVlHZ0pibGl2VVoteTBjeUlYeDRta21fSmlzZVd6Y1ViR2d1dkZPZ21KQkxIYjBmQklORjdR?oc=5",
+          "published": "2026-11-14T02:18:41+00:00"
+        },
+        {
+          "title": "Fertiglobe CEO on Hormuz disruption, fertilizer crisis and global food security - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDdhdm1nWk9zbXRqVXgwOTRFUW1vcmNPVnRIME5PYzdtVGVFcVhPdFR2cVJ5UzVJSUpGSlczWEx1QzJ3czkwRzQxc1FVcHdvdHhzc0ZFRGJPbGRKTVRuYUJ4Tm9SdmpVd3BjUm10VWNlRW1ZTjVmNERSelNhLVdybW8yM0w?oc=5",
+          "published": "2026-11-14T02:00:00+00:00"
+        },
+        {
+          "title": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0?oc=5",
+          "published": "2026-11-14T00:30:01+00:00"
+        },
+        {
+          "title": "Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJ1MnM3VFIyRWxoVEM5c25DbEVtYXlEajY3XzlqWjZIbVFCOXNlZC1lc1lxVnpxbkY5YmtUWE5jTUJnUjhzV2hyNlhNeU5JaVRFYW01VVZvVmJxNjZjUFQtZW1MRGtJc2lHdEtpOTNYYmM0WFRfWk9XYTA0NDdhR19zWktTT1h4ME91dWx1SFZacmVBMEZCLUdfNHltam5jcVlv0gGoAUFVX3lxTFBxUkduQU9kUjVvSnJ5b0ZlWVVBa0JkTjk5cGF5TTlFSzZaMXh1dEE3c1pvOVdDZU0xYmg1SFZEVU5HckVTUURnRmJKdi1NV29KdTlJSXNpYUVwbk8yMDJkU2RuM1VhUGY3Wi1ZSkI5VVRIcVdzcmtyWDdXYlhURGJJenZfLWdLOTNoZTFzZV9HWEE0cHUydHppM0s5Z05EdkRuUkRNZzFBdA?oc=5",
+          "published": "2026-11-13T23:26:10+00:00"
+        },
+        {
+          "title": "Iran's IRGC says two tankers hit sea mines in Hormuz - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVUydG1mRVVtRzVScWR6N19NejF5VXVuUDlqaGxSSHdJN1hmYlBtZHRJMDNWbUJVSUMyRTBRM252dzFjSmtZOHlLYmg4Y2pqLXVrSndiS3dVLWVBa0tESWJtZW05MUprVkpXTE5sQXV0aXJRR1dQQ3FmWHk0SHpoSmQzRUZmRFZCaXdjLURicWxtRk1tSnZ1dEM2UTI1b1RmTzdwRw?oc=5",
+          "published": "2026-11-13T21:14:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.583,
+        "y": 0.298,
+        "r": 0.295
+      }
+    },
+    "pope-peru-homecoming": {
+      "kind": "major",
+      "title": "Papa Leone XIV torna calorosamente in Perù, dove viene accolto come uno di casa",
+      "region": "America Latina",
+      "summary": "Papa Leone XIV è tornato in Perù ed è stato accolto calorosamente a Chiclayo, la città in cui in passato ha svolto il ministero di vescovo. La stampa francese scrive che in città è arrivato quasi un milione di persone, mentre altre testate parlano di 1,5 milioni di fedeli presenti alla messa e all’incontro. Lo stesso pontefice ha definito il ritorno una «gioia» e ha ringraziato Dio; per gli abitanti del luogo appare come un ritorno «a casa». Le diverse notizie divergono solo nella stima della folla, ma concordano sul punto principale: l’accoglienza è stata molto emotiva.",
+      "picture": "L’immagine mostra un bastone da pellegrino, un cuore avvolto da una ghirlanda e una colomba tra mani aperte. È il simbolo di un saluto domestico, quasi familiare, e di una vicinanza spirituale.",
+      "mentions": 54,
+      "significance": 45,
+      "velocity": 42,
+      "domain_count": 15,
+      "articles": [
+        {
+          "title": "Le pape Léon XIV accueilli triomphalement dans son ancien diocèse de Chiclayo, au Pérou : « Nous avons l’impression qu’il rentre à la maison »",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/le-pape-leon-xiv-accueilli-triomphalement-dans-son-ancien-diocese-de-chiclayo-au-perou-nous-avons-l-impression-qu-il-rentre-a-la-maison_6809853_3210.html",
+          "published": "2026-11-14T08:30:03+00:00"
+        },
+        {
+          "title": "В аэропорту Геленджика сняли ограничения",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28317487",
+          "published": "2026-11-14T06:31:31+00:00"
+        },
+        {
+          "title": "Before he was Pope Leo, he was their bishop. Now he’s back home. - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdS0xRjZnbnZvRWxVaGV5U3pBWkpyTm9tVFh5VkxMQjdTX0Nrb2dDanhTUmg0OV9XaDRBekVRMzZuR1NzNVRfOTBjcEtQVThEMjBYb29tRDFxUV8tTl92UE1NOVVMc08xX3RhS3J1Mzktei05ODlCaklsM0M4RExBSjIzNDJlendaQVhkV3NxSldKQlhrZmJrYWlGczFkTEUyaThvWEoyQU1RUEVJUFZDcg?oc=5",
+          "published": "2026-11-14T04:29:03+00:00"
+        },
+        {
+          "title": "Pope returns to 'beloved' Peruvian hometown - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsZzhONlFwQWl6QW13NHZEOTRKQ3BTYVpZMTdTa043UkRJMGRISGozN1BBdklsblBDVm5YUVhYbXVoT0NkSWpOcEVVeXNUNEEtU2E0eW52SEUxSkQzaTZSV1BjTkFCMDRNXzU5c05n?oc=5",
+          "published": "2026-11-14T01:17:42+00:00"
+        },
+        {
+          "title": "Pope Leo makes emotional return to Peru",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/nightly-news/video/pope-leo-makes-emotional-return-to-peru-273486917715",
+          "published": "2026-11-14T00:20:23+00:00"
+        },
+        {
+          "title": "Pope says it’s a ‘joy’ to be home as Peru’s Chiclayo welcomes back its former shepherd - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnhHakNPbU9CNzFzYUJpSS12Ymx0OG5wRUJseE8waFBtS0RSTFQwQUs4SVZzYV9hQndBT2hTbW1oMlVtRmt4SDFjQU12YzNNTTVUT1dlenhjTVdwVjI5cDlkS0ZlLVpwQm1wdWtSMnN6WlRBWXBkMEg3N3dvZFdWeGJqNkNYS3YyUkhrbGhyanZaTHdETk5LbVZwUzJaWDJadU1uMA?oc=5",
+          "published": "2026-11-14T00:00:00+00:00"
+        },
+        {
+          "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert - The New York Times",
+          "domain": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNtSnk1YnAzSDBrR3ZfUTRxQi1HelNrbDZ1eUwwckFneGJpampkOVZNZ1J5MEhYNXpEeXU4YV9zN0RiazdNYmVwSmgyUE9yZjV0b1l2YXlLWFQ2bkgyLVRLc2poZUVOVlhISy1UN2Q4eXpZcFlUek0zSzdNZC1IRHZPbXFCUQ?oc=5",
+          "published": "2026-11-13T22:21:04+00:00"
+        },
+        {
+          "title": "Flights halted at airports across US due to air traffic control communications problems - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkYxVDZsajRCTXRtVkR1TVVsT3haWS1oalc2ZVMtNVVqbWlPXzRmWlJmRGlLREx0X3phdjR6VG1fLTNoc3Y3TUhMRFVqeHl5VmVUd2YtdGpQQVRweVFYZHg1eEsyeEU0RzNic0RzUmVMd0d2eVhCTlZpYUtZUHoyaTFDSmtOTWl6Z2xOdlFUWUpwcXJvWGlNMmVndlVWaGtSUnlMUXd6dWNYZUtPcFpOSFc1UE5QOFkwSmJIZm9zRjFNSDJw?oc=5",
+          "published": "2026-11-13T21:27:21+00:00"
+        },
+        {
+          "title": "Pope Leo thanks God as 1.5 million cheer in Peru city he served as bishop - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUsxbGhoNzZ3TEh0eUlza0lFUTZVbXRTRkpJT19aLWNiWkVieDN6eHZZSFBYNnhmemhUVExZYjd4THZsR0pIRnRfUmtUUnVkbUVoUnV5VFVteFdxQ1ZucDlGSjRDUjR2OEVMTWN6NUJHQUlNWUNwRU0zSHRmN3g3YkxxRVlBdEhxN2hYWDJjSUNDcDZNOWxGR3g3MjdKR0xKakpJ?oc=5",
+          "published": "2026-11-13T20:06:40+00:00"
+        },
+        {
+          "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T18:34:45+00:00"
+        },
+        {
+          "title": "Bloqueios obrigam fiéis a fazer peregrinação para ver missa onde papa foi bispo",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/bloqueios-obrigam-fieis-a-fazer-peregrinacao-para-ver-missa-onde-papa-foi-bispo.shtml",
+          "published": "2026-11-13T18:07:00+00:00"
+        },
+        {
+          "title": "Peruvians flock to mass with Pope Leo in city he served as bishop",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
+          "published": "2026-11-13T18:05:38+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.821,
+        "r": 0.125
+      }
+    },
+    "gaza-hospital-strike": {
+      "kind": "major",
+      "title": "A Gaza si aggrava la catastrofe umanitaria tra i raid e la carenza di aiuti",
+      "region": "Palestina",
+      "summary": "Nei servizi su Gaza si parla del peggioramento della situazione umanitaria: le persone affrontano una grave carenza di aiuti e l’avvicinarsi dell’inverno accentua le sofferenze. Reuters descrive il caso di un bambino di sei anni che ha riportato ustioni ed è rimasto intrappolato in una disputa sulle forniture di aiuti, mentre Sky News racconta di un ragazzo che fatica a respirare nella Gaza invernale. Altri materiali inclusi nella rassegna riguardano malattie e crisi umanitarie in altri Paesi, ma il quadro principale su Gaza resta la mancanza di aiuti e le dure condizioni per i civili. Nel complesso si tratta di una catastrofe umanitaria in aggravamento.",
+      "picture": "L’immagine mostra un letto d’ospedale rotto accanto a una ciotola d’acqua incrinata, coperte strappate e una cassa di aiuti spezzata. È il simbolo di una medicina distrutta e della mancanza di supporto di base.",
+      "mentions": 41,
+      "significance": 94,
+      "velocity": 27,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Jensen Huang - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VLVhCZlI5bXRldmNjNXFySHpxUzhMT05weTRMemd6T2Z4NVNERzZWeWtnQUQyQzVqcFRQVDk1d2x4eVFYT0FyLUpSSQ?oc=5",
+          "published": "2026-11-14T09:58:25+00:00"
+        },
+        {
+          "title": "Шохин: ЦБ возьмет паузу и не снизит ключевую ставку до февраля",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/ekonomika/28317611",
+          "published": "2026-11-14T08:00:45+00:00"
+        },
+        {
+          "title": "Siege fuels disease fears in Yemen’s Taiz",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+          "published": "2026-11-14T06:17:27+00:00"
+        },
+        {
+          "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y0gGmAUFVX3lxTE1Odm5wa1RPSDRKejRMZDNDRWRsT0pyNXVuUUdybTA3bjNGeEpUc0EzMzA0dlMxVmNFdnlsX09Hd2hKNXd4VGtjN3Q2eGFnX29SenNjQ1BFVDh5eGdqSlRKdzlKM0dPdDlOLWxLZloxa2Rvck41UTRRcEhxVF9nZ1A0ZmlhX2pCSDhrd0stUFkyMzR5ZDByaWZxZDI1SDhPQ2ZjVmpVRmc?oc=5",
+          "published": "2026-11-13T21:59:44+00:00"
+        },
+        {
+          "title": "Settlers attack Palestinian olive harvesters in Jenin - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa01odHFCODMweURRcEgtRlpmZVVDWHNpVTFBSnZqekpRR1lTeWhXWFhQUUJjMWxPN1hXS0taTmh2MU50TEw1OTh0WHJEQy0tV01FNm1XUF9LalFOWmZPa0otLVJPb2ZIOVdaYzFvWkhiQWcweWREMWRMXy1KNkdpUzZtTHI2SmpjRUtfX0lfSy1YX0l1R2lBdEZsQUg1NVk?oc=5",
+          "published": "2026-11-13T21:34:50+00:00"
+        },
+        {
+          "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEJUNjM2ZkFTbTZ0aW0tYTR5VnpFU2trUks0cjhCMlZKOEtjWDRwQTI3NTFLanRfRjUwX1lRR193TDh3cUttc2hWNnZDVTdnb2luMmZYQkZyMFViZmZVUEh5c1Zqa0hJeDdxRVl4S0hhSlcwZDVHbFpERkZid3BPR1p1bGFqLXpDeDN1Wkt4ZmF6ZFlM0gGaAUFVX3lxTFA0NWRhWlhjcWJ2MW9IdDh0NTNIalQ1VnBCS1JzRm1kWnhpZnBMYzNpTnN3U2JVdUZIcVh6WUNQNEhDbVR5TzB4UFUza28tM1h5QUkycUhRcHRMQnVUVm1NQjZyUU9fY3JMSFVkeTI5eHRHRUVHUFdBb0ZySGR6YkpkNU1LTzAza29XSUlvbVdwN0xGdHpIZ3pPNWc?oc=5",
+          "published": "2026-11-13T18:02:24+00:00"
+        },
+        {
+          "title": "What black mold in your home can really do to your health — and your brain - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SdktyYmg0TkdUcEtXWmlTSVZfcU9HaHRVekhQV1J3WTA5cUtuUnkxRW96S2FyUDNCZXhKWkllRmk2dGxwOEhEU0QtMG0zRTNlQTFBTXk5eHhIa3oxbEZmbGpVNVFOSUFQV19ISg?oc=5",
+          "published": "2026-11-13T17:44:00+00:00"
+        },
+        {
+          "title": "This boy is fighting for every breath as winter hits Gaza – and the worst conditions are yet to come - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajlwWFIycnM1TlpDT2ZJMWJsaGZOY1g3UTc3SHhqajBqbjl5MEZHT0VpTXc2a0M1NnlsSy1oZ2dCaUU5NmkzZlVGbmx2ck1nVXBTdkJKam9Ma0toS1ZwNXJiMGpqME5fM3JpXzlteG1ncTc0c3Z0UlpSdTlfQzVmVVlVakRiZ0tJUTBOa2NLaWVDWVoxNUZZaGlmV1NwTnl2RTg5eVRMYjh0TzBhZUlEVGJ4V29BTTZpLW1pakRQblpsX2NUcDBOUDBvZlR1SzAtYnk2Y2RKSXAyQQ?oc=5",
+          "published": "2026-11-13T17:07:34+00:00"
+        },
+        {
+          "title": "Johnny Depp’s ‘Ebenezer’ Unearths $1.5M in Box Office Previews - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUpaUVI3U0d3ZVhia3hpay1JMXVjbXh0RHFqcUcyU1BuczNpUmRBSWtaOGJEWWZGYmVkYThSSC1HdzV5dEU2RTBDUG1HMU5JRkNBZlFBdmgxdlAxTEVMRUVnRWY0ZDI2YzctRVcyYmJzZnVqRWd5ZzdCMFhnT255YTMwVkhOOERqam5MQXJlRHZiTmh2RERwcF95RkpUOEFwcVA0MERaXy12eFhIQXJ6WElZd1BxMll6WjFUN3Jucw?oc=5",
+          "published": "2026-11-13T16:24:29+00:00"
+        },
+        {
+          "title": "Six-year-old Gaza burn victim caught in Israeli dispute over aid - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFo1ZDdUVlo4bHVVckx2ZkpOazJxa2Z6ZjhDNmhfamN4Q3g0LWdsaGNudjllVHBKYzlJRWgzSzJZbi01RlZJZXFTdk4wY3BFUDFIekFoMWh3M1J3amNfaFUtXzE4Z21OMDVYcV9YMVBoXzdHVzN4LXJIbG9DRFdCUzU1S3gwcGVTOWFRcFVBNXp3Y0ZVb01wbjd0WW1FekgwUEZDNnBnVllLcGJmYTJOcW83aWtmYnZYT3EteEduZWJmMnowOEJjN1dIX0dtZw?oc=5",
+          "published": "2026-11-13T10:22:16+00:00"
+        },
+        {
+          "title": "Siege fuels disease fears in Yemen’s Taiz",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+          "published": "2026-11-14T06:17:27+00:00"
+        },
+        {
+          "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejU1WlA1TVEtUUMwTVd1Zmw1RGhkVmFXM3p0QUxSZDZINExaSWpOc1Z1dDJ4OER2Q19LTVdqT0ZKQ1FyTXJNdnptMURsOGhsOXM4clJhVjVQazFLNS1TTXppLV8yRXZQM2xPMEpOdGNVYzF4Vi15YkluSkt1dDRMNk1xZ1lMTzF5V1VlLWh3VmkxLXpXQzZNa29wTGw3VUJVMTloekpB?oc=5",
+          "published": "2026-11-14T05:26:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.75,
+        "r": 0.125
+      }
+    },
+    "uk-eu-security-powers": {
+      "kind": "major",
+      "title": "L’Europa rafforza servizi segreti e difesa di fronte alle minacce russe e agli attacchi ibridi",
+      "region": "Europa",
+      "summary": "I Paesi europei stanno rafforzando i servizi segreti e le misure di sicurezza di fronte alle minacce provenienti dalla Russia e agli attacchi ibridi. In Germania il parlamento ha approvato l’estensione dei poteri dei servizi di intelligence dopo il fallito attacco all’aeroporto di Lipsia-Halle, che Berlino collegava alla Russia; ora i servizi avranno maggiori possibilità di condurre operazioni segrete e di contrastare spionaggio, terrorismo e sabotaggio. Si riferisce inoltre della reazione dei militari americani a una sospetta attività di un drone sopra una base in Gran Bretagna. Nel complesso, gli articoli descrivono una crescente preoccupazione per la sicurezza in Europa e una revisione degli approcci alla protezione.",
+      "picture": "L’immagine mostra una fortezza fatta di leggi e antenne, una lente d’ingrandimento, porte d’acciaio chiuse a chiave e droni con scudi. È il simbolo di uno Stato che stringe le regole e rafforza la difesa.",
+      "mentions": 41,
+      "significance": 74,
+      "velocity": 66,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-14T08:31:00+00:00"
+        },
+        {
+          "title": "Drone activity over US base in Britain prompts security response, US military says - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazB5TFZqZ3dEMk84N0FGNzl4UVBNc3h3NkN3dUJnUFNHQWROYXUyOHAyMlBDNEFORm1EcFpRRHpfMC1UcndQdnVFMnhLcE1LZnhVU3BZMWZZMFVVNk9zQW93UHU2cjlRNlp2c0syNlRNeEZRazZhQmtFTHh4dlN5NFY5RzBnTG1hcUd6MG9nbHRLdUl4VE9HZXJhVXVqR0NrWTcya3NjTDhEUHQ3X1FXNGdWUWd2UHFIN0dNOEVB?oc=5",
+          "published": "2026-11-14T06:22:07+00:00"
+        },
+        {
+          "title": "German spies granted sweeping new powers",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+          "published": "2026-11-14T04:41:11+00:00"
+        },
+        {
+          "title": "US military responds to 'suspected unauthorised drone activity' at UK air base - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVi14Zk5NZkZaRFpCdXI0cVlmQ2FUejlobXlPTjVjS3VWeXRMTWQweEpWRVV4WTBFZElYSjFhYjJ4NG82Z3Q3ZWNfcHRpVjBsbUVSM0doQlVhX0dOVEdIZkNRdlI5b25kdW8zWXduWks3UDZ5eGpRcmFjVU9iRlFKajRkNVRVcnNoSFZrd0xHZHhvZzhZSnVpMThkTkRwWmRLWmxxU2NmNUJIclA5dUdWa3Z3M3doUWtSc1B6Tlh3dnRvczg?oc=5",
+          "published": "2026-11-13T23:30:22+00:00"
+        },
+        {
+          "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+          "published": "2026-11-13T22:51:25+00:00"
+        },
+        {
+          "title": "US Air Force responds to suspected drone activity over UK airbase - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5",
+          "published": "2026-11-13T22:34:42+00:00"
+        },
+        {
+          "title": "German MPs vote to expand spy agency powers for covert operations - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaG5fTkNGVkVZbUg2Y24weEdCVHVIYWZERl9yTEdycG8zY2VuSENDVTczTmZhSF9YdmxrQUxuenhIbUtyTGtGRm45R2haZmU0Z3JuMUh0UnM0SmMycEFhdWNiakFWYTBLclZCZDZkVTY1d0RLXzJwS0ZNZ243ZU9CVXV2bFRBdGFHeXpVNDlEYUFobFd2MzRTUEN3N1Nwc3VmT0tsalpzWQ?oc=5",
+          "published": "2026-11-13T21:49:33+00:00"
+        },
+        {
+          "title": "Германия существенно расширила полномочия спецслужб. Теперь они смогут вербовать подростков и проводить собственные хакерские атаки",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/13/germaniya-suschestvenno-rasshirila-polnomochiya-spetssluzhb-teper-oni-smogut-verbovat-podrostkov-i-provodit-sobstvennye-hakerskie-ataki",
+          "published": "2026-11-13T16:12:37+00:00"
+        },
+        {
+          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T15:42:52+00:00"
+        },
+        {
+          "title": "Russia and Ukraine trade strikes as EU summit begins - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUlGOVZZVElTVlpWck1fekc1VU5RRkJiVmpJbDRZdEotaG5uaWFlUV9qWGkyVm1tYmVYdkYwSlhvdXIwT1A3a1U0c1JsX1ZxVkZiRWRMU0RzYlJkTElTY05QbG9EQld3VG41cko1U3I2LU5xN0V5RHA4cWJCTFZSeVk3U2lOeHVqV0kza2JZbmxCSHBCS1QwYg?oc=5",
+          "published": "2026-11-13T10:25:00+00:00"
+        },
+        {
+          "title": "US air force responds to suspected drone activity over UK base - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkNjRTNld2xxRWFjbXVERWptd1RtN2cwLVhuVFpvMkJJM0J5MlRmTHJwWW5penkwTWFkcC1helVwNGx0cmhuMXBGVExkQ0VrcmpYbHB0aDl0SzQyYlE2NkxDckRfZFZQZlEyZXI2S0ozTTRDdUFiX043RkdJLUExTXN5SEZxY0VkM0FyUTIyN0xOdmhoVUZpcU9NeXVtd0x0dW5Z?oc=5",
+          "published": "2026-11-13T21:06:17+00:00"
+        },
+        {
+          "title": "The dangers of revising Europe's security architecture",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-13T17:30:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.571,
+        "r": 0.151
+      }
+    },
+    "us-health-outbreaks": {
+      "kind": "major",
+      "title": "Gli Stati Uniti perdono lo status di Paese libero dal morbillo, mentre la malattia continua a diffondersi",
+      "region": "USA",
+      "summary": "Gli Stati Uniti hanno perso lo status di Paese libero dal morbillo a causa della continua diffusione della malattia. Il Washington Post e Reuters scrivono che la decisione è legata a una crescita costante dei casi e che il Paese si trova ora ad affrontare il numero più alto di contagi da oltre tre decenni. Altri servizi indicano oltre 5.400 casi e dieci decessi. Le testate concordano sul fatto che si tratti di un grave fallimento della sanità pubblica.",
+      "picture": "L’immagine mostra uno scudo che si indebolisce con macchie rosse, un flacone di vaccino che trema e mani preoccupate. È l’immagine della perdita di protezione immunitaria e dell’allarme per l’epidemia.",
+      "mentions": 32,
+      "significance": 71,
+      "velocity": 86,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
+          "published": "2026-11-14T09:43:27+00:00"
+        },
+        {
+          "title": "U.S. loses measles-elimination status, erasing a landmark public health achievement - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
+          "published": "2026-11-14T07:20:00+00:00"
+        },
+        {
+          "title": "U.S. loses measles-free status after continued spread of the disease: report",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/us-loses-measles-free-status-after-continued-spread-of-the-disease-report/article71700760.ece",
+          "published": "2026-11-14T03:13:35+00:00"
+        },
+        {
+          "title": "US loses measles-free status after continued spread of the disease, WSJ reports - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
+          "published": "2026-11-14T00:55:00+00:00"
+        },
+        {
+          "title": "Once a global leader in containing measles, U.S. now struggles with surge - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbG80bmlLYnhDc3pxaTBiek9Md1lac3ItZWc0YlNVNHhOLTRjNnpuUEoxSGxNSGlvMFo4aVBEanhGWjVpaDVwRkZTVndsNXhMV3ZhZjJDNFBPcnZjbDcxWi0zSkU5VXBJN0ZRNWZfOC1rTTIxZy1BakxreVVfVGUyc0E3aWl3RHo1UC12R1lNMmNySXpjLVdtdkZubHBEdzM4WXc4SzA5YkgwRFZ5cUFDOGY3MEhhNmZiUUxwS1AybXQzdk1sVVpFMkhtOFg?oc=5",
+          "published": "2026-11-14T00:00:57+00:00"
+        },
+        {
+          "title": "The US flu season is off to a very early start. It’s hitting the South and West now - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM0staG9UN2hSTUhhalFvTENMa3N1Z01KbW9BN0xNcFlyd3I4RnlaZE85NnVsTkViM0tTUHBYTTdQWXExaEJkcGdjUm56ZGJEbHRjZUZpSF8zc054U0JPRkJ2LXE4VXhVVWViMkFsdVdmazVTVDlwSkJndDVFdmltY0xubEpqR2ZGWHNYQQ?oc=5",
+          "published": "2026-11-13T22:28:56+00:00"
+        },
+        {
+          "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y0gGmAUFVX3lxTE1Odm5wa1RPSDRKejRMZDNDRWRsT0pyNXVuUUdybTA3bjNGeEpUc0EzMzA0dlMxVmNFdnlsX09Hd2hKNXd4VGtjN3Q2eGFnX29SenNjQ1BFVDh5eGdqSlRKdzlKM0dPdDlOLWxLZloxa2Rvck41UTRRcEhxVF9nZ1A0ZmlhX2pCSDhrd0stUFkyMzR5ZDByaWZxZDI1SDhPQ2ZjVmpVRmc?oc=5",
+          "published": "2026-11-13T21:59:44+00:00"
+        },
+        {
+          "title": "The US and Mexico are on the verge of forfeiting a major health victory. Here’s what to know - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVZ6cjNTQjJITDJILWl0VGluQ1ZqYmdadENBQlpKODkxc3VXcVJiN0lKdGRuMldxdUJqeHdEMGtOaExDSDJjU0FIc3d6M0gyb3NtSVNyVUpveDhIZ0Z4Vm0yNGFya3lLcDhwdFhCazlXUWNGMWwyT0J1ZjI4OXFlZHJxdXo0ZTJERjlOZzNCTFh6dHZySEcwaDEtOGt3bjRzUy04?oc=5",
+          "published": "2026-11-13T21:45:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.646,
+        "y": 0.726,
+        "r": 0.156
+      }
+    },
+    "faa-groundstop": {
+      "kind": "major",
+      "title": "Negli Stati Uniti tutti i voli sono stati fermati per alcune ore a causa di un guasto nel sistema di comunicazione del controllo del traffico aereo",
+      "region": "USA",
+      "summary": "Negli Stati Uniti tutti i voli sono stati fermati per alcune ore a causa di un guasto nel sistema di comunicazione del controllo del traffico aereo. La FAA ha imposto un divieto nazionale ai decolli, poi revocato, ma il caos negli aeroporti è proseguito: migliaia di voli sono stati cancellati o ritardati e i passeggeri sono rimasti bloccati in tutto il Paese. Le autorità hanno spiegato l’incidente con un sovraccarico dei sistemi obsoleti o un guasto tecnico, non con un attacco informatico. Si tratta di uno dei più gravi disservizi dell’aviazione americana degli ultimi anni.",
+      "picture": "L’immagine mostra aerei fermi accanto a una radioantenna rotta, con valigie abbandonate e schermi scuri della torre di controllo. È il simbolo del traffico aereo fermo e del caos nei trasporti.",
+      "mentions": 29,
+      "significance": 89,
+      "velocity": 72,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Hours-long halt to US flights leaves travelers frustrated, anxious - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV9IOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl9OQjBIV1ZuWkRtVFZIU1lGXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU?oc=5",
+          "published": "2026-11-14T08:49:00+00:00"
+        },
+        {
+          "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+          "published": "2026-11-14T07:11:00+00:00"
+        },
+        {
+          "title": "US air travel resumption will 'take time' after hours-long stop - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemstS0wySl9qSXZRQXpGeExCS3NYSnBCRXEzMXRzajN5YndRcjhGUHB6b3RWaUhWYnRvUDAzR2gyQ1BGc19QWkhpMnZYTUlTSHdQRHNsUlNwTy0zaURCLW5pa3ZuSlhGS1NlTFg2ZC1wenFlSTh0c1VlazJwd3UwbFJtWTZWQzdfRklyRQ?oc=5",
+          "published": "2026-11-14T07:02:46+00:00"
+        },
+        {
+          "title": "Sean Duffy urges college football teams to reach out to FAA as schools scramble to travel after nationwide ground stop - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNV8wN29oMUpZTmx3YzgwWXlzMGxKUThEem1iakRlaTQyU00xX0hGWk9JQ2pxVnpXdXRqSDhGUXZraFBOYnBBMUFhdzBObnlhTDhjRi1XZnVtYXhjdk9LSHROS1dZaklEZ2NXN1JBb1JsOE1OcHZHbjFEOVN2STdZQ3VJS0xZVmIyQUVEWTViYWEtMTNSRG95SmJXSWFQc3lTUFpiSFNad1VNX0FOQVV4bU4zZnl6dHBDTEkwZXRMY1ktLTFRa0ZQa0NzSnFwTjlRVGY1OG9scmU5TG8zRzlpWUJnUzVXNzQ?oc=5",
+          "published": "2026-11-14T06:54:00+00:00"
+        },
+        {
+          "title": "FAA issues rare nationwide ground stop due to 'extraordinary circumstances' - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanNRX1UzSVVBb0pMMVF6akdmbWtoWTd2a0lqYmhBT3hWTEl0UlAwRTdGUGdEdGVOWURndHlKWXlzelpMUkh5TTM3Vm44ZFdMSmNjZHd3dkx3UTY5a2VDSlZOWFFSSWREdGp5M05XVm8tbFZhQ2l6Nm1sRzMzekFNQnRmZFNyQUJoMWc2WFZMejFjOWF2dE9QbkNTeWlYbjRvSVI2ek5JZkdGck0?oc=5",
+          "published": "2026-11-13T23:56:33+00:00"
+        },
+        {
+          "title": "Nationwide ground stop lifted after more than 4 hours as Trump administration blames old, overloaded tech - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjZESEhXTWRPNDJEOGZqM0ZUOUdHeHJlVndERnFVejFBYmNfbnV3OUVIdTRFUEI2eHdqTkhPOWJ0OHY5RTd1WWh2VzV0YS1sVk41QVZfSXpmcmdvMXM2dDVNX3dnQ1l5VmRfOXNrSGUzVzQ5VkJnNDl1OUdXN1ByUDltakdoTVp1b2t0ZE5R0gGTAUFVX3lxTE80VGZ5dW9Tb3hkTDNXTHFnNmxnWXhER1RQbGpWMjB2cEZBX0E5a0xNRXVjNVR2czRCbmVUTkJxRHlNUmFlRXBMWlVEOVNnRHZVY0JNeUx6aDdqalZnbUFpYVZ5WXE5Ukl1RFhvbU5lUGpuRXZ1WFp0M0tBWXU2a3VFenBFTVVPbE9lNGZfUi1Oa3ZkZw?oc=5",
+          "published": "2026-11-13T23:25:08+00:00"
+        },
+        {
+          "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5",
+          "published": "2026-11-14T07:00:00+00:00"
+        },
+        {
+          "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+          "published": "2026-11-14T04:57:00+00:00"
+        },
+        {
+          "title": "US grounds all flights for hours, sparking travel chaos - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBybWpCb2xMbVN3cXBfMUhzcXBqWnB2OEFTaWxzWjJPY2VTR0FaeTdqZGpXZXZSUk5DTDk1UFRDd29MUV9LWUtlcG9SWlM2c19NQVN3akZJOW5fWVRhUFhHRTBNQ2lpYmVvTEpLTGdoZjZWYmNabDY3b0lSMUE0UQ?oc=5",
+          "published": "2026-11-14T03:30:39+00:00"
+        },
+        {
+          "title": "JetBlue cancels most remaining flights due to FAA ground stop — and predicts chaos won’t end soon - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYW5TU1FxX1g1a0JUZGx2Mkpuc1lNd3RzOHMwdnBWeTRWN1AxOEJOTm1ITF9mNHN5eUgzdHBXY1NYRjUteWJSdGNyTTBxZVk4QWpVcEZ4TlJQY0ZZY3FQaFIzVzZnRl9XRmRKSWM3TnhBdGxvOXhWa21lMlBpalZGVm85QjIydWo5UFo1SUJ5QTVGQ2h1ckxIMkMwVVRxMU9ESXRPY2ExRTZjY0RfeS1HaVVsZEs2dG9xampRZ0p0WURTSDVJQXd6Tg?oc=5",
+          "published": "2026-11-14T02:47:21+00:00"
+        },
+        {
+          "title": "Old air traffic control equipment regularly disrupts US flights - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
+          "published": "2026-11-14T02:45:00+00:00"
+        },
+        {
+          "title": "US flight shutdown exposes deepening air traffic network crisis - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+          "published": "2026-11-14T02:18:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.071,
+        "r": 0.151
+      }
+    },
+    "hungary-corruption-probe": {
+      "kind": "major",
+      "title": "In Ungheria l’indagine sulla corruzione nell’entourage di Orbán ha portato alla scoperta di decine di milioni in contanti",
+      "region": "Europa",
+      "summary": "In Ungheria l’indagine sulla corruzione che coinvolge persone vicine a Viktor Orbán ha portato alla scoperta di grandi somme di denaro contante. Reuters, AP e altri media parlano di circa 19,5-20 milioni di dollari trovati in foreste ed edifici nel corso di un’operazione anticorruzione. Secondo i resoconti, si tratta di un’indagine su un ex ministro e su possibili tangenti ricevute durante il periodo di governo di Orbán. Le cifre variano di poco, ma tutte le pubblicazioni confermano la portata della scoperta.",
+      "picture": "L’immagine mostra mazzette di denaro nascoste sotto le radici, un sigillo ministeriale rotto e una pala. È il simbolo del denaro corrotto nascosto che viene portato alla luce.",
+      "mentions": 25,
+      "significance": 58,
+      "velocity": 86,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+          "published": "2026-11-14T09:08:21+00:00"
+        },
+        {
+          "title": "Hungary recovers $20 million cash in probe of Orban minister - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDZvMXVueFJJaXFVTXo1Nkc4SXk5c21waTRkanlVSG1FUUFWd0VrRXNfSGYwZVV1OFYwNmoyejlSa2UyNVRWWEszcW5zejZsYWx6TFVpcXBlNFl1Y1RxamYwSUpEZDg1NzR5UDRsS3BTRlhwMFRuRzFGdGxxdEN1SEowVm9oWkZ6SGsySzhDLVE3SjVaMFhfVGRTMA?oc=5",
+          "published": "2026-11-14T07:23:00+00:00"
+        },
+        {
+          "title": "Hungarian authorities recover $19.5 million in cash during investigation into Orban-era minister - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGZwWjF6WTV6LURlTG9oQnFqUV9rclctTEEyWmtkTmcwanJIY3p4Y2tCQ1FWVU5kelZPQV93YUpHVm1zbGh4dHVhWmEzQUhLYUV6eTJyOU1fYTY3RHJFWUZSSFF2aHBvVC1sTWtZWTg4YkxIR0N6alk4ZUt5QUVHcnFCd0RZZTVzdGYwOWFfMWZLRWlMNDlWSjdhZk5xZU1VWGt0RDVRQzZrUkZqN0YyQmVwRlNlcEVmS2plQzVPVTB2MWVtZEFoajlsZ2pRQQ?oc=5",
+          "published": "2026-11-13T22:53:16+00:00"
+        },
+        {
+          "title": "Hungarian authorities recover $19.5 million in cash during investigation into Orbán-era minister - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3N6bWdWdGxvUENqRDUxcTVlaUFva2xhRTVoSk90VUtXSmxHX1p6dl8zcWRFM3dVa2VmaEFlMzRJNkYzZk1sUmpVeDk1amo5WmJtLUtvaE5PMDFYRThDYXNzVGNtcnZXWURuSGxQckozMmc2OFBQN3J4RUxpVkwwdTczZmE3T0ExOEtjdGc2QTh1RkZCVGlUZ0d2TTlPckVncHpEak8zUWlZejNRa2VlRVFvMDhRU085?oc=5",
+          "published": "2026-11-13T22:22:00+00:00"
+        },
+        {
+          "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+          "published": "2026-11-13T22:12:54+00:00"
+        },
+        {
+          "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+          "published": "2026-11-14T08:39:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.393,
+        "r": 0.125
+      }
+    },
+    "michigan-kansas-us-midterms": {
+      "kind": "major",
+      "title": "I Democratici ottengono vittorie significative alle elezioni negli Stati Uniti, ma nel partito sono già in corso nuove battaglie",
+      "region": "USA",
+      "summary": "I Democratici hanno ottenuto successi rilevanti nelle elezioni negli Stati Uniti, ma all’interno del partito sono già iniziate nuove battaglie politiche. La rassegna include numerosi risultati per la Camera dei Rappresentanti, il Senato, le elezioni governatoriali e singoli Stati; Reuters riferisce inoltre della sconfitta della repubblicana Lauren Boebert in Colorado. Associated Press pubblica i riepiloghi delle elezioni a livello statale, mostrando che il quadro finale è ancora in costruzione. Il senso principale degli articoli è che i partiti dovranno fare i conti con vittorie e sconfitte, e che la lotta interna non è affatto conclusa.",
+      "picture": "L’immagine mostra uno striscione elettorale strappato nelle mani di fazioni rivali, sedie rovesciate e schede elettorali sparse. È il simbolo di una competizione elettorale tesa e non ancora conclusa.",
+      "mentions": 25,
+      "significance": 65,
+      "velocity": 86,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "2026 U.S. House Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+          "published": "2026-11-14T09:58:25+00:00"
+        },
+        {
+          "title": "Canada's Carney touts Philippine trade deal on Asia tour - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHNGTEczemtfME85dmxxVlBVUkEyQ3M4YmlyNUFDQXYtZDUySi1NZDNycEtQTU55RUZLMFNFaW9RSmNXaUpzQmo2RWpyak16ZkJYcXNERlN5Sm9hbHFyRENzU2pCbGRpQmtJdHhlUDBqTjQ2d2NKSGpjOUNlV1BoUg?oc=5",
+          "published": "2026-11-14T09:05:28+00:00"
+        },
+        {
+          "title": "GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakFOaVI2Slp4WVk4ZmRIX2hMa29UbUNuSjlvTkxPM0RjNFItem1HS3M4MjBFdDhmc3JTNmJaYzEyeFpka3hQUlhoWEphR29JUGN1cGZGcXctQTdBenNUMkJDWVlhQnBYQXZPTmdOalN3VWlwaHo1dFlxUjhBejBZc05kQXlKbjBDZWo1eHR6dWxmbEJqLUViOEhJdXRIWHJ2SkIwZWlHa9IBrAFBVV95cUxNdW1BR05NaldiZjNTcDRfeGNqTkxTRi1fZnBwY25Ed25jeng0OWpYUVYyY0dsSUhYNERsN2hwTEpPcEx6aW00U0lvQktNcFlqR3c1VEZRdEJnVzBaWTY0NUZSZDFtNW5tS0xZOUlhZmtDSGhfYTMyM0pWUkpudERoVUtxUy1pYl9jV19zWmx3VFZhSUhpQXFwSGhWSVhkRzIxWXFvMmQyNmNjUFdi?oc=5",
+          "published": "2026-11-14T05:12:35+00:00"
+        },
+        {
+          "title": "Kirk Herbstreit gave his dog steak at an NYC restaurant — and Craig Carton is fuming mad - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOE5IQWtOSjBoWjFCdTAzb3ZMYTVoQzRDcmtYOVNBcUlrZl91VS1JVGNUc1F3bFdyblpNQlAyNWYza2x5ZV9lUXZtR0ZwelV5dFdoeDhDVmgzZ0V2dV9uR0t1RU9HNTdfeDdCdDMwMmxHYkRaS3Bmd2ZrbFZQa25MU0x4bVNfbkc4YmhKNEZGM1RkZjVzblRkWDhWSS0wZURBeWhSV3pTem1RN2kzbmNSeG40eHhJYWpl?oc=5",
+          "published": "2026-11-13T23:12:00+00:00"
+        },
+        {
+          "title": "Republican Lauren Boebert, a colorful conservative, loses reelection bid in Colorado, according to US media - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0lkZE5xVG04SW9xZjBEZ1NndWRVZEhtVVU0TThJeDhMZ19fajZOVkFCS1dmYm8xNUZzcFdmS1U1Umt5VkZqaTFwLXk1MGh1MjBIcVR0MkZaa1hpTGp4UHl3TE1JeUNpOU5wMi02SjRubHdDVFRFdjhhM2p4RXFNZmpBUEF4WElEd1RSRlNhSklkbzZQWGhxeXViaHNkOE1xZm9BU19FOElUalZqQlNIT0lNRHlNTWlsaWlVQ1VfOWxJUk1CWjdlbnV3?oc=5",
+          "published": "2026-11-13T23:09:59+00:00"
+        },
+        {
+          "title": "2026 U.S. Senate Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+          "published": "2026-11-14T09:56:19+00:00"
+        },
+        {
+          "title": "2026 Mississippi Midterm Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tMUprSkJTbVc5cUtIT0hsZzlyaFdMcE1mTlBnMk9rTUZmd0M3RGRzZ1hFd29CS0NsSjVhY2dscXVZMVZ2Z3VjTTBaLVZtam1DdjdOeWxjNHRGS3NvdE9VWHZ0SUMxQUZYMkphTzNsekw?oc=5",
+          "published": "2026-11-14T09:46:20+00:00"
+        },
+        {
+          "title": "2026 Governor Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWHJqVGFrR1hzNVFwNjI1VVNqbzhXaWE4SVI5VEFYTDlSWllnY19Ha3E2WEFkMXRqaXludDhvUXVQaTR2NC1WeWFWNWpZQ3cwcWc0RXNTM3QtOFFKTGRLaTBENUNMXzlfd1RFUg?oc=5",
+          "published": "2026-11-14T09:20:58+00:00"
+        },
+        {
+          "title": "2026 Ohio Midterm Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
+          "published": "2026-11-14T09:01:36+00:00"
+        },
+        {
+          "title": "2026 Alaska Midterm Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSHdYZDVTR3dZZ2VGUHVJSlBMR0E3VHlWV004VkdNaUZJSTNIekx1d0l3NlVnYUV3b3c5VVRNVjNKSGFneHllcEhUUEJWLVp3dEQ0cUFWd3IzWlJDWnBuN0FJOFhOMWJxUHc?oc=5",
+          "published": "2026-11-14T07:48:32+00:00"
+        },
+        {
+          "title": "2026 California Midterm Election Results - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0poay11emY4V2pvcHFiV3pLbXNXWFVvd1o2bkZWOHRKNHIwSFg1Z1RuQjRaNWhLeTIwZTF2Vmx4OHMtaER3bFJmWjZjMHhpT3VUQ0lvRzVBUjRodlBrOW40MEVxNkl0TkVZLWdGTQ?oc=5",
+          "published": "2026-11-14T07:25:28+00:00"
+        },
+        {
+          "title": "Cycling prodigy Seixas warns rivals: 'I want more' - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HVGtKaDhLNlJ5bGdSSVROUXM1NWZtUEwwZ0ZINy1WdFBjYWx1ejU3aUIzSUpUSUdia1FqSHNPME5iUGFKdExTOXRCRUJXOHJ2N19uX3NnM0wyVUp4VVJqSkJYTHV6NmR2S0RvVC0za29leG8zMzF1b0F3?oc=5",
+          "published": "2026-11-14T07:02:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.857,
+        "r": 0.151
+      }
+    },
+    "france-unrest": {
+      "kind": "major",
+      "title": "In Francia le proteste antigovernative sono degenerate in disordini",
+      "region": "Europa",
+      "summary": "In Francia le proteste antigovernative sono degenerate in disordini. Reuters e altri media scrivono che le autorità rispondono con durezza: arresti, interventi della polizia e restrizioni sulle marce, alimentando ancora di più il malcontento. Le autorità francesi mobilitano circa 70.000 poliziotti e gendarmi per una nuova ondata di proteste, attendendo decine di azioni in tutto il Paese. I materiali descrivono ormai non semplici manifestazioni, ma una vasta crisi dell’ordine pubblico.",
+      "picture": "L’immagine mostra una corona incrinata calpestata da stivali da marcia, barricate rovesciate e manifesti strappati. È il simbolo di una protesta sfuggita al controllo.",
+      "mentions": 18,
+      "significance": 64,
+      "velocity": 86,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Riots in France: How anti-Government protests spiralled out of control",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/riots-in-france-how-anti-government-protests-spiralled-out-of-control/article71701195.ece",
+          "published": "2026-11-14T09:00:34+00:00"
+        },
+        {
+          "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+          "published": "2026-11-14T07:09:32+00:00"
+        },
+        {
+          "title": "Riots in France: How anti-government protests spiraled out of control - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3F1XzJUQTItaTJpX1hvYTBuU1J0Z2tnX0d2a0ZPTHBUQ1JlYk1FODF4QnFreUdRQm81d2MxeGdXTm5XV25EdDFPXy0yQkNmMTduYXRiMjlrXzFYd0RISjRZbzhuazYySERDU1pXN0hadDZpdXdTTjlxQnJWQ1VJNmVwUWlwUmR1VW1FV0pfMkZROHY3R1dUNnlEVFlxX0RzdDRNVjBJNGlqQ2NXZU5hc2JR?oc=5",
+          "published": "2026-11-14T06:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.396,
+        "y": 0.488,
+        "r": 0.156
+      }
+    },
+    "canada-us-trade": {
+      "kind": "major",
+      "title": "Canada e Stati Uniti hanno compiuto progressi in un accordo commerciale",
+      "region": "Economia",
+      "summary": "Canada e Stati Uniti hanno fatto progressi nei negoziati su un accordo commerciale. Il premier Mark Carney ha dichiarato che le parti sono riuscite a compiere un avanzamento; Reuters riferisce inoltre di ottimismo nei colloqui, mentre il Tesoro americano aveva in precedenza espresso la speranza di accordi con Canada e Messico. In un altro servizio, Carney utilizza il viaggio in Asia per promuovere l’agenda commerciale, ma il tema principale qui è proprio lo spostamento nel dialogo con Washington. I dettagli dell’intesa non sono ancora stati resi noti.",
+      "picture": "L’immagine mostra due mani intrecciate sul fronte commerciale che si scambiano un fascio di merci attraverso una linea di confine. È il simbolo del progresso verso un accordo e degli scambi oltrefrontiera.",
+      "mentions": 18,
+      "significance": 52,
+      "velocity": 86,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Canada's Carney touts Philippine trade deal on Asia tour - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHNGTEczemtfME85dmxxVlBVUkEyQ3M4YmlyNUFDQXYtZDUySi1NZDNycEtQTU55RUZLMFNFaW9RSmNXaUpzQmo2RWpyak16ZkJYcXNERlN5Sm9hbHFyRENzU2pCbGRpQmtJdHhlUDBqTjQ2d2NKSGpjOUNlV1BoUg?oc=5",
+          "published": "2026-11-14T09:05:28+00:00"
+        },
+        {
+          "title": "Canada, US make progress on trade deal, Carney says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw?oc=5",
+          "published": "2026-11-14T06:16:00+00:00"
+        },
+        {
+          "title": "US aviation regulator lifts order that grounded thousands of flights",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+          "published": "2026-11-14T03:21:57+00:00"
+        },
+        {
+          "title": "US Treasury's Bessent says he is optimistic on trade deals with Canada, Mexico - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWdSaDA1Z1ZyaFBzb2lWR1VzcEs5OGlsZzJhX2tNNXRia3NBcElYZzB2OTR3NW4wV09fY29NZ2JjRUFrazRwY3BkUllCX0FWWkFoNkhienpZMXFEOG9jLW02NWtubXpHZDRiRHFKeENZVlpORjFOMXE3UEkxUnA3aWFnX2QxQldMd2VVNDdwVmwxSUE3eVlEMzN2d0NnanBFbkFVY3pKRkY3bjdneVFyWEV0VjM2Y29qdnNXV0tB?oc=5",
+          "published": "2026-11-13T14:24:31+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.607,
+        "r": 0.125
+      }
+    },
+    "south-sudan-election-delay": {
+      "kind": "major",
+      "title": "Il Sud Sudan rinvia ancora le elezioni",
+      "region": "Africa",
+      "summary": "Il Sud Sudan rinvia ancora le sue prime elezioni nazionali, ora a febbraio 2027. Secondo The Hindu e Reuters, il voto, già rimandato più volte, era previsto per il 22 dicembre. L’ONU aveva in precedenza avvertito che le elezioni potrebbero innescare un conflitto. Le testate concordano sul fatto che il processo sia stato nuovamente rinviato e resti politicamente rischioso.",
+      "picture": "L’immagine mostra un’urna elettorale incatenata a un calendario e un tamburo elettorale fermo. È l’immagine di un processo democratico bloccato.",
+      "mentions": 18,
+      "significance": 41,
+      "velocity": 86,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "South Sudan postpones first national elections until February",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
+          "published": "2026-11-14T09:10:07+00:00"
+        },
+        {
+          "title": "South Sudan delays election to February 11 2027 - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3U0Um9xVEQzN2ZkMWdFaHFWOEV0T1FTVVRaZXU0WnFFVjRiQ1Z4SUZ2VVNrNXUxZ2d6RWY0VXBJcUZNMU04ZmUyRVlXOURtWk5Kb2h6Y28wMVVHYnZkN0l6Vks3Z1hTa3cta25wbDhhb0JBUldpWmtzVlpvYUt0LVVfQzJpYlF6c29vQUI3SUMxQl96SUZYVw?oc=5",
+          "published": "2026-11-14T08:32:37+00:00"
+        },
+        {
+          "title": "South Sudanese start registering to vote ahead of first national elections",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/14/south-sudanese-start-registering-to-vote-ahead-of-first-national-elections/",
+          "published": "2026-11-14T08:03:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.607,
+        "r": 0.271
+      }
+    },
+    "starship-flight-15-orbit-breakthrough": {
+      "kind": "progress",
+      "title": "Starship ha raggiunto per la prima volta l’orbita, anche se il recupero del booster è fallito",
+      "region": "Spazio",
+      "summary": "SpaceX ha portato per la prima volta Starship in orbita durante il 15º volo di prova, ma il tentativo di catturare il booster è finito male. AP, AFP, DW e altri media scrivono che il booster è caduto nel Golfo del Messico ed è esploso, facendo fallire l’inedita doppia “presa” di entrambi gli stadi. La navicella, invece, ha raggiunto con successo l’orbita, in quello che viene definito il test più audace del programma. Il risultato principale è stato il volo orbitale, mentre il guasto principale è stata la perdita del booster.",
+      "picture": "L’immagine mostra un’enorme razzo che si allontana dalla Terra, con il booster staccato e il veicolo orbitale accanto. È l’immagine di un grande passo tecnologico non privo di incidenti.",
+      "mentions": 89,
+      "significance": 96,
+      "velocity": 56,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html",
+          "published": "2026-11-14T06:34:10+00:00"
+        },
+        {
+          "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+          "published": "2026-11-14T04:17:31+00:00"
+        },
+        {
+          "title": "SpaceX's Starship enters Earth's orbit, but booster catch aborted - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1BFeGxfd294MHhtSFRHajBCRUFfek05NzRoOHZKbl8xUERIN3k3V0ZpbzBRLTU1MkFOc0d2b0dtSWdIaTZoeW1qYU5iNDFidWhpQ0Fwb2luR0Z3bHBmT2xqTTljckJCQ2ZWRk0xOGE0YkpUTlU5MGd2TTNJQUMzYWpXaEpFU2lI?oc=5",
+          "published": "2026-11-14T03:15:59+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship rocket, fails to recover booster",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-14T02:24:00+00:00"
+        },
+        {
+          "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
+          "published": "2026-11-14T01:59:00+00:00"
+        },
+        {
+          "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXZLZklkUHg0MjhYb3dYUEVxWVVRNUZST0oyTWcxaFktYmRPb2NNTS1aX0k2ckJKdm1yODZXOVI0cUdONXRDVkhEeHhBcjZCY2h4MTB6Q1laN3g4eHFPN0lyOGpRZF9CSVhiYndJVFRJeHh3YUJnbG9aUmoyRHRTalg1aDJqMXNEelRRN1o2NGpOczdYWTVkaEtxOGgwWll1cXh5ZGRhVmRQUE82dXl3YnFiTkQ4b1lvbGNESnZOdl9id2PSAcgBQVVfeXFMT0VLamhXUF9BczFDN1RpZEdJTGJiNVNqZThJQmk3QUFoMzNkaVZqWGhYZ3NtQ0gyQ1psN0UxUDg2QXFjNnJjSHljaHo1WmF4bnVLS3czVjdxWWpNeUNLVUxILUptSHNraWpBNlBZbDYySDZBTUR1bk5DMm11bnNfcmhTTW84RnhXSkp4ZjJrdnJNOE9adzF4SDBlZWRaeWNQektJc0prbFBjOG9MamIwVGJkelNTVGRwZFdsaUg0RlhVYjliSjdETlk?oc=5",
+          "published": "2026-11-14T00:20:20+00:00"
+        },
+        {
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T00:01:01+00:00"
+        },
+        {
+          "title": "SpaceX’s bid for Starship double catch thwarted, as booster ends up in ocean",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374413/spacexs-bid-starship-double-catch-thwarted-booster-ends-ocean",
+          "published": "2026-11-13T23:23:21+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEhQWFJRdTk2a2oxdnBsNm1ZUHdjSUdDNUtuQnloQjlTdHZIdXpVeFlQeTNNMk8xeE9uXzhpamdiTnZHaFY2ZFZZbmViSEhBYUxGTENfNXVtZ3RHY2Z2SGlqSXU3cEZNRmtZdDFUc3VHbERUbWFiTEFNUk4wTHF2TVBJblIxUFc1UnBSY1lJRnM5VnFLM3hfYVU3VEpvWW44NmxNSmtUa3pUUXdxUEFHWV8tcnpkUE52MWFOX1pLZjNldlN1?oc=5",
+          "published": "2026-11-13T23:20:03+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship in key test flight of massive rocket - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2RDOFRVRzlYRXd2UzRoU2NsT2loVFJOS3RKTWtsVlZrNm54WWhoREdoelVzai1odkR4VlZyLTN2V093VlJvSlhUTlFDMUJVbDRmQ3F2NV9IbFpBZmRlaUNoaWtuQ3h3eXdWTXFfWlI1YW1LbmhQaHAxN21Ua29fOVNIMS1uQklmdGYwU2JNUnQ4Wl9jdVl5OFpLZTZDdmvSAaQBQVVfeXFMTzdKdnZ2WjdnZFJEZWJVR2tPWHZSQjdXcjdtMzZBNnIyZUdEM2dEU2NWZV94d0pFeXZPZDFlcF9MOHkxLTlNdlZHUTFRR2hBa3hWb3cwa2lRUi1GMm1rQTVycmh6eVBpaFJUZllYOHZPT2J5UXZaNDFfamdNVks1THFnaTl6RWhpUngzYUZMUzJhZDIxTlFzb3cza0NWaE9RSlZDTUg?oc=5",
+          "published": "2026-11-13T22:50:16+00:00"
+        },
+        {
+          "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+          "published": "2026-11-13T11:07:00+00:00"
+        },
+        {
+          "title": "California steels for storms that could trigger massive waves, flooding - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWc1NFROQVQyck1Tb2JBeU1jbk9XdjNTbWFuUkxVTFZ5RXhYSlpfWlg4MUUxSlk3N0ZWbTlGMFB4bjR3cE1yYmpOaUtWckp1azB1cS1qN05CeFdsR3lSaVJIMHFza3pVSjcxUFdzbmRkWUpGZmJ1OW5pMDlYVUFfdko1TnhVZERtWjl6cQ?oc=5",
+          "published": "2026-11-13T19:02:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.729,
+        "y": 0.06,
+        "r": 0.156
+      }
+    },
+    "spacex-starship-15-double-catch-test": {
+      "kind": "progress",
+      "title": "SpaceX ha testato di nuovo Starship con un tentativo di doppia cattura, ma senza successo",
+      "region": "Spazio",
+      "summary": "SpaceX ha riprovato il test di Starship con la doppia cattura, ma senza riuscirci: il booster non è stato riportato sulla rampa di lancio. Secondo vari media, è caduto nell’oceano o nel Golfo del Messico ed è esploso, mentre la navicella ha proseguito il volo verso l’orbita. Le testate concordano sul fatto che si trattasse di un test chiave e molto ambizioso, ma il recupero di entrambi gli stadi non è riuscito. In questa storia, il successo resta l’uscita in orbita, non l’atterraggio.",
+      "picture": "L’immagine mostra un booster tra due “braccia” meccaniche sopra un anello di fiamme. È il simbolo del tentativo di afferrare e riportare indietro il razzo, poi fallito.",
+      "mentions": 89,
+      "significance": 92,
+      "velocity": 56,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html",
+          "published": "2026-11-14T06:34:10+00:00"
+        },
+        {
+          "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+          "published": "2026-11-14T04:17:31+00:00"
+        },
+        {
+          "title": "SpaceX's Starship enters Earth's orbit, but booster catch aborted - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1BFeGxfd294MHhtSFRHajBCRUFfek05NzRoOHZKbl8xUERIN3k3V0ZpbzBRLTU1MkFOc0d2b0dtSWdIaTZoeW1qYU5iNDFidWhpQ0Fwb2luR0Z3bHBmT2xqTTljckJCQ2ZWRk0xOGE0YkpUTlU5MGd2TTNJQUMzYWpXaEpFU2lI?oc=5",
+          "published": "2026-11-14T03:15:59+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship rocket, fails to recover booster",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-14T02:24:00+00:00"
+        },
+        {
+          "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
+          "published": "2026-11-14T01:59:00+00:00"
+        },
+        {
+          "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXZLZklkUHg0MjhYb3dYUEVxWVVRNUZST0oyTWcxaFktYmRPb2NNTS1aX0k2ckJKdm1yODZXOVI0cUdONXRDVkhEeHhBcjZCY2h4MTB6Q1laN3g4eHFPN0lyOGpRZF9CSVhiYndJVFRJeHh3YUJnbG9aUmoyRHRTalg1aDJqMXNEelRRN1o2NGpOczdYWTVkaEtxOGgwWll1cXh5ZGRhVmRQUE82dXl3YnFiTkQ4b1lvbGNESnZOdl9id2PSAcgBQVVfeXFMT0VLamhXUF9BczFDN1RpZEdJTGJiNVNqZThJQmk3QUFoMzNkaVZqWGhYZ3NtQ0gyQ1psN0UxUDg2QXFjNnJjSHljaHo1WmF4bnVLS3czVjdxWWpNeUNLVUxILUptSHNraWpBNlBZbDYySDZBTUR1bk5DMm11bnNfcmhTTW84RnhXSkp4ZjJrdnJNOE9adzF4SDBlZWRaeWNQektJc0prbFBjOG9MamIwVGJkelNTVGRwZFdsaUg0RlhVYjliSjdETlk?oc=5",
+          "published": "2026-11-14T00:20:20+00:00"
+        },
+        {
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T00:01:01+00:00"
+        },
+        {
+          "title": "SpaceX’s bid for Starship double catch thwarted, as booster ends up in ocean",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374413/spacexs-bid-starship-double-catch-thwarted-booster-ends-ocean",
+          "published": "2026-11-13T23:23:21+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEhQWFJRdTk2a2oxdnBsNm1ZUHdjSUdDNUtuQnloQjlTdHZIdXpVeFlQeTNNMk8xeE9uXzhpamdiTnZHaFY2ZFZZbmViSEhBYUxGTENfNXVtZ3RHY2Z2SGlqSXU3cEZNRmtZdDFUc3VHbERUbWFiTEFNUk4wTHF2TVBJblIxUFc1UnBSY1lJRnM5VnFLM3hfYVU3VEpvWW44NmxNSmtUa3pUUXdxUEFHWV8tcnpkUE52MWFOX1pLZjNldlN1?oc=5",
+          "published": "2026-11-13T23:20:03+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship in key test flight of massive rocket - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2RDOFRVRzlYRXd2UzRoU2NsT2loVFJOS3RKTWtsVlZrNm54WWhoREdoelVzai1odkR4VlZyLTN2V093VlJvSlhUTlFDMUJVbDRmQ3F2NV9IbFpBZmRlaUNoaWtuQ3h3eXdWTXFfWlI1YW1LbmhQaHAxN21Ua29fOVNIMS1uQklmdGYwU2JNUnQ4Wl9jdVl5OFpLZTZDdmvSAaQBQVVfeXFMTzdKdnZ2WjdnZFJEZWJVR2tPWHZSQjdXcjdtMzZBNnIyZUdEM2dEU2NWZV94d0pFeXZPZDFlcF9MOHkxLTlNdlZHUTFRR2hBa3hWb3cwa2lRUi1GMm1rQTVycmh6eVBpaFJUZllYOHZPT2J5UXZaNDFfamdNVks1THFnaTl6RWhpUngzYUZMUzJhZDIxTlFzb3cza0NWaE9RSlZDTUg?oc=5",
+          "published": "2026-11-13T22:50:16+00:00"
+        },
+        {
+          "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+          "published": "2026-11-13T11:07:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.089,
+        "r": 0.191
+      }
+    },
+    "nationwide-us-flight-ground-stop": {
+      "kind": "progress",
+      "title": "Negli Stati Uniti, per alcune ore, tutti i voli in partenza sono stati fermati per un guasto al sistema di controllo del traffico aereo",
+      "region": "Tecnologia",
+      "summary": "Negli Stati Uniti, per alcune ore, tutti i voli in partenza sono stati fermati dopo un guasto al sistema di controllo del traffico aereo. La FAA ha imposto un ground stop a livello nazionale e poi ha autorizzato i decolli, ma decine di migliaia di passeggeri hanno comunque dovuto fare i conti con cancellazioni e ritardi. Le autorità hanno attribuito il problema a un sovraccarico o a un sistema obsoleto, sottolineando che l’incidente non era legato a un attacco informatico. Si tratta di uno dei maggiori disservizi aerei nel Paese dai tempi dell’11 settembre.",
+      "picture": "L’immagine mostra una torre di controllo che trattiene un aereo immobile e un’icona del segnale rotta. È l’immagine di un cielo fermo e di un guasto nel controllo dei voli.",
+      "mentions": 100,
+      "significance": 84,
+      "velocity": 61,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "В США — крупнейший сбой в авиасообщении. Все полеты в стране приостановили на четыре часа. Тысячи рейсов отменены. Подобного не было со времен терактов 11 сентября",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/14/v-ssha-krupneyshiy-sboy-v-aviasoobschenii-vse-polety-v-strane-priostanovili-na-chetyre-chasa-tysyachi-reysov-otmeneny",
+          "published": "2026-11-14T07:51:57+00:00"
+        },
+        {
+          "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
+          "published": "2026-11-14T06:30:02+00:00"
+        },
+        {
+          "title": "FAA lifts ground stop at U.S. airports, leaving travel chaos - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSW1hTkRxd1hwLUlzaVpya2dDTXQzUUdIX1BuTzA0VjlUZDZZYmxBenFLOWF4UkNUQUV0VEMxUlRyem9aY1FCeVIzU3lrWGZEQzVVd2ZjSk9nbHRrdVQ1bEU5bjFWbDZkSUVONXdXSEhPclRVVHdkQ1RLRGk3WmpIbk91ckozVUIwMDZlYm9sd3puNFVJR3RyeENKQnNZOHRkSnJnVFdaRFl2OUt2b2FoZnRmcWVuVDRfUG9NbnhR?oc=5",
+          "published": "2026-11-14T05:59:00+00:00"
+        },
+        {
+          "title": "What caused rare order to ground all US flights? Everything we know - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbndQdmJaUmdXa3czdkJjSzhmc3c1VHVvb2ZKSU9TZUtoWGFPT2k3aG8zNnNHQ3ZMTDEzeUNmZWRiZXREU1l1dHpCVGZOQmwtTTNub0Z5OVpXWkJ4SmNiak92WFZFWDRUVzh0dVFXOTVIaDNVVTNGbU9GcmdGQlM5RW1Pc1dtY0IyVUx6TzNyb2RrU1Z1?oc=5",
+          "published": "2026-11-14T05:43:23+00:00"
+        },
+        {
+          "title": "Hong Kong travellers face 2 days of delays as US ground stop hits 17 city flights",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
+          "published": "2026-11-14T04:50:00+00:00"
+        },
+        {
+          "title": "Thousands were stranded at America's airports. What went wrong? - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmFnVEp3dDhkbXEyM01RR2hneDFvcUQzeVgyWEt4RE5KNWdZSHo0Q0t6dDVBZl9nb1p0MWw0N0tEOGF5NVB3UTVpMUtBMkRmbWFVblhKdVVlcFQ2Njc1QTZxRGpCbUpROS1SbFBNSnRHWXJZdVFySmlhc09mX056aER2aFh4eVB1Ti1wSk01WFZocnN6ZE0tTTdNRjM1ekw5TkpfMERwd0l5d3JVbWRROFprSWE?oc=5",
+          "published": "2026-11-14T03:26:00+00:00"
+        },
+        {
+          "title": "FAA ends hours-long nationwide ground stop - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Tkp6ZU5mbXpwMENHSzNRSVB4ajBZUGNoYS1maDFvUTVJbWhiMFlXM2dvUHZCV3BISHVSQ2VSUzNNMmVnbHBueHo3R0NJSE9uNGVmLXZUN0c4RnJvX2w1OEVvZE1pSjZMYkdv?oc=5",
+          "published": "2026-11-14T02:57:32+00:00"
+        },
+        {
+          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLNkt4M3BSeGtVWm9yaW5qREFTVGxOMnJIYUV3dVBNS2h6bHNScVAyaWx5czZMeWtzRmpfWGFWV3NaYXNwSWlId2I3czk2WXJBanF0c0Qxd1hkXy0xV1hOdGl0VQ?oc=5",
+          "published": "2026-11-14T01:53:00+00:00"
+        },
+        {
+          "title": "Over 2,000 flights remain canceled Saturday across US after air traffic control failure",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+          "published": "2026-11-14T00:21:44+00:00"
+        },
+        {
+          "title": "Traffic chaos chokes LAX runways as FAA issues nationwide ground stop over ‘extraordinary circumstances’ - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3JJZC1LVGNSaVRrNWNIdVZsT1hYMmQwVWZVa1l1a0NyRlVJTzViMGFkaUlaZ1huOXR0ajdxSXk4Y21UOEtuMnZtWHcwZkdRaFV3SWk5aTduZXd5SkZmTjdwTFVkb1ljNDVybkpGVGRFa1BTdXNTYTRheHR1azNsUnR4bk5VTDd2QlhGZ0VkTmM5VDFTaV90MERtaXhoRms?oc=5",
+          "published": "2026-11-13T21:59:00+00:00"
+        },
+        {
+          "title": "Video Nationwide ground stop ordered at airports: FAA - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fbXpIQUZ6dGNTXzZZMnQtcG9VZzFzcEt1Z2NxcjJLeGNZdmtTMTZMUE0tYzd0b2dVcVpJN0hkSGV6eWtlNllCSWd1UTY?oc=5",
+          "published": "2026-11-13T21:29:16+00:00"
+        },
+        {
+          "title": "Federal Aviation Administration says airplane departures can resume following nationwide ground stop - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEVqLXozVW4ydEJ2ak1adXFKRjFveXRXWHpZdUF0ZlNkbnVjNGZ1U25sUmNLSjc0a09JTFRnUmFQSDd0TXZEUFBqMHM4dnNEUkdrcDJRZlk2enBQZHUwYjFocmZBOWxsM2NiVlVMTzA2dy1wYVEwYlNCbkx5eFYtODNmUm1mQjhZUGVjLV82NzJ1REtSTXJkOUJLT2JsYTQwYWRMOENGMHFvR2JySkhNdmdud01NeFA0dWZkbUxoREFFQmlfMTVuNDZ5SVdXLWN3V1RxMFFn?oc=5",
+          "published": "2026-11-13T21:27:21+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.071,
+        "r": 0.151
+      }
+    },
+    "chatgpt-wallet-ai-payments": {
+      "kind": "progress",
+      "title": "OpenAI ha lanciato ChatGPT Wallet per i pagamenti degli acquisti tramite agenti IA",
+      "region": "Tecnologia",
+      "summary": "OpenAI ha lanciato ChatGPT Wallet, una funzione che consente agli agenti IA di pagare gli acquisti per conto degli utenti. Reuters, WSJ e CNBC riferiscono che la nuova capacità offre agli agenti uno strumento per transazioni e acquisti, mentre l’azienda punta ad ampliare il commercio basato sull’IA. Le pubblicazioni descrivono la mossa come un passo importante verso un’IA che non solo consiglia, ma agisce anche nei contesti commerciali. I dettagli di implementazione e la portata del lancio sono illustrati in modo limitato nei materiali.",
+      "picture": "L’immagine mostra un’icona luminosa della chat con un portafoglio e una carta di pagamento. È l’immagine di un’IA conversazionale che passa alle operazioni finanziarie reali.",
+      "mentions": 36,
+      "significance": 88,
+      "velocity": 56,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1lrZjdhQ1pXM0JZVTNOWllBQ2FRcm9sWVd3cDlVN291R3lzS0JuZ3o5S0FybG5PdkgzZXdMTGtEcDFaZWtvLUtBZ0tzNTdvS29kXzRNQ2hXWEo0cGZ2R2RtVHlZNjQzOXZnT1FaelBQM18yTFhWdFJEVW5RSlRrQWloYTFLOWI1RXZMb2dBeS1ZZVZJbDVXXzRzVDVESTZmR09CRw?oc=5",
+          "published": "2026-11-13T17:06:15+00:00"
+        },
+        {
+          "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+          "published": "2026-11-13T15:45:24+00:00"
+        },
+        {
+          "title": "OpenAI unveils ChatGPT Wallet: Here's what you need to know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHNvWFVlR2JRSkJVRmR2QjVLMDRYeExxSDRMLW42dVhCQkJKcldRNVA4dFBSQ1VkU0s2X1BRaktILUZXOEhwVlhhMWlMMm1KMmpob3NfOExrWll0N256aS1ZQXMwLUxyRTE5cnBaQW1sUC0xYUwxSTdFMWV4bjg1dlFkV1VwN2llRV8zZ0JFRDYtMVNHbHRMd2tTS0laRThrUGc?oc=5",
+          "published": "2026-11-13T15:30:46+00:00"
+        },
+        {
+          "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+          "published": "2026-11-13T15:00:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "openai-chatgpt-wallet-ai-commerce": {
+      "kind": "progress",
+      "title": "OpenAI ha ampliato ChatGPT Wallet, consentendo agli agenti IA di pagare gli acquisti",
+      "region": "Tecnologia",
+      "summary": "OpenAI ha presentato ChatGPT Wallet, una funzione che consente agli utenti di pagare gli acquisti tramite agenti IA. Secondo Reuters, il servizio permette agli agenti di effettuare acquisti per conto degli utenti; anche WSJ e CNBC scrivono del lancio di Wallet e spiegano che si tratta di una funzione di pagamento per scenari agentici. Si riferisce che OpenAI chiami i propri agenti IA “dots”. Le pubblicazioni parlano di un ampliamento delle capacità di ChatGPT nel campo degli acquisti e dei pagamenti.",
+      "picture": "L’immagine mostra una mano robotica che deposita una moneta in un portafoglio accanto a un carrello della spesa. Questa immagine indica l’idea che l’IA non solo aiuti a scegliere i prodotti, ma partecipi anche al pagamento degli acquisti.",
+      "mentions": 36,
+      "significance": 86,
+      "velocity": 56,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1lrZjdhQ1pXM0JZVTNOWllBQ2FRcm9sWVd3cDlVN291R3lzS0JuZ3o5S0FybG5PdkgzZXdMTGtEcDFaZWtvLUtBZ0tzNTdvS29kXzRNQ2hXWEo0cGZ2R2RtVHlZNjQzOXZnT1FaelBQM18yTFhWdFJEVW5RSlRrQWloYTFLOWI1RXZMb2dBeS1ZZVZJbDVXXzRzVDVESTZmR09CRw?oc=5",
+          "published": "2026-11-13T17:06:15+00:00"
+        },
+        {
+          "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+          "published": "2026-11-13T15:45:24+00:00"
+        },
+        {
+          "title": "OpenAI unveils ChatGPT Wallet: Here's what you need to know - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHNvWFVlR2JRSkJVRmR2QjVLMDRYeExxSDRMLW42dVhCQkJKcldRNVA4dFBSQ1VkU0s2X1BRaktILUZXOEhwVlhhMWlMMm1KMmpob3NfOExrWll0N256aS1ZQXMwLUxyRTE5cnBaQW1sUC0xYUwxSTdFMWV4bjg1dlFkV1VwN2llRV8zZ0JFRDYtMVNHbHRMd2tTS0laRThrUGc?oc=5",
+          "published": "2026-11-13T15:30:46+00:00"
+        },
+        {
+          "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+          "published": "2026-11-13T15:00:01+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.104,
+        "y": 0.083,
+        "r": 0.156
+      }
+    },
+    "anthropic-ipo-ai-market-test": {
+      "kind": "progress",
+      "title": "Gli investitori si preparano all’IPO di Anthropic come prova della tenuta della leadership nell’IA",
+      "region": "Tecnologia",
+      "summary": "Gli investitori si preparano all’IPO di Anthropic come prova della solidità della leadership nel mercato dell’IA. Reuters scrive che l’interesse per la quotazione è alto, ma gli investitori nutrono dubbi sulla sostenibilità del vantaggio dell’azienda. CNBC definisce l’IPO una delle prove chiave per il settore dell’IA, alla luce dei risultati di Nvidia e di altri eventi di mercato. Al centro della storia non c’è solo la domanda di azioni, ma anche la questione di quanto sia duratura l’attuale leadership nell’IA.",
+      "picture": "L’immagine mostra un re degli scacchi composto da circuiti e microchip che si oppone a una freccia di Borsa in crescita. È l’immagine di una leadership tecnologica messa alla prova dai mercati dei capitali.",
+      "mentions": 27,
+      "significance": 78,
+      "velocity": 56,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
+          "published": "2026-11-13T23:30:55+00:00"
+        },
+        {
+          "title": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2JQaHVQaXhNWWk5c3h1V1NLVGliTkJyTTlGYWQ1YzZoWkhjU21HYXM3LVNYRFowamVkc1FKdmJPbDRWeW15cnJ5dlBCM09raGdpUFpzWkU3RUpOOW81SzlHalNUQVRoSkdsdG10cC1INjNfdmZaX2szUmpEQXR4UVRIaHFXaWtJWnFNMWhqOA?oc=5",
+          "published": "2026-11-13T21:04:19+00:00"
+        },
+        {
+          "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSXNLRzR5M3ZxN19lenJjZDNOMmV3RnBQZXhWcU85cVdSMGZoMHNlek9pWjV6dHpVeFpJbzhGMkZQbHo1a0JZbzZRTGRweWVVSWJEWU9OU1Q5S1dDWWtBcndLSGFicHVMTE0wYVRYaUxaVTYxalpBOWJNamRibUp6elpCX0Y3OXJXREpDMERPSlNUTDhnZHJaZjgtdGN6dVVseGJOOTd0VnJRU0RITjMtbTNEeXU5TnBFdTFPRV9JTzB2SDJ4TmVzVFRPVU5IbmhZTTZj?oc=5",
+          "published": "2026-11-13T18:44:05+00:00"
+        },
+        {
+          "title": "Anthropic's IPO will be a bellwether moment, says IBM's Gary Cohn - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG12dzdpako1WUVLekRFSDBhQ3NTelI4aDhXbUIwRGlQMm9qcnlObWZJdnhIazg3Rm1jbjFGQUJ1b0RzRDNZaFlra1dWQk1qMEhHVWNMbVBKODlEbTVaeHJUSElMOEFSSGRtaUFZSl9VRWkwTWZwTjU4aDVNbFN1TzZrcDFpSmdLM3ZoSEIwRWtDRElyRHdJNE5TamdWS2p1Y3g2TXZzVUs?oc=5",
+          "published": "2026-11-13T15:45:40+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.896,
+        "y": 0.083,
+        "r": 0.156
+      }
+    },
+    "fathers-day-peru-warm-welcome": {
+      "kind": "micro",
+      "title": "Papa Leone XIV accolto calorosamente nella peruviana Chiclayo",
+      "region": "America Latina",
+      "summary": "Papa Leone XIV è stato accolto calorosamente nella peruviana Chiclayo, dove in passato ha servito come vescovo. I residenti locali sono scesi in piazza con bandiere e ritratti, e il pontefice è tornato in città come un ex pastore; l’evento viene descritto come molto emozionante. Le testate rilevano che vi rimase sette o otto anni, a seconda della fonte. Il messaggio principale delle pubblicazioni è che per Chiclayo resta uno di casa.",
+      "picture": "L’immagine mostra un papa sorridente che saluta la folla con la mano. È l’immagine di un ritorno caloroso e di un’accoglienza popolare.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Una fiesta popular recibió al Papa en Chiclayo, Perú, donde fue obispo durante siete años",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/fiesta-popular-recibio-papa-chiclayo-peru-obispo-anos_0_3DvW7QbYAY.html",
+          "published": "2026-11-13T22:35:18+00:00"
+        },
+        {
+          "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
+          "published": "2026-11-13T22:21:04+00:00"
+        },
+        {
+          "title": "Ex-Hamas bodyguard wanted by Berlin convicted in UK over knife attack - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdZaXpTeVFOQzZiOXBwZ0p3M1Y5THlBaGw5RUJvMUtSVUtOajFyZHdvZUxPaHFiRFYwdjFKbjVOYzhpOXp2eHdEazFqWElxRlYyN1RvMFFMLWRuUjI1UW56Y1Q0VjNaQ2NUcDgwLU1LSmJXZWhOUGhWeVA0QXp1Ry1ldm1sYW5ySktoeS1aZWN2UjhWWmtyVkdVY1hURDJWQUZiVTIxUDJCLWR4ZmR3QjZB?oc=5",
+          "published": "2026-11-13T17:27:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.896,
+        "y": 0.702,
+        "r": 0.156
+      }
+    },
+    "rocky-fans-world-record": {
+      "kind": "micro",
+      "title": "I fan di Rocky a Filadelfia hanno stabilito un record mondiale",
+      "region": "USA",
+      "summary": "I fan di Rocky a Filadelfia hanno stabilito un record mondiale del Guinness. CBS News riferisce che centinaia di appassionati si sono radunati davanti al museo d’arte e hanno partecipato a un evento di massa legato al film. Nei resoconti non ci sono incidenti né dettagli controversi: solo il record e una grande iniziativa dei fan. Si tratta di una storia culturale locale ma rilevante.",
+      "picture": "L’immagine mostra una folla nei panni di Rocky Balboa con cartelli. È il simbolo dell’unione dei fan e della nostalgia per il film.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "\"Rocky\" fans set Guinness World Record in Philadelphia - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFB2Umhra0xnVng2RFlMTEJWZzJ1SzhjYTJYYkZBenJ3bW1jUy1yT0pLNkJCT08zNFNhcnVXTGVCR3NLQ09MVmRnbWVPNmVsbmFibVNuUGZheFI5SU80bFFHQlNOOFdlUURNUnNOeHlVTld1MEJGcUhfWmlRNEJON3BRLWtObGY1U0Q2WWlpeEEyQzA5ZXBYQjdzejQ?oc=5",
+          "published": "2026-11-14T04:37:00+00:00"
+        },
+        {
+          "title": "Rocky fans set world record at Philly Art Museum - Inquirer.com",
+          "domain": "inquirer.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXB1TjhuMV9JLWd0ZlFMLXg2X0FfUUJJVm1KOUtsVE5iR0JtWWhCM0QwLTVZYXVJdkZrODFyRXpaRTRMbmdtdGwzSTlteVdBeDlTeXB6SUE2SWZzbzhSSGV2cldHZ1VUTklTSW1BRXFqN2FTUFRRaFdhZkREQ29aWjl0VTZHc0lUWFc3Y0lMMjFyd21QbEowMjNGSFlQVVds?oc=5",
+          "published": "2026-11-13T23:11:11+00:00"
+        },
+        {
+          "title": "Hundreds of \"Rocky\" fans set Guinness World Record in Philadelphia - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU09XRlpCeVV3ZUYxVjJ1ODcxbG0zdWl4a1lHZzhaUnlhNzFTWlZiYmJKY1g3aEw3QllSQnZreElpZC15Ujg3VFlTUFhRV1gyYS1FQS1OeFREMERCY3RVMXRwYktPLVJfc3ZiaHp4d0NYZ1FuNkN3ZHVTcFlBR0hwcmRTM3I3ZEdxRG1JeU9UT2lsWUZoc21YdUV3?oc=5",
+          "published": "2026-11-13T21:32:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "horses-on-a-bus": {
+      "kind": "micro",
+      "title": "A Detroit due cavalli sono saliti inaspettatamente su un autobus urbano",
+      "region": "USA",
+      "summary": "A Detroit due cavalli sono saliti inaspettatamente su un autobus urbano. Secondo AP e ABC News, le autorità del trasporto pubblico hanno pubblicato il video e, dopo l’incidente, hanno promesso una formazione aggiuntiva per gli autisti. È un episodio buffo senza conseguenze gravi, di cui le autorità hanno parlato con grande serietà. La storia è diventata la notizia locale del giorno.",
+      "picture": "L’immagine mostra due cavalli all’interno di un autobus urbano. È un’immagine comica di un’imprevista anomalia nella normale vita cittadina.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Detroit transit officials trot out new video showing moment 2 horses boarded public bus - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53UENJb3VGZ2NCemdIZmlkamlWX0RlN2RqM2dxQjU4SWVXUlBUb0MxV2pPUUdYREdqLTJyZ0d3TzZyQWFhYV91ZU9tcVhHSlg4Ujg4WGRJeHpzN2dhbHF1Mkd6U2l0ZnN2dWVHNXlrT1RXTXdwUXRINmpn0gF_QVVfeXFMUEVRbWVmMTZxeHFJT3hJR0JlZnVTd2Z0d0JMLUNzRmJMUlBWeVBRdmhqVGZub2dRazNvbXdvVzFod2VIQXN0d0VwU3E0bHNCTTJfN1E5TlBSU3hrSFEwY19QRm90bVp3SVl4UDE3UV91ZXVuZnRJQjFzbDkwbnFaWQ?oc=5",
+          "published": "2026-11-13T18:09:34+00:00"
+        },
+        {
+          "title": "City of Detroit says drivers will get additional training after horses were allowed to board city bus - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY18yNHBacjNvMzBKNDhUZEtwbDl3SjhEb1BkTDBySjFQU1JQZ05iN2VwNXVUUEp3U0hCVlN4OFE1VnNDZHZzaXU1eVpLTnNoTnRrUjdJbWJNTEF1NGNpZEFjN3FrUm1Oa1VPZDk3YjNyWksyUTZjVlNWLW1SbW1zc3RaaFhOcUJUVEJLM2JlMmVxSUN4a0JIMkJuUkRrY2pMcjJ0OEZWRE94VTE0aWxZWDhMWGNiSHQzZGphb2tDOFVfYU9SNlNYX0dUcnJfa00zT0ttTXlFZTdLZEtiOWpEZ0ZmekU0dGI5U0dpMXdDRXY?oc=5",
+          "published": "2026-11-13T16:02:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "goat-cows-town-chaos": {
+      "kind": "micro",
+      "title": "In una città della Macedonia del Nord, centinaia di mucche vaganti hanno creato il caos",
+      "region": "Europa",
+      "summary": "Nella città nord-macedone di Kriva Palanka, centinaia di mucche in libertà hanno causato il caos. AP ed Euronews riferiscono che gli animali sono più di mille e danneggiano proprietà, spaventano i residenti e ostacolano gli agricoltori. Il sindaco ha chiesto al governo di dichiarare uno stato di crisi di 30 giorni. Le testate concordano sul fatto che le autorità locali non riescano a gestire la situazione.",
+      "picture": "L’immagine mostra una mandria di mucche che vaga per la città. È l’immagine del caos rurale che invade l’ambiente urbano.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Hundreds of roaming cows wreak havoc in North Macedonian town, frustrating farmers - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckplWU9EU3ZfYm5mSEMtTmVXa1lMZk1GWWViTXNhXzBFcnNXalFvZ0NWRjJVYmd1VkdlSEpfTTNRZ0g1cGx0Y21wQnZwMkNrQVRySG5TSy1TNk9FdjdqdDVUTXJNVThkQ1NUYTFlSVFlV05ta3lGSE1KV0pqUE5WWnFIN19DM2xUeW5BNHZyc2FscmVIdXFvcDJQWkxnUHZpcXhNOXBR?oc=5",
+          "published": "2026-11-13T16:17:00+00:00"
+        },
+        {
+          "title": "North Macedonia: Kriva Palanka seeks help over 1,000 free-roaming cows",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/13/north-macedonia-kriva-palanka-seeks-help-over-1000-free-roaming-cows",
+          "published": "2026-11-13T14:04:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.229,
+        "y": 0.226,
+        "r": 0.156
+      }
+    },
+    "baboon-town-standoff": {
+      "kind": "micro",
+      "title": "I residenti di una città sudafricana discutono su come gestire i babbuini",
+      "region": "Africa",
+      "summary": "In una città sudafricana, i residenti discutono su come affrontare i babbuini. Secondo AP e Africanews, una parte dei residenti vuole limitare gli animali e trasferirli in recinti protetti, mentre altri sono favorevoli a lasciarli liberi. Si tratta di circa 60 animali, e la disputa ha diviso la comunità. È un conflitto locale sul vicinato tra esseri umani e fauna selvatica.",
+      "picture": "L’immagine mostra babbuini seduti su una recinzione stradale. È l’immagine di una situazione di confine tra città e natura selvaggia.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "South African town divided over plan to fence in baboons",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/13/south-african-town-divided-over-plan-to-fence-in-baboons/",
+          "published": "2026-11-13T10:45:09+00:00"
+        },
+        {
+          "title": "Baboons made themselves at home in this town and a battle between their defenders and haters ensued - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3BEcFh6NEVRZGd4cVc4ckd2enZrb2pxMU1yUjhwWGhPN0JiVkRHTzlVV1UyU3NXQUZNSVRUS1FyMzhMYzhZRVNTWWkxVEkxS1pkTEEyQnNJY25STmVyZmdrbm42dXJwOG0xd1dPOHFObkFfaXVSTTZNMmVUZXREaVpudThLRWk5N0h1Q0s4d1pnMnJOVU5aaUtmYnpNcWhpZG9LQ3ZETmVldw?oc=5",
+          "published": "2026-11-13T10:07:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.75,
+        "r": 0.125
+      }
+    },
+    "missing-donkey-search": {
+      "kind": "micro",
+      "title": "In Iowa un’intera città cercava un asino scomparso",
+      "region": "USA",
+      "summary": "In Iowa, una piccola città sta cercando un asino scomparso, che da diverse settimane vaga libero. UPI scrive che i residenti si sono uniti nelle ricerche dell’animale. La notizia non fornisce dettagli su come sia scomparso. Si tratta di una breve storia locale di ricerca collettiva.",
+      "picture": "L’immagine mostra un piccolo asino e un cartello di ricerca. È l’immagine di una ricerca cittadina solidale e un po’ toccante.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: Iowa town searching for missing donkey",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/13/glenwood-missing-donkey-iowa/4811794596207/",
+          "published": "2026-11-13T18:59:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "sheep-rescued-after-45-days": {
+      "kind": "micro",
+      "title": "Un’adolescente ha catturato con il lazo una pecora fuggita da 45 giorni",
+      "region": "USA",
+      "summary": "In Ohio, una pecora che vagava libera da 45 giorni è stata infine catturata da una ragazza di 13 anni a cavallo, usando un lazo. UPI riferisce che l’adolescente ha riportato con successo l’animale ai proprietari o ai servizi competenti. La storia è presentata come la felice conclusione di una lunga caccia. È una breve notizia su abilità e pazienza.",
+      "picture": "L’immagine mostra una ragazza che lancia il lazo su una pecora. È l’immagine di una cattura abile e sorprendentemente riuscita.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Watch: Sheep on the lam for 45 days roped by 13-year-old cowgirl",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/13/sheep-wadsworth-ohio-lassoed/6691794592131/",
+          "published": "2026-11-13T17:54:10+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.679,
+        "r": 0.125
+      }
+    },
+    "runaway-pool-floatie": {
+      "kind": "micro",
+      "title": "Il “coccodrillo malato” era in realtà solo un materassino gonfiabile portato via dalla corrente",
+      "region": "USA",
+      "summary": "Negli Stati Uniti, la segnalazione di un coccodrillo malato si è rivelata un falso allarme: era un giocattolo gonfiabile trascinato via dalla corrente. UPI scrive che gli addetti al controllo degli animali sono intervenuti e hanno scoperto non un rettile, ma un giocattolo da piscina gonfiabile. Non c’era alcuna minaccia. La storia è un curioso caso di errata identificazione dell’oggetto.",
+      "picture": "L’immagine mostra un coccodrillo gonfiabile nell’acqua. È l’immagine di un errore divertente, in cui un giocattolo viene scambiato per un animale vero.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Reported sick alligator turns out to be 'runaway pool floatie'",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/",
+          "published": "2026-11-13T16:42:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.75,
+        "r": 0.125
+      }
+    },
+    "wilderness-boy-found": {
+      "kind": "micro",
+      "title": "Ritrovato vivo dopo sei giorni il bambino disperso nel bosco",
+      "region": "USA",
+      "summary": "Il bambino disperso nell’entroterra australiano è stato ritrovato vivo dopo sei giorni. CBS News riferisce che ha 17 anni, è autistico ed è stato individuato dall’equipaggio di un elicottero; era a torso nudo, ustionato e usava gli asciugamani come coperte. La testata sottolinea che il salvataggio è stato possibile dopo lunghe ricerche. È una storia di sopravvivenza e di salvataggio riuscito.",
+      "picture": "L’immagine mostra un bambino abbracciato dai soccorritori. È l’idea di sollievo dopo una ricerca lunga e pericolosa.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Boy found alive after 6 days lost in wilderness: \"Grounded for life\"",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/teen-found-alive-6-days-lost-australia-wilderness/",
+          "published": "2026-11-13T16:54:30+00:00"
+        },
+        {
+          "title": "Missing Australian boy found alive after 6 days in the wilderness",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/missing-australian-boy-found-alive-after-6-days-in-the-wilderness/",
+          "published": "2026-11-13T16:21:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "michigan-fundraiser-prank": {
+      "kind": "micro",
+      "title": "Un padre del Michigan ha fermato la raccolta fondi per il figlio quando è diventata virale",
+      "region": "USA",
+      "summary": "In Michigan, uno scherzo virale attorno a un fattorino ha portato a una raccolta fondi enorme, poi sospesa dallo stesso protagonista della storia. Il Times of India scrive che la cifra ha quasi raggiunto 785 mila dollari, e l’uomo ha invitato i donatori ad aiutare anche altre persone. L’articolo mette l’accento sull’inaspettato effetto economico e sulla successiva decisione di fermare la raccolta. È una storia di sostegno virale e delle sue conseguenze.",
+      "picture": "L’immagine mostra un padre con un barattolo per le donazioni. È il simbolo di un aiuto popolare inatteso, che cresce rapidamente.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Michigan Dad Pauses Fundraiser: viral prank target stops at $784,273; urges gifts to others",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/a-michigan-dad-who-delivers-frozen-pizzas-was-mocked-by-a-prankster-strangers-donated-784000-to-help-his-family-and-then-he-asked-them-to-stop-and-give-to-other-families-and-charities-instead/articleshow/135754720.cms",
+          "published": "2026-11-14T07:25:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "yellow-banana-town-frenzy": {
+      "kind": "micro",
+      "title": "Una piccola città dell’Indiana è stata travolta dalla febbre per il “Banana Man”",
+      "region": "USA",
+      "summary": "Una piccola città dell’Indiana è stata travolta dalla febbre per il personaggio soprannominato “Banana Man”. CBS News racconta che è diventato un eroe locale e una fonte di gioia per i residenti, anche se lui non si aspettava questo ruolo. I dettagli si riassumono nel fatto che la sua immagine è diventata rapidamente il simbolo di un piccolo entusiasmo cittadino. È una storia locale cordiale e senza conflitti.",
+      "picture": "L’immagine mostra una persona in costume da banana. È il simbolo di un fenomeno cittadino allegro e inatteso.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\" - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
+          "published": "2026-11-14T02:16:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "girl-scout-cookie-quirk": {
+      "kind": "micro",
+      "title": "Film e memorie sui biscotti delle Girl Scouts diventano il successo inatteso della settimana",
+      "region": "USA",
+      "summary": "Film e memorie legati ai biscotti delle Girl Scouts hanno attirato inaspettatamente l’attenzione della settimana. Tra i contenuti figurano articoli del The Hollywood Reporter sui progetti “Cookie Queens” e “Pop Pop”, in cui il tema dei biscotti diventa un punto d’ingresso per affrontare questioni più ampie come la radicalizzazione online, la mascolinità e altri temi sociali. Non c’è una grande trama in sé, quanto piuttosto un curioso interesse culturale. È una stranezza mediatica attorno a un marchio familiare.",
+      "picture": "L’immagine mostra pile di biscotti delle Girl Scouts e una pellicola cinematografica. È il simbolo di un prodotto comune che diventa parte del dibattito culturale.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "‘Pop Pop’ Dives Into Radicalization and Male Fragility in the Digital Age. Its Creator Says It’s “More Topical Every Day” – and Urges Us to Join Hands. - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMG1xQUlvSlBSajFOVGtGejZ4Z3JuT2JGS2lVNXFBVVlYeW9Mc3RRdFNBUFJUSFI0TXZoLUF3Z0ZGc1dNejROSmw3eDRxb3k3d09aOUdQOUV2NkoxaWZoajVUdkN5dnlNTjhIdHpfd2NqVTZkZDd1WlBMaVBQdFU2cnoxZ25WVjRTRGVvcm9VbFdWakw5ZDhsQktzNGVJbWI0VzExTnJicXg4ZVh0UkhaUERpSFNseG55TmpuQw?oc=5",
+          "published": "2026-11-14T06:31:08+00:00"
+        },
+        {
+          "title": "‘Cookie Queens’ Director Says Girl Scout Cookies Were “A Delicious Way In” to a Larger Conversation (Video) - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjJsN2dBaGVTdmt5WFdrN0ptV1NiaVM2RTFZbmFhMHRjT2xLWnBEMjNIaTFjRlZpQThPbW81ZEpxODJFMzVJWVN5cHhlY0hxSk9TMDlGYldoWHVMZWZyMkJvSXkzclhpTTBva1d3WlJ5N3BnM2s1cTdPUXpReGdpcHZMMWM3dFJOU3R2dG5QU3dMaDlCdm56UkRvNWdMZXNKbElGeExWVUxma0hkbGk5cS1XMW1haUx4a1RJ?oc=5",
+          "published": "2026-11-14T05:36:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.929,
+        "r": 0.151
+      }
+    },
+    "tiny-car-rebellion": {
+      "kind": "micro",
+      "title": "La storia di una minuscola auto che ha provocato una piccola ribellione",
+      "region": "USA",
+      "summary": "La storia di una piccola auto a New York si è trasformata in una “ribellione” locale. Il WSJ racconta di un costruttore che si è innamorato di una vettura minuscola, suscitando un’eco inattesa attorno al modello e al suo proprietario. I dettagli sono pochi, ma il significato è chiaro: una semplice simpatia per un’auto è cresciuta fino a diventare un movimento pubblico evidente. È una storia umana leggera, con una sfumatura virale.",
+      "picture": "L’immagine mostra una minuscola auto circondata da una folla. È il simbolo di una piccola cosa che all’improvviso fa molto rumore.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "A New York Construction Worker Fell for a Tiny Car—and Started a Rebellion - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42X0Vad3EyelNrWUdxWlJrdEs2VGVpblU0dkJETk5EMDEtblhFNzlxVC1VTTl2MXIzOWdDbWhaaFdqZ1JzUUF1c0JkMGlPR2lzdXpsOVk1T2NESzlDSmV6ZXVsOWpTQXJMUmJkb3V3Q3c?oc=5",
+          "published": "2026-11-13T10:30:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "vintage-vehicles-vault": {
+      "kind": "micro",
+      "title": "Ford ha mostrato il suo caveau con 125 rare auto storiche",
+      "region": "USA",
+      "summary": "Ford ha aperto l’accesso al suo nuovo “Vault”, un caveau con 125 rare auto storiche. ABC News riferisce che l’azienda ha mostrato per la prima volta la collezione al pubblico. Non si tratta di una notizia controversa o di crisi, ma della presentazione del patrimonio aziendale e della storia dell’automobile. L’attenzione principale è rivolta alla rarità e alla portata della collezione.",
+      "picture": "L’immagine mostra file di auto d’epoca in un deposito. È il simbolo di una storia automobilistica conservata con cura.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Ford throws open the doors to its new Vault, unveiling 125 rare historic vehicles - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnRIeVo2bUJIVHkzNFhod1ZmRzhtVVBHTjRSWERyTllmbGo2Wmppa2xtbG42LWJUUFpsU1Rqa01VXzlTRHRjRnVtM2FTWEhfR2tpaW56d21IZUtBTEN2bFo3aFM2ckRSQ0NETXk1X1A2MWtFcmo1MUU4Y3lDT2JQSU9jUDBxMFVqUHBwNFhJdnV2dTRtcEx6WXlCNNIBoAFBVV95cUxQbDVNWERFclFwZVV4OWw5NC02Zjg2Z1BlZTkzYnlZUEVVRVJPYkQ4cVZpQURCTFY5UVdyM19La1E2aFJNZlBienJScmpHWFdGQXR6cl9wMU5Bc2h3ZEd6THZnM2RFc2FCdUVEbUVFeFFBTVBfamp6WHVseTFaQUROeDJBdHBUNUhrTXZOMEh3Z0oteWtIUjhEcE94QmhzeVM0?oc=5",
+          "published": "2026-11-13T17:05:54+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "military-training-queen": {
+      "kind": "micro",
+      "title": "La regina consorte dei Paesi Bassi ha svolto per la prima volta un addestramento militare",
+      "region": "Europa",
+      "summary": "La regina consorte dei Paesi Bassi, Máxima, ha svolto per la prima volta un addestramento militare. Secondo Clarín, ha completato un corso intensivo con armi e prove fisiche ed è stata promossa a tenente colonnello. L’articolo sottolinea che si tratta di un caso storico per la famiglia reale. È una breve notizia su un passaggio di carriera insolito per una sovrana.",
+      "picture": "L’immagine mostra una regina in uniforme militare. È il simbolo della rara combinazione tra monarchia e servizio militare.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Máxima de los Países Bajos hizo historia: se convirtió en la primera reina consorte en recibir formación militar",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/maxima-paises-bajos-hizo-historia-convirtio-primera-reina-consorte-recibir-formacion-militar_0_urath6tmNt.html",
+          "published": "2026-11-13T19:06:10+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      }
+    },
+    "trojan-horse-plastic-art": {
+      "kind": "micro",
+      "title": "Al forum sul clima in Turchia è stato esposto un cavallo di legno di sei metri fatto di plastica",
+      "region": "Europa",
+      "summary": "Al forum sul clima COP31 di Antalya è stato esposto un cavallo di Troia alto sei metri, realizzato in plastica. Euronews scrive che Greenpeace International ha usato questa installazione come protesta ecologica contro i rifiuti plastici. L’opera è stata realizzata insieme all’artista danese Thomas Dambo e serve da monito visivo sull’inquinamento. È un’azione artistica con un chiaro messaggio ambientale.",
+      "picture": "L’immagine mostra un enorme cavallo di Troia da cui fuoriesce plastica. È il simbolo di una minaccia ecologica mascherata da dono.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/13/turkey-six-metre-trojan-horse-spills-plastic-waste-at-cop31",
+          "published": "2026-11-13T13:36:10+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      }
+    },
+    "coffee-microbiome-study": {
+      "kind": "micro",
+      "title": "Gli scienziati collegano l’abitudine di bere caffè al funzionamento dell’intestino",
+      "region": "Mondo / cripto",
+      "summary": "Gli scienziati hanno collegato il consumo regolare di caffè a cambiamenti nella motilità intestinale e nel microbioma. Euronews riferisce che nello studio è stata usata una capsula elettronica, ingerita dai partecipanti, per osservare il passaggio attraverso il sistema digestivo. L’articolo parla appunto di una correlazione e dell’osservazione, non di un giudizio netto di danno o beneficio. È una nota scientifica sulla digestione e sul caffè.",
+      "picture": "L’immagine mostra una tazza di caffè accanto allo schema dell’intestino. È il simbolo dello studio del legame tra l’abitudine di bere caffè e la digestione.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Regular coffee drinking linked to changes in gut motility and microbiome",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/14/regular-coffee-drinking-linked-to-changes-in-gut-motility-and-microbiome",
+          "published": "2026-11-14T08:27:12+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "sleepy-alligator-floatie": {
+      "kind": "micro",
+      "title": "Confusione esilarante: il “coccodrillo” delle notizie era in realtà un materassino gonfiabile",
+      "region": "USA",
+      "summary": "Negli Stati Uniti, la segnalazione di un coccodrillo malato si è rivelata un falso allarme. Sul posto gli addetti alla protezione degli animali hanno trovato non un coccodrillo, ma un giocattolo gonfiabile da piscina. Lo ha riferito UPI.",
+      "picture": "L’immagine mostra un coccodrillo gonfiabile che galleggia sull’acqua. Il simbolo evidenzia la confusione comica: un animale pericoloso scambiato per un innocuo materassino da piscina.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Look: Reported sick alligator turns out to be 'runaway pool floatie'",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/",
+          "published": "2026-11-13T16:42:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "mural-festival-artists": {
+      "kind": "micro",
+      "title": "Il festival dei murales a Lakeland ha riunito artisti da tutto il mondo",
+      "region": "USA",
+      "summary": "Il festival dei murales a Lakeland ha riunito artisti da tutto il mondo. L’emittente locale WFLA racconta l’evento “Color Wave Walls”, in cui strade e muri si trasformano in una grande tela per le pitture. È una notizia culturale senza conflitti né elementi controversi. Il punto centrale è la composizione internazionale dei partecipanti e il progetto di arte urbana.",
+      "picture": "L’immagine mostra artisti intenti a dipingere un enorme muro colorato. È il simbolo della creatività condivisa e dell’arte urbana.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "‘Color Wave Walls’ Lakeland mural festival attracts artists from around the world - WFLA",
+          "domain": "wfla.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa092X0JWQkJScWdFMzIteF9HdVZHRHJsQUNHVFpMVi1QRVZvazg1TmM0bU9NVVRXNllfcjNDcUNpSWNYQWZOQVd0YzlueXA3X0xYZGFkQzhpSEk1bnV2cnhtTksya2J5eXE4dlo2cWw3eUg5LXpJTEJfSGpacks2T2hmX0ZiWTc0Tk9CaWNkRUxDUWhqNGJnZFVieFdicUVNdzNZX3BRTUVsaG5DZGNHT2hjcFhMUGZJVWfSAb8BQVVfeXFMUDZtQ0tYR3hnZXBSZDdGbFBvN1FCZFdtdzF0NzJWNWI5eHhjUmlJVG8zc0RCQjRCRGRRWWJTQzZRS3lRYUlob1VIdkFocXFnRXdnOXZ4dUNCUXN6YmVNay1qVmhka0xYVGIyRXJYZFRBMGZLdFF0ZVUwWWx4NWptT1k4RUIwUmFxMXlXLU4wbWRrRm9ScUR4ay1iTW5aVDRvbk1BSUd0S1kyY2d5aF9CamZKWjFCeGo0MTJXSzJiOGc?oc=5",
+          "published": "2026-11-13T22:32:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "christmas-lights-kew": {
+      "kind": "micro",
+      "title": "A Londra è stato inaugurato un percorso luminoso festivo ai Kew Gardens",
+      "region": "Europa",
+      "summary": "Ai Kew Gardens di Londra è stato inaugurato il percorso luminoso festivo Christmas at Kew 2026. Euronews parla di oltre un milione di luci, 24 installazioni e nuove fontane e uno spettacolo laser. È una delle notizie di intrattenimento stagionale della settimana. L’attenzione principale è sulla scala e sullo spettacolo dell’esposizione luminosa.",
+      "picture": "L’immagine mostra tunnel di luce e alberi scintillanti. È il simbolo di un percorso invernale festivo e di un brillante svago cittadino.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "UK: Christmas at Kew 2026 unveils spectacular light trail in London",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london",
+          "published": "2026-11-13T14:46:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "zoo-baby-sloth": {
+      "kind": "micro",
+      "title": "Allo zoo di Atlanta è stato mostrato un cucciolo appena nato di bradipo bidattilo",
+      "region": "USA",
+      "summary": "Allo zoo di Atlanta è arrivato un cucciolo appena nato di bradipo bidattilo di Hoffman. CBS News riferisce la celebrazione di questa nuova nascita allo Zoo Atlanta. I dettagli, oltre al parto stesso, sono pochi. È una breve notizia positiva dallo zoo.",
+      "picture": "L’immagine mostra un cucciolo di bradipo aggrappato a un ramo. È il simbolo di un nuovo abitante dello zoo, fragile ma già vivo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Zoo Atlanta celebrating arrival of baby Hoffman's two-toed sloth - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0RKQVBEcnVwcHJtQlhra2Jsd29BVmVIa29fNlNjYUxpMWVXb0Q4ZXNONjU5V2pVU1RKUThUSjNZeE1kb0Y4dXJlTmo5R2U1YWVqZEh6N0Y1aTNNdXg0ZlRZMzlYYU9GT21TQnFrbEFIN0N5Qlc5MzJxakFsbFk3ZnE2Y19GNDlkYkdGY2xSam5rOWxUbFh4RXhrYTE5ZThzTUlB?oc=5",
+          "published": "2026-11-13T18:27:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "giraffe-temporary-guest": {
+      "kind": "micro",
+      "title": "Una giraffa di nome Candy è arrivata temporaneamente allo zoo di Rochester",
+      "region": "USA",
+      "summary": "Allo zoo di Seneca Park, a Rochester, è arrivata temporaneamente una giraffa di nome Candy. I media locali riferiscono che l’animale non resterà lì per sempre, ma solo per un periodo limitato. È una notizia tranquilla sul mondo degli zoo, senza conflitti. Al centro della storia c’è un nuovo ospite insolito.",
+      "picture": "L’immagine mostra una giraffa che sporge oltre il recinto dello zoo. È il simbolo di un nuovo abitante temporaneo e ben visibile.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "New giraffe arrives at Seneca Park Zoo for temporary stay - 13WHAM-TV",
+          "domain": "13wham.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZlVydDZXUWZXLThxSXUtUFc1d1FWN2dUM2F0d0hVY1VCYXRaTUNPdlZmR2oySnh6azhReUl1bF9Ua0ZjNE9COTlLeGV4aDg3QUVoZ3RDbWUtQzBBaXNhWkJneURvNU1TZmM4SENiYzA0UUF1VnV3aVFxUjlJVUtvWHFkRUVlREo0aTFlTWRIamZBSGt6a2ZyYmhJTmYyTldjdW56QmhWVWN1cW45VXk5WlVXWmQxVXFNelpvN2FSN3pWdzI4SUtxc0FUWmQ3dkhieWdHMGFHYUREY1dMY0hDczRMazlBdVpzQndvVHZHLUQ?oc=5",
+          "published": "2026-11-13T23:02:33+00:00"
+        },
+        {
+          "title": "Meet Kendi, the Masai giraffe staying temporarily at Seneca Park Zoo - WXXI News",
+          "domain": "wxxinews.org",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWFXV1c4Sl9XWkloYlNPcGc2aEZ6X3hMbzI1d0Z0OUJsRFlTNmdLQVpuSjdmMXhoTUlGYTFIYy1SR281N1lkZWI5UE9ZTTVqZGlMYnRJSmlzcDg0UFVmb3d0RkFoOGczVGhfNW1yQ0R5ejdPRFU0WWlXZHZ6RU0zLWNxMFdVaThabzN5Q2Nja0kxZnhGLXNEUkJ0cEtqU0NkbElKOEVneVVMcWZOVWJ3ZUUtN1A?oc=5",
+          "published": "2026-11-13T16:36:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "monkey-naming-vote": {
+      "kind": "micro",
+      "title": "Allo zoo di Chicago il nome di una scimmietta è stato scelto con un voto",
+      "region": "USA",
+      "summary": "Allo zoo di Lincoln Park, a Chicago, il nome di una scimmietta è stato scelto con un voto. CBS News riferisce che il nome è stato deciso grazie alla partecipazione del pubblico. È una breve storia positiva sul coinvolgimento della comunità locale. Il racconto si basa sull’esito del voto popolare.",
+      "picture": "L’immagine mostra una piccola scimmia con un cartello con il nome. È il simbolo di una scelta collettiva e della tenerezza da zoo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Lincoln Park Zoo names monkey after community vote - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwUGhiNEdWN3Vmc2tNQ3JBbl9CV2RtSnBVVWFJV1VlN0Q0SEFXOTBUTVkxSlJEQkZ2Q3RIaEstTFF4bmwxb2NudnpNWnlwQ1JFSkVlSmY4eHlxQjVhc1pIV2ZkZlE4RFp6YlBGRXIwSThFT0xVTHc?oc=5",
+          "published": "2026-11-13T19:12:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "holiday-festival-of-lights": {
+      "kind": "micro",
+      "title": "Sull’isola di James ha riaperto il grande Festival delle Luci",
+      "region": "USA",
+      "summary": "Sull’isola di James ha riaperto il Holiday Festival of Lights. Live 5 News scrive che il parco ha una nuova installazione luminosa e che l’evento accoglie di nuovo i visitatori. Si tratta di una notizia stagionale e festiva, senza ulteriori conflitti. Il punto centrale è il ritorno del tradizionale spettacolo di luci.",
+      "picture": "L’immagine mostra figure luminose festive e colorate. È l’immagine di una festa invernale per famiglie e di una passeggiata serale brillante.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Holiday Festival of Lights returns to James Island County Park with new display - Live 5 News",
+          "domain": "live5news.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTNiOHpVeEN1V2c3Nm5KOENhWTR1ZnNFUE83ejUzWGNpcXJ1bmE2TUZaUTktWkV0Y0dHa2tqUk5vbUJfU3VvLTQyXzZtRWhubE9mVEdTaXRsN0RCVEpsU2NLY3pfejhSSmxVdUI3SzVUOTR6bFMyemhPTnV4dTRoWWp5RFE4Wmx4SndFYzhhWVJhZ3dVZFZqQXVYZjU2MUFEZUN5dVZkNE5VLXlaeHhzN9IBxAFBVV95cUxNVGt1eE5SVkttSmJCUFZzejNNNkZhZ2g4YnQxcjNXelVrUmxCSUhNdmkxd0Q2WFpDSl90SFhuT1k1RFZRdy1vaDI1WFdrWk0waFkzU3ZZd21iaUhDbThKNlcwYjdVUHVTcUwtTlV4UTBfaXM0M2JfV1Vyd05MMjVPeVlnX2JVdlF3UjU2N2pKMzNXUi1SWHdHNlNZMW9iTzFSS1RzVm96aTBIWm9sTVNUY1VrZXg5TEU2bnlZcG9iMjUyeUxi?oc=5",
+          "published": "2026-11-14T01:49:00+00:00"
+        },
+        {
+          "title": "VIDEO: Holiday Festival of Lights returns to James Island County Park with new display - Live 5 News",
+          "domain": "live5news.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkFQQ0hZZ1NJcEEyd0tBTG9iNjVFeTltWkNEb3lPRHFGdi1XSldXNTVXbG1QZ0t1VTYyVWpQSnRZUUFEQmtHT1V2ZEZpU0pnOHBaTzBacnVySnRJQzNNVk9lU0VHVkxlT0gySkF6eVFUV0JxOHZ6c1hIOUtzVGlaYlJDYzgzMXJOUUVKVGZuWVdpcVg4MFRVMld4dkpQQzY5RGxCSHZjT3U0MzlQRThGcmZuUFZUN2ZMS1RYN3JBeXk?oc=5",
+          "published": "2026-11-13T21:50:30+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.854,
+        "y": 0.869,
+        "r": 0.156
+      }
+    }
+  }
+}

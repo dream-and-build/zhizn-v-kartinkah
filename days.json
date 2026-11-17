@@ -1,5 +1,812 @@
 [
   {
+    "key": "2026-11-16-1",
+    "date": "2026-11-16",
+    "image": "img/2026-11-16-1.jpg",
+    "aspect": 1.7778,
+    "people": 8326432481,
+    "spots": [
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.812,
+        "y": 0.286,
+        "r": 0.202
+      },
+      {
+        "id": "ai-chip-race-regulation",
+        "x": 0.412,
+        "y": 0.35,
+        "r": 0.3
+      },
+      {
+        "id": "us-flight-chaos",
+        "x": 0.25,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.25,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "asean-myanmar-peace",
+        "x": 0.729,
+        "y": 0.726,
+        "r": 0.156
+      },
+      {
+        "id": "pope-peru-homecoming",
+        "x": 0.771,
+        "y": 0.845,
+        "r": 0.156
+      },
+      {
+        "id": "gaza-hospital-strike",
+        "x": 0.438,
+        "y": 0.857,
+        "r": 0.202
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "estonia-border-closure",
+        "x": 0.237,
+        "y": 0.479,
+        "r": 0.221
+      },
+      {
+        "id": "trump-asia-trip",
+        "x": 0.537,
+        "y": 0.636,
+        "r": 0.221
+      },
+      {
+        "id": "bahrain-iran-strikes",
+        "x": 0.854,
+        "y": 0.631,
+        "r": 0.156
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.637,
+        "y": 0.479,
+        "r": 0.221
+      },
+      {
+        "id": "south-africa-shootings",
+        "x": 0.438,
+        "y": 0.786,
+        "r": 0.202
+      },
+      {
+        "id": "brooklyn-building-collapse",
+        "x": 0.854,
+        "y": 0.488,
+        "r": 0.156
+      },
+      {
+        "id": "cape-verde-election",
+        "x": 0.188,
+        "y": 0.786,
+        "r": 0.125
+      },
+      {
+        "id": "starship-flight-15-orbit-breakthrough",
+        "x": 0.594,
+        "y": 0.107,
+        "r": 0.191
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.438,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "alzheimer-biomarkers-brain-signals",
+        "x": 0.25,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "measles-elimination-status-lost",
+        "x": 0.863,
+        "y": 0.093,
+        "r": 0.221
+      },
+      {
+        "id": "migrants-reach-canary-islands",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "sheep-in-nuremberg-streets",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "santa-school-in-london",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "england-beat-spain",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "worlds-largest-grey-cup-fest",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "mcilroy-wins-race-to-dubai",
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "lindy-duncan-first-lpga-win",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "cat-reunited-with-owner",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "food-and-wine-festival-wraps",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "cat-tour-massachusetts",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "leopard-cub-named",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "muntjac-fawn-born",
+        "x": 0.25,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "school-festival-culture",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "holiday-lights-at-zoo",
+        "x": 0.229,
+        "y": 0.964,
+        "r": 0.271
+      },
+      {
+        "id": "festival-of-trees",
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "pickle-party-record",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "bengals-beat-steelers",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "49ers-shootout-win",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "lakers-winning-streak",
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "honey-festival-cairo",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "white-tiger-cub-at-zoo",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "rotting-red-crabs-migration",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "himalayan-sky-guides",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      }
+    ]
+  },
+  {
+    "key": "2026-11-15-1",
+    "date": "2026-11-15",
+    "image": "img/2026-11-15-1.jpg",
+    "aspect": 1.7778,
+    "people": 8326243806,
+    "spots": [
+      {
+        "id": "us-flight-chaos",
+        "x": 0.613,
+        "y": 0.164,
+        "r": 0.264
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.208,
+        "y": 0.262,
+        "r": 0.21
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.562,
+        "y": 0.286,
+        "r": 0.202
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.838,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "brooklyn-building-collapse",
+        "x": 0.848,
+        "y": 0.474,
+        "r": 0.256
+      },
+      {
+        "id": "gaza-hospital-strike",
+        "x": 0.438,
+        "y": 0.786,
+        "r": 0.3
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.537,
+        "y": 0.436,
+        "r": 0.221
+      },
+      {
+        "id": "asean-myanmar-peace",
+        "x": 0.588,
+        "y": 0.579,
+        "r": 0.221
+      },
+      {
+        "id": "bahrain-iran-strikes",
+        "x": 0.562,
+        "y": 0.536,
+        "r": 0.188
+      },
+      {
+        "id": "pope-peru-homecoming",
+        "x": 0.125,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "france-unrest",
+        "x": 0.25,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "cape-verde-election",
+        "x": 0.287,
+        "y": 0.664,
+        "r": 0.275
+      },
+      {
+        "id": "cape-verde-election-2",
+        "x": 0.287,
+        "y": 0.664,
+        "r": 0.275
+      },
+      {
+        "id": "south-sudan-election-delay",
+        "x": 0.562,
+        "y": 0.714,
+        "r": 0.3
+      },
+      {
+        "id": "hungary-corruption-probe",
+        "x": 0.688,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "taiwan-china-tension",
+        "x": 0.75,
+        "y": 0.786,
+        "r": 0.151
+      },
+      {
+        "id": "starship-flight-15-orbit-breakthrough",
+        "x": 0.625,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "eurovision-asia-philippines-wins",
+        "x": 0.438,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.312,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "measles-elimination-status-lost",
+        "x": 0.875,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "alzheimer-biomarkers-brain-signals",
+        "x": 0.125,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "chelsea-top-wsl-after-city-win",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "cristiano-ronaldo-no7-tribute",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "young-people-job-guarantee-uk",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "king-charles-elton-john-birthday-clip",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "wales-beat-all-blacks",
+        "x": 0.125,
+        "y": 0.536,
+        "r": 0.125
+      },
+      {
+        "id": "andreeva-wta-finals-run",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "firefighters-midair-rescue-chat",
+        "x": 0.062,
+        "y": 0.643,
+        "r": 0.125
+      },
+      {
+        "id": "alaska-zoo-opossum-story",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "san-francisco-garter-snakes-release",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "corpus-christi-jewish-food-festival",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "lantern-festival-crowds",
+        "x": 0.104,
+        "y": 0.917,
+        "r": 0.156
+      },
+      {
+        "id": "holiday-tree-festival-displays",
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "pokemon-go-zoo-scavenger-hunt",
+        "x": 0.312,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "family-five-generations-record",
+        "x": 0.438,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "mayan-ceremony-asturias-ashes",
+        "x": 0.646,
+        "y": 0.94,
+        "r": 0.156
+      },
+      {
+        "id": "papa-leo-visit-peru-communities",
+        "x": 0.713,
+        "y": 0.921,
+        "r": 0.221
+      },
+      {
+        "id": "miss-sa-2026-crowned",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "mthimkhulu-lioness-new-litter",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "dakar-youth-olympics-photo-set",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "south-korea-ai-cheat-exam-admission",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "jollibee-photo-op-in-manila",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    ]
+  },
+  {
+    "key": "2026-11-14-1",
+    "date": "2026-11-14",
+    "image": "img/2026-11-14-1.jpg",
+    "aspect": 1.7778,
+    "people": 8326055132,
+    "spots": [
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.896,
+        "y": 0.274,
+        "r": 0.156
+      },
+      {
+        "id": "taiwan-china-tension",
+        "x": 0.863,
+        "y": 0.336,
+        "r": 0.3
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.271,
+        "y": 0.369,
+        "r": 0.156
+      },
+      {
+        "id": "brooklyn-building-collapse",
+        "x": 0.844,
+        "y": 0.411,
+        "r": 0.222
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.625,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.583,
+        "y": 0.298,
+        "r": 0.295
+      },
+      {
+        "id": "pope-peru-homecoming",
+        "x": 0.25,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "gaza-hospital-strike",
+        "x": 0.375,
+        "y": 0.75,
+        "r": 0.125
+      },
+      {
+        "id": "uk-eu-security-powers",
+        "x": 0.25,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "us-health-outbreaks",
+        "x": 0.646,
+        "y": 0.726,
+        "r": 0.156
+      },
+      {
+        "id": "faa-groundstop",
+        "x": 0.5,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "hungary-corruption-probe",
+        "x": 0.5,
+        "y": 0.393,
+        "r": 0.125
+      },
+      {
+        "id": "michigan-kansas-us-midterms",
+        "x": 0.5,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "france-unrest",
+        "x": 0.396,
+        "y": 0.488,
+        "r": 0.156
+      },
+      {
+        "id": "canada-us-trade",
+        "x": 0.5,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "south-sudan-election-delay",
+        "x": 0.479,
+        "y": 0.607,
+        "r": 0.271
+      },
+      {
+        "id": "nationwide-us-flight-ground-stop",
+        "x": 0.5,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "starship-flight-15-orbit-breakthrough",
+        "x": 0.729,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "spacex-starship-15-double-catch-test",
+        "x": 0.312,
+        "y": 0.089,
+        "r": 0.191
+      },
+      {
+        "id": "chatgpt-wallet-ai-payments",
+        "x": 0.812,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "openai-chatgpt-wallet-ai-commerce",
+        "x": 0.104,
+        "y": 0.083,
+        "r": 0.156
+      },
+      {
+        "id": "anthropic-ipo-ai-market-test",
+        "x": 0.896,
+        "y": 0.083,
+        "r": 0.156
+      },
+      {
+        "id": "goat-cows-town-chaos",
+        "x": 0.229,
+        "y": 0.226,
+        "r": 0.156
+      },
+      {
+        "id": "military-training-queen",
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "trojan-horse-plastic-art",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "christmas-lights-kew",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "coffee-microbiome-study",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "rocky-fans-world-record",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "horses-on-a-bus",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "missing-donkey-search",
+        "x": 0.188,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "sheep-rescued-after-45-days",
+        "x": 0.125,
+        "y": 0.679,
+        "r": 0.125
+      },
+      {
+        "id": "runaway-pool-floatie",
+        "x": 0.125,
+        "y": 0.75,
+        "r": 0.125
+      },
+      {
+        "id": "wilderness-boy-found",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "michigan-fundraiser-prank",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "yellow-banana-town-frenzy",
+        "x": 0.062,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "girl-scout-cookie-quirk",
+        "x": 0.125,
+        "y": 0.929,
+        "r": 0.151
+      },
+      {
+        "id": "tiny-car-rebellion",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "vintage-vehicles-vault",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "sleepy-alligator-floatie",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "mural-festival-artists",
+        "x": 0.688,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "zoo-baby-sloth",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "giraffe-temporary-guest",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "monkey-naming-vote",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "holiday-festival-of-lights",
+        "x": 0.854,
+        "y": 0.869,
+        "r": 0.156
+      },
+      {
+        "id": "fathers-day-peru-warm-welcome",
+        "x": 0.896,
+        "y": 0.702,
+        "r": 0.156
+      },
+      {
+        "id": "baboon-town-standoff",
+        "x": 0.875,
+        "y": 0.75,
+        "r": 0.125
+      }
+    ]
+  },
+  {
     "key": "2026-11-13-1",
     "date": "2026-11-13",
     "image": "img/2026-11-13-1.jpg",
