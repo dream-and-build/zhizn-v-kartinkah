@@ -85,8 +85,13 @@ function init(data) {
   });
   labels();
   // Возврат со страницы события — на тот же день
-  const back = days.findIndex(d => d.key === location.hash.slice(1));
-  if (back > 0) scrollTo(0, back * innerHeight);
+  const toHash = () => {
+    const back = days.findIndex(d => d.key === location.hash.slice(1));
+    if (back >= 0) scrollTo(0, back * innerHeight);
+  };
+  toHash();
+  // Ссылка на день, открытая в уже открытой вкладке, тоже должна перелистывать картину
+  addEventListener('hashchange', toHash);
   onScroll();
   addEventListener('scroll', onScroll, { passive: true });
   addEventListener('resize', onScroll);
