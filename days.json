@@ -1,5 +1,273 @@
 [
   {
+    "key": "2026-11-17-1",
+    "date": "2026-11-17",
+    "image": "img/2026-11-17-1.jpg",
+    "aspect": 1.7778,
+    "people": 8326621155,
+    "spots": [
+      {
+        "id": "trump-asia-trip",
+        "x": 0.713,
+        "y": 0.721,
+        "r": 0.221
+      },
+      {
+        "id": "ai-chip-race-regulation",
+        "x": 0.521,
+        "y": 0.488,
+        "r": 0.156
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.762,
+        "y": 0.521,
+        "r": 0.221
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "us-flight-chaos",
+        "x": 0.25,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.792,
+        "y": 0.333,
+        "r": 0.21
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.25,
+        "y": 0.321,
+        "r": 0.202
+      },
+      {
+        "id": "robert-pattinson-bond",
+        "x": 0.438,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "eu-rwanda-migration-plan",
+        "x": 0.312,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "grammy-nominations-2027",
+        "x": 0.562,
+        "y": 0.607,
+        "r": 0.188
+      },
+      {
+        "id": "south-africa-shootings",
+        "x": 0.406,
+        "y": 0.911,
+        "r": 0.222
+      },
+      {
+        "id": "deutsche-bank-leaks",
+        "x": 0.281,
+        "y": 0.768,
+        "r": 0.222
+      },
+      {
+        "id": "sudan-drone-war",
+        "x": 0.375,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "revolut-moneylaundering-probe",
+        "x": 0.375,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "robert-pattinson-new-james-bond",
+        "x": 0.562,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "starship-flight-15-orbit-breakthrough",
+        "x": 0.863,
+        "y": 0.121,
+        "r": 0.221
+      },
+      {
+        "id": "grammys-2027-nominations-led-by-raye",
+        "x": 0.688,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.438,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "new-breast-cancer-pill-approved",
+        "x": 0.312,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "alzheimer-biomarkers-brain-signals",
+        "x": 0.438,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "hidden-medieval-cathedral-uncovered",
+        "x": 0.094,
+        "y": 0.125,
+        "r": 0.222
+      },
+      {
+        "id": "beaver-colonies-grow",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "moulin-rouge-christmas",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "tetris-showdown-denmark",
+        "x": 0.062,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "robot-pianist-chopin",
+        "x": 0.104,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "jacket-potato-van",
+        "x": 0.146,
+        "y": 0.56,
+        "r": 0.156
+      },
+      {
+        "id": "melbourne-cup-trophies-stolen",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "quick-wallaby-beats-fox",
+        "x": 0.125,
+        "y": 0.679,
+        "r": 0.125
+      },
+      {
+        "id": "holiday-food-curiosities",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "baby-giraffe-live-stream",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-the-hippo-hat",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "baby-sea-turtles-to-ocean",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "baby-parrot-chicks",
+        "x": 0.25,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "grizzly-king-of-banff",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "holiday-lights-parades",
+        "x": 0.729,
+        "y": 0.917,
+        "r": 0.156
+      },
+      {
+        "id": "hippo-eats-hat-viral-zoo",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-under-watch",
+        "x": 0.875,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "cats-and-dogs-zoo-days",
+        "x": 0.844,
+        "y": 0.946,
+        "r": 0.222
+      },
+      {
+        "id": "flying-rosary",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "red-crab-migration",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "street-cricket-with-william-and-kate",
+        "x": 0.938,
+        "y": 0.857,
+        "r": 0.125
+      },
+      {
+        "id": "faisalabad-buffalo-record-milk",
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "childrens-book-fair-homs",
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      }
+    ],
+    "video": "video/2026-11-17-1.mp4"
+  },
+  {
     "key": "2026-11-16-1",
     "date": "2026-11-16",
     "image": "img/2026-11-16-1.jpg",

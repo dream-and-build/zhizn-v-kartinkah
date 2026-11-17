@@ -1,0 +1,2408 @@
+{
+  "key": "2026-11-17-1",
+  "date": "2026-11-17",
+  "image": "img/2026-11-17-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "trump-asia-trip": {
+      "kind": "major",
+      "title": "Трамп їде Азією на зустрічі із Сі, Путіним і, можливо, Кімом",
+      "region": "Азія",
+      "summary": "Дональд Трамп розпочав 48-годинну поїздку Азією: першим пунктом стала Маніла, де він зустрінеться з лідерами Південно-Східної Азії на саміті АСЕАН. За повідомленнями NYT, CBS і NPR, далі в нього заплановані зустрічі з головою КНР Сі Цзіньпіном і президентом Росії Володимиром Путіним у Шеньчжені; частина видань також пише про можливу зустріч із Кім Чен Ином, але підтвердження їй немає. У публікації Euronews йдеться, що Пекін поки не має інформації про таку зустріч. В інших матеріалах зазначається, що поїздка відбувається на тлі саміту АТЕС у Шеньчжені.",
+      "picture": "На малюнку земна куля стоїть на валізі поруч із прапорами, шахівницею та ліхтарем миру. Це образ великої дипломатичної поїздки, де політика подається як обережна гра на тлі надії на розрядку.",
+      "mentions": 100,
+      "significance": 92,
+      "velocity": 95,
+      "domain_count": 44,
+      "articles": [
+        {
+          "title": "Live Updates: Trump’s Whirlwind Asia Trip Starts in the Philippines",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+          "published": "2026-11-17T09:58:14+00:00"
+        },
+        {
+          "title": "Лавров: встреча лидеров трех ядерных держав при любых обстоятельствах полезна",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28326027",
+          "published": "2026-11-17T09:56:04+00:00"
+        },
+        {
+          "title": "Від \"Мідаса\" до справи Золотарьова: чому НАБУ потрібні незалежні експертизи",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/17/8063245/",
+          "published": "2026-11-17T09:51:00+00:00"
+        },
+        {
+          "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+          "published": "2026-11-17T09:51:00+00:00"
+        },
+        {
+          "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+          "published": "2026-11-17T09:46:00+00:00"
+        },
+        {
+          "title": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen",
+          "published": "2026-11-17T09:45:26+00:00"
+        },
+        {
+          "title": "China says it has 'no information' on whether North Korea's leader Kim will meet Trump",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/17/china-says-it-has-no-information-on-whether-north-koreas-leader-kim-will-meet-trump",
+          "published": "2026-11-17T09:39:39+00:00"
+        },
+        {
+          "title": "Donald Trump arrives in Manila to speak at Asean summit before heading to China",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374740/donald-trump-arrives-manila-speak-asean-summit-heading-china",
+          "published": "2026-11-17T09:36:45+00:00"
+        },
+        {
+          "title": "US intel said to indicate Iran planning potential ‘dirty bomb’ attack in Washington",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/us-intel-said-to-indicate-iran-planning-potential-dirty-bomb-attack-in-washington/",
+          "published": "2026-11-17T09:35:10+00:00"
+        },
+        {
+          "title": "SpaceX makes up 80% of Saudi sovereign wealth fund’s US stock investments - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2xBZnhIVjZ3QTRVcGJ5YWxacVhORjc3UHYzbnpVbFd0a08zQ0FYbzRBTjBmaUhQVll1c0hBeGROOC1mblE5STdnOEhwNWR4VXdOaDRuUXRtOWE2WmRUWXF2WnFhZ0hCRUl0eFhsZ0w4NWhlUkI2bmhhLXQtOWg4ZmpLOVlSRkE5TTlja0NxRE1fUmliMU1kMTVvZkd2WFdGUUpBUEZERUtYNEZEUERkNmRB?oc=5",
+          "published": "2026-11-17T09:31:09+00:00"
+        },
+        {
+          "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+          "published": "2026-11-17T09:22:45+00:00"
+        },
+        {
+          "title": "Sheinbaum sostiene primera reunión bilateral con Xi Jinping; plantean intercambio en sectores estratégicos",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-sostiene-primera-reunion-bilateral-con-xi-jinping-encuentro-se-realizo-en-el-marco-de-la-cumbre-apec-2026/",
+          "published": "2026-11-17T08:39:35+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.713,
+        "y": 0.721,
+        "r": 0.221
+      }
+    },
+    "ai-chip-race-regulation": {
+      "kind": "major",
+      "title": "Світ посилює суперечки щодо правил ШІ, чипів і автономної зброї",
+      "region": "Світ / крипто",
+      "summary": "Адміністрація Трампа оголосила нові правила, щоб перешкодити Китаю та іншим країнам віддалено отримувати доступ до передових американських напівпровідникових чипів і серверів. Паралельно Reuters, AP і CNBC пишуть про нові обмеження навколо доступу Китаю до ШІ-технологій США, а Nvidia попереджає покупців про юридичні ризики. На цьому тлі Baidu та інші учасники ринку говорять про ризик бульбашки в секторі ШІ. У Каліфорнії також подали позов проти OpenAI, стверджуючи, що компанія вводила громадськість в оману і створила загрозу безпеці.",
+      "picture": "Суддя із пов’язкою на очах, поруч самонавідна металева рука, замкнені шухляди та лабіринт мікросхем. Образ показує суперечку про те, хто і як має контролювати ШІ, чипи та автономні системи.",
+      "mentions": 89,
+      "significance": 97,
+      "velocity": 60,
+      "domain_count": 37,
+      "articles": [
+        {
+          "title": "U.S. moves to prevent China from remotely accessing advanced semi-conductor chips",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6040023/u-s-moves-to-prevent-china-from-remotely-accessing-advanced-semi-conductor-chips",
+          "published": "2026-11-17T09:44:55+00:00"
+        },
+        {
+          "title": "В Калифорнии подали иск против OpenAI из-за угрозы безопасности обществу",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28325923",
+          "published": "2026-11-17T09:44:01+00:00"
+        },
+        {
+          "title": "Pope Leo visits Peru - The Lufkin Daily News",
+          "domain": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFNROG04RWZFV19zQTUxdVVIV3NIWEVjbkZKREIydUMySkF5SnBNblVyUzhOeWdGX3VUMnBNb3dCY0phbWJoUGVoYi1CNnVhTVM1eE5WaXo2TEE2WnhGUHM0RG15NmhuS0RYcU1WYVRzUGk4c0pzbVJ4U29xTEdqVW5SX2pDVHNka2kxSmtTQUQyVFFuLVY5MzczX25fcTFHRU9IbVlKWWU5bVFYT1ljaEVfMmhiS3dOS3c?oc=5",
+          "published": "2026-11-17T09:18:14+00:00"
+        },
+        {
+          "title": "¿Credy es Confiable? Compara Préstamos y Ve si Calificas",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/descubre-y-compra/credy-es-confiable-asi-funciona-y-que-revisar/",
+          "published": "2026-11-17T08:22:39+00:00"
+        },
+        {
+          "title": "Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/head-of-chinas-baidu-warns-of-ai-bubble-ahead-of-apec-talks/article71710928.ece",
+          "published": "2026-11-17T08:15:09+00:00"
+        },
+        {
+          "title": "AI Spending Must Deliver Profits: Li warns bubble fears may come true; Token Exchange links AI providers with customers",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/china/ai-investments-must-deliver-profits-to-avoid-bubble-baidu-ceo-warns/articleshow/135914636.cms",
+          "published": "2026-11-17T08:00:06+00:00"
+        },
+        {
+          "title": "Andy Milburn on new plans to get young people in work - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXRieDZiVm9VNHMyVG1zUHp5VVpLeHU1OWVUamdmWE42OHhzR1pUdTRGamM2eVFfVUlPQTRzOXhoaUhxX3R3Um5JT2trYmM4X0lvQ1h1a0pBRTBlNEVKNjJteVdJZGpoVzZIWXhSbU1vUmlVSzdTLXUtVW0xQ21qOG92bDI3am94LWRIMmduZ3o1Q3c?oc=5",
+          "published": "2026-11-17T07:59:05+00:00"
+        },
+        {
+          "title": "Trump administration moves to block China from indirect access to American AI technology - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
+          "published": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "title": "S. Korea joins NATO-led Starlift space initiative to boost launch capabilities",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261117008000315",
+          "published": "2026-11-17T07:31:24+00:00"
+        },
+        {
+          "title": "Exclusive: Remanence raises $30M to help companies train their own models - Axios",
+          "domain": "amp.axios.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjI0amxTRGM2S01HRGlFR2ozSkFWNkx1NlFWRldjcW5UUlBDOGpyVk9hdHVnRjJDSVZnemo3djdpelIyV1RjbnA4NHBIdDFUZFZPdF9TS0lwcV9kMmx4MGYzM25EV3hsYnR1ODVfd2RYd3ZCLXBaUzVqSnRUYV9ib3ZWNE03MlpjNWJjYlNNZWd1OXZZcGI0VWF4VQ?oc=5",
+          "published": "2026-11-17T07:28:36+00:00"
+        },
+        {
+          "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
+          "published": "2026-11-17T07:07:35+00:00"
+        },
+        {
+          "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu?oc=5",
+          "published": "2026-11-17T06:55:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.521,
+        "y": 0.488,
+        "r": 0.156
+      }
+    },
+    "global-outage-microsoft": {
+      "kind": "major",
+      "title": "Світ знову бачить, як ламається цифрова інфраструктура: збої банків, авіації та пошти",
+      "region": "Світ / крипто",
+      "summary": "Microsoft заявила, що після глобального збою всі сервіси відновлено. Раніше через технічні проблеми постраждали клієнти, зокрема United Airlines і JPMorgan Chase: AP повідомляла про затримки рейсів, а інші видання писали про широкі перебої в роботі систем. Окремо у США вже обговорювався й інший масштабний авіаційний збій, який призвів до зупинки вильотів і нових запитань щодо стану інфраструктури. Бізнес і транспортні служби знову опинилися залежними від уразливої цифрової інфраструктури.",
+      "picture": "Над серверними стійками висить величезна зламана хмарна система, поруч стоять приземлені літаки, банківські книги та перерізані кабелі. Це символ того, як один збій може зупинити одразу кілька галузей.",
+      "mentions": 87,
+      "significance": 94,
+      "velocity": 77,
+      "domain_count": 36,
+      "articles": [
+        {
+          "title": "Wear OS watches can now piggyback off your phone’s GPS. - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDUzOTJlOGI0N1BnYl9FdU91T09yb25mRWFaTjF0V2NGMDRRVWh3WmoxWlo1UjVwS3ZpdGgwSHd0ZlNiY2xEM1JRTlZjTmI5NFZPX0ZFSkdiU0o0Q29wWFNETGtUOGRMX2Z6a2xKbVYtdnZJX0lmNlBxclYxVDV6anBFb1kydUNsY3ZOTW1FRU9pb2hoRGdzOHdn?oc=5",
+          "published": "2026-11-17T09:56:22+00:00"
+        },
+        {
+          "title": "Microsoft confirms all services are restored after global outage - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEJfV21haXpneld6cDBuakxMSkthMDlzUnJ0QTE2NHRYV2gyMWpxY2sxQ1VLOXFxVS1WVDEtYUp1enJUbWtjZGtvbWlITVI2dlU2MVZXclV5SGc5WXlwVmlRN005OW5VamR3TnQtMjNUN0pJcnlQX1FweU5lRTl1OXpwaUtYZERqYzdDaWJkZ2tLWFZwVDVnT096OWdvaWEtS1E?oc=5",
+          "published": "2026-11-17T09:37:40+00:00"
+        },
+        {
+          "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+          "published": "2026-11-17T09:19:00+00:00"
+        },
+        {
+          "title": "Customers affected as JPMorgan Chase, United Airlines, others report widespread outages",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/business/business-news/925767-customers-affected-as-jpmorgan-chase-united-airlines-others-report-widespread-outages.html",
+          "published": "2026-11-17T08:23:36+00:00"
+        },
+        {
+          "title": "North Korea’s Kim visits ski resort as Donald Trump hints at possible meeting",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/north-koreas-kim-visits-ski-resort-as-donald-trump-hints-at-possible-meeting/article71710685.ece",
+          "published": "2026-11-17T08:07:32+00:00"
+        },
+        {
+          "title": "United Airlines hit by tech issues days after nationwide ground stop - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclBOS1JzUVNiQ2RjcVpTY0xVUXA1M05GV09YN1FFTkEyOEQ0UkhNWlhzR29JaDdPT2hBMkdQRldxbmJjeFBPbk1XM09DVXB6RGFhRFNHTkdLR25HTFVPT2w5WEtXcmw3eTA1Y2ZsX1QxSm5tc1RKMnkzbm9WWUNySm55eTJRUmpNYjI0NDVWV1EzXzgwUUZwTzF1enJ3ckpzRldoaWIycXQ3U3hLcTI5bjR4X0V1NFA2UWlYdTVVeEdNeUp5?oc=5",
+          "published": "2026-11-17T07:24:09+00:00"
+        },
+        {
+          "title": "Robert Pattinson is James Bond. So what happens next?",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next",
+          "published": "2026-11-17T07:00:08+00:00"
+        },
+        {
+          "title": "The Hollywood Reporter - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xM3VlQ3Z0X1I4RVprekJmS3hQTWNpU0ZqblVLbjJVR05fakUwYlBLQUZTbVBHZkRtaTdHU2dLekdCZGpuV1BKWURR?oc=5",
+          "published": "2026-11-17T06:16:55+00:00"
+        },
+        {
+          "title": "Duffy asked for $50B for air traffic control after ground stop, a marked increase - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEdLZlMycURaWWlqWW55Z3RRWnNES1F1VXZuWVpXR2VkT3hPbF9oS25LVlJtdFZIV1RrU0E1RElpRWt3Ym5tMUVwWk5tU0c4NkZvanFScDhDaFl2ZzJpN3lway1Ocmx6U2dfaHBuQ1dSN1lCT2djTGM2Y2x2TWJJSnJ4N1NRZkJYU2V0Nmx5Q1JOdEdubENJcVA1VljSAaIBQVVfeXFMT3V0RkRvTlptNG52TnlWVl9rX2JNRmdpdWJLWmZDZ2FkTk1fWlptM0lBUjZSSmIwNzJTWU9xcHpqVWxJQk1rX2wtc2VZTk5JQTFTYkNFMGJrRldkdXlDdUJ2c2pic0ZXekl0N3hnQVNBLUVySFd5bHd5YWVrOXVOblVtbzU5cjhYblQybENObzhTUGJrUXhSR1FYSVVoejhmd0pn?oc=5",
+          "published": "2026-11-17T06:02:53+00:00"
+        },
+        {
+          "title": "Duffy vows to modernize aging air traffic system after nationwide ground stop - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXJaUW9HYTctTHZ4VlBHbXRaNUVadW54dWlGb0VZOEgzVHItdzZnTk5uQ1JKVTdaOVBlaHNOdDlyUEZHdV9EcmY1US1QQkR4RUE2MDZmWV9tZmFSQmV6SFFUUlVxNFlqNksybnZMN1p4TFNmRW9OR2sxNTFkVVlxUXBzUXphQmEwSWVzY2JDUFJMVmUzd1g2bk1peVpRZ2JY0gGmAUFVX3lxTE5ibHFoVXVpbmRybF80bjQ0cnEwQjFkclZfejhkcFAyb0taek5BMkdoVmFxdHk5SU1FWVI3OTR2OW9fMWxxTXFvS2JZWVFWdW9zd0Y0M1BVcGMxNDFzX2NaaHVTR3dGODFORlRBNnp4RlItdERMSTZ4blVpRkQ0bC16VEN4UzdYZnYwbXZGTVh4c28yVzkzOEN6M25ncmxMNjRFLUtVZXc?oc=5",
+          "published": "2026-11-17T05:50:51+00:00"
+        },
+        {
+          "title": "What we know about what caused the FAA's nationwide ground stop - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW8xRjJ5aVF4T09CZHdOUjd1eGpPZDY4NHFsLW9FVHc3NXl4M0hLV1dWMGlpeTlseFZzZ2dUUEZWRXF0dUhmaTZwTnVLWjFST3pqdUtmdlduTjZpNGpTLWVSUFR6ZnRFV1REQmF5dTdPMXlUOVBrWE1rNnNEblNFSlhXWQ?oc=5",
+          "published": "2026-11-17T04:36:54+00:00"
+        },
+        {
+          "title": "United resolves 'widespread' system outage that delayed some flights - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUJuY1BMUk93anppQ3o3QjNkWGNuM2UwMndRNkt1SURXUFRPaThpemhXMnk2UVRvc1N6MzlEWUdFbkpieVVkdjZ1Y3pzU2FGTm9iTzhFZm96UURfQmczVk9uaWM2bGZ6Qk96M1dueVRRb0ktQ1FUNnpBbXdwR281d2JCYUtfMVJia2Y4QXJGekhuWEc1NTJ3Y2QxQXllM0xlZGMzX2p1dw?oc=5",
+          "published": "2026-11-17T04:03:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.762,
+        "y": 0.521,
+        "r": 0.221
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "Близький Схід балансує на межі великої війни: атаки біля Ормуза та обмін ударами",
+      "region": "Близький Схід",
+      "summary": "На тлі зростання напруженості в регіоні Іран заявив про чергову атаку на американські об’єкти в Бахрейні, а Бахрейн повідомив про перехоплення іранських повітряних атак. Reuters передає, що Іранський корпус вартових ісламської революції, своєю чергою, заявив про удар по американському радару. Окремі повідомлення в західних медіа також пов’язують ситуацію з можливими іранськими планами атак у Вашингтоні та з ризиками для судноплавства. Фоном залишаються обмін ударами й загроза подальшої ескалації.",
+      "picture": "Два палаючі танкери між звужуваними скелями, радар і тріснутий щит із півмісяцем. Образ говорить про те, що морський шлях біля Ормузької протоки залишається під загрозою війни та перехоплень.",
+      "mentions": 80,
+      "significance": 99,
+      "velocity": 78,
+      "domain_count": 32,
+      "articles": [
+        {
+          "title": "Iran claims another attack on U.S. assets in Bahrain",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+          "published": "2026-11-17T09:47:58+00:00"
+        },
+        {
+          "title": "CNN: US intelligence points to possible Iranian plot targeting Trump officials with a 'dirty bomb' - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFRWQTJLaWlIQWVTX2pmR0ZQcjJSX1JCQWhMdkc3SkxPV0VKTXdYZkFVUk9KX2VHSFBpUXpreGpZWlpYLUxiNWNtMmVIYzlyMUNXNWlBQmN2R0RPUTd0WTd3MHhlQ0tVbkd4MUZwNU1saUVIRFd3UnRKMHNQSVlpS2gxb3NuRmZoRG5qbTU2U0l1THQ4aDJiTHgzeDZHUFhpbURscDduai1Jdm1ZVHdwTVRZREFPYkZiYXVQS0daUVBqMGpMbGhIb3RZQ1FvanM?oc=5",
+          "published": "2026-11-17T08:49:13+00:00"
+        },
+        {
+          "title": "Sheinbaum sostiene primera reunión bilateral con Xi Jinping; plantean intercambio en sectores estratégicos",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-sostiene-primera-reunion-bilateral-con-xi-jinping-encuentro-se-realizo-en-el-marco-de-la-cumbre-apec-2026/",
+          "published": "2026-11-17T08:39:35+00:00"
+        },
+        {
+          "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtrNWkxVGpxdjJGWnVJbzFDQXlabGJVV2I5bFhMYmJFOXAtQjR4cERNMnZabG90ZUo3cm80Zm0xdUpYallfU1kyV2FaMVFwUG5UUWR3UWNFMXU0RDJPcndiS0RuejcxWkJDU1kxbnQ2NnJPWXNBNGtGelpVd0FsbVF0emUyTVdpaEVFYlFnNmZSVTlhRUo5bzhYTkRicFpoa0loRGw0OUJQM215T0lkZUpUNDhFSHM?oc=5",
+          "published": "2026-11-17T08:09:00+00:00"
+        },
+        {
+          "title": "Bahrain says it intercepts Iranian air attacks, IRGC says it targets US radar - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXAzM1RQRHF5amo0TVJ3VVV4d0d4cnNHVUhFSE41QnlpSGJ4UEhXc1ZIeUhKRzlzcVRRYWhxajZiNF84MWlPb29LazZhT2g5MnJUZlZZREF6N1FLTjZOYWFQZnZjLWdCMzN5OVZIcWVJWkc2RGVrZmRxT0l5LV83YUdlakdRaFd4SDI0MURvUFVQdXh6cUktbmJyeExSRmp1NVZlWWJ6ZHVCVUdUZEd2Z1NMLUNCcU9SSTIxMGRQMnNUX1Rtckp6ZVRn?oc=5",
+          "published": "2026-11-17T07:47:00+00:00"
+        },
+        {
+          "title": "(2nd LD) Seoul stocks drop for 4th day amid lingering AI woes",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261117006352320",
+          "published": "2026-11-17T07:36:30+00:00"
+        },
+        {
+          "title": "Xi, Trump and Putin prepare for unprecedented meeting at APEC summit in China",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/17/xi-trump-and-putin-prepare-for-unprecedented-meeting-at-apec-summit-in-china/",
+          "published": "2026-11-17T07:23:12+00:00"
+        },
+        {
+          "title": "Estados Unidos alertó sobre un presunto plan de Irán para atacar a funcionarios de Donald Trump con armas químicas",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/estados-unidos-alerto-presunto-plan-iran-atacar-funcionarios-donald-trump-armas-quimicas_0_GSkrCFkOqt.html",
+          "published": "2026-11-17T07:13:17+00:00"
+        },
+        {
+          "title": "Marinha dos EUA pune jovem marinheiro que pulou de porta-aviões durante guerra com o Irã",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/marinha-dos-eua-pune-jovem-marinheiro-que-pulou-de-porta-avioes-durante-guerra-com-o-ira.shtml",
+          "published": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "title": "Trump is not going to let Iran conflict become a 'forever war', asserts Vance",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2045146/trump-is-not-going-to-let-iran-conflict-become-a-forever-war-asserts-vance",
+          "published": "2026-11-17T06:55:43+00:00"
+        },
+        {
+          "title": "Guatemala ramps up security operations following declaration of state of siege - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZlBNVFV0Ny0xWFlaYWZqbHRkVWxKcFdaNHNRenE3WmxwLS15ZXA1MzNhTXBFMC1kNHJpQmNqMW1wek5hbUx3V0tYZVBJbmNLU283Tm1IcTVKMUp5ZTRCd3NzeElvMndoOTRSNFFkcU5pSTNPdlUwbmhjenEtenR0UHMzSmZ0RkZjZlRoQ3p0V2NCOGRkWWJ0cm5xWWY4QVU4OEpvUlpnbUR5S3V1Um9jNUlHZEV4Rk93M1VDMnpUXzhvRzRxRlBTUGk4VzY1UmlQMFBPMzFUcjBZbTNjc0RnMDh3?oc=5",
+          "published": "2026-11-17T06:21:10+00:00"
+        },
+        {
+          "title": "Trinity County family preserves patriarch's memory with unique zoo donation - The Lufkin Daily News",
+          "domain": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUlBLMU9FNW1jU2F4Sm1CcWVSTWtrRUNoU1BMaU1CWE9MQWN3djFtZWFVTC1wWEJQc2JoY1NRTUc5OUo3V0xOaDctd1dLR3p0T1k0U2x6aFdtUl8tWUhFeFdvS0o0aXdWUnFkX0Q0dDBEVTdyTXdQWHpFNm9XdnIySGhPQmlXWWR1QlpzS1BCUlF0N3pXQ3ROSTJjMllzNERyUjlMVUFqUE1nWm5zRmxVZ3dUTWRlalJHMlVBSXRGbV9lQUt6cUtfVXhSNnlSZGVZNXR2NGFNeUdlWVVPNnZad1pLQ0JiaWo1VVBpcXRIaGJrVVVwdWc?oc=5",
+          "published": "2026-11-17T06:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "us-flight-chaos": {
+      "kind": "major",
+      "title": "Збій в авіаційній системі США та подальші нові порушення спричиняють політичний скандал",
+      "region": "США",
+      "summary": "У США знову стався збій в авіаційній системі: United Airlines повідомила про затримки вильотів через приблизно півторагодинне відключення. Раніше той самий перевізник та інші компанії вже повідомляли про масові неполадки, а тема переросла в політичну суперечку щодо стану американської системи управління повітряним рухом. Міністр транспорту Шон Даффі заявив про потребу у великому фінансуванні та модернізації застарілої інфраструктури. За повідомленнями ЗМІ, питання стало предметом гострої публічної критики після національної зупинки рейсів.",
+      "picture": "На малюнку літаки застрягли біля зламаної вежі керування, навколо валізи й мовчазні радари. Це показує, як збій в авіаційній інфраструктурі паралізує людей і рейси.",
+      "mentions": 73,
+      "significance": 90,
+      "velocity": 50,
+      "domain_count": 28,
+      "articles": [
+        {
+          "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+          "published": "2026-11-17T09:19:00+00:00"
+        },
+        {
+          "title": "Customers affected as JPMorgan Chase, United Airlines, others report widespread outages",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/business/business-news/925767-customers-affected-as-jpmorgan-chase-united-airlines-others-report-widespread-outages.html",
+          "published": "2026-11-17T08:23:36+00:00"
+        },
+        {
+          "title": "The Hollywood Reporter - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xM3VlQ3Z0X1I4RVprekJmS3hQTWNpU0ZqblVLbjJVR05fakUwYlBLQUZTbVBHZkRtaTdHU2dLekdCZGpuV1BKWURR?oc=5",
+          "published": "2026-11-17T06:16:55+00:00"
+        },
+        {
+          "title": "Duffy asked for $50B for air traffic control after ground stop, a marked increase - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEdLZlMycURaWWlqWW55Z3RRWnNES1F1VXZuWVpXR2VkT3hPbF9oS25LVlJtdFZIV1RrU0E1RElpRWt3Ym5tMUVwWk5tU0c4NkZvanFScDhDaFl2ZzJpN3lway1Ocmx6U2dfaHBuQ1dSN1lCT2djTGM2Y2x2TWJJSnJ4N1NRZkJYU2V0Nmx5Q1JOdEdubENJcVA1VljSAaIBQVVfeXFMT3V0RkRvTlptNG52TnlWVl9rX2JNRmdpdWJLWmZDZ2FkTk1fWlptM0lBUjZSSmIwNzJTWU9xcHpqVWxJQk1rX2wtc2VZTk5JQTFTYkNFMGJrRldkdXlDdUJ2c2pic0ZXekl0N3hnQVNBLUVySFd5bHd5YWVrOXVOblVtbzU5cjhYblQybENObzhTUGJrUXhSR1FYSVVoejhmd0pn?oc=5",
+          "published": "2026-11-17T06:02:53+00:00"
+        },
+        {
+          "title": "Duffy vows to modernize aging air traffic system after nationwide ground stop - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXJaUW9HYTctTHZ4VlBHbXRaNUVadW54dWlGb0VZOEgzVHItdzZnTk5uQ1JKVTdaOVBlaHNOdDlyUEZHdV9EcmY1US1QQkR4RUE2MDZmWV9tZmFSQmV6SFFUUlVxNFlqNksybnZMN1p4TFNmRW9OR2sxNTFkVVlxUXBzUXphQmEwSWVzY2JDUFJMVmUzd1g2bk1peVpRZ2JY0gGmAUFVX3lxTE5ibHFoVXVpbmRybF80bjQ0cnEwQjFkclZfejhkcFAyb0taek5BMkdoVmFxdHk5SU1FWVI3OTR2OW9fMWxxTXFvS2JZWVFWdW9zd0Y0M1BVcGMxNDFzX2NaaHVTR3dGODFORlRBNnp4RlItdERMSTZ4blVpRkQ0bC16VEN4UzdYZnYwbXZGTVh4c28yVzkzOEN6M25ncmxMNjRFLUtVZXc?oc=5",
+          "published": "2026-11-17T05:50:51+00:00"
+        },
+        {
+          "title": "US airspace shut for hours - who's at fault? - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTNHN1NseHBDc2tOVFhtbVlZNWhiN3ZGemN4TldZZExFOW1RdHY0d0ZMZzhNSl9jcDNkbl93ZDR0cjByZ2NFeVZMdHVkRFNxYk9Ka1Y4UXVWMWFqTUtPN0lRSGltUGVad3JfcWdlWEhicWZmb1BzQmZ5VUJHVUtaVHhR?oc=5",
+          "published": "2026-11-17T05:34:15+00:00"
+        },
+        {
+          "title": "United Airlines says ‘widespread’ system outage resolved",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+          "published": "2026-11-17T02:57:06+00:00"
+        },
+        {
+          "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGlOa3VFSE1MZnl5dlR1TzE2YnN3TjAzRHgxVWZEMVYtSDV2dmRWZnVuY1doc2JfbnhGRnhoQzBKS1I5VmlRVXRwLU45aGxKNUVaTXdfVGtOcU83T3VxV1NaWWphMWZqbXlya183REctRkFpRksxZmxSTXUyUl9ZV1ZMNGduOEI5Nm9MX3BzR05oZ1g1RlhJdGYwVERDVTk1ZVE?oc=5",
+          "published": "2026-11-17T01:48:00+00:00"
+        },
+        {
+          "title": "United Airlines resolves \"widespread system outage\" that delayed flights - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLTEp2UUc2aWdfcVVWVFU4VXNpRTlDUVllRnIzcGtjWHBHZ181aHhoclQ5cFBYLUtnenVxMW9ZOHgtbnRmTXNOSzk2Um9PXzNNcEdEcXByZ1R0QmpBTUFYOHl4SHNhajlXbnc4?oc=5",
+          "published": "2026-11-17T01:13:57+00:00"
+        },
+        {
+          "title": "The national ground stop response highlights critical errors in public reassurance - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzVjdGMwblhURGZta3RNZk01ZmlmV3VMcC05NXUzMmZ6SU9FQUJxSl8tY3Z6QkFVMWVxd1RHdnBGR0Y4eXRTVXpKNFJuZzY0bTN4MDE5akpxR1VaVXZDVkI1NVIwTVJxbUdrUGFna3h5NVp1QTB6V1prbmFfaWh4ci1HWjI5bmNzOTdFN3c3cFlCVV9xcW4tcHZUOTBEUU5MVDFPTDVXY0hZNmJaX1l5ektPU2Nlb08xbi1VNHhkN0trM3c?oc=5",
+          "published": "2026-11-17T00:30:16+00:00"
+        },
+        {
+          "title": "Hotel bookings surged amid nationwide ground stop, local hotelier says - KSL News",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnVhR05SUnBwdElqdnkxTDJaODBubGpuQ1Z5LVNYMFVJbW1TbWVDNWhQS2VWU3VwTml1OE1qN2k2NEVBU1A5bGFCWDNpLUliSFZDeFl1c29zbjBXalhNUEI4VzhLbjYxV3VQMm02VlRLOG1KemdTTHdxZ0VmVzgyWENBV3hsMmI5eWp6U1dkYw?oc=5",
+          "published": "2026-11-17T00:13:16+00:00"
+        },
+        {
+          "title": "US flights nearly back to normal after rare no take-off order - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNm4yUURqckVna0JHc1h0WmhhZmZOSnhDMkFKTXdQM1dhb1V5bzFnNl9JTVRIdGtkR3l2aE1EM25jWVVGY094dDJGV2lBUTVWZnJkUjFjNlA1RzNwRUh2RmVJV1haZEhZeVJ5N0lsQmdiLWthT2J5RWVLU19ZUF9VeHNTMA?oc=5",
+          "published": "2026-11-17T00:02:18+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.5,
+        "r": 0.151
+      }
+    },
+    "nvidia-spy-probe": {
+      "kind": "major",
+      "title": "Криза навколо Nvidia поглиблюється: скандал, витоки й суперечка про повернення Хуанга",
+      "region": "Світ / крипто",
+      "summary": "Навколо Nvidia триває криза: американська влада посилює обмеження на доступ Китаю до технологій ШІ, а компанії попереджають про юридичні ризики. WSJ і Axios пишуть про суперечки всередині адміністрації Трампа щодо курсу на Китай перед зустріччю із Сі Цзіньпіном, а ринок реагує на нові заяви та розслідування. CNBC і Reuters повідомляють і про тиск на бізнес, пов’язаний із ланцюгами постачання та експортним контролем. На цьому тлі обговорюється і становище Дженсена Хуанга, чий вплив у галузі залишається предметом публічних суперечок.",
+      "picture": "Розбита корона-чип над сплутаними кабелями, паперами та шаховим королем. Це образ технологічної боротьби, де йдеться і про владу, і про право на доступ до ключових чипів.",
+      "mentions": 67,
+      "significance": 98,
+      "velocity": 37,
+      "domain_count": 25,
+      "articles": [
+        {
+          "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
+          "published": "2026-11-17T09:50:30+00:00"
+        },
+        {
+          "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtOFdwN2VaaERFQlFrY2R0OElYa0hyMGRIZzNNVGdFZWRHSS1VQThNSEtIYmpYUnJWMUlpdzdBRDdGMld4MXJ2MnR6cUhPY1VhMHIzZDNDTnc0UDNOYVUtQlJiR1F3cFZBcXFuTW9yZkFWTzRyRE9NMtIBfkFVX3lxTFBmYlVTMzlyRHVkemtFdFFSMjJBaHg4dTJ0MUExdDdTdzFhVEhYTzN2N0d1Yzlvc3hkTUpFRDQ4OVFrSWdWWG1kYVM4WlhyOHhCem9mN2g2Y1lBMC03ejNuNmdxbFFoMmFRQmxjYjM2QmtKbzAtVG9xR0VxWWhkZw?oc=5",
+          "published": "2026-11-17T09:23:40+00:00"
+        },
+        {
+          "title": "Prince William puts e-rickshaw through its paces on Mumbai visit - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDJhZlNrU0dXU0kxeEtieU9jQmdaU2JDTUJMR09MZ252UHJsUlU1YXN1QnhOSVItdk9MQVBab2pUWW9kQk5MdVp1Nk9nT0IwSVNLaVRpTnMteVRfM09FQm9pb0hMMm84N2VmYmlnZXFpYjBpWXNGZlpGaXA3TXl2SmRFUGNJejB4cDdYWjRsTjE0cXhFOGM3a3RSTHVhbEhZNVE?oc=5",
+          "published": "2026-11-17T08:26:49+00:00"
+        },
+        {
+          "title": "Trump administration moves to block China from indirect access to American AI technology - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
+          "published": "2026-11-17T07:49:00+00:00"
+        },
+        {
+          "title": "Baidu CEO says AI investment must deliver profits to avoid bubble - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0wwd1hrZzVDQzBrY1U3RmtldGU1VnZ4SFItdTc4V3dNZFZud2V3RURfZ2M3MlczakxBX2Rxd3FhdUt0X1BjMmoxX0pacDJTOFpFR2lxby1lS2dKSWI0NXV1VnlCVWJPM2ZEdWR0RjNrbldGUzNJNTFoRUJCN1VYQlNWMHg4T0N2QVN4YUliMXp0Q1lRQzZ3RXJtclEwdk5MejEzdk5QT1FUbE01WEZ6eXpMYkJacUwtWlhXYzRB?oc=5",
+          "published": "2026-11-17T07:18:00+00:00"
+        },
+        {
+          "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5",
+          "published": "2026-11-17T07:00:58+00:00"
+        },
+        {
+          "title": "Tech elite lament Jensen Huang's fall, celebrate his AI leadership - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEw0bm5EeXFlNmpiODhGcWdkcjhSUFVvUVBfQ2Q1YmdRTnpqcnhZUldhc1BPNFlBWEpwOG9LdXhlWlJkVGZSc2V3UWZwY0oyd3NJaGZaRmhkQWxfcl9HZWlRMkQ3a1diTUpOWDRXeFU0S1pWUzlod21WRWlxVFhkQ1NaNXhySjl6UHdfWXk1d3E?oc=5",
+          "published": "2026-11-17T06:16:50+00:00"
+        },
+        {
+          "title": "Ryan Reynolds - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wekt4Q09ETk80R3dPU3ZLS1VaZVN5c0VmaTlrNFJFOHdkWHM0QUJQR2E3QUpQS2g2bm1LU1MwZ0pSMkNEd0lIVEZMajhLMXhLbjZ4Q1djQXpMYlRiN0N3?oc=5",
+          "published": "2026-11-17T06:12:15+00:00"
+        },
+        {
+          "title": "DHS chief tells Americans to 'breathe' amid tech outages, insists homeland is 'secure' - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWl9MRG1CVWpPd3hUYUtRSkk2dFV5bXFVUVRsX0lwN24taEtHc2prXzlyX21WLWRSeEp5VGl4SzFfSWpJU09STm9jR1p1MEo4OTUxTmZwakJObU10cEMxYlg3MEh4OTl6RmVIQVlhOGpkcjZjSXd2OEx5RG5lT1RzaWFONGNRZkRqc2NsUlpuLVU2bzM4dVg2QUZ2Nnp2NUIwNXBKR2JfUDHSAa4BQVVfeXFMTkF6aTBCdWZfRFd2MndEamZRY3JpcVhXUGNUc1QzVEhMdi1jbUZmUU9odnk5MDN1VEFSWTFUVFlyX2t1Yjh2bU43amllLUx4VDRqM2todHFXMFlsWExKc2hwdjc3TjNlcGFzODUtakdUMGc3ZjZqRHZ1aDlBRW1TUER3UXRUTEdiekdiT0VWZ0dwb0xtbV9SdkpWc0pGZUM2YmdWdmNVUV81VmpoU2V3?oc=5",
+          "published": "2026-11-17T03:55:09+00:00"
+        },
+        {
+          "title": "Top Trump aides to meet with Europeans, Ukrainians on peace plan - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWNEbnVkS3ROcjFHa3lVNFRvQ29IWk1TaUpFUkl6Y2hYaEpBOUprcm5nRGtkbFptS2VGVVo2X0dacDljcHRIMnV5bmVQNjVjcTE5NC1NbDl6NUl6U2RIRlNlakNNNDdsMnd1QTdxMFRwcmg0ejZWQ1hpbVFIN2pIdC1hV2VtazQ1Sk90c2d3?oc=5",
+          "published": "2026-11-17T03:54:31+00:00"
+        },
+        {
+          "title": "Bessent pushed new AI chips rule over Commerce objections - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnRIQ2pkaE9LMG5IYzczNmdEZUlPYnc4SmJsRzduc0VzUnhBX2E1eklOYlItMHU5SWE0bjA3RWNWdElJWF9BT25CQTcwX2tMaktXYXlyQ0k0QndwblJOci1mR09sS3N4dVotcHJUZ0ktSkJkekhKRzZOcWZ0ckZmVjdmNXYyXzFvOElSdWtROTFVaEV0ekk3RVJBRk5uLTZWbmtqbjNPTl85Mmc?oc=5",
+          "published": "2026-11-17T03:06:00+00:00"
+        },
+        {
+          "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
+          "published": "2026-11-17T02:46:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.792,
+        "y": 0.333,
+        "r": 0.21
+      }
+    },
+    "ukraine-peace-framework": {
+      "kind": "major",
+      "title": "Війна в Україні різко ескалує: удари по Кримському мосту та мостах Києва",
+      "region": "Україна",
+      "summary": "Україна завдала ударів по Керченському мосту, що з’єднує Росію з окупованим Кримом, і це призвело до його закриття, повідомляють NYT, BBC та інші ЗМІ. Зеленський заявив, що підготовка операції тривала кілька тижнів, а в ударах, за його словами, використовувалися українські безпілотники та ракети «Нептун» і «Фламінго». Російська сторона, своєю чергою, повідомляла про атаки дронів і ракет на Київ та про закриття двох мостів у столиці. Масштаб ударів і взаємні заяви показують нову фазу ескалації війни.",
+      "picture": "Розірвана карта-міст із дронами, сяйливим реактором, лопнутими трубами та попереджувальними аркушами. Це образ зруйнованої інфраструктури й небезпечного розширення війни на тилові об’єкти.",
+      "mentions": 67,
+      "significance": 100,
+      "velocity": 72,
+      "domain_count": 25,
+      "articles": [
+        {
+          "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+          "published": "2026-11-17T09:55:26+00:00"
+        },
+        {
+          "title": "«Беспрецедентная операция». Зеленский — об ударе Украины по Крымскому мосту",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/17/bespretsedentnaya-operatsiya-zelenskiy-ob-udare-ukrainy-po-krymskomu-mostu",
+          "published": "2026-11-17T09:52:02+00:00"
+        },
+        {
+          "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+          "published": "2026-11-17T09:50:45+00:00"
+        },
+        {
+          "title": "Ukraine attacks Crimean bridge for 2nd consecutive night, officials say - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTN3bC1Pd0J2UGZaYVFXRUczcDFmeFk2NTVUMG14emNheE1aekwxVWN6Smc3d1otR1hxM3BvVGR6eGtVRW9uMzRYX3ppMkRyYTFHQllmWXJXZTFIb19MYXlyRjU5RkhSb3FHdnpHb1htMldYd3gxWWZwNUM0ZlRvVXA0cl9fbV93NHhlRjk5aTFfbkxVc0JSenEzWEhzWUQ2RWlRM0ZwS0VpNFpUelE0UWdXbVVRd9IBuwFBVV95cUxOVW1vWndhMGhNZFo3RTl0MFhvRzFsbnRzNEsxSVFmM005UHBLbzM0b3lSR0MyMHo0dm9MRHlzYlI0aDZNOFZwMVo4MFc5aklRbTVFak5wTElXNkdKbmFidE5BdVdMalpyMUN1MURMSTNrUUszUnRka09XLWFBZDJfR1pRczRxQmVIbVFLNkU4Z0VLWXlzbFh0NERnSmxrRDFKUDdsUUNQMWtoeHlTWlhvbjRmMWk1aW1nLW9R?oc=5",
+          "published": "2026-11-17T09:45:00+00:00"
+        },
+        {
+          "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+          "published": "2026-11-17T09:39:58+00:00"
+        },
+        {
+          "title": "Зеленський перерахував, чим Сили оборони уразили Кримський міст",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/17/8063242/",
+          "published": "2026-11-17T09:35:00+00:00"
+        },
+        {
+          "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion",
+          "published": "2026-11-17T09:28:16+00:00"
+        },
+        {
+          "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T09:27:41+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : une enquête pénale ouverte en Russie après le bombardement du pont de Crimée ; deux ponts majeurs de Kiev fermés à la suite de frappes russes",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-une-enquete-penale-ouverte-en-russie-apres-le-bombardement-du-pont-de-crimee-deux-ponts-majeurs-de-kiev-fermes-apres-des-frappes-russes_6810982_3210.html",
+          "published": "2026-11-17T09:06:32+00:00"
+        },
+        {
+          "title": "Putin’s prized bridge is partially destroyed in Ukrainian strike",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756",
+          "published": "2026-11-17T09:06:06+00:00"
+        },
+        {
+          "title": "Ukraine damages bridge to Crimea in fierce exchange of strikes",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
+          "published": "2026-11-17T09:01:17+00:00"
+        },
+        {
+          "title": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
+          "published": "2026-11-17T08:36:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.321,
+        "r": 0.202
+      }
+    },
+    "robert-pattinson-bond": {
+      "kind": "major",
+      "title": "Роберта Паттінсона обрано новим Джеймсом Бондом",
+      "region": "Світ / крипто",
+      "summary": "Роберта Паттінсона обрано новим Джеймсом Бондом у наступному фільмі про 007. Про це повідомили кілька великих видань, зокрема Reuters, AP, AFP, Washington Post, USA Today та ABC News. У повідомленнях ідеться, що британський актор стане новим обличчям франшизи та змінить Деніела Крейґа; The Times of Israel окремо зазначає, що він стане першим виконавцем ролі 007 після купівлі франшизи Amazon MGM Studios минулого року.",
+      "picture": "На малюнку — силует у смокінгу з маскою та срібним ключем. Образ натякає на зміну особистості й передачу ролі, а також на таємницю і доступ до світу Бонда.",
+      "mentions": 49,
+      "significance": 33,
+      "velocity": 56,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "Robert Pattinson named as James Bond actor in next 007 movie - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtldi1YcXVQQ0duaHFjWFY2T1NQem5WQ3E4MU5SLVFRdGhVRnZXU0JPWDBNZTFuWFJPaVlKYzZvQWYzZWlrSE05cTR3aXM3amEzTGVnLUtzS1lrejB4c2dGUmktLWVuRTY3clBydFY3V2FZQlRQNmw5cGpsOVZiU1YyYWpPMXNrc0RjejFiVDZfcUN6MDRBRDQxUGVsY08zQjZsN05QVVo5NXhqTjVtc0hPeVR4SnppNFE?oc=5",
+          "published": "2026-11-17T02:33:00+00:00"
+        },
+        {
+          "title": "Robert Pattinson revealed as the new face of James Bond - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41OWsyc25VZWQ1Y3l1aHlxOWxXODBOM1dFbFM4TFJWMnFodHBUV05hbTBWTDExcWs3OUg4dVhjVWNRVW9wMFlUVGVCLTI?oc=5",
+          "published": "2026-11-17T02:03:06+00:00"
+        },
+        {
+          "title": "The new James Bond is Robert Pattinson - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNm01NGRYMVktM2R3em1VUVd3bVczZHFFLUVFZlMyRFNiRl9qeEFWeldHUHczbkl3TGZDY0RUUndjSFRwYy1mdnBtcWtnUlVTR3JRLUdyRDhfeFh6bnJQT2R5aVRXb3E1UFBScVRJbmxfZzFUaEpRYi02amdFVC1sXzdoNXpmMGJTYl9N?oc=5",
+          "published": "2026-11-17T00:55:24+00:00"
+        },
+        {
+          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
+          "published": "2026-11-16T23:49:46+00:00"
+        },
+        {
+          "title": "British actor Robert Pattinson named as new James Bond - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
+          "published": "2026-11-16T22:56:02+00:00"
+        },
+        {
+          "title": "Imran Khan's sons urge UK to do more for jailed father - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThrc2V3OGRBbWE1S3lEdjVGaTBtYklyMmZ5U2Y2RnVCT1dQM3JtTGt6SzEwTVNKUE5HRFBqSmlCQWhPczJRVncwQVlqZXFQa3lXSW0wYlNMSjROOThkVk5sQnEtUXNNb0JyNHBJZUY4MVhRSjV3d2s5ZE9UdHVhcTNTN2NUR01Iem1aR2xzSFo0UmM?oc=5",
+          "published": "2026-11-16T21:50:48+00:00"
+        },
+        {
+          "title": "British actor Robert Pattinson named as new James Bond",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/british-actor-robert-pattinson-named-as-new-james-bond/",
+          "published": "2026-11-16T21:10:35+00:00"
+        },
+        {
+          "title": "Indiana coach Curt Cignetti balks at weak schedule criticisms: 'I'm 65 years old and I really don't give a s***' - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONU5UbWZRQWtGU3pxbXg2SDc2Wm9BNjlEcjR6YkxBZHRkU1pTWm9OWVF2M1hiVFlxRGZpLTU0QnUzeks2bkw2RUFVQUJEOGxIQkFudFBmWVMxbDUtbl9KOU1oWGNkTVZRcWhqa3dMT202c2FUUEFuQTQ1ZERWdzZIUGtJMGFtUDFLNW1KY2VHX0sxaHl2SFRqbHlDX1pWRkdwODY2WmdoakRJUDJ5eXFyMWNxNXhJeklxbzZoTzFjeUNYNGV5eFpCUmdaamZtbHEzajlqeThEU2x3ZGJ0UDRTSVlxRnJObEhoQkhFRzFmeVlCRXBQNnZ0enlTMUVPZw?oc=5",
+          "published": "2026-11-16T20:52:20+00:00"
+        },
+        {
+          "title": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5",
+          "published": "2026-11-16T20:09:00+00:00"
+        },
+        {
+          "title": "UK actor Robert Pattinson to be new James Bond - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lU05qUl8zMXhlUENPMk42SF9jVktmeHdXdzFRVW5RX2xsSXFxUExOZF9uYk0wa09oOTJDOVBseVZaODRBMGhBeUVYdDJIT2p4b0VXZ2JPLVhmdjFXdEtnRUlsQ0FPeWV3UU5HN3IxcWVwU2psbUww?oc=5",
+          "published": "2026-11-16T19:02:43+00:00"
+        },
+        {
+          "title": "The wait is over: Pattinson, Robert Pattinson is cast as the new James Bond 007 - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTW1na0FQWjBJQ3FwVG04azNyak9QOTFaeENzTUU4VzFNZUgtdndwYzNRODRieEhJUmUzUTZkeHVpdmdjcVVjN3A2bHgxdGhtVVNvT0JrTmZJc2VXRzMwNk93d2dCWG1RYkxZZEY5YVFNdE9xbDI3SERLTmhiMHU0WG9DdWZQWE5tVTZTdWh5RjhPUjhJX1p6QTNNZEtnR3JRYUFsbG1LamdHQmpfMmU3YnBDVkhOR3BybnIxUmpBNzFBOUxMN2x0V1FybEtTWVZFem93MUNn?oc=5",
+          "published": "2026-11-16T18:52:13+00:00"
+        },
+        {
+          "title": "Robert Pattinson cast as next James Bond - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aRk5YcEdPa1hyMVNJOHpKQ3BIczBHTXhraWNGSXcxaEFKaEJaZ3h2WGE2bDBzZlZrVnZmbDZUd1JBMVJrcm5uenV5cmZRdWRkc0NEckhCRmUwRkRUVU9adUs3Y0FkM3VlcWgyXzVQVHUxQdIBd0FVX3lxTE9uRnV4cHVlMHExSDlCQ09td3l3dXFkTHQ0NS11dzlmSW5SZU9ZRDhsWEFaM2JkMXhJSkFtTHg0M2s0QTNuei1JVWw0QzlLTHJHWlJTQ0NwZ3hIeVJaWGUyZmFPS05ueUhOLTJ0dEFzWHVNQlNkRmpr?oc=5",
+          "published": "2026-11-16T17:25:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.571,
+        "r": 0.125
+      }
+    },
+    "eu-rwanda-migration-plan": {
+      "kind": "major",
+      "title": "Європа просуває суперечливий план висилки шукачів притулку до Руанди",
+      "region": "Європа",
+      "summary": "П’ять європейських країн — Німеччина, Австрія, Данія, Греція та Нідерланди — оголосили про план створити в Руанді центр для повернення шукачів притулку, яким відмовили в прийомі. AP, Washington Post, BBC та інші видання пишуть, що ідея викликала суперечки через правові та гуманітарні питання. Противники називають її сумнівною з погляду гарантій і контролю за умовами утримання людей. Цей план відображає посилення міграційної політики в Європі.",
+      "picture": "Ряд паспортів рухається конвеєром до далеких воріт острова, поруч стоять валізи й зламаний компас. Образ показує шлях, який для мігрантів стає примусовим і невизначеним.",
+      "mentions": 43,
+      "significance": 74,
+      "velocity": 56,
+      "domain_count": 13,
+      "articles": [
+        {
+          "title": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
+          "published": "2026-11-17T05:00:06+00:00"
+        },
+        {
+          "title": "Five European countries agree to deport rejected asylum seekers to Rwanda - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2xhcnhCQ3I1SGxGem1KdGJVbklReDJkaWhDcDd1ZmZUVzA5NFc4UzBDOFhNT2ZsT0FpTF9LT3h6bEZZMzNOT1dmd005bkkxZGN5Z3NUNTNoZDFIX01yMEhSOG4zeU13eE5qNC1mcFc1WXd2ajBfN3Y0OHB4S0pkMF9NSEJUSEowWUlLaHRMRkdzaDFUaklSMkZfeW9rM0l2TERGUE5vSnU3YlExLVctX2JLM0tEWVU?oc=5",
+          "published": "2026-11-17T04:40:00+00:00"
+        },
+        {
+          "title": "La UE busca fuera de sus fronteras una solución al fracaso de sus deportaciones",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-17/la-ue-busca-fuera-de-sus-fronteras-una-solucion-al-fracaso-de-sus-deportaciones.html",
+          "published": "2026-11-17T04:30:01+00:00"
+        },
+        {
+          "title": "5 European countries aim to send rejected asylum seekers to center in Rwanda - KSL",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0steURrUl9MeVdvMGZubnQyb2JHQmFnU2t3SWhVZmVHbV9BSFdwRTZmWmFDQlQxZFZwZ3NRTS1nM1Mtdk84OFY5eUZDbHg3WUpzT3l3WWpoQ3FBcTFqSmhpV3NpTTVzbGliMk5iU0dGWEdOalhmczRIbHFuRGNLaXRtZDY1U0FGZFNSdmd5czBIdkRaWlE4SHpNaGl6Q2VHZjRWNVpubXZzMDRYUkYtMG9NMA?oc=5",
+          "published": "2026-11-17T00:55:12+00:00"
+        },
+        {
+          "title": "5 European countries aim to send rejected asylum seekers to center in Rwanda - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaHFsczFJUW53WXdfU3FNXzFiZTk3SVV0WkpvZkM0QW9KR0NfcUNOM09CRDVteExmQ1hNYVJoekVVNEpXN3pOalQ5cHlsckREdWFGdzZQa2FJU2llSXRicVlYS1UwZmJWV0RGbjNLRTBHOFkzUjQzdGJZZTRESWNvRFlaSGQyN3N0UFdtVXdQczdINkV4ZUFfY203Z2dXQQ?oc=5",
+          "published": "2026-11-17T00:17:00+00:00"
+        },
+        {
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T23:20:45+00:00"
+        },
+        {
+          "title": "Rwanda to host hub for rejected EU migrants",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
+          "published": "2026-11-16T21:21:14+00:00"
+        },
+        {
+          "title": "Grupo de países europeus acelera acordo para deportar imigrantes rejeitados para Ruanda",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/grupo-de-paises-europeus-acelera-acordo-para-deportar-imigrantes-rejeitados-para-ruanda.shtml",
+          "published": "2026-11-16T21:13:00+00:00"
+        },
+        {
+          "title": "Le projet de cinq pays de l’UE d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+          "published": "2026-11-16T20:52:34+00:00"
+        },
+        {
+          "title": "Five EU states plan Rwanda deportations despite rights groups’ ‘harmful’ warning - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2tFMmJUUWV1SVZ4YVhybnEwWk5PMDA0SUJyTDNVRUNtYVlCTEhESGw3Q29ZQlRkRmRwQUpTdERQdHBFd3ZxMEdOck1ndllNZ2ktZkhFMDl4RjhQcnhteFNpeTRFQ25VQnhtVmkzLUJDNXV6M0Noc2t1c091NmYtbGdoUWNrLUYtVmoyYUlFQzBPdllOaklaR2ZjQ0FNNC1zM3RJX0lQNlpRV25VR2tHckl0MG5GRlpOY2pnbHJyTF9TazNh?oc=5",
+          "published": "2026-11-16T18:09:59+00:00"
+        },
+        {
+          "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+          "published": "2026-11-16T17:36:21+00:00"
+        },
+        {
+          "title": "Giro en la política migratoria de Europa: cinco países acuerdan deportar migrantes a Ruanda y alojarlos en un \"campo de concentración\"",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/giro-politica-migratoria-europa-paises-acuerdan-deportar-migrantes-ruanda-alojarlos-campo-concentracion_0_cbz5rEpliu.html",
+          "published": "2026-11-16T17:04:12+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.571,
+        "r": 0.125
+      }
+    },
+    "grammy-nominations-2027": {
+      "kind": "major",
+      "title": "Номінації «Греммі-2027» викликають захват, суперечки та нові сюрпризи",
+      "region": "Світ / крипто",
+      "summary": "Оголошено номінації на Grammy 2027, і вони викликали водночас захват, суперечки та сюрпризи. За даними різних видань, лідирують Raye та Rosalía; також широко відзначають сильні позиції жінок у списку номінантів. Водночас AP пише про помітні образи — передусім про те, що Harry Styles і хіп-хоп залишилися без визнання, а серед сюрпризів називає Dolly Parton; The Washington Post окремо вказує на відсутність Noah Kahan серед головних фаворитів.",
+      "picture": "На малюнку — золотий мікрофон, оточений коронами, розбитими платівками та безліччю рук. Це виглядає як символ музичної слави, суперництва і боротьби за визнання на премії.",
+      "mentions": 38,
+      "significance": 28,
+      "velocity": 60,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "2027 Grammy nominations: How to watch live and more - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wakdWZDBzd2xGLTk0aHNiWHRjdVEtcENScExUcGJEQXdtRDBOc2x0a0Qzel9nN0ZWSU41SUprOG8xR2szSGE3U2JGRlVZc1JiWElWcmwzdE4zVXpFRThzWTRYQVpYUlpiOXZ3bWpDajhjazEtUnR3c1E1ZGJNZU3SAYQBQVVfeXFMTjhtUndNcGdWbm4yeTF5SjFlMGE1d2hRYm1rRVJxMGVhal9ERHRYdExraTVHeGVKRGRaZ3gwQU1Cb19lbEhNYVBMelpOQ3NLM01ZcEp6SXF5eEpfbDVwZC1TQVUyVHloZFBhYnhwMzhuVzdKQUp2dDhoMmR6ZzA5UEczWHJr?oc=5",
+          "published": "2026-11-17T09:07:37+00:00"
+        },
+        {
+          "title": "Women lead Grammy nominations as Noah Kahan gets snubbed - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGItY2hHbm9nbTRIbGttX0lrTURkNHllS3k1QlExUklDQVN1clA0YWNWR3VrYnp3czhkeGZkdVc5ZHpEa0xPcmFZNGhscFVjc0RkVjNtdkFGZUUzRWdxdmY4OTJrdVd0Y0wyLU8wNi0xdHgza2g4anVEWlNIYVlzYmVlSjdDNFJ4ZWxWel9saFVPQzk4aFNZUXRDZGJWcG1XTElyRHlja0tPX3BBRlRkcHpNVTBSMWsy?oc=5",
+          "published": "2026-11-17T02:30:00+00:00"
+        },
+        {
+          "title": "Grammy nominations snub Harry Styles and hip-hop, while surprises include Dolly Parton - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmt3SDJLSjNyNXpyZ3R2YjdtM1Bmdmdaa2NZRjVrcjQtN3BsbXp5ZnJwWnRMV2xpZGRKaF9ld21ZNm5rNTRYWmNGNlZTYkRTZlA3R3NqZ08yQ2VpRlVWYzBtLWp2THZCdXg0ODlRb25hYV9YSXFSaWlTRmM4aXZrTlp4c0ZLSXVObW1TVGc3Z1VhVTBPYmpDaDdLdHB3Q3dN?oc=5",
+          "published": "2026-11-16T22:01:00+00:00"
+        },
+        {
+          "title": "Raye and Rosalia lead nominations for music's Grammy Awards - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUNOOHZZRTFXR1hRUXJQQzAzY1RlNVM2UmNtam12RFJTLTAtOFpkSTBRV09yaHd6dXloZmVvRFNWcHI5UDlNT0pkMFV3NzNpWmE3X2ZjcUxodGhTSHFLelBydVBKQzhMYmFXSHJFck94LXRnWE1FZ1Rmazd3U2tTTmpmcktxLXlaTHNTY3UwY1FzeWY2MjRVVGtTVTBVbFJSNzBUaUpwT21Gd0hiOGdkU3ZxNnlmUi1u?oc=5",
+          "published": "2026-11-16T20:34:32+00:00"
+        },
+        {
+          "title": "Ella Langley Brings Country Into The Grammys’ General Field With Seven Nominations - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHR5U3loTlU2SkdMQWpaYUwwY3lwemxfaG5RcTdXekdYX0F6cFZLcl9udHdDV0htaUwxUTlvSTJ2X2FrSkdKdEdEanRsQnNraFcybHJOWEN0WWR5WnBiblk3OVJtVVB1SWdhOENsR2FGa3dUVHNfbUswS1RvZEhucDJNZDhJQ0l2ckZNci1saEJiXzRTSmxjUFB3WVA0VTdwSEIweg?oc=5",
+          "published": "2026-11-16T19:25:58+00:00"
+        },
+        {
+          "title": "Grammys 2027 nominations – Full list of nominees for music's biggest night - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM29td0RXTkhjZEg4dnBsWHphZi03WDNfWnRfR3JyRDV3bkJoZWtYbm5jaXJHVUlEenVZZXA3UWpyVFZITEQ0TGdLNThxWjNpd0daNmdQWnplbEdvalhYUUQtT1lNb2h4d1QtS0g2REtzWl9NT252dGNVVWlZZVRheDVrcGhEc1hzQXh0eFRhdXRWUlo4b1lWQ0duUE1fek5PTXZoU2Vidw?oc=5",
+          "published": "2026-11-16T17:47:00+00:00"
+        },
+        {
+          "title": "British singer Raye leads Grammy nominations with 11 - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nd3JXdWVMT0J1RnRfbWp1aDg4ZWxLbHRoSEg0S2x4ejdnZm9Da2xyLVBRRTA1OE5oWDBYYWlrRFZnYklmVmsyTWJJQktQclo1N0lsdUZoYUhPSEg3MHhkczdfMU81Smo0aHQ5RU5qdXRfbTFlNm5JaW53?oc=5",
+          "published": "2026-11-16T15:33:13+00:00"
+        },
+        {
+          "title": "Певицы Рэй и Розалия лидируют по числу номинаций на «Грэмми-2027»",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/16/pevitsy-rey-i-rozaliya-lidiruyut-po-chislu-nominatsiy-na-gremmi-2027",
+          "published": "2026-11-16T15:24:37+00:00"
+        },
+        {
+          "title": "(2nd LD) Jennie nominated for Grammy Awards' Record of the Year for 'Dracula'",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261116009652315",
+          "published": "2026-11-16T14:20:38+00:00"
+        },
+        {
+          "title": "Grammys Snubs and Surprises: Harry Styles Shut Out, Raye’s Huge Year and Noah Kahan Only Gets One Nomination - Variety",
+          "domain": "variety.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQk5KQUQ3YVhsVF82dm1YU01BelpfcFM5Y0ZHZHFPSWdvUXQyYVJNbHoxd3V0bUo1Vm5HSnpWX2Y5b1FtenEySzdFYTNudVJCd3FtNkZaZUtIU0FqQkZIVVc3STNmSDhlMHhzR0pLdTlSSmd0NHktczVqa25FZ2YyOEduekk4a21iYTJnWUpSMk9XeTM0MWk4b0tkbWtjUEw3?oc=5",
+          "published": "2026-11-16T14:20:00+00:00"
+        },
+        {
+          "title": "Grammy Nominations 2027: Raye Leads With 11, Followed by Rosalía With 9 - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlFTeGx5ckVxZUxBeG5YVDNQYkNYS2RCaTBSMUlSM1Vkc2E1OUxMbHZmazdPX1VsTFk4MzZvTmpaQXUtZEhqQjk3bngyMkp1ZjVNZHpVcXctaVVmV0pKS25yTG52QkFGV0s1ekVSeWFqdTZ5QmtzWXpJeDBFd2xTbTlpcDVaSWR2M2w5YUVOV0xvWWJQblREejVUQndKUQ?oc=5",
+          "published": "2026-11-16T13:50:00+00:00"
+        },
+        {
+          "title": "Grammys 2027 nominations: Olivia Dean, RAYE, Ella Langley share their reactions - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelB3dGx1Y0tFRGtRS296Sl9JRVB3dXpweUExaFRPcmV1Y0hFb0pJREdGVU95NkNyY2RKNTNZZC1BMmZMam40VWdWSDRjVFdUMW5pV3Z3b3pXYXBTYmdmcmYzVWJoV3lBdy1NMGozQzV2SnZxcE50ZGFMeXdVSnF1NDVmWkw5TjBkM3FZbTF0cTBud2hURnQzVUN3WVA1OUFabnR2Mmg5S25VcnhlQnVEeTRR0gG3AUFVX3lxTE9GaFl0WWNVbWZ4VXJRdmdlT3dtS2R3cGQwMnR2dHlhZU5lZDVRMGZTWXhXRFdBcTl6a0JoWDRTV2o0YmsyQ2QtbFAxaVRZWGlRMHc4T1ZLaE93WlVXUkxBQ01VMVNBLVQwQnFQX3Z4ZlhOR3R3T0haM0VlUl85RHdfSElKMFFpZzZRai1kQ2JnUVVUTkZLQ19hRnd0Z080R1JBUm5BQWFsTHhZcGxTX2d4bDdnMFU4OA?oc=5",
+          "published": "2026-11-17T03:35:53+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.607,
+        "r": 0.188
+      }
+    },
+    "south-africa-shootings": {
+      "kind": "major",
+      "title": "У Південній Африці нова хвиля масових розстрілів посилює страх перед насильством",
+      "region": "Африка",
+      "summary": "У Південній Африці розслідують дві масові стрілянини, у яких за один день загинули щонайменше 17 людей. AP і Africanews повідомляють, що тіла знайшли в неформальному поселенні біля Преторії та в районі Пітермаріцбурга; поліція шукає нападників. Мешканці вимагають арештів і говорять про зростання насильства. Ці вбивства посилили тривогу через хвилю збройних злочинів у країні.",
+      "picture": "Перевернуті стільці, гільзи, порожнє взуття та тріснутий ліхтар. Це тихий слід нещодавнього насильства і порожнечі після стрілянини.",
+      "mentions": 28,
+      "significance": 83,
+      "velocity": 31,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Again, Akwa Ibom fire service fails to respond to outbreak over grounded truck",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/regional/south-south-regional/925742-again-akwa-ibom-fire-service-fails-to-respond-to-outbreak-over-grounded-truck.html",
+          "published": "2026-11-17T06:29:05+00:00"
+        },
+        {
+          "title": "US dollar hits 19-month peak on Fed hike bets, while NZ dollar slumps - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0Z6TDRSbVp3QXhMLUlLR3Vaam5aam1wVW9LV2tGSmJPZVFaU2dCNnhzVjJSY25lNWR3N1lmOFVPeno3UWpkamE2SDVxOVVfcUxUY0RxYTd5cm8wYzg0M1FVZTdrVXU2RXJzbXFmNElPb0ZqVVJ2WUxhS1B5WXVhRFFobUJPb2FaNzdsdlFkNmludUtnSXY3eUJoZ0J5UXFJdTlQUVhR?oc=5",
+          "published": "2026-11-17T01:42:00+00:00"
+        },
+        {
+          "title": "South Africa reels from deadly mass shootings as residents demand arrests",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/south-africa-reels-from-deadly-mass-shootings-as-residents-demand-arrests/",
+          "published": "2026-11-16T20:00:17+00:00"
+        },
+        {
+          "title": "At least 17 people killed in 2 mass shootings on the same day in South Africa - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5",
+          "published": "2026-11-16T19:39:00+00:00"
+        },
+        {
+          "title": "Eight killed in Sweetwaters shooting as residents recount night of terror - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOV9CdnBEcVhOcUo2NnlsMmYyTDI5Qlo4THRpRld5bnNwYUlLWmhUdXM1aXdOeEpLbWhKZzR4c1Z6bDhPNXhjRnRTbkNrYW9qLVdQazhNTlNCUjY4b3BQeXJYb0xacWVoRUpSekhraHBhNnJiTVFJVjRHeG1GSzl0WFpNNkgxZVZlQVVzY1E4N1VNSHRxa2F6b2lyRmNzTEJ5aDVqd0VDNXJGWEFpZHVkRGdnc0x0c1JNbTJtN2tvd2w3aTVTREFTa2Y5aHQ5RVpQWElEV0h3?oc=5",
+          "published": "2026-11-16T17:29:27+00:00"
+        },
+        {
+          "title": "At least 17 killed in two separate mass shootings in South Africa — no arrests made - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXhUcGN5MElTSE5HRl9SOVFhTkt1WkswcUlCX1pJQTh0ZVlQTjNuQlQxX05xWXdFd1VhS3dSZEU4d3g1c1pHZGNxRmpScnN2SkZMbF91X3BIMWFWRlJNbF9QU1g2UGdzWlozTk40cDZOMmplQ3JfazdFdmZVMnlkbTY5RkZfMjBldGFRRGMtWW5xWVVwT1pJaUZ1RmJXYVk?oc=5",
+          "published": "2026-11-16T15:21:00+00:00"
+        },
+        {
+          "title": "At least 17 people killed in 2 mass shootings on the same day in South Africa - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjVISFhtOUNkMmVmbXFBZ3FNNGNwc0RBY1IxZFBSaVdXVnctdlNtUWhTME1QRF85OTFCUEp0QkJmYWlDUHVBcmdGVnVlLU9iSjBHWFJValFGMTdYYkdhX0R2al9hbWt2b3Mtb3EtOXlXUHM2aEZyd2dnMG5QWUczQ2Z1N2VCX2JtdVNTTWwxVGQzMzloa3E5NU5rdFR3SmV5dFBRTtIBqgFBVV95cUxOTmFHdVBqSFduU1VPOGVXbGhsMVNrQTdDQklpMDRTeDczcmRRN2stelRuTzFJTG5ONlhpUXNJUkUwVXlVR3RXbGFfckZPXzdtakpwOWZNZzlTOVJZZ2Z3bG80el9YRmVoQnFwcEhybE1KbVhDaUxzUzFQNEtBUXZtVjI2bmNOUDM4Ml9aWnYyTk0xTlhJVXpCUk9rNlp3WkJiTzVwOW1neE5jdw?oc=5",
+          "published": "2026-11-16T14:47:46+00:00"
+        },
+        {
+          "title": "‘I am heartbroken’: Father discovers son, 3 nephews among Atteridgeville massacre victims - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUhfLXQ1eVExeTkxbDZJN3hJRWNRZGhpNGdwZHRHS2lrMEF5Wlc2Mndsd0V3bTlnUEpha2ZpY2xSQXV6TmhPYlN3VG1SeW00NXFoMmNOWTZhQ3AtaFJHZVhVR2dTYUZzZzlvY0toaGQ2Q1lLQS1TNHhNSFpRdzNDRTlkMHhfZ1JqY0RrRElMNnVUZnE1OElJenA0VVphUVg5dW1ucHFsWjR1WUVpYXFYZVdaTlhfUVBRTk9lS2xRNWtDNVl2eXVGS3htZF9JYXlCWVBhLTJWcFBseUtHcS1JZC1QcWdJQQ?oc=5",
+          "published": "2026-11-16T15:49:40+00:00"
+        },
+        {
+          "title": "‘What more must we do?’ Mom’s plea as son, six others die in Cape Town gang shootings - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVFFMUjNTN1BiNjNyUVljY2FyWFNUSFJLQjR2UnVJaTFxQ3pTNFZMTElCVlRYckRMakF4cTFWRVgtSE8xWkc3bG52Z1YtcWhZUURFbHViSUh2YXh2anpyb0FOZVBMeVNuanF5YWlIZU5OQ0lVRHNyU0oxRGxyZUZXQmhzZDBmWU84dWMtSUxnWXF6Tkw1Tk52T25VOUZzOG9rVV92a0h2TlZNVXY0TkJKOUJ0VktvazZqSl9xaGg3SmxQWXF2c3I2Tk16WE9SSEpTQzR3OEhTeC1fWEFyNU1j?oc=5",
+          "published": "2026-11-16T14:32:52+00:00"
+        },
+        {
+          "title": "What to know about South Africa’s gun violence and its recent surge in mass shootings - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGhRX3U1bGcyM1ZYN0RwYU9TNFhWblRrSWF5MnBfOTJnYkVaZXd1U2ZVTW9UcWtzNEpad1RrOVd5R0k0MV9FbEZkazY1RXlnUjlGcnphenp0M2tPalJuQUpVdTR4YVd0NDRZQ0dhdVd4ZkZ0QlE1T3l0SlpYUTk1ZzBmRUtlbXVqQTBOR3Ewby1kNXpXaGV0d2JfN3BieTVUUm95cDVqdmZCZw?oc=5",
+          "published": "2026-11-16T13:52:00+00:00"
+        },
+        {
+          "title": "17 killed in two deadly shootings as South Africa battles rising violent crime",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/",
+          "published": "2026-11-16T12:41:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.406,
+        "y": 0.911,
+        "r": 0.222
+      }
+    },
+    "deutsche-bank-leaks": {
+      "kind": "major",
+      "title": "Розслідування витоків б’є по Deutsche Bank і розкриває старі зв’язки з Росією",
+      "region": "Економіка",
+      "summary": "Розслідування витоків ударило по Deutsche Bank: Financial Times і Bloomberg повідомили про документи, пов’язані з підозрілими платежами на сотні мільйонів доларів, зокрема у зв’язці з Джеффрі Епштейном. Інші матеріали вказують на давні зв’язки банку з заможними російськими клієнтами та переказ їхніх активів до Швейцарії й Люксембургу після 2014 року. Reuters пише, що акції банку впали на тлі цих публікацій, а сам банк захищається від претензій. Витоки знову поставили під сумнів контроль і комплаєнс в одній із найбільших банківських груп Європи.",
+      "picture": "Протікає сховище, сліди документів, потік монет і фасад банку з павутиною тріщин. Це образ витоку даних і втрати довіри до фінансової фортеці.",
+      "mentions": 28,
+      "significance": 78,
+      "velocity": 86,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
+          "published": "2026-11-17T09:50:30+00:00"
+        },
+        {
+          "title": "Deutsche Bank еще до войны перевел богатых российских клиентов в Швейцарию и Люксембург. Это позволило частично скрыть от Минюста США сведения о бизнесменах, попавших под санкции",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/17/deutsche-bank-esche-do-voyny-perevel-bogatyh-rossiyskih-klientov-v-shveytsariyu-i-lyuksemburg",
+          "published": "2026-11-17T09:33:02+00:00"
+        },
+        {
+          "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtOFdwN2VaaERFQlFrY2R0OElYa0hyMGRIZzNNVGdFZWRHSS1VQThNSEtIYmpYUnJWMUlpdzdBRDdGMld4MXJ2MnR6cUhPY1VhMHIzZDNDTnc0UDNOYVUtQlJiR1F3cFZBcXFuTW9yZkFWTzRyRE9NMtIBfkFVX3lxTFBmYlVTMzlyRHVkemtFdFFSMjJBaHg4dTJ0MUExdDdTdzFhVEhYTzN2N0d1Yzlvc3hkTUpFRDQ4OVFrSWdWWG1kYVM4WlhyOHhCem9mN2g2Y1lBMC03ejNuNmdxbFFoMmFRQmxjYjM2QmtKbzAtVG9xR0VxWWhkZw?oc=5",
+          "published": "2026-11-17T09:23:40+00:00"
+        },
+        {
+          "title": "Behind the Deutsche Bank investigation: Ask a question",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/18d940b2-c869-475a-a8a4-934544d13618?syn-25a6b1a6=1",
+          "published": "2026-11-17T07:01:17+00:00"
+        },
+        {
+          "title": "Deutsche Bank shares fall 5% as it defends itself from media reports based on leaks - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmQ3T01Hcm0yRUd2MFhyVVctWW5XSjNsb25MWkVtbmxFQWp0cmxXbUIwYVk1bjJfTFF6SFVIWTVSV2U2eU92b1JOeEJIQ0ZycDV4TkxOc0RoN0s4S2YwRHpMZERuTVZCeEpIQzRHVzY3UWV5Y3c4UW0xZDY4eFBZa1MtQVBfSGQzN0E1c1JJWGpnNlNrNmtVQUlwTXliSjdoRnBXWUQxbW4yWF9oQjBXelBjUQ?oc=5",
+          "published": "2026-11-17T06:55:00+00:00"
+        },
+        {
+          "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+          "published": "2026-11-17T06:00:12+00:00"
+        },
+        {
+          "title": "Exclusive | Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1RjRmxvVUthZE15S3BCbmNjeVBXWmdseGhMbUFuaGtfZUN4d1BOX1lwZ2Z2RDhUQ0duODR5eXdHWk9KSmM5QjY2d0pmcE5raXVyUVlmdFVVM1hsM1pLMmNNYU9adXp6dTBGVWRDWncwTkJTY1FNTEhnUTdLZ3pMdjBJYnhxSFRMc1B2anlDOXNGUzlKdTVfYVk5NV9fT3BUdy1vSmlHYTE?oc=5",
+          "published": "2026-11-17T02:38:00+00:00"
+        },
+        {
+          "title": "Deutsche Bank Processed Large Sums Linked to Epstein: FT",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-large-sums-linked-to-epstein-ft-video",
+          "published": "2026-11-17T08:44:45+00:00"
+        },
+        {
+          "title": "FirstFT: Leak of 15mn Deutsche Bank files exposes systemic failures",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/e3364118-7282-4faa-9686-e56e854dab7d?syn-25a6b1a6=1",
+          "published": "2026-11-17T06:07:29+00:00"
+        },
+        {
+          "title": "How DB lost its bet on Putin’s Russia",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e?syn-25a6b1a6=1",
+          "published": "2026-11-17T06:00:06+00:00"
+        },
+        {
+          "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/f263fbf0-e0cc-48dd-b6be-d28b9ce45dd7?syn-25a6b1a6=1",
+          "published": "2026-11-17T06:00:00+00:00"
+        },
+        {
+          "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHhHZXp0eFpvVEQwNWQwUXgwSDZETWdWeF9UMTdLaTFLUFN6Q3lvMGI1OU1iYXc3dGszaVJqUWpZTzk3cVlsajJqMWhmYWVfZ2dlNFpxaFh3QVV6d2FTRlBmbC1EZ0dZNDhrWVRadjVaWnQ5c3NiR2d2UEZRdlRIdGEybHRCejhTa2k4cV9LWFlhbkRjRk9CSTVJVmRpUWlRLUI1QWpLeGFjOTZVVjdfaW9nWXRBSjQ?oc=5",
+          "published": "2026-11-17T02:22:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.281,
+        "y": 0.768,
+        "r": 0.222
+      }
+    },
+    "sudan-drone-war": {
+      "kind": "major",
+      "title": "У Судані дрони стали головною зброєю війни, а жертви серед мирних різко зростають",
+      "region": "Африка",
+      "summary": "ООН заявила, що безпілотники стали причиною майже трьох чвертей військових смертей у Судані цього року. Reuters і Arab News пишуть, що удари дронів дедалі частіше визначають перебіг війни й перетворюють на цілі ринки, лікарні, транспортні вузли та домівки. AP також повідомило про авіаудар суданської армії у Західному Кордофані, де загинули щонайменше 13 людей. Матеріали підкреслюють, що у мирних жителів майже не лишилося безпечних зон.",
+      "picture": "Рій дронів над зруйнованим селом, поруч розбиті сандалі та зламана коробка з допомогою. Це знак війни, яка дедалі сильніше б’є по цивільних.",
+      "mentions": 25,
+      "significance": 88,
+      "velocity": 86,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5",
+          "published": "2026-11-17T08:42:18+00:00"
+        },
+        {
+          "title": "Drones behind nearly 75% of civilian deaths this year in Sudan war: UN - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONXZRMUVnRWt4V3VwdGJtMmZ5WDc4Zy1hSXRkSnpMRzZVUW9kekpjRE4yYkZnaGs5YVp5UzFxSTgxcXFKWTRsRk96WldWeUR4WDEtamVTRlZmM2JFMUk0RXJXR0FzbWdUY2FaWGZvdXNTNlM4X1diVTA0eWszdDhlamRoM3BCcGllcXhFWk1nVThzYWlNTE5NRGRkXzhZMWZCQmV5UmZJY0ZyT2c?oc=5",
+          "published": "2026-11-17T08:15:04+00:00"
+        },
+        {
+          "title": "Los muertos este año por drones en la guerra de Sudán duplican a los de 2025",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-17/los-muertos-este-ano-por-drones-en-la-guerra-de-sudan-duplican-a-los-de-2025.html",
+          "published": "2026-11-17T04:30:01+00:00"
+        },
+        {
+          "title": "Sudanese army airstrike kills at least 13 in West Kordofan, says rights group - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWZuRk5ZOHl1UjItOGw2MXZmMWt4ekZJYWtVXzgzaHpFUlVzbmdMQ01LdDZ1S1VvUTdCSmpLRzNjT1NVRnA3c3FSNTZMZG1xaDlpQWQ1M05DLUZCZExaeUJ0ZFJ2M2NSMElJUGFHMHlOMHJ3bDF1d09PS0RiZGFVMmNKM2dLRDVCSVFrMkNVWm03bnQ3TlpGSlV1QQ?oc=5",
+          "published": "2026-11-17T02:03:00+00:00"
+        },
+        {
+          "title": "News Analysis | Drone warfare leaves no safe zones in Sudan",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/news-analysis-drone-warfare-leaves-no-safe-zones-in-sudan/article71708328.ece",
+          "published": "2026-11-17T00:02:29+00:00"
+        },
+        {
+          "title": "South Africa reels from deadly mass shootings as residents demand arrests",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/south-africa-reels-from-deadly-mass-shootings-as-residents-demand-arrests/",
+          "published": "2026-11-16T20:00:17+00:00"
+        },
+        {
+          "title": "At least 17 people killed in 2 mass shootings on the same day in South Africa - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5",
+          "published": "2026-11-16T19:39:00+00:00"
+        },
+        {
+          "title": "17 killed in two deadly shootings as South Africa battles rising violent crime",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/",
+          "published": "2026-11-16T12:41:56+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.857,
+        "r": 0.151
+      }
+    },
+    "revolut-moneylaundering-probe": {
+      "kind": "major",
+      "title": "Європейський фінтех знову під тиском через розслідування щодо відмивання грошей",
+      "region": "Європа",
+      "summary": "Італійський суд запровадив тимчасовий нагляд над підрозділом Revolut через серйозні недоліки в системі боротьби з відмиванням грошей. Reuters повідомляє, що рішення пов’язане з операціями, які слідство пов’язало з мафією. Meduza та інші видання пишуть, що в Італії у банку виявили слабкий контроль за підозрілими транзакціями. Це новий удар по європейському фінтеху, який швидко зростав, але тепер стикається з посиленим наглядом.",
+      "picture": "Смартфон із банківським застосунком, прикутий до терезів правосуддя, поруч темні монети й закрита книга обліку. Образ показує, що цифровий банк опинився під контролем суду.",
+      "mentions": 15,
+      "significance": 61,
+      "velocity": 56,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Exclusive | Kalshi Buys Securities Firm to Expand Into Stock Trading - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNel9hRGx5aHFOa0JvYXAyQ0IxVEJSNHJIYVF1ckN0M1RIdFZsZWhCNVJSdU9uZ3o0a1YycWZpUGwwTnlsMVhNcU9pVHo3RktrSXIweUZycDJLMGNoVm5LQ3lPbktzdktrdllvR3ZtbVpSQldQVTZXYmJ6N25XMHA2WlZFa2phaUJKZmhKOXQtNTNJM1FfYmF2eg?oc=5",
+          "published": "2026-11-16T19:33:00+00:00"
+        },
+        {
+          "title": "Филиал Revolut в Италии взяли под судебный надзор из-за операций мафии",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/16/filial-revolut-v-italii-vzyali-pod-sudebnyy-nadzor-iz-za-operatsiy-mafii",
+          "published": "2026-11-16T19:01:17+00:00"
+        },
+        {
+          "title": "EXCLUSIVE: Italian court places Revolut unit under supervision over money-laundering failings - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU8ybmo1bVRKX3BseGRZODRWaUNpNm9kMlI4cDlydXhCbmU2SjBibjM1cVJpRmFxM3FvazZBRm5qMXd3REdGM0l3dU9Pd1hTeUlISnA3Z19IWTRiZHgxZGtVN3MwRE1yN09NZ0JUOXVXQ2NDNDZyMFg2TEYyZS1FU2hQVkJnV0M5UWZhZ2JjQVhiWVNuX1R6WnhnaElGdUFJSHowTmJpMTlwU3VVZGJ6V0JZTmd6LXFEOC1NNjU2WUtfZ0hk?oc=5",
+          "published": "2026-11-16T17:05:03+00:00"
+        },
+        {
+          "title": "Филиал Revolut в Италии взяли под судебный надзор из-за операций мафии",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/16/filial-revolut-v-italii-vzyali-pod-sudebnyy-nadzor-iz-za-operatsiy-mafii",
+          "published": "2026-11-16T19:01:17+00:00"
+        },
+        {
+          "title": "UniCredit’s Commerzbank Bid Gets EU, U.S. Approval - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkxWVjJiNVdhWmk5T1JPM2F4bjFuZGxFMXpobHpsNHB0eWk5OVowQTNhOWFxcnROSy1WNjBvQ0w3QWlueHNCRGxDUWNPVmRPd0thMXYzcFZoc1Z0S1lBTWs5Z2lNS2JLVlZYcllMYV9aVWdQT1ZGUG1yVTBvOHBENnZwTm42RkQ4M2N1ako0S00?oc=5",
+          "published": "2026-11-16T15:13:00+00:00"
+        },
+        {
+          "title": "What court administration entails for Revolut - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5",
+          "published": "2026-11-16T10:09:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.375,
+        "y": 0.714,
+        "r": 0.151
+      }
+    },
+    "starship-flight-15-orbit-breakthrough": {
+      "kind": "progress",
+      "title": "Starship уперше повернули з орбіти й упіймали на башті",
+      "region": "Космос",
+      "summary": "SpaceX провела історичний тест Flight 15: корабель Starship уперше повернули з орбіти й упіймали баштою на стартовому майданчику. Phys.org і CNBC пишуть, що це був перший в історії midair capture верхнього ступеня після орбітального польоту. Політ називають важливою віхою для програми, адже він показав працездатність системи повернення. Успіх місії вважається великим досягненням SpaceX.",
+      "picture": "Величезний космічний апарат опускається в механічну башту-пастку. Це образ точного й рідкісного успіху в важкій космічній інженерії.",
+      "mentions": 62,
+      "significance": 98,
+      "velocity": 17,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Baby, she's back: SpaceX catches a Starship from orbit for first time",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-baby-spacex-starship-orbit.html",
+          "published": "2026-11-17T01:40:01+00:00"
+        },
+        {
+          "title": "I can't help but notice that the rich keep pulling away from everyone else, says Jim Cramer - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmhhd21OdGhwdHA0OHdieW9ZaTVZMzVnb1hFMkVBZkdrdm81MHkyX3AtallqYmdLVWJfblhYQnMyZU9CZ3BvWUlaSy1CUEpVT1hqc2xQMmktUWU4cmNpcDhFRU56c1BvT0I4WDF0aURyU0tSZE5kQkdZeFkwS29PRHh1U3FMNUpCVHU4VUZVTG9jbHYxVk1zM2xwQnI1NURwa0kxQkxqcDhJUk9WSjItTExoZzZZc0pMY09ITGdFdWJtaDBZUzBRbWcwTkkyem9ZQXRlZW1oRzhJLVZWXzJV?oc=5",
+          "published": "2026-11-17T00:56:00+00:00"
+        },
+        {
+          "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa2RGRXdMaExTazBUSEtDbklKN0s4T3M4U0g2QktTQmVqOWRJdzAtZDd5anZrRXRlSGhKZEN5QjNFMFcyQUVuVkZOS0lDS0tIWEY3cmdJdGpieTBsVktnOUt0N25TckxzbUtUeG5PZl9FbWZ2QkxkWVgxT2ZQTV9URkY4OWVVZDZOa20td1Y5S090cGd4MlBjQmNfdXdnMGlFZDdveDFSb0Z5SDdXZk9jalY0M1VsREdIMWVyQ191UXVGaWdfYnUtWEcyVWZfMG55d1RDSUU2UDFxc1IzTl9JRnVKZ3hUVGQ0VGln?oc=5",
+          "published": "2026-11-16T21:26:29+00:00"
+        },
+        {
+          "title": "Flat optics roadmap charts path toward smaller imaging and sensing systems",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-flat-optics-roadmap-path-smaller.html",
+          "published": "2026-11-17T01:20:01+00:00"
+        },
+        {
+          "title": "SpaceX Flight 15 makes history as Starship lands upper stage for the first time - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnM2NzlDZVVTWExxaW9KbzB4N0lIbzFKSDZXbFRwbEgxMjFHblNwaVdKemxfUWNWSmtzVFNYNkpXajJyRXNRbjNsQjZKb0paYW9IVUNmcjJ3TFd3U3U1eDkzTDlZLUFMWlhxbW5YUWNPQ1VzLVJuZ2psVGVnby1IMlpBU2hVTU9rdGtWelZRRjRJY0tEeDh5MWtMUDlhcHhqWlotLVROZTZlbzFrRjRpUFBNZ3NNZmlZN2ZpVjdybw?oc=5",
+          "published": "2026-11-16T16:59:07+00:00"
+        },
+        {
+          "title": "Analysts are awed by SpaceX's Starship catch. Here's why - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTVRqVW04b21FUlEzeV9nRGpldWVtcGJhUnFXNnFrNjQ5TU9DTjQyNnBpR1pOUWVhTmdjSEJGYlcwNUZTMkdzQl9rcTJaODdHRS0wV0g2bVNtV19MSHQxMEdVVF96WjVGOGQ0c1lCb2JOVW4zTTRRYjVFQ2N3MVBFVEZlUGJvcnNMazhTY2p4a1R3bE9KNGc?oc=5",
+          "published": "2026-11-16T15:16:05+00:00"
+        },
+        {
+          "title": "SpaceX catches upper stage of Starship rocket in historic first - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXlXNUp6N0RxOHl3RDJKMDJrOGFMUE44WXNhcXlBQlEwSlB1U3plN094ajhJSVVCNlY5ZlhmWlhsNUdvUU1Udnl0MlpsaWxKdkhPS3pFc2hib2RJbXdhUGViNW1WZDc3WVVITW9SOXJtNnBWRHg5Ny1LMlRmaHMzeGp4SzYtTFVkUGFNQkRmTDZxNFhraWhWTEhoWktWRDNSU1ZWTm5GWkkzUQ?oc=5",
+          "published": "2026-11-16T11:17:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.863,
+        "y": 0.121,
+        "r": 0.221
+      }
+    },
+    "robert-pattinson-new-james-bond": {
+      "kind": "progress",
+      "title": "Роберт Паттінсон стане новим Джеймсом Бондом",
+      "region": "Кіно",
+      "summary": "Роберт Паттінсон, за повідомленнями низки ЗМІ, обраний новим Джеймсом Бондом і змінить Деніела Крейга. Reuters, BBC, CBS і AP підтверджують, що саме 40-річний британський актор стане наступним виконавцем ролі 007 у фільмі студії Amazon MGM. Видання наголошують, що рішення завершило тривалі чутки навколо франшизи. Для серії це перша заміна після переходу прав до Amazon MGM Studios.",
+      "picture": "Тіньовий силует у смокінгу з розбитою склянкою мартіні. Образ натякає на перезапуск легендарного образу шпигуна й новий розділ франшизи.",
+      "mentions": 100,
+      "significance": 83,
+      "velocity": 56,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T02:11:57+00:00"
+        },
+        {
+          "title": "Robert Pattinson lands coveted James Bond role",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/video/robert-pattinson-lands-coveted-james-bond-role/",
+          "published": "2026-11-17T00:53:23+00:00"
+        },
+        {
+          "title": "Virginia state Sen. Louise Lucas pleads not guilty in marijuana-related case - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWlQxNENCSVZsaTI0VlBtNGZYd0JWbHhqVDBXSmRPbnNqVTB0NkotdXViaHNicnVEUElYUWRGUWFTSHNiVVdRVGItbWtLS3BtS3dvc3dSbklzMzJNZVpCU1NFb3BkTVV0OFJaaDBxY09pN2w5VEM5NmwwSXJ0X2R0bEtHZHhfMTEtNHFMbnlPUS1wbkhMbnQ1bjFrcDF3dFRSM1prLTBSUDRiNXBCNjd0WnBTUC0yckp0eEFGY2U2X0NoVktfRmplem9pbHdOM2R6R044OVhsN192Sk1KM3VUczEzNC03bTZNc1pYU2hUQmg?oc=5",
+          "published": "2026-11-16T22:17:11+00:00"
+        },
+        {
+          "title": "Robert Pattinson to become new James Bond and succeed Daniel Craig as 007 - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUjZaZHJfdkxXbU9sMnl4QlFEY3ptNEYzUVdUaVJnVkxDYWhJQXNEd19fSHZtRU9EYVFKd0EyaVRqNFYyNExrMVF4ZzBjZ2hEOU5wNHdfVUFiaHVsSWhYclJhQWJhcGRibkpiS3MwNUg1VmlFYWNubkZBTExvbFN3bjNtOVVqaDg?oc=5",
+          "published": "2026-11-16T22:17:09+00:00"
+        },
+        {
+          "title": "Robert Pattinson may actually be one of the older James Bonds - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0EyYVpSTWhldEtlSFFERk1DN1M5ZjRQTFo1MW9jb0lqa1BnelhkeU9XOUo5Yi1GajljTmN3Um5NalkxZWh1azgwRm02UUJkSm13bzJaMVF0OFhtSzNCaGh5VW5oUV9DSkJrc21sd2RuVVJUZDhpM0RQSHBjSVhPeVNIQXJVWEQ4Y0pVV2xUTS1JU3YyejNzeHBmZzVMejVsQmZPVUV4MlNtMVJrdTRsRnFiZ0FsVThFRE1WZWowX0M?oc=5",
+          "published": "2026-11-16T21:16:00+00:00"
+        },
+        {
+          "title": "Robert Pattinson may look the part of James Bond, but he’s more against type than it seems - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3dQMElUTE9BZ1B5bDNnOUJ4VzFvUmt6YWE0RDRadTJuMzhZRHcwQTItaW44WV9yWTNxTHNlWlRhM25kWGZ3MXA1VEJ2ZEZZTW5iTURYZGVNSEVkcGUyOUFFb0hicGhQeGtZLWhwaUtld1dLY1FYLWhhSGUxSUMzbGN0QlN5ZWJ1VDZFdURaSkk?oc=5",
+          "published": "2026-11-16T20:02:00+00:00"
+        },
+        {
+          "title": "Robert Pattinson: How the Twilight star became 007",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T15:02:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.071,
+        "r": 0.125
+      }
+    },
+    "voyager-1-light-day-record": {
+      "kind": "progress",
+      "title": "Voyager 1 впритул наблизився до рубежу світлових діб від Землі",
+      "region": "Космос",
+      "summary": "NASA Voyager 1 наблизився до історичної позначки: він має стати першим створеним людиною об'єктом, що досягне відстані в одну світлову добу від Землі. ЗМІ називають це важливою віхою майже через 50 років після запуску зонда. Йдеться про найдальший від Землі рукотворний об'єкт, який продовжує політ у міжзоряному просторі.",
+      "picture": "На рисунку — крихітний зонд, що летить до світного маркера дистанції. Це образ далекого й майже недосяжного рубежу, який Voyager 1 ось-ось перетне.",
+      "mentions": 62,
+      "significance": 91,
+      "velocity": 69,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "The Leonid meteor shower peaks tonight! Here's what you need to know - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEdxWkc0SlVmU2R2VTZwNXlyd2M5dFU0TnZYRkVJenhGZHhoV2dMT3hVcm5SUjdzLWZLU1RKMTJZNVpLY0l2MlROREhjLXhBMDRwSFNHbXhvcGJqTnBHNHVQOGJfREZXX0NWemZxN1ltdVVGQXZ4UGJqWTZmamVlb2JxeEsxd1hFbzg1TDNyU3p1Z01oUnktVDhHaVVVZnFfODhfcVg1RmtxYnVsVFd4N0xoMkJSU2M?oc=5",
+          "published": "2026-11-17T08:53:39+00:00"
+        },
+        {
+          "title": "Nasa’s Voyager 1 probe in sight of an incredible milestone – podcast",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/science/audio/2026/nov/17/nasa-voyager-1-probe-incredible-milestone-podcast",
+          "published": "2026-11-17T05:00:04+00:00"
+        },
+        {
+          "title": "The first human-made object to travel one light-day from Earth: Make sense of NASA's Voyager 1 - DW.com",
+          "domain": "dw.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY21ETU1ZUU1rMnhxT2JaV0EtT3dTeWF3a0tCRW5PUTRHendkZ2JOeGJSZmZ6YjZtX0pVWlBmd2dUU0pLWWVOYWVNMXN5RWtfclBLdXl1S2dUU2UzbFZVREY4ME5taW1hNU4xZVhaUXBWQmNjWElKak5nQmMtd3lKbWxyelc3MC16d0FWadIBjAFBVV95cUxQX193M2lUT3Z3VGZfbVFHWjFLZFhvN0s1THU3TTZpQTFmeG9EMTlTM1ZlTUhncUZvV1VDTmt1cG1LYkhlSWUwN1Nza0dsZV9PYmgyUU5wTFlLZ2pJTTc0WEs4WlN1OXZYZnQxZ3Y0aXZzWXBJUmhOZFdPbEl3UFVjdHpsdVNQbnhOLXJEZA?oc=5",
+          "published": "2026-11-17T01:43:15+00:00"
+        },
+        {
+          "title": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGtCUXRrVkZvSzlFNFhOMVZndEVoaXNDbVB0eW9RWElPTXMxbm1JY1JzbGNNa2ZMNmlyeDhFeEd0S09EYVcyUFpVRVFaX0tmVHQ0azZNdjFuT21mRS1lZnVSdzk4Y2x3UTQ2akFQM0xPeFBYVzQ4ejlQU29KQktFODhBRDhrWElfUk1TT2RQa25nRXB5MmYwSEF0UnJjZnFyeWNSc3ZrbWoyckFISHE4bXFjS0I3LTRyUTNOUVBhSWF1RWZteEVkUlBRb1F5OGxLMlVEMkhZS0hzU2R0M1o5MA?oc=5",
+          "published": "2026-11-16T19:00:00+00:00"
+        },
+        {
+          "title": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZkNxMk55c0NhYzNNVW5ySEVUbHdTQWlGVm00dFgzdlA1Ukc1UlBPcENPWEJDbFV5ekRNb29YN1p5VHA0Q2w1Q3UzNU9fcERuUUNFVENZUTdQcWZDMDBLU3BLdjEySjY5WG5mUzBfWVhfYkhrVGxoejhhQXBlY2NEQ3ltLXM5TXlnY3NGS0FNeGw0bW1vTFlyNjZSY0JjZ3lCQXFxbERmSXRLUnI0VWVfcE9oSWJwcTcwdDVaeHVqUG5lZjhDNm95d2paUHJlMTZvUGxDVG5jUk1XWEc3R1BtT2ZBSVZ2ajJLRnc?oc=5",
+          "published": "2026-11-16T11:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "grammys-2027-nominations-led-by-raye": {
+      "kind": "progress",
+      "title": "На премії Grammy 2027 лідирують Raye, Rosalía та Olivia Rodrigo",
+      "region": "Музика",
+      "summary": "У номінаціях Grammy 2027 лідирують Raye, Rosalía та Olivia Rodrigo. BBC пише, що Raye отримала 11 номінацій, а Rosalía та інші виконавиці також увійшли до числа головних фавориток. У повідомленнях зазначається, що церемонія стала помітно «жіночою» за складом лідерів; BBC також згадує, що Dolly Parton була відзначена через два місяці після смерті.",
+      "picture": "На рисунку — група музичних грамофонів навколо трьох мікрофонів. Це символ лідерства кількох артисток і загальної боротьби за головні музичні нагороди.",
+      "mentions": 75,
+      "significance": 78,
+      "velocity": 56,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "The biggest takeaways from the 2027 Grammy nominations: Raye reigns, Olivia Rodrigo takes on her former idol and men go missing - Yahoo",
+          "domain": "yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZmhYRV9IbjI5aU5BYkp2a0t2MG5YS0p3VU41aXM0V2I2UC1HcGpOVElmeVoyRDBpcXR0c2F6MkVXV2p0dHY4MWhxSzdreThPdnNlcG9kT1ZWYTdJOUd3aUNwS1E3cVFUM09yeWlrSVRpYTV1cnpnNHB0VEk3ZU1DZmdiQ3ByNG1NUHdWdS1BaVBEcTI2a0hha3ZqWkRoOEpaSXVKS2l0UzlYWEVIUnI4T2dSbTNET0JPMXVUM2ExMDFJVkJMLUowcFJmU0ZYWkxWVEpxdEx2eElqS0ZPTDB0VGFIZkpBTGY2ZWNTVm5JNkd1eWlVX25zeEpTLTRkSjZ5MmdJTlFObklIaVVzOHFqNFJfeU9yZjdXZVE?oc=5",
+          "published": "2026-11-16T17:02:47+00:00"
+        },
+        {
+          "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T14:48:55+00:00"
+        },
+        {
+          "title": "Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more - KSL News",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWE9PWnFVdElUeHN2X2ZPR0VZcEVPMDViWUdyS0ttc2lnbUVMU3dLcjZxc1hKU09MaWRqSkhPU2pzOGduMFhHWTFVcER3ejhSbmZWVXpHT05YMmFoNDF1T1dJTGVUZWtZNUZhWWp0TEZ2VHNhWVU3RTB6ZW9ESjNLZzBQY0tyakJjM0FHRUpmTnZ0M2pjVEpZeklRSXd4aEJoLUs5VHdTWW51My1nNFN1WU9kTDJDVnU4TGxDemctS0pxRlBiUWl6dGZrV2FmRk1h?oc=5",
+          "published": "2026-11-16T14:34:00+00:00"
+        },
+        {
+          "title": "Partial list of 2027 Grammy Award nominees - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGY5M185eW03a2tXX1VhN1FGT2llbTQ4NG55ZHJKUGtmTGdObkNXTjRYVF9iVWVhaHBtdmNuY1pGeERfVFByS1MxclYwWWxNMEFBMXFrN3IxUWJ1djFRVWZnVlRXbjhGckU5ekRoZjlfakp3cXJ5WVJXdlBDSU1sLTJDRXJVV1pmRjFJUE1mU0Ridw?oc=5",
+          "published": "2026-11-16T14:07:00+00:00"
+        },
+        {
+          "title": "'A lot of women are angry': What people don't know about perimenopause - KSL",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObjJaQzVRTDBPUHVfMUNPazRtNVY2MnRrREtjdG05NXVJbnBCQllraGNUUG5yRWY0YmVSQTBqNnhPUGtCN3dka2NQVmFsR0NrbHJuMUJHOFdQalZpd2M4S2dOUU1tRjZBZVhzRXNqNUdycllCRXlLTHN5S09KSnFWUUF4RkxBUUJpSHJrM05pall5RHp3UUZ4LUFWamRNb0taNm45MEZR?oc=5",
+          "published": "2026-11-16T13:00:15+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.143,
+        "r": 0.125
+      }
+    },
+    "new-breast-cancer-pill-approved": {
+      "kind": "progress",
+      "title": "FDA схвалило нову таблетку Roche для лікування прогресивного раку грудей",
+      "region": "Медицина",
+      "summary": "FDA схвалило нову пероральну терапію Roche для лікування прогресивного раку грудей. Reuters повідомляє, що це перше схвалення препарату в США для цієї форми лікування. WSJ також пише про отримання Roche першого американського дозволу. Рішення важливе для пацієнтів із пізніми стадіями хвороби, де потрібні додаткові варіанти терапії.",
+      "picture": "Таблетка поруч із стрічкою на підтримку боротьби з раком грудей і медичним хрестом. Це символ нової надії в лікуванні та важливого регуляторного кроку.",
+      "mentions": 46,
+      "significance": 88,
+      "velocity": 86,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
+          "published": "2026-11-17T08:15:00+00:00"
+        },
+        {
+          "title": "US FDA approves Roche's oral treatment for advanced breast cancer - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSms5YU82MmpDRXFMeFduTDF3WUM5cjFIOGM4QU1lX3ZxSHBUNWY1endvNHp2bkkyODF1S0lUNDJPTE13ZDM2cGxsY0QtVVBKZWdlY1VNanEtV3U5U1hWdExMQjJnSnFISHZibWhiRWoza0JXNVRWTkR2YTZpOHJnamgyOEY3TUpwU2FTMXhTZV83Q2NqamRGNFVoNDl5UkdqRDNhYWkxWFhNTXRmWDdXQ0d4OHpIYW9oajhSdGphTmNJOHJHQkNUenRNWHQ?oc=5",
+          "published": "2026-11-16T22:41:29+00:00"
+        },
+        {
+          "title": "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3VFMlB3aDIxS1Q1N0JpbEhDSWhHcmlXRklMdE52UzljRUF0OURHeFlpTmlnR3AxcHoyVFJ1MjJJbEdiS1FwN29WRXVXQjJTckdaQ1lvT3lfMGVZV3hLb3NlY1g3YkpPVnlXTUxDUjd5V3hTdFR3amFOZ3pPVXFoLVpNdmxFRUE3Q1RVN0NDVGRMVmZHMWJzVEY1Q1MyaXhU?oc=5",
+          "published": "2026-11-16T15:08:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "alzheimer-biomarkers-brain-signals": {
+      "kind": "progress",
+      "title": "Учёні знайшли нові мозкові сигнали, здатні завчасно передбачати хворобу Альцгеймера",
+      "region": "Медицина",
+      "summary": "Учёні повідомляють про нові біологічні сигнали, які можуть допомогти завчасно передбачати ризик хвороби Альцгеймера. У наукових публікаціях, на які посилаються ScienceDaily і Science.org, йдеться, що на ризик і реакцію на лікування можуть впливати біологічна стать, генетика та менопауза. Дослідження також повертають інтерес до давно обговорюваної гіпотези про зв'язок хвороби з утратою важливих нейронів. Цей напрям може допомогти точніше розуміти розвиток захворювання.",
+      "picture": "Світний мозок, з якого виходять приховані хвилі сигналу. Образ показує пошук ранніх ознак хвороби, які поки не видно безпосередньо.",
+      "mentions": 46,
+      "significance": 86,
+      "velocity": 35,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+          "domain": "sciencedaily.com",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+          "published": "2026-11-16T12:41:09+00:00"
+        },
+        {
+          "title": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+          "domain": "science.org",
+          "url": "https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.143,
+        "r": 0.125
+      }
+    },
+    "hidden-medieval-cathedral-uncovered": {
+      "kind": "progress",
+      "title": "У Судані виявили підлогу собору та одну з найбільших середньовічних церков",
+      "region": "Архітектура і дизайн",
+      "summary": "У Судані археологи виявили приховану підлогу собору, яка виявилася частиною однієї з найбільших середньовічних церков. AP і Arab News повідомляють, що знахідка розкриває масштаби християнської пам'ятки в регіоні. Публікації називають її важливою для розуміння середньовічної історії Судану. Це рідкісне археологічне відкриття розширює уявлення про релігійне минуле країни.",
+      "picture": "Із землі проступає давня підлога собору й кам'яний хрест. Образ показує, як з-під шару часу виходить забута історія.",
+      "mentions": 46,
+      "significance": 84,
+      "velocity": 56,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Hidden cathedral floor emerges in Sudan, revealing one of the biggest medieval churches - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUk0wRUI0TXVoZXd0NHF0VFplaElsMXJ4c3BnblZ3YzVKa3ktV0lLdjJ4QUdINnF3VEktX082eTZ2VUdyeHNpUUFqZnJONVFia3JFZmowSVFVN0owQnMtNjB3cWt0dV9kcF96T2h5RkxrejNlR2FPekVObHVDaUw2Mjc0M2xFVzNvOF9jLVo4TUp3dldOSUE1QVZlSHh0eUV3SVJaZXZMSGlzSlBfeEpDMzhCYUlGeUQxWlF2OHY0ZUZzcjBwT3ViNzNMMA?oc=5",
+          "published": "2026-11-16T18:34:54+00:00"
+        },
+        {
+          "title": "A hidden cathedral floor emerges in Sudan, revealing one of the biggest medieval churches - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVklCRGh3aDhQZXNnMUYzaEt6V1VvUnAzUWJDaTBiNlpsTEhwQkxHRnZMa19IbnpFU3VMNzFLdThRMG85OUpKal83ci1kTk5NV25BRHh2akxVd0VTRmhXS3podmRuWW4xZnhtRXZHTVdKLW9vcjdORDFpN0xfX0FUbl9jaHByUW9aZG80UWxiRjlJOWYzWU04dg?oc=5",
+          "published": "2026-11-16T15:33:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.094,
+        "y": 0.125,
+        "r": 0.222
+      }
+    },
+    "baby-giraffe-live-stream": {
+      "kind": "micro",
+      "title": "У зоопарку Цинциннаті показали народження жирафеняти у прямому ефірі",
+      "region": "США",
+      "summary": "У зоопарку Цинциннаті вперше у прямому ефірі показали народження дитинчати жирафа. Місцеві ЗМІ пишуть, що дитинча з'явилося в самки на ім'я Тесса і стало п'ятим за рахунком. Зоопарк представив це як рідкісний і успішний випадок для глядачів онлайн. Подія привернула увагу як приклад публічного спостереження за народженням тварини.",
+      "picture": "Дитинча жирафа стоїть поруч із матір'ю. Це образ нового життя й зворушливого моменту, який глядачі побачили в прямому ефірі.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "WATCH: Cincinnati Zoo welcomes baby giraffe in first live-streamed birth - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZURqbkhpcVRJb0Y4bVV0MVBKNEowanNKeWt4VlQxN0VzRGc4eGRZanA1a1M1X1h1enJoalRoQWZJRUNDWi1aR0Q3S1k1VEpNMml2b0JGZVh5TWNxTVVtS0xPc3hGWGItSUptbWlEUFZiNTM1dE5VanV5WVZpbE5raWl3OGxZcWFWbWNWWXgxaTQ3UC1EckR2V2sxX1FRVkN3anpCVg?oc=5",
+          "published": "2026-11-17T09:20:00+00:00"
+        },
+        {
+          "title": "Watch: Cincinnati Zoo welcomes baby giraffe in first live-streamed birth - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVDNCYm9DMEk2REVHMkZLVFdIMGRHbkw1Vmdyajc5Y3NrcDY2cHM3MVBSV05ZNWtjN0E2eVFDRW9HMjIwYVlEN3BwbkYtc05HTEdpYk51Yk5FNDUwY1Utd21YOG92N0RHY0JCQ1J1Nm5Hek9sX1Z3NlJ2MA?oc=5",
+          "published": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "title": "Tessa gives birth to fifth calf during livestream at Cincinnati Zoo & Botanical Garden - WKRC",
+          "domain": "local12.com",
+          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPaHhlTWo4ZTYyWDAyU3JFZGFoT0ZWd0F6RnhWdTlTNTVjc0ZPdVR1Z29WdzBFbWJSVkJsaTh1ZzNGcHNENFhtSl94Q21VVWNOQjJSNDBzS3p0d0txZGU3dE5uaDlHNHNORzJYdGlVWHFJdTAwalVsY2NKS29fYUJKNWhUdERkR0pPa2E2MnhLX3RYTFhLY3o0d2MzMFNwM3A1YXozYjg5eGdHY0RvNktuWWpmWmFHeHNSeEJxTlU5Ml80NzVGZHI3dUl0RFM3ZFJxc1JPOTZrOGNPQWM5U1YxbHFLdHpsLXR5WlM4X293d0dKS0hBNl9LdUUtWE9RZk9CUkhIYVlpVkJZb2JJWXcyaC1KMHBDR0hWWnkwbDhYazBsNGdFTG9EZUdhUExoRnhjX2N6TGM0dWdFTjNVY01BUmozOXVhNVYtaGJpVjktd0dJS2ZqSmU1dU16SUhETkptN3lvay1Uc3BHYms0Y2VaOUdPVEUtQUFUd3k1Ry1BM2E5V1doN0E?oc=5",
+          "published": "2026-11-17T04:58:29+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "fiona-the-hippo-hat": {
+      "kind": "micro",
+      "title": "Гіпопотам Фіона в зоопарку з'їла шляпу і перебуває під наглядом",
+      "region": "США",
+      "summary": "У зоопарку Цинциннаті бегемот Фіона опинилася під наглядом після того, як з'їла шляпу відвідувача. AP, Guardian і місцеві ЗМІ пишуть, що предмет потрапив до вольєра, і працівники зоопарку одразу почали спостереження та лікування. Повідомляється, що Фіона перебуває під ветеринарним контролем. Інцидент знову привернув увагу до знаменитої бегемотихи, яка стала місцевою зіркою.",
+      "picture": "Бегемот із шляпою біля пащі. Це майже комічний, але тривожний образ, який показує, як предмет, що здається нешкідливим, стає приводом для лікування.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "Fiona the hippo receiving care after eating visitor’s hat at Cincinnati Zoo - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHRrUTJoeDZzNmYtc1VLTEhUVkJBdF85bkpYbUFkTEJmeWtnMjRLYWNmWHdFUzlEeTc5REhZX2kxeTB3NEluNkNsMkpwOVlOc1NZNU83cDB5dGo1amt2ZWdtR0NKc2k1a1JsdUUwT0FGbnBxYTBEcERiemQ5MEE0NDdEUmNuUklkMVkwRUtlZ3p1Q1dSOFFubjdZWjdfNWUtZVVaTnpmWQ?oc=5",
+          "published": "2026-11-17T07:45:00+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo Says Fiona the Hippo Undergoes Care After Eating a Hat - ASHARQ AL-AWSAT English",
+          "domain": "english.aawsat.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdGY2t4MHFDYVZUQ3Q1UWZERlRoTDVQMGh4dWdfMzRJSnFqU3BkdGVYX2dBbHFlOUxmMmZrLWZSVFZkYjZJOFZYb0VmLUxTWGdUTUsxbFF6U2VNZHNHNU9SdnBWMURYUjFma19INERzMnZmZURwTV9Yd1dKM1BPb3dwNDU3VmU0M0xXRjhpVkp2NEpfbDVRQVZhc1VSOVFGRGZ5Q1N1RDRrZy1h?oc=5",
+          "published": "2026-11-17T07:41:15+00:00"
+        },
+        {
+          "title": "Fiona the hippo being monitored after eating hat at Cincinnati Zoo - NewsNation",
+          "domain": "newsnationnow.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHluM25jOVVveW8wQ3VQenc0VlJNTy1zY0lIN29OQ1JTTHI2QUFPa2hWc3FBd0Y3U1pOcGQ3QkREd2ZzVGtZNzZoN0haNy1NT1AyaEU0d2RuNGdKX1JGNWlnVmVSeFVhQkwtdUZpVDM4eXNiRC16WURkNFRYSFJMaXg5S2dwRFpK0gGOAUFVX3lxTE4xYVdjdzduTGxSYk9xYktjNUZPUnA3MWxLOGN1RVh5X1YzVVdSM3htSlExSmFfeUN1WEtwSG1xT1hOdDROVmlmaWhVcGcxU25Jcm1CcVVaNFh1YjVjOTllRWllSFVDTzA5Vlk4aC1IUEpYV0NTdEJ4a3pDS0NrM1BhWGo3bFV2TXhsUzZyZFE?oc=5",
+          "published": "2026-11-17T06:35:50+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo monitoring Fiona after she swallows object tossed into her habitat - WKRC",
+          "domain": "local12.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2xOZVl4Ulpud2Q3RTgtelVfMUdCM2hZLVB0MmZLTnBqT1pUUEMySU1vZkZkNHRlZW9xTHh3SmdxYThkVHJjX1p0TnlLM21qSURxaURmWjNxcW4tWk10Mk80RVY5TmlPWk9XRkx1SHpUNy1CUnNQcTM0MjBmcjVSSnprTFhIRmZaZXA4NUNWckdadXhGcENjLXlrX3dGd3preW9yTWlOVUQ2VTZkcUhrZWxR?oc=5",
+          "published": "2026-11-17T04:01:41+00:00"
+        },
+        {
+          "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+          "published": "2026-11-17T01:18:28+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo says Fiona the hippo is undergoing care after eating a hat that got into enclosure - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHlQQUx6dXFEVmVMR0lhU2hib0dJUURpRnBidjF3STYybC1jMXQ0d3hTdTdraGxtZ05mdldMTnl3bW4yYmNYd0FzenZCdnNUdlVNS19FUTJjdk9DQm9VSTNBNjZVdFE1VWYxQ0ZBZGJCcmZ4VzhING5UeTg4MFNhVHcyRy1zWHdUbFhmZTZrcw?oc=5",
+          "published": "2026-11-16T22:45:00+00:00"
+        },
+        {
+          "title": "Fiona the hippo under 24-hour watch after ingesting object tossed by visitor at zoo - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjNDcTRQLVRDSk9UU2lUMmtld2VhN3E1XzMtdXlVOWRsVV9ULVhBYURRdEFIQmtrbGhiYm9HTW8yWEhnMDYxSFU5QnpNRW9yR2o1MWFtRG5EcVVYYlRldnZLQ002Y3RXaHdDTEtkTW9nWUNXSWVmdzBGMGt0VUFWZUdEcXhmYjQ?oc=5",
+          "published": "2026-11-16T22:28:00+00:00"
+        },
+        {
+          "title": "Trump says he needs funding for air traffic control after ground stop",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+          "published": "2026-11-16T22:01:19+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo monitoring Fiona after she ingested a hat ‘tossed’ by visitor - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2N2TGRTWmNrY3VuVnhLTVNISi1YM051dEJWTXctZUtlbU5KX3RzTU1oeURpc1lUb2dPWFZrRlBydEx3ZlM3UU01c1p0dnQ5eHdKdS02LWdHVURnaGtEQzYwOTRKcUtJVEVSdmhyQXEtaHNMRVJiM0xtNGlzZ0RveFFnOV9SZTRhQVhmcEo4NUtkclZlNVRsZXdGYzIyYzBNbmxOVmdlWm9ndw?oc=5",
+          "published": "2026-11-16T17:57:00+00:00"
+        },
+        {
+          "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo - The Guardian",
+          "domain": "theguardian.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVY2NDlfRDJmQmlfaUQwWTk5d2FzX1Y5ci1hN3M5aXptTmJBeXgwRi1LVDM4UzctZUM0dUg4VTVCZi13SmczV2pZeUhSemVrdUR4T3dXR1g2cGNHMmltTjc1aGh4UFFuMTRVSmRXYkQ5dk1MLThXNjRkWE9RRkdSVWlZZ2R6dw?oc=5",
+          "published": "2026-11-17T01:18:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "melbourne-cup-trophies-stolen": {
+      "kind": "micro",
+      "title": "В Австралії зникли три кубки Melbourne Cup",
+      "region": "Світ / крипто",
+      "summary": "У Мельбурні зникли три кубки Melbourne Cup, і поліція розшукує викрадені трофеї. Sky News і Guardian повідомляють, що кожен із них коштує близько 500 тисяч фунтів або приблизно 1 мільйон доларів. Кубки були викрадені з вітрини на іподромі Flemington. Правоохоронці перевіряють версію крадіжки, пов'язаної з будинком у Mount Waverley.",
+      "picture": "Три гоночні кубки на порожньому місці. Образ підкреслює раптову втрату дорогих спортивних нагород і слід крадіжки.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Police searching for three stolen Melbourne Cup trophies worth £500k each - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0I0elc5RHNaOGNjY2tCUU9qeWJQYkdteWpiM3VCb2NzNGRBbElDZlZOSENnMjFvTUQ0SzczbnpVZGJUY1AxTVdmOGVRbjBUVUxzOExBdlN1dDJ3U2ZtWW5LZXhMODJXVEF1b0gydXNQZ3BkUEhoSWFjODVPMjB2aFZ2MGRKSWllRi1nbU5TMlZ1ZEJYVmZSVHFZR2RqYkQ2SFc5cEdkWXJ0QW5l?oc=5",
+          "published": "2026-11-17T06:48:02+00:00"
+        },
+        {
+          "title": "Police searching for three stolen Melbourne Cup trophies worth $1m each",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
+          "published": "2026-11-16T23:15:07+00:00"
+        },
+        {
+          "title": "Three Melbourne Cup trophies worth £500k each stolen",
+          "domain": "news.sky.com",
+          "url": "https://news.sky.com/story/police-searching-for-three-stolen-melbourne-cup-trophies-worth-500k-each-13613066",
+          "published": "2026-11-17T04:00:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      }
+    },
+    "red-crab-migration": {
+      "kind": "micro",
+      "title": "На Різдвяному острові почалася щорічна міграція червоних крабів",
+      "region": "Азія",
+      "summary": "На Різдвяному острові почалася щорічна міграція червоних крабів. Euronews і UPI пишуть, що мільйони ракоподібних рушили з лісу до узбережжя, перетинаючи дороги та спеціальні мости на шляху до моря. Це сезонне природне явище щороку привертає увагу мешканців і спостерігачів. Міграція потрібна крабам для розмноження.",
+      "picture": "Маса червоних крабів рухається вперед єдиним потоком. Це образ великого природного ритуалу, який повторюється щороку.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Watch: Millions of Christmas Island crabs begin their annual migration",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/16/australia-christmas-island-national-park-crab-migration/4821794854991/",
+          "published": "2026-11-16T18:53:53+00:00"
+        },
+        {
+          "title": "Millions of red crabs begin annual migration on Australia’s Christmas Island",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/millions-of-red-crabs-begin-annual-migration-on-australias-christmas-island",
+          "published": "2026-11-16T11:18:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      }
+    },
+    "baby-sea-turtles-to-ocean": {
+      "kind": "micro",
+      "title": "На узбережжі Каліфорнії морські черепашенята вперше добігли до океану",
+      "region": "США",
+      "summary": "На узбережжі Південної Каліфорнії дитинчата морських черепах уперше дісталися до океану після історичного гніздування. The Guardian повідомляє, що це були перші зареєстровані гнізда морських черепах на західному узбережжі США. Через два місяці після виявлення кладки вилуплених черепашенят випустили в море. Учёні та спостерігачі вважають це важливою природною подією для регіону.",
+      "picture": "Маленькі черепашенята повзуть до океану. Образ показує крихкий початок життя і шлях до води як до мети.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Band of baby sea turtles swims into ocean after historic California nesting - The Guardian",
+          "domain": "theguardian.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1Vrdm5Fc3pBOElXTTBDZnhDU3l5dERxT1VHSzFza1VNVkNBaFFoOXZoYzR4NXY0UmlKSGFyeVhINGUzRFlSbVVjWkhVWVVweG1BbXhjSy1kaDJ3bXBRVjFoVExaQ0ZhVGVjNW9FMktkaEdpLVZ6SlhhQ3h3RWJlY2kwd21UQnN3WHc?oc=5",
+          "published": "2026-11-17T01:27:00+00:00"
+        },
+        {
+          "title": "Band of baby sea turtles swims into ocean after historic California nesting",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+          "published": "2026-11-16T23:19:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "quick-wallaby-beats-fox": {
+      "kind": "micro",
+      "title": "У Квінсленді валлабі втік від лисиці на пляжі",
+      "region": "Світ / крипто",
+      "summary": "У Квінсленді валлабі зумів утекти від лисиці під час швидкого переслідування на пляжі. ABC Australia повідомляє, що тварина виявилася спритнішою за хижака і виграла коротку погоню. Це рідкісний і вдалий епізод для спостерігачів дикої природи. Новину подано як незвичайну сцену з життя австралійського узбережжя.",
+      "picture": "Валлабі мчить повз лисицю по піску. Це образ спритності та неочікуваного порятунку в дикій природі.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Quick wallaby outruns fox in rare Queensland beach chase",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-17/fox-tries-to-take-down-wallaby-on-qld-beach/107393352",
+          "published": "2026-11-17T05:32:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.679,
+        "r": 0.125
+      }
+    },
+    "baby-parrot-chicks": {
+      "kind": "micro",
+      "title": "Пара врятованих папуг у США виростила двох пташенят",
+      "region": "США",
+      "summary": "У США врятована пара папуг успішно виростила двох пташенят. Times of India пише, що йдеться про пару червонолобих амазонів у Бронксському зоопарку, які після реабілітації сформували пару й дали потомство. У матеріалі наголошується, що зоопарк уже відновив понад 50 папуг, які постраждали від торгівлі дикими тваринами. Історію подано як приклад успішної реабілітації та розмноження.",
+      "picture": "Два пташенята сидять у гнізді. Це простий образ турботи, виживання та продовження життя після порятунку.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Parrot Breeding Success: Rescued pair raises two chicks; care helps birds recover",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/nature/after-us-border-agents-seized-trafficked-parrots-new-yorks-bronx-zoo-helped-care-for-more-than-50-birds-across-nine-confiscations-two-parrots-rescued-in-separate-cases-have-now-bred-and-raised-two-chicks/articleshow/135892540.cms",
+          "published": "2026-11-17T08:35:28+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "beaver-colonies-grow": {
+      "kind": "micro",
+      "title": "У Шотландії чисельність бобрових територій знову різко зросла",
+      "region": "Європа",
+      "summary": "У Шотландії чисельність бобрових територій більш ніж подвоїлася з 2018 року. За даними нового обстеження, їх стало близько 405, особливо в районах Tayside і Forth. Дослідження охопило понад 2 397 кілометрів водних шляхів. Зростання числа поселень показує стале повернення виду.",
+      "picture": "Бобер стоїть поруч із греблею. Це знак розширення популяції та того, як тварини знову змінюють ландшафт.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Scotland’s beaver territories more than double since 2018",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/science/wildlife/scotlands-beaver-territories-rise-from-39-in-2012-to-349-in-2026-across-tayside-and-forth-a-new-survey-also-finds-56-possible-territories-highlighting-the-recovery-of-a-mammal-once-hunted-to-extinction-in-the-country/articleshow/135914981.cms",
+          "published": "2026-11-17T07:15:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "grizzly-king-of-banff": {
+      "kind": "micro",
+      "title": "У Банфі ведмідь на прізвисько Бос знову став місцевою легендою",
+      "region": "США",
+      "summary": "У Банфі ведмідь на прізвисько Бос залишається місцевою легендою національного парку. NYT пише, що Bear 122 пережив поїзд, автомобілі та суперництво з іншими ведмедями. Тепер частина людей побоюється, що його головним ризиком стала власна слава. Історія показує, як дике життя та людська увага переплітаються навколо однієї тварини.",
+      "picture": "Грізлі стоїть на камені, мов владний господар території. Образ підкреслює його силу й майже міфічний статус.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+          "published": "2026-11-16T21:08:52+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "childrens-book-fair-homs": {
+      "kind": "micro",
+      "title": "У Хомсі відбувся дитячий книжковий ярмарок із фокусом на читання",
+      "region": "Близький Схід",
+      "summary": "У Хомсі відбувся дитячий книжковий ярмарок, присвячений читанню та розвитку юних талантів. Arab News пише, що захід був націлений на заохочення інтересу до книжок серед дітей. Ярмарок став культурною подією для міста. Організатори зробили акцент на читанні як на важливій частині виховання.",
+      "picture": "Діти дивляться на яскраві книжки на виставці. Образ показує навчання, цікавість і культурний простір для родини.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Children’s book fair in Homs promotes reading, nurtures young talent - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXlZQnFWYWo5YUQzajJzQXpkZUFfLV9XX2RQekg2b1o5UGpnaXc2WUpZOUIzOG91SzdrRDUxc0dRSTRvdUY1UXRlaEduVHVfYUZFSHVWbEswUlJ2V0Q1S1FBMlhWcDVUd0RwR21udDlURk5FTENrZXplcm9UUHZISWFsM1dieHFSekdUdDNfbUhtc3B5Zk9HSDB6Qi0wTkF5VkVaRUYxd2N6b1p0YlNfaA?oc=5",
+          "published": "2026-11-16T16:52:04+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.5,
+        "r": 0.125
+      }
+    },
+    "street-cricket-with-william-and-kate": {
+      "kind": "micro",
+      "title": "Вільям і Кейт зіграли в вуличний крикет під час візиту до Індії",
+      "region": "Азія",
+      "summary": "Принц Вільям і принцеса Кетрін розпочали триденний візит до Індії, пов’язаний із премією Earthshot. ЗМІ повідомляють, що в Мумбаї вони зіграли у вуличний крикет із місцевими гравцями та почали поїздку з неформальних публічних виходів. AP і BBC показують візит на фотографіях і в хроніці. Це частина їхньої офіційної поїздки Індією.",
+      "picture": "Принц і принцеса тримають крикетні бити. Це образ дружнього візиту, де офіційний протокол поєднується з місцевою грою.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Prince William and Princess Catherine visit India, in photos - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFl6cFd1bkdGakZwR3NmTW9WSUhzNDZNUy0zZUJrUGEyRm1jZ1l5T0dvTEo0VzhVT0pqcG1hMlZmLXE3QldteXR1SHhMblUwVjBJNmlOTV8tYlVGWTFJMExqblVCNFFJcUJnZHNKY0VmaUltcTh1dnBnaHFzdjlENmpkTXAzbXNSM2RkNy1CeU82c1AzNFp1aVd5ZUdnZWJQS3FFeEFxT3Vyd01Ua2FPcE5VYjVQTUhuOWc?oc=5",
+          "published": "2026-11-17T06:09:00+00:00"
+        },
+        {
+          "title": "Prince William and Kate Middleton kick off 3-day India trip - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmlCWlAwakVsd05qYWYwQkpENjdQT0tiRmF6Y0VoVEpvX3piV1VEUDlkWXhrWXZoQ2FZSkRZMndxSUxtcWtvbS1XSTR3RmRzR2RXZms3WmdSVDRwZVZpZkEtVHFZb1Nzems4QmVaeFlkZi0tRFVaYjh1R0t3bzhrME0xWXVpWVV3aG1CS2Rjd3RSWTk0NnFoT2FhWDVDMW0tRjJkZTlpX2lTdzJD0gGyAUFVX3lxTE1nZUhvTUFjTEpSd0xsbnpYeS0tbFU3UXVlMVZ0eE51WVF2UnFQc2lnTnRVSDFNNkVMZDk0cVpXbVRuN3k3bTdwem9FaG44OTV3eFR4SWtPUGZMX3RrNDBLRHlpeUM0M3Zzb3FxUEpSZnNZa1U4RXZ5TTZscW9FVEZiRHV0WXh3RE9OWGhETmVBaGh0N09adjAtT1lwNEd5V3JLTUQwaFRrMUZKNXl5VEpXR1E?oc=5",
+          "published": "2026-11-16T16:34:58+00:00"
+        },
+        {
+          "title": "Prince William and Princess Catherine play street cricket with locals in Mumbai",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/prince-william-and-princess-catherine-play-street-cricket-with-locals-in-mumbai",
+          "published": "2026-11-16T15:57:01+00:00"
+        },
+        {
+          "title": "Britain’s Prince William and Princess Catherine arrive in India for 3-day visit - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjBHOHYxdno3UzVhNnFsVTZrRHJReFFkWjVITjZXYjhkWGhOVGI4eER0NUpGcjRzT0l3RGFhZDBxaDh5LTlBNHFoMDd0b3FHR2p1cUxkYXZoRjR4QjExTnhBSGV3YVZ2dVlKbHJGY2ZWREppelVYRlRPODRSVElxNWNPaEdDczlRdHlzcnk1R2hJaVpvSkxHc0xueHhMdnZ0VXpzbWhmei16ZnF0eUVwcmNhYTd6RU9M?oc=5",
+          "published": "2026-11-16T15:14:21+00:00"
+        },
+        {
+          "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T15:08:59+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.857,
+        "r": 0.125
+      }
+    },
+    "moulin-rouge-christmas": {
+      "kind": "micro",
+      "title": "Танцівники Moulin Rouge відкрили різдвяний сезон у Парижі",
+      "region": "Європа",
+      "summary": "Танцівники Moulin Rouge відкрили різдвяний сезон у Парижі. Euronews повідомляє, що разом із музикантами Республіканської гвардії вони запалили різдвяні вогні біля церкви Мадлен, виконавши французький канкан. Ця святкова міська подія стала стартом зимового оздоблення. Париж відзначив початок сезону яскравим шоу.",
+      "picture": "Кабаре-танцівники з пір’яними віялами. Образ передає паризьке свято, музику та початок різдвяних вогнів.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Moulin Rouge dancers kick off Paris Christmas celebrations",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/16/moulin-rouge-dancers-kick-off-paris-christmas-celebrations",
+          "published": "2026-11-16T14:04:49+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      }
+    },
+    "holiday-lights-parades": {
+      "kind": "micro",
+      "title": "У США та Канаді знову стартували паради й фестивалі вогнів",
+      "region": "США",
+      "summary": "У США та Канаді знову стартували фестивалі та паради вогнів до зимового сезону. Місцеві видання повідомляють про повернення фестивалів світла, різдвяних вогнів і святкових ходів у різних містах. Серед них — Riverside, Savannah, Palm Springs і Chattanooga Zoo. Це сезонна хвиля міських свят, яка лише починається.",
+      "picture": "Стрічки вогнів і святкові платформи. Це символ початку зимових урочистостей і міських парадів.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Cathedral City International Hot Air Balloon Festival returns this weekend - KESQ",
+          "domain": "kesq.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXcyTU1rQjBqb09rbEJ2SE9WX0lRTE4tQ3M3ZW1MR3ByRVVfR0dHcVVBTk1UWG5BWlJ6RUhXbnItQ1Bob2x6WTJUNFhtTHdFY09Nejk0Qk9jT1NGX1lRQXNac0NqWWZDSkdBT2xDS2RfSkpzUDN4Wkx1bjdwOFF4eTZ2RTlfS20wU0pXYzA1ZW9GWUcxOE9fRWRzR1RiaWRFeVp5OEhTbUxLSWl6?oc=5",
+          "published": "2026-11-17T06:05:01+00:00"
+        },
+        {
+          "title": "La Salette's Christmas Festival of Lights set to return just before Thanksgiving - WJAR",
+          "domain": "turnto10.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWlDd2tHWTVFamotTVlkWE1lNHRoYmdFQl9MUWc3MDloaHhQcTFOTnZ3Q1hZUXlHRkkweWJFV0EwemtmZno4Qi1OSl9wZGhDWXpwQzZHS0IwbVdQbWZjclgwc2JUak9DaVp3R2czUTRTWkR0WThuelJYTk5sSmZLbFlBOWRhQ1QxUjl4R3dCZnR0cEFwcEg0STJmRldLUndVR1E4U2swWmg1cE5wSnJSNS04c2I0SWU4MVZUa1ZFT2NsT0xxcFZ5VDN0R1EtRDd2dDhPemJWYm4?oc=5",
+          "published": "2026-11-17T01:05:02+00:00"
+        },
+        {
+          "title": "Famed Festival of Lights Returns to Downtown Riverside Saturday - MyNewsLA.com",
+          "domain": "mynewsla.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHdnZU5rTHQ2azIzNFFSNFQ4RGpqbzdDeTBHQnRrRlNXUDA3M1ZLYUdPbWlySFFFdWlIZzVYbUdsSHN5SjNPdkNOT1c0bHZwbXJFR0N6UEVfSzNuUkZmX2JNRUVEb1B0Q1Q5XzFJQlpxOXdENmxya3N2NlcyVDhkV05NbHlPM3NlR1BUYWF3YjVuSE9VUDhsQXhGV1JjZDNDai1selUySVE?oc=5",
+          "published": "2026-11-17T00:42:28+00:00"
+        },
+        {
+          "title": "Savannah Holly Days festival runs Nov. 19 through Jan. 1 - WTOC",
+          "domain": "wtoc.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTzhUd2R0dTVydG5SOG9JTHA1ajRDQ0xENUNuQ2c2dDk1S3M2WWNqZ09BeGFJOThVLXY4VVFuQkRsODJxZXBoM0VPUzlvdllSNFpoZUhKRzc3Y2pUSmRKMU9WTk5TTFRvVy1lVHN4ZzdpTGVMbEpNNm56djhHQzF1UEVOLTRqWjdIVkJ3MnJ6N03SAaQBQVVfeXFMUGUySDk3Z1VJTGhLVmlQRElqejhpZ21tS08yd01Qck1WLU5UOHVyUUo1QzNVdTQ2ZktJa0VYYjQtQy1OakhYRXhGbnNmTFJVbkpvOXNrOXp2Si1aTk0xak5DYlZROEJfLU5NT0V3R3JxZzBEWms5X1dXdDJQNnV0SDVjRUJZbGdCUGF4Tlc3QnpaQ211N0pVbDBiOFpacmJTc0xlWUQ?oc=5",
+          "published": "2026-11-16T21:29:00+00:00"
+        },
+        {
+          "title": "Chattanooga Zoo's Asian Lantern Festival returns with hundreds of glowing displays - wtvcfox",
+          "domain": "foxchattanooga.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObG9SV29DaHNLa2RtN1NhWk9MUmVMN0VxcjZ6ekZIR0hwU1dRdkliTGZIbEJvN3FvZU9pUHJ0MjB0ZkxsMC01Z1VmRkFqdFJsOXh1em5tUXJqcWVSS1ZXRlRGRVdSYTFOUEJZV0FwMjAwVUFhblJhN2lDMHotSXNKbXNjVkExWXMxNy05Y1RNbjlsSnh3LWZzSXZyY0hqVnYzSnRWdF84dVA1RndRVXRCQ0kwdzZuODlwQlFxVkZhaW9RRVcxeHhwTVZDSFR2cEIwenhRNUZrWWVqbVk?oc=5",
+          "published": "2026-11-16T17:03:55+00:00"
+        },
+        {
+          "title": "Palm Springs announce ‘Festival of Lights Parade,’ other holiday festivities - KESQ",
+          "domain": "kesq.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWdGUVVKeVZJaG5FRVlKRkRSbXVSN2puckhPdk03MjZBVUI1ek9OWGZnRThRRHV6cEt1eWZzOHl1YnpRaFhVQktEcHdvOHRsU0tTa0FZcThpUGpVUE9ycGJxelFNXzZYTW5SRXpJQTJCdC1PNUd2VW9Pb3djc2lSYmh0NG11bVIyRUVqZkNTNUlSXzVrdWdmazZraUlkR2R2anVPMGotdkR6T2c?oc=5",
+          "published": "2026-11-17T02:43:59+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.729,
+        "y": 0.917,
+        "r": 0.156
+      }
+    },
+    "tetris-showdown-denmark": {
+      "kind": "micro",
+      "title": "У Данії влаштували чемпіонат із тетрісу",
+      "region": "Європа",
+      "summary": "У Данії відбувся європейський чемпіонат із тетрісу. Euronews повідомляє, що в змаганні взяли участь понад 40 гравців, а перемогу у фіналі здобула нідерландська учасниця Eve Commandeur, обігравши британця Сема Вона. Турнір зібрав шанувальників класичної гри з усієї Європи. Це рідкісний приклад серйозного спортивного змагання у світі відеоігор.",
+      "picture": "Двоє гравців зосереджені перед екраном із тетрісом. Образ підкреслює концентрацію і змагання в простій, але складній грі.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Denmark hosts Tetris showdown as Dutch champion takes victory",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/17/denmark-hosts-tetris-showdown-as-dutch-champion-takes-victory",
+          "published": "2026-11-17T09:00:32+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.429,
+        "r": 0.125
+      }
+    },
+    "robot-pianist-chopin": {
+      "kind": "micro",
+      "title": "Робот із 53 пальцями зіграв Шопена разом із музикантом",
+      "region": "Європа",
+      "summary": "В Італії робот-піаніст TeoTronico із 53 пальцями зіграв Шопена разом із музикантом Роберто Просседою. Euronews пише, що виступ став не лише демонстрацією технології, а й приводом обговорити, чи можуть машини передавати емоції в музиці. Концерт об’єднав людину й робота на одній сцені. Це показовий експеримент на межі мистецтва і техніки.",
+      "picture": "Робот і людина грають на піаніно поруч. Образ показує діалог машини й музиканта, а не суперництво.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "53-fingered robot pianist and human musician perform Chopin together",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/17/53-fingered-robot-pianist-and-human-musician-perform-chopin-together",
+          "published": "2026-11-17T08:21:50+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.104,
+        "y": 0.512,
+        "r": 0.156
+      }
+    },
+    "jacket-potato-van": {
+      "kind": "micro",
+      "title": "Король Британії зупинився біля вірусного фудтрака з печеною картоплею",
+      "region": "Європа",
+      "summary": "Король Великої Британії зупинився біля вірусного фудтрака з печеною картоплею. Sky News повідомляє, що він поспілкувався з власниками та отримав частування, яке видання назвало «positive spud». Це була неофіційна й легка сцена під час його публічного виходу. Новина привернула увагу саме своєю побутовою простотою.",
+      "picture": "Фургон із печеною картоплею та усміхнений король. Образ підкреслює несподіваний, майже буденний момент у королівському візиті.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "King given 'positive spud' as he stopped by the viral jacket potato van - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnB5TlRCRWZCQ1AxOUs1YXRlUktOcnRaOTVnQ0JCY0Z5OTFtMVd3SjEwX1ZMcWdydmRMdFp0NTlhNkttakVFaUphejJTUUtZS09YLVFZVHozLWlyOEg1UjdlbFBxeFJwRUlTZ2xOMW5leDktWklQcU5tR3Vxa3d2X1Y0dy0taldSZ0ItdEdrNUdZQ0kyb2QtWkZPLU5HQ01xRDJMdlBaemE?oc=5",
+          "published": "2026-11-16T16:07:20+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.146,
+        "y": 0.56,
+        "r": 0.156
+      }
+    },
+    "flying-rosary": {
+      "kind": "micro",
+      "title": "Папа на прощанні в Перу отримав по обличчю вервицею і віджартувався",
+      "region": "Латинська Америка",
+      "summary": "Папа Лев XIV під час прощальної меси в Перу отримав по обличчю вервицею, кинутою з натовпу. ТАСС пише, що понтифік не постраждав, а Fox News та інші видання показали відео інциденту. За повідомленнями ЗМІ, після цього він продовжив службу і не надав події великого значення. Подія стала помітним епізодом його поїздки.",
+      "picture": "Вервиця в польоті й розгублений папа. Це образ несподіваного порушення урочистого моменту, яке він швидко пережив.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Папа Римский не пострадал при инциденте с четками в Перу",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/obschestvo/28325871",
+          "published": "2026-11-17T09:27:14+00:00"
+        },
+        {
+          "title": "Pope Leo XIV hit in the face by flying rosary during farewell Mass in Peru, video shows - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHJpSTFfZUpKWExDLVd2d0FrLW00Rzh5MkkwbDZHUkp1MG8wRzdQMW9XY3ZhcURjLWppWlQ4STJNbzBoc2NFR3J4R3A4X0hrSXVsYXRtcHI2dFJHbm50NkhsVDc0ZXlDSDZobG1KTXdISmZBdUF0RTJucUVvblpVdDRNMWc5Njg4enhFVmFlZkp5M2hieEtuNmxCTGXSAaIBQVVfeXFMT2JJaVVVSDZadzJDRlN6am5XYV9xR00xeGRzWHZwU1dpeWF1bDVLbFprSXRDX0FzTmM5ZTVvZWJscHp2MlBTcl9ZeXpENXFUdFRrYTFMdjNHYmxGdTV0VmM2cS1wd1VYVWhMNm9LSUdCVDF4c2pxZEhmZHlRYmFaWFNoRk92NjFhZ2NzMl9zS1h0SmZvc3pGaEp4N25IUkc2UElR?oc=5",
+          "published": "2026-11-16T20:33:32+00:00"
+        },
+        {
+          "title": "'Obrigado pela hospitalidade', diz papa em missa caótica em sua despedida do Peru",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/obrigado-pela-hospitalidade-diz-papa-em-missa-caotica-antes-de-voltar-a-vaticano.shtml",
+          "published": "2026-11-16T17:37:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "hippo-eats-hat-viral-zoo": {
+      "kind": "micro",
+      "title": "У Цинциннаті Фіона знову стала зіркою через з’їденого капелюха",
+      "region": "США",
+      "summary": "У зоопарку Цинциннаті бегемотиця Фіона опинилася під наглядом після того, як з’їла капелюх відвідувача. За повідомленнями AP, Reuters і місцевих медіа, предмет потрапив до вольєра, після чого працівники зоопарку почали догляд і контроль за її станом. Історія знову зробила Фіону помітною в новинах.",
+      "picture": "На малюнку бегемот жує капелюх. Це прямий і іронічний образ інциденту, через який Фіона знову стала героїнею новин.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Fiona the hippo receiving care after eating visitor’s hat at Cincinnati Zoo - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHRrUTJoeDZzNmYtc1VLTEhUVkJBdF85bkpYbUFkTEJmeWtnMjRLYWNmWHdFUzlEeTc5REhZX2kxeTB3NEluNkNsMkpwOVlOc1NZNU83cDB5dGo1amt2ZWdtR0NKc2k1a1JsdUUwT0FGbnBxYTBEcERiemQ5MEE0NDdEUmNuUklkMVkwRUtlZ3p1Q1dSOFFubjdZWjdfNWUtZVVaTnpmWQ?oc=5",
+          "published": "2026-11-17T07:45:00+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo Says Fiona the Hippo Undergoes Care After Eating a Hat - ASHARQ AL-AWSAT English",
+          "domain": "english.aawsat.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdGY2t4MHFDYVZUQ3Q1UWZERlRoTDVQMGh4dWdfMzRJSnFqU3BkdGVYX2dBbHFlOUxmMmZrLWZSVFZkYjZJOFZYb0VmLUxTWGdUTUsxbFF6U2VNZHNHNU9SdnBWMURYUjFma19INERzMnZmZURwTV9Yd1dKM1BPb3dwNDU3VmU0M0xXRjhpVkp2NEpfbDVRQVZhc1VSOVFGRGZ5Q1N1RDRrZy1h?oc=5",
+          "published": "2026-11-17T07:41:15+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo monitoring Fiona after she swallows object tossed into her habitat - WKRC",
+          "domain": "local12.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2xOZVl4Ulpud2Q3RTgtelVfMUdCM2hZLVB0MmZLTnBqT1pUUEMySU1vZkZkNHRlZW9xTHh3SmdxYThkVHJjX1p0TnlLM21qSURxaURmWjNxcW4tWk10Mk80RVY5TmlPWk9XRkx1SHpUNy1CUnNQcTM0MjBmcjVSSnprTFhIRmZaZXA4NUNWckdadXhGcENjLXlrX3dGd3preW9yTWlOVUQ2VTZkcUhrZWxR?oc=5",
+          "published": "2026-11-17T04:01:41+00:00"
+        },
+        {
+          "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+          "published": "2026-11-17T01:18:28+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo says Fiona the hippo is undergoing care after eating a hat that got into enclosure - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHlQQUx6dXFEVmVMR0lhU2hib0dJUURpRnBidjF3STYybC1jMXQ0d3hTdTdraGxtZ05mdldMTnl3bW4yYmNYd0FzenZCdnNUdlVNS19FUTJjdk9DQm9VSTNBNjZVdFE1VWYxQ0ZBZGJCcmZ4VzhING5UeTg4MFNhVHcyRy1zWHdUbFhmZTZrcw?oc=5",
+          "published": "2026-11-16T22:45:00+00:00"
+        },
+        {
+          "title": "Fiona the hippo under 24-hour watch after ingesting object tossed by visitor at zoo - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjNDcTRQLVRDSk9UU2lUMmtld2VhN3E1XzMtdXlVOWRsVV9ULVhBYURRdEFIQmtrbGhiYm9HTW8yWEhnMDYxSFU5QnpNRW9yR2o1MWFtRG5EcVVYYlRldnZLQ002Y3RXaHdDTEtkTW9nWUNXSWVmdzBGMGt0VUFWZUdEcXhmYjQ?oc=5",
+          "published": "2026-11-16T22:28:00+00:00"
+        },
+        {
+          "title": "Trump says he needs funding for air traffic control after ground stop",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+          "published": "2026-11-16T22:01:19+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo monitoring Fiona after she ingested a hat ‘tossed’ by visitor - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2N2TGRTWmNrY3VuVnhLTVNISi1YM051dEJWTXctZUtlbU5KX3RzTU1oeURpc1lUb2dPWFZrRlBydEx3ZlM3UU01c1p0dnQ5eHdKdS02LWdHVURnaGtEQzYwOTRKcUtJVEVSdmhyQXEtaHNMRVJiM0xtNGlzZ0RveFFnOV9SZTRhQVhmcEo4NUtkclZlNVRsZXdGYzIyYzBNbmxOVmdlWm9ndw?oc=5",
+          "published": "2026-11-16T17:57:00+00:00"
+        },
+        {
+          "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo - The Guardian",
+          "domain": "theguardian.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVY2NDlfRDJmQmlfaUQwWTk5d2FzX1Y5ci1hN3M5aXptTmJBeXgwRi1LVDM4UzctZUM0dUg4VTVCZi13SmczV2pZeUhSemVrdUR4T3dXR1g2cGNHMmltTjc1aGh4UFFuMTRVSmRXYkQ5dk1MLThXNjRkWE9RRkdSVWlZZ2R6dw?oc=5",
+          "published": "2026-11-17T01:18:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "faisalabad-buffalo-record-milk": {
+      "kind": "micro",
+      "title": "У Пакистані буйволиця виграла конкурс надоєм 49,4 кг молока",
+      "region": "Азія",
+      "summary": "У Фейсалабаді буйволиця на кличку Морні виграла конкурс надою, давши 49,4 кілограма молока. Dawn пише, що змагання відбулося під наглядом департаменту тваринництва в Чаку 100-JB. Тварина належить Рані Ікраму з Чаку 123-JB. Це локальна сільськогосподарська новина про рекордний результат.",
+      "picture": "Прикрашена буйволиця поруч із відром молока. Образ показує сільський конкурс і цінність продуктивної тварини.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Faisalabad buffalo wins competition by producing 49.4kg milk",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2045003/faisalabad-buffalo-wins-competition-by-producing-494kg-milk",
+          "published": "2026-11-17T01:43:25+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "fiona-under-watch": {
+      "kind": "micro",
+      "title": "У зоопарку Цинциннаті за Фіоною стежать цілодобово після інциденту",
+      "region": "США",
+      "summary": "За Фіоною в зоопарку Цинциннаті стежать цілодобово після інциденту з капелюхом. Повідомляється, що зоопарк надає їй ветеринарну допомогу та уважно стежить за станом тварини після того, як предмет потрапив до вольєра. Деталі в джерелах збігаються: йдеться про випадково опинився у вольєрі капелюх і подальший контроль.",
+      "picture": "На малюнку бегемот поруч із ветеринарами. Образ підкреслює, що за твариною нині уважно стежать і надають допомогу.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Fiona the hippo receiving care after eating visitor’s hat at Cincinnati Zoo - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHRrUTJoeDZzNmYtc1VLTEhUVkJBdF85bkpYbUFkTEJmeWtnMjRLYWNmWHdFUzlEeTc5REhZX2kxeTB3NEluNkNsMkpwOVlOc1NZNU83cDB5dGo1amt2ZWdtR0NKc2k1a1JsdUUwT0FGbnBxYTBEcERiemQ5MEE0NDdEUmNuUklkMVkwRUtlZ3p1Q1dSOFFubjdZWjdfNWUtZVVaTnpmWQ?oc=5",
+          "published": "2026-11-17T07:45:00+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo Says Fiona the Hippo Undergoes Care After Eating a Hat - ASHARQ AL-AWSAT English",
+          "domain": "english.aawsat.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdGY2t4MHFDYVZUQ3Q1UWZERlRoTDVQMGh4dWdfMzRJSnFqU3BkdGVYX2dBbHFlOUxmMmZrLWZSVFZkYjZJOFZYb0VmLUxTWGdUTUsxbFF6U2VNZHNHNU9SdnBWMURYUjFma19INERzMnZmZURwTV9Yd1dKM1BPb3dwNDU3VmU0M0xXRjhpVkp2NEpfbDVRQVZhc1VSOVFGRGZ5Q1N1RDRrZy1h?oc=5",
+          "published": "2026-11-17T07:41:15+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo monitoring Fiona after she swallows object tossed into her habitat - WKRC",
+          "domain": "local12.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2xOZVl4Ulpud2Q3RTgtelVfMUdCM2hZLVB0MmZLTnBqT1pUUEMySU1vZkZkNHRlZW9xTHh3SmdxYThkVHJjX1p0TnlLM21qSURxaURmWjNxcW4tWk10Mk80RVY5TmlPWk9XRkx1SHpUNy1CUnNQcTM0MjBmcjVSSnprTFhIRmZaZXA4NUNWckdadXhGcENjLXlrX3dGd3preW9yTWlOVUQ2VTZkcUhrZWxR?oc=5",
+          "published": "2026-11-17T04:01:41+00:00"
+        },
+        {
+          "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+          "published": "2026-11-17T01:18:28+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo says Fiona the hippo is undergoing care after eating a hat that got into enclosure - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHlQQUx6dXFEVmVMR0lhU2hib0dJUURpRnBidjF3STYybC1jMXQ0d3hTdTdraGxtZ05mdldMTnl3bW4yYmNYd0FzenZCdnNUdlVNS19FUTJjdk9DQm9VSTNBNjZVdFE1VWYxQ0ZBZGJCcmZ4VzhING5UeTg4MFNhVHcyRy1zWHdUbFhmZTZrcw?oc=5",
+          "published": "2026-11-16T22:45:00+00:00"
+        },
+        {
+          "title": "Fiona the hippo under 24-hour watch after ingesting object tossed by visitor at zoo - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjNDcTRQLVRDSk9UU2lUMmtld2VhN3E1XzMtdXlVOWRsVV9ULVhBYURRdEFIQmtrbGhiYm9HTW8yWEhnMDYxSFU5QnpNRW9yR2o1MWFtRG5EcVVYYlRldnZLQ002Y3RXaHdDTEtkTW9nWUNXSWVmdzBGMGt0VUFWZUdEcXhmYjQ?oc=5",
+          "published": "2026-11-16T22:28:00+00:00"
+        },
+        {
+          "title": "Trump says he needs funding for air traffic control after ground stop",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+          "published": "2026-11-16T22:01:19+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo monitoring Fiona after she ingested a hat ‘tossed’ by visitor - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2N2TGRTWmNrY3VuVnhLTVNISi1YM051dEJWTXctZUtlbU5KX3RzTU1oeURpc1lUb2dPWFZrRlBydEx3ZlM3UU01c1p0dnQ5eHdKdS02LWdHVURnaGtEQzYwOTRKcUtJVEVSdmhyQXEtaHNMRVJiM0xtNGlzZ0RveFFnOV9SZTRhQVhmcEo4NUtkclZlNVRsZXdGYzIyYzBNbmxOVmdlWm9ndw?oc=5",
+          "published": "2026-11-16T17:57:00+00:00"
+        },
+        {
+          "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo - The Guardian",
+          "domain": "theguardian.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVY2NDlfRDJmQmlfaUQwWTk5d2FzX1Y5ci1hN3M5aXptTmJBeXgwRi1LVDM4UzctZUM0dUg4VTVCZi13SmczV2pZeUhSemVrdUR4T3dXR1g2cGNHMmltTjc1aGh4UFFuMTRVSmRXYkQ5dk1MLThXNjRkWE9RRkdSVWlZZ2R6dw?oc=5",
+          "published": "2026-11-17T01:18:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "cats-and-dogs-zoo-days": {
+      "kind": "micro",
+      "title": "Зоопарки США й Австралії показали низку милих новин про тварин",
+      "region": "США",
+      "summary": "У стрічках з’явилося одразу кілька добрих новин із зоопарків США та Австралії. Повідомляється про народження дитинчати жирафа в Цинциннаті, рідкісну поведінку горил в ізраїльському зоопарку, смерть тварини на ім’я Meatball у зоопарку Аляски, нового верблюденя в Детройті та інші історії про тварин. Це добірка коротких зооновин із різних міст і країн.",
+      "picture": "На малюнку — зоопарк із тваринами, доглядачами та відвідувачами. Це загальний образ серії милих і розрізнених новин про життя тварин у зоопарках.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 10,
+      "articles": [
+        {
+          "title": "Watch: Cincinnati Zoo welcomes baby giraffe in first live-streamed birth - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVDNCYm9DMEk2REVHMkZLVFdIMGRHbkw1Vmdyajc5Y3NrcDY2cHM3MVBSV05ZNWtjN0E2eVFDRW9HMjIwYVlEN3BwbkYtc05HTEdpYk51Yk5FNDUwY1Utd21YOG92N0RHY0JCQ1J1Nm5Hek9sX1Z3NlJ2MA?oc=5",
+          "published": "2026-11-17T05:25:00+00:00"
+        },
+        {
+          "title": "Watch: In rare display, gorillas at Israeli zoo form ‘living ladder’ to reach inaccessible food - JNS.org",
+          "domain": "jns.org",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3RoYTAyRzJpcTFtazdrZGJWVm9oX2ItX2lQNjQ5a2E0TGRlMFNKUDQwWGZYMDljV2VIMXlUU25fYXdxT0ZacXB4d1h1Y2hGMTgtTExNNXZEdUFZRnEweDFVZG4tU1hBUjVHY3ZBMllfNDhtdE94ZzBfbFdtMExHUTFvenJWemJNUHVzei1fdHh4T3pzVE5paXI4c2VSRVN0S1Z2VDdLS0cyaTRWWG9PLWJZWGFPbldKbklhd3ZfX0R4Y1d2aTk4?oc=5",
+          "published": "2026-11-17T05:08:09+00:00"
+        },
+        {
+          "title": "Meatball, Juneau’s former misdirected marsupial, dies at Alaska Zoo - KTOO",
+          "domain": "ktoo.org",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0ZfamVVbUZnbGJDbW5sZ0c4TWtnN3VCTVhtTmE4SDN1dEdPdlVNN0tLcXA4NmlQN2wwemxENEswTW91TkhzZHhzMDBjbUkwdzRNemUzVk4tcEJySTNfak5rZkVYc0NzRTlmUFJ6UTFvMzZZUTdQVnU1M2xQZDRUeWVYOXJmaGlrS2ZzTHRfYVRSVjBFVVEwWi1xY0ZTZw?oc=5",
+          "published": "2026-11-17T05:08:06+00:00"
+        },
+        {
+          "title": "Giant Panda Mornings - Zoo Atlanta",
+          "domain": "zooatlanta.org",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zV3hkTGRVT0F1SnZiRUhvRkFBU09TUXZ3R1pkSkJDdGI5dmZzMnRjcjdjVWoyd1JVX1B5V080dXE5SFJPbGZJXzhGUjZHdDhQQkZBOUxwWGE?oc=5",
+          "published": "2026-11-17T03:43:17+00:00"
+        },
+        {
+          "title": "Meet the Detroit Zoo’s curious new camel, 1-year-old Baatar - The Detroit News",
+          "domain": "detroitnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmRKTExIc2lGalp1MGJMNHQ3dUpMTXBFYVJidHZxMjdfbl9kMENHNXBRR0tBU1dYeThlS3Q5blBFOEpKRUo3VnFUS25fTk0tZVN2cEhIOXF0THktZ19vbWFNdDJJWGczTFFwZGs1bmlIUzVlYUloOGZKNDVfVjZiZzd0MGtodnN3ZTRPOU5oRjRBLUpJX3kxNTlESnBnVFFLcGdCakQ0Y18yUjJOYy1kUGprTDZPbmVGSExUYzdkaDh0SVU?oc=5",
+          "published": "2026-11-17T02:56:00+00:00"
+        },
+        {
+          "title": "Washington Post. . Hundreds of dogs took over the Phoenix Zoo on November 14 for the first-ever “Tails on the Trails” event. The event featured parades and treats, and four dogs even found new familie",
+          "domain": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmRKdDUxOFphR2pZeFVoVnZIV3F4TnFYM19nYkZtaEtPS21Eb19kclQyaGdOOWgwV0RKTlFfQldvOFlZcmpiaF8ydkppUHRmQ2lRZDVNRWJlWjlzdllsZjJRMlRrRTBZOUJhbVgyMVJuYU1xMjhmdkV4QXUtN1EwNXB5Rks5dF9ZbGNsUDREckZzOTI2b2NaWWlXZzIwMWkwSFdYeHhZUHlrTXNRN0pRa3B4MGY?oc=5",
+          "published": "2026-11-17T01:00:08+00:00"
+        },
+        {
+          "title": "Fort Worth Zoo Releases 1,000th Jamaican Rock Iguana Into Wild - Fort Worth Magazine",
+          "domain": "fwtx.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12WjVjSFQtS3lPcUNGNWR5RUItVkpucWVxa2ZFUkMxOXNDaW1xZ25LRVhzdm1hNGFqQVhTY1Mza21YWXN3UmZ3OUcwNjAzaFZObENzcXRzOVBpWlc0bmlZYjdSbGh4MWRaY19wNlhR?oc=5",
+          "published": "2026-11-17T00:37:34+00:00"
+        },
+        {
+          "title": "Meet Baatar! Detroit Zoo welcomes new 1-year-old Bactrian camel - MLive.com",
+          "domain": "mlive.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkF6MktBc0NjNmdQWG1rb0hfMW1zdC1qdUsyT2NYWGVJWU5qdERUVjlDRHZ1WFlQNi10TjU1WW1JVkFhOWpXdVZyeTJHaHdUeUVORFpvbUlnRUgySFhlRExia3BiZG9JVGMtYUVXQ1o1eHVIMnRmcXowYld4NF8xM2ZxN0FQSGpvN3Q4c2E0QU9wQnVZWDE1QkJhZ3dwdVplbHBVS3pQNUhfN3hBcU5N?oc=5",
+          "published": "2026-11-16T23:33:00+00:00"
+        },
+        {
+          "title": "‘Out of the woods’: Oregon Zoo elephant calf Tula-Tu on the mend after life-threatening virus infection - KOIN.com",
+          "domain": "koin.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWFSZ0pjXzdUSUZKUnpCMFR0a09PS2JaUkloeVN3bkZXbl9SSk9uS1JzdURIMHd0R2N6NWFvUG9obXN2VHRIZFpuLWlKdUp5NE5JcEpSTFZqYUowTmdvNkt2aE03bTdNSWd3ZUI3cm11ZUQ1T0xreUZvVUxmZGthcGdMcUp5UmRQSDNoZGtkcWtHRm1Xck9OU3hWd01fYVNKVnc4V0VDak9IWnpGdjc5OEluRUh2MF9NOWtPTGlLclBZZk0zTjdwZS0zN1pEdmNzWVHSAdcBQVVfeXFMTThPMmYtQ3RmdUxPbm1ZZjRfZkFxMTFJLWhBUUJ6WWdDZm5ObjBwUXozWXlmLV9XVWF6SGctOC1YLVFVcVlwcUV2djhKMGJybkJzZWxYel9TTzA0M1NrNHE3dVVTU3Bzc2IwbEdKNWU4Zl9ZVVljWUo3a0hpMTNJcGxjMGRzdTlOZVI3aWhhbkZ4djVGN29DVVM5U3BqeEtyN253YjBVMDU4RUtQZll1MGR4dEZ4aEFOQmFra0ZYUkd5bnc3RUxTY0tOdDVPN3V6bUlIZm5vYlE?oc=5",
+          "published": "2026-11-16T22:11:19+00:00"
+        },
+        {
+          "title": "Houston Zoo Celebrates Unprecedented Success for Endangered Madagascar Sacred Ibis - Association of Zoos and Aquariums (AZA)",
+          "domain": "aza.org",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTBST1VHMjRlVmtkS2hPQ0RiNk1ndTg4Yk5UR0k0NF9xWXFGM21nejhJeXhUMF9Walo5YjV5NVRlbkNMVEI1NHJGNjZMdWhteEllb3hNVWJENW41eHZ2TVVWWURVVl9TUE9xNGhndEZFem00TVdJZURhT2lnYURJQ241dlRNUEVocXVYWllMT3dqMUNQd0Flbms4ampqdFc5cUN4ai03NTZPNXlKT0d6YTRVZ2dsYi1ISDhrZGlxc3FXVVJM?oc=5",
+          "published": "2026-11-16T17:03:17+00:00"
+        },
+        {
+          "title": "Recall training with Keju - Zoo Atlanta",
+          "domain": "zooatlanta.org",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jWFhqLXdscGtOaEtwbGxOV085cUJRY2pvTE5MaEJkcE5ROFZ6VGhzVk9oVHVXRDdQcE9abWtzSFd6UExfWVpraFlmSWwyUjlSeGZuc05GR0lWYjhzeWc?oc=5",
+          "published": "2026-11-16T19:31:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.844,
+        "y": 0.946,
+        "r": 0.222
+      }
+    },
+    "holiday-food-curiosities": {
+      "kind": "micro",
+      "title": "У стрічках помітили дивні й кумедні кулінарні знахідки до свят",
+      "region": "Світ / крипто",
+      "summary": "У новинних стрічках з’явилися незвичні та святкові кулінарні нотатки. Серед них — спеціальні сезонні пропозиції Wendy's і Starbucks, страви та десерти до свят, а також матеріали про Thanksgiving і різдвяні ярмарки. Це радше добірка легких сезонних сюжетів, ніж одна спільна новина.",
+      "picture": "На малюнку — десертна тарілка та святкове печиво. Образ передає атмосферу сезонних смаколиків, подарунків і святкової їжі.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "6:30 p.m. - Spirit of Christmas: 100th Natchitoches Christmas Festival highlighted in 1/2 hour special - KTBS 3",
+          "domain": "ktbs.com",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVVlHMjZDSzM0VGlKNjh6U0szSFBUbFJEMEZLZG5URl9BMTVlYWN4ZElfd1Q2YXVpdVAxZ2ZBcS04eG9mdlRuY3Vta0dMcDV3X2ZnRHUxSDBhbWhJeEE3VGdYd25aV3NzQmlzOW9VVllueXBOcGs1QVRETnBvTnhTVU5RdkFfMVJXdjNJck85SmNYSVhwcE4tY3RDNHhXTmd2NE1RSmlLaVpwbmtzME84Zm1IZ3ZtbnViYlBjZE1OT21jR0xZZVJyNVdXRTRkc0tSdms5TkQ0T1pyM2hGT04zSkZuNmRibmRuUEtSclJ1aDBfM3BjN0s0Y2dwMUNIaTR3VFpxQm5tZTYtZ19BN0VYVjItakdKUGt5?oc=5",
+          "published": "2026-11-17T09:00:00+00:00"
+        },
+        {
+          "title": "Wendy's Holiday Box meal comes with a retro knit cap. How to get one - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExkVXlraEVhU3BXbW1NWndqbjNZb3RGVVZ4OVZra3RmaDVIZzMyVDlZcWgydFQ2bExMVTBnTU10a1JNanNpczUweGFSXzVHYUQ0ZGpjdnowdm9JV3I0MFgzRHNxUEM4MVJhYkc2aDViZ3V2R3F1WFRNUGNLbm10MjcwbVdQbG5RaWRYWTliNXJLaVM3LVhGRjg4bG1UV2F1QXFDUkhNRHlTb3NtTEx2MjRrbw?oc=5",
+          "published": "2026-11-16T22:59:00+00:00"
+        },
+        {
+          "title": "The best things Abigail Covington ate at the second Inquirer Food Festival - Inquirer.com",
+          "domain": "inquirer.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEcwT2FsSTJyOU9sYXhwZnptcGZTTlo1TjRObDM2cWZHMVZSYzhzTlBjWE04UjE3elc1SXVvaUdsSlBYTkNvV0tZWENyY1l1a1pUV3RKTGdRcmNBbGxNZ0dlcXdrRi1WaXhsWVdpMkN4MVkzLXJpZ1hRX1pDUEtOdmFmZFBFT2JLdHZpRkM1ajJZZ0JYenZZ?oc=5",
+          "published": "2026-11-16T19:49:28+00:00"
+        },
+        {
+          "title": "Ravioli replaces traditional lasagna noodles in this Southern-style dish from a Queens kitchen - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDgwelE5RXZCMkVQOXhxY2hMQ3JnTU9CaDV5UGZIT2tqOVRoMVkwTHRYTEpWVW90TGFmYWJPTmdlaFFSaVk4cnl3MWZ4T1c3anREemRySk5uRFVGWHNObllOdDNYNXpsSTNWa2JZTGpmZURpME5qUm1EUTV2elFRVE41WHNGaV9uektraERiUkw5ZGRiOWs4NFNpbjlvdw?oc=5",
+          "published": "2026-11-16T12:10:00+00:00"
+        },
+        {
+          "title": "Big-ticket holiday items may be harder to find as shipping costs rise - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUFoek12bVB4UDd3ejVTLWNrYm9EU3NpMzBBNUo3SHNVZ3M4RUltLW1oQUk1QW94WHktaDdULUNpaXFZQ055bzlmWDc0dVZQc2cyZFZVZDlMQXJhWWVDalRncVljRElmV28xTF9IdDRCclUyQXRDX3doTkZnQ0xMbnpYNmRzUEHSAYwBQVVfeXFMT0lvSzM5bmRoUmsxQ0hFLVJiN2RuMEhidkRYYnk0dVhCc2I3Q2VXQjU1amstZzU5TUw2MDZWc3NfNTZ1WW01Zy1FdjV2VGdkZnR2NWltMjNUTWEwMmV5TF8xZWVuY19xZXp2TE1WX2lCTzFXQ1JXNW9mQXlVT25PV3Q0NXUtZnhwQmp2RUk?oc=5",
+          "published": "2026-11-16T12:00:01+00:00"
+        },
+        {
+          "title": "Gobble up D.C.'s massive Thanksgiving sandwiches - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX010NjZlU1NDTlZUU1E2QmhZa2s1dzF1VHZwcGI2M3hXNHliODlEVXVBaVBxY1RmbjJLbnJGNTFXU255ejdNU1llTFR4QV8zRG4yLWdoUHh5eFRlWFBleFRLQXVaRGhOdFdUTmhYbDJEeTQxZXdkczFrNFFLV2p6Y0gtS3h4bjVlNThmVg?oc=5",
+          "published": "2026-11-16T11:22:54+00:00"
+        },
+        {
+          "title": "Granny’s ginger biscuits - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDQwNmpITi02N0JLWnMySWVGVFZZOEdFQnVpVW5neVpxQmVPS2I0UFlwZHRnMTNJZ21SVVRMWjJKLWZ3U0Y2RmxzVndkTVJrQ0FNYkMwbk44UFNYRVYyVWJEUDBQVnh0UE9NYW1HWjZKRTV6NEl0TW11NXV3SzROWUE1NA?oc=5",
+          "published": "2026-11-16T10:37:22+00:00"
+        },
+        {
+          "title": "Starbucks Red Cup Day is back. How to snag a holiday cup - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEo0YkIxM3dDZ1diSktVYTE4MVRfbFVNQmdXNFhLSlFjaklJVkttYmdOZE5SeW1ZWnRfeVVKMnMycFROSHRINmNUakZMbktGUXdrekZfSzEteWRoRFRweFJsVTRwSFJOdk91d2hKR2tVRFAxZzhrUWZwYlNXM1g5aGs0YU1UV3ljb2FVV0RjRU4?oc=5",
+          "published": "2026-11-16T17:18:00+00:00"
+        },
+        {
+          "title": "Decadent biscuit crunch nougat - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGs2TnZWZjdaOHpYSkR6Uk1Sc0hEUGJocGZzcTA5NWtaTzRYbm5DTEJrWnE3TWtOQkJmWXJlVEEzTlYxZDZWUGVRcWZyXzlNVERCRTlubnZyeUVBSUlFTjBhT0ZRUW9ZWXR2WmMyTGMyU2RYWkpUUVZ4ZzNna1ExeE0yUmI1ZWpvSmo4dg?oc=5",
+          "published": "2026-11-16T10:27:54+00:00"
+        },
+        {
+          "title": "The best foods for a healthier Thanksgiving - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzQtTVgzNTdEMWlHOUlGQndCWk1TMjdDS1pyWFlvbGphb1FiRVlZT3hwWkVFWTVpSm1PQnBMVUNPNTJZd0ZSb210MVRrVWwtMlM5QmdVVmhyQXgyeC1VT05peDcxcXYyUUpKUVUyQmk5NGRlb0VrckVVdktEMm9penh5Tmg5UllYRjZoaUNtRXVEcUZuTmtPTUxsSVozZUdiMEN1RA?oc=5",
+          "published": "2026-11-16T10:01:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      }
+    }
+  }
+}
