@@ -1,5 +1,249 @@
 [
   {
+    "key": "2026-11-18-1",
+    "date": "2026-11-18",
+    "image": "img/2026-11-18-1.jpg",
+    "aspect": 1.7778,
+    "people": 8326809830,
+    "spots": [
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.795,
+        "y": 0.403,
+        "r": 0.265
+      },
+      {
+        "id": "trump-asia-trip",
+        "x": 0.75,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "us-flight-chaos",
+        "x": 0.812,
+        "y": 0.429,
+        "r": 0.202
+      },
+      {
+        "id": "china-asia-trade-shift",
+        "x": 0.463,
+        "y": 0.779,
+        "r": 0.221
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.25,
+        "y": 0.298,
+        "r": 0.255
+      },
+      {
+        "id": "nvidia-spy-probe",
+        "x": 0.787,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.5,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "nvidia-succession-battle",
+        "x": 0.787,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "democrats-senate-wave",
+        "x": 0.229,
+        "y": 0.655,
+        "r": 0.156
+      },
+      {
+        "id": "us-measles-resurgence",
+        "x": 0.625,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "israel-west-bank-politics",
+        "x": 0.875,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "robert-pattinson-bond",
+        "x": 0.5,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "deutsche-bank-leaks",
+        "x": 0.212,
+        "y": 0.864,
+        "r": 0.221
+      },
+      {
+        "id": "eu-rwanda-migration-plan",
+        "x": 0.25,
+        "y": 0.464,
+        "r": 0.125
+      },
+      {
+        "id": "gaza-ceasefire-fragile",
+        "x": 0.625,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "france-protests",
+        "x": 0.5,
+        "y": 0.536,
+        "r": 0.125
+      },
+      {
+        "id": "gta-vi-launch",
+        "x": 0.375,
+        "y": 0.107,
+        "r": 0.202
+      },
+      {
+        "id": "glastonbury-2027-lineup",
+        "x": 0.729,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.104,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "starship-flight-15-orbit-breakthrough",
+        "x": 0.896,
+        "y": 0.083,
+        "r": 0.156
+      },
+      {
+        "id": "unicorn-deer-on-camera",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-hippo-under-observation",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "baby-giraffe-at-zoo",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "holiday-flower-show-opens",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "sheep-on-the-lam",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "goats-keep-escaping",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "cat-saved-after-collapse",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "sea-turtles-hatch-on-beach",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "lecture-hall-only-men-circle",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "rare-indigenous-photos-brazil",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "andean-sistine-chapel-restoration",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "gorillas-boost-each-other-for-food",
+        "x": 0.625,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "pope-forgives-rosary-hit",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "millions-of-red-crabs-migrate",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "indoor-lettuce-for-winter",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "fifa-election-candidates-race",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "jollibee-fried-chicken-moment",
+        "x": 0.812,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "earthshot-prize-in-india",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "ancient-cistern-looters-caught",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    ],
+    "video": "video/2026-11-18-1.mp4"
+  },
+  {
     "key": "2026-11-17-1",
     "date": "2026-11-17",
     "image": "img/2026-11-17-1.jpg",
