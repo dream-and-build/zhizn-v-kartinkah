@@ -1,5 +1,219 @@
 [
   {
+    "key": "2026-11-19-1",
+    "date": "2026-11-19",
+    "image": "img/2026-11-19-1.jpg",
+    "aspect": 1.7778,
+    "people": 8326998505,
+    "spots": [
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.733,
+        "y": 0.328,
+        "r": 0.296
+      },
+      {
+        "id": "trump-asia-trip",
+        "x": 0.688,
+        "y": 0.75,
+        "r": 0.239
+      },
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.287,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.412,
+        "y": 0.493,
+        "r": 0.221
+      },
+      {
+        "id": "jeffries-speaker-win",
+        "x": 0.125,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "musk-midterm-regret",
+        "x": 0.438,
+        "y": 0.875,
+        "r": 0.191
+      },
+      {
+        "id": "ukraine-strikes-bridge",
+        "x": 0.287,
+        "y": 0.507,
+        "r": 0.221
+      },
+      {
+        "id": "measles-resurgence",
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "bangladesh-unrest",
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.202
+      },
+      {
+        "id": "south-korea-chip-boom",
+        "x": 0.338,
+        "y": 0.707,
+        "r": 0.264
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.354,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "rohingya-genocide-ruling",
+        "x": 0.5,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "van-gogh-record-auction",
+        "x": 0.688,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "rockstar-gta6-release-marketing",
+        "x": 0.771,
+        "y": 0.131,
+        "r": 0.156
+      },
+      {
+        "id": "anthropic-ipo-record-2",
+        "x": 0.125,
+        "y": 0.143,
+        "r": 0.151
+      },
+      {
+        "id": "first-breast-cancer-pill-fda",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      },
+      {
+        "id": "st-peters-basilica-400-years",
+        "x": 0.062,
+        "y": 0.286,
+        "r": 0.125
+      },
+      {
+        "id": "beaujolais-nouveau-toast",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "comte-crowned-best-cheese",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-like-hippo-stories",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "orchid-decor-negotiations",
+        "x": 0.062,
+        "y": 0.786,
+        "r": 0.125
+      },
+      {
+        "id": "fiona-hippo-swallowed-a-hat",
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "valedictorian-sneakers",
+        "x": 0.062,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "thanksgiving-turkey-donations",
+        "x": 0.25,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "holiday-market-german-style",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "old-homemovies-archivists",
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "wildlife-crossing-lane",
+        "x": 0.75,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "mexico-catholic-street-djs",
+        "x": 0.896,
+        "y": 0.94,
+        "r": 0.156
+      },
+      {
+        "id": "pelicans-released-after-rescue",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "jollibee-fried-chicken-delivery",
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "robots-serve-coffee-and-ice-cream",
+        "x": 0.938,
+        "y": 0.643,
+        "r": 0.125
+      },
+      {
+        "id": "south-korea-exam-checks",
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "red-crabs-march",
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      }
+    ],
+    "video": "video/2026-11-19-1.mp4"
+  },
+  {
     "key": "2026-11-18-1",
     "date": "2026-11-18",
     "image": "img/2026-11-18-1.jpg",
@@ -740,8 +954,7 @@
         "y": 0.679,
         "r": 0.062
       }
-    ],
-    "video": "video/2026-11-16-1.mp4"
+    ]
   },
   {
     "key": "2026-11-15-1",

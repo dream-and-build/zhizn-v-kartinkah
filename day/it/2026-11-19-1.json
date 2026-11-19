@@ -1,0 +1,1820 @@
+{
+  "key": "2026-11-19-1",
+  "date": "2026-11-19",
+  "image": "img/2026-11-19-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "global-outage-microsoft": {
+      "kind": "major",
+      "title": "L’infrastruttura digitale mondiale crolla di nuovo a causa di una serie di guasti e minacce informatiche",
+      "region": "Mondo / cripto",
+      "summary": "In diverse testate questo tema non è confermato come notizia: tra i collegamenti all’evento non ci sono materiali su un blackout globale di Microsoft. Le pubblicazioni citate riguardano cucina, politica internazionale, un incidente su una strada in Pakistan, il mercato delle criptovalute, Nvidia, Safaricom, satelliti e altri temi. Pertanto, da queste fonti non è possibile ricostruire un evento specifico sull’infrastruttura digitale mondiale.",
+      "picture": "L’immagine mostra un server cloud in frantumi, con cavi strappati, aerei caduti e registri bancari rotti. È la rappresentazione di un guasto digitale di massa che colpisce insieme trasporti, finanza e comunicazioni.",
+      "mentions": 100,
+      "significance": 98,
+      "velocity": 80,
+      "domain_count": 135,
+      "articles": [
+        {
+          "title": "Trouble in the kitchen? Ask us your cooking questions. - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV040Q3BQSlJ4c3llWHNoaGxlM3Ntd25YdmV4clVPZG5XYkxBa1drZWhGSXk5WHNNa09VT3lpZHphY3ZMaGcyck9vR0ZHdzBVUlhpSHgyZm81TlN6eG44QXpMRkNaVzUyNC1lbi00dU1HUkRhZ0ZmVVNqcTlGMGhVcmN2Z0dESjJEWXRtUHM5cENCeUNaQ0JzaVR5ckMwNUlqZGI5RzQ2RG5senhfa0E4?oc=5",
+          "published": "2026-11-19T09:57:46+00:00"
+        },
+        {
+          "title": "Полянский: Зеленский отвечает на переговоры в Шэньчжэне военными провокациями",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28334803",
+          "published": "2026-11-19T09:56:33+00:00"
+        },
+        {
+          "title": "10 killed as Karachi-bound passenger coach, LPG bowser collide on Makran coastal highway near Ormara",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2045668/10-killed-as-karachi-bound-passenger-coach-lpg-bowser-collide-on-makran-coastal-highway-near-ormara",
+          "published": "2026-11-19T09:51:16+00:00"
+        },
+        {
+          "title": "‘Boneheaded’: Crypto faces a blue wave reckoning - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2FQdTJBZ0piNWlyblN5bFlHLTU0emlVb09HTXZTVDNIR21HV2Z6WGpOeDBESDZLLUZXZzVMSFItVWxJLVhWOW9Ed29xYy02X3Jwd1FfTHZLNGU3YUdRbFhqdC1hRGxvSzdxSkwzVU1TanFMRmFUeDVMbm1IeUpJX2libC0zdnkyREpLaFNHclJXeW5uTTdoUy1KTQ?oc=5",
+          "published": "2026-11-19T09:45:00+00:00"
+        },
+        {
+          "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVF2cDIwWEpiWEpTYjNSNFBJY1dVMjNTaXJyLUpBYmZ6XzdpR0dHY0EtdGlWdlNLUmFCbFE4MUpORWpuZTRqUjROOVdRM0h3MWVmRUViNTlTeVQyOGpGblRpNWp1U1RDWVFxZVZ3Wk4yU3dfdmRZdkJvY0JGbGRzNy1IcUJOVXZ2UDBZMU10Nlp4TDd2enk3VlBROUw3cTU0UWRnUG9xa083QlBtd3JWb3NzSWI?oc=5",
+          "published": "2026-11-19T09:44:37+00:00"
+        },
+        {
+          "title": "Vodacom’s R1bn in limbo over disputed Safaricom sale - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFA5N3RRWEZ6X2gyVTZ4OVZ1bnUwVTkxbnNNaW9PaHBhalg0elNiUzZtbGQtTFpUVXpFV0MzXzkxcVlaM2drLUFQWlp5dTZGcWFxWnNBNnVqWTdidm9Dc0o1X0RGZWN1UXpsUlRDYXJPRDc1X2RONVd1YmpyNW5NYWY2RnYtT3BYUnhyeFljMEJVNHFac2JSWTRUVmt4M3VpN0dNaXBTOE5FUEU?oc=5",
+          "published": "2026-11-19T09:43:58+00:00"
+        },
+        {
+          "title": "Putin pressiona Taiwan e reabre conversa com Japão",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/putin-pressiona-taiwan-e-reabre-conversa-com-japao.shtml",
+          "published": "2026-11-19T09:40:00+00:00"
+        },
+        {
+          "title": "There are now more satellites over most towns than visible stars. - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTEcwMTZYbnFzeEpZTEZGNlFmQzd3NGRFem14ckxUVjNZUzVhTEZqX2hHanFxTDNPWmdURVF1dkxwMHQ0RTJ4NXFCbnY0NWJqRzhFUkplYWRsWXAzb2RPOEE1YzcySlhrTUlPdmF5TGZrNFJJc1pYUTZqMmNiZFdpTm5mZUVSME1TZXE4X2hmd0FrRDFuZ0tQeURaRzBKVERnNTJFUEZ0S2Q?oc=5",
+          "published": "2026-11-19T09:38:39+00:00"
+        },
+        {
+          "title": "Albanese tells Putin to end Ukraine war 'now'",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+          "published": "2026-11-19T09:36:33+00:00"
+        },
+        {
+          "title": "Gallery of World Architecture Festival 2026: Day One Winners Announced - 4 - ArchDaily",
+          "domain": "archdaily.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQVhIOU9YOVVPSUhzX09DNXgyeU1rN1Z0WGZLT0xVeEEwd2hVS2Y0U1k2dTVRdzRpamxkd3FFRHBoZUZZc3laTVU2SHFmSlkxTkpPeXZVTHo0ZjYyNXZ6MXdYeUMzUG1YUG5wR1B2aTFNbXFBRFVIa0ZFZkVBNXJnak9yb0FBTlJSbDBjaWpqY3hYekVsc3F1czJVd28yLU5ZTjJ5VFRPSElMOG83RHVHVVlZWmJSWUUwbXhrM2pGa01tRHJZVUZKZlE3eHdKU1dmellNbFpnTk1scUQ1OGswZjFNeEgyb1pYNW1JUWFtd0FqT1NadERoMHg0OEF2N1FuYVFBLXUxNEdFQVlGMVB3?oc=5",
+          "published": "2026-11-19T09:35:17+00:00"
+        },
+        {
+          "title": "AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery - Fierce Biotech",
+          "domain": "fiercebiotech.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUdTZGgyQmpuVkc2aElkeWxOdDNZUGI3QXU4TlFfcmtOc1g4VDBmNlo3cTI4VGcwc183dHMtWHFjVGdCUnhjeGxXS3BHbDVFQXR1TkRBZW9jWlZQcGpNVDNvbVVuWjFtOUZ0VzVKaC1ieEQ2ZmJwRkR6SHlKWC1Dak13RE1YbXFqbUNhUG96cFg2VV9zU0Zpb3JDSXRIZw?oc=5",
+          "published": "2026-11-19T09:30:00+00:00"
+        },
+        {
+          "title": "The DP World Tour Lifeline Leaves Big Names Behind - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXNsSFFrUTdqTzYydjk2X2s3UkVDckFyT3h6S0ROM2UxdGhXV2xlemVjQTVhWlJiNDlsaVlyczhjZXhPQWpGVE9EZTFYakg4MTltM28zSkNNOGt4QkVnOUtfancxVEpES2tvZVdCUE9zM2dsMkY0VFR5MjlpQWZzUDg4a04?oc=5",
+          "published": "2026-11-19T09:28:21+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.733,
+        "y": 0.328,
+        "r": 0.296
+      }
+    },
+    "trump-asia-trip": {
+      "kind": "major",
+      "title": "In Cina si tiene lo storico incontro trilaterale tra Trump, Xi e Putin sulla sicurezza globale e l’Ucraina",
+      "region": "Mondo / cripto",
+      "summary": "A Shenzhen è iniziato un raro incontro trilaterale tra Donald Trump, Xi Jinping e Vladimir Putin. Secondo i media, sul tavolo ci sono il disarmo nucleare, la guerra in Ucraina e la guerra in Iran; in alcuni servizi si afferma che Trump abbia parlato separatamente con Putin prima del vertice comune. Le testate concordano sul fatto che il summit sia senza precedenti e di grande valore simbolico, anche se alcune lo presentano come un passo verso la pace e altre come un incontro che potrebbe produrre più simboli che svolte concrete.",
+      "picture": "Tre maschere di leader fluttuano sopra il globo, accanto a valigette nucleari, un ramo d’ulivo e pezzi di scacchi spezzati. È il simbolo di negoziati su guerra e sicurezza sullo sfondo di un fragile equilibrio mondiale.",
+      "mentions": 40,
+      "significance": 96,
+      "velocity": 49,
+      "domain_count": 37,
+      "articles": [
+        {
+          "title": "Live Updates: Trump Holds First Summit With Xi and Putin, Whom He Calls ‘Friend’",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+          "published": "2026-11-19T09:55:00+00:00"
+        },
+        {
+          "title": "Trump, Xi and Putin sit down for rare three-way meeting in China",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+          "published": "2026-11-19T09:52:52+00:00"
+        },
+        {
+          "title": "(5th LD) Trump, Xi, Putin hold unprecedented 3-way summit with nuclear arms reduction in focus",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119001355315",
+          "published": "2026-11-19T09:52:11+00:00"
+        },
+        {
+          "title": "Xi, Trump and Putin begin unprecedented summit in China",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2045630/xi-trump-and-putin-begin-unprecedented-summit-in-china",
+          "published": "2026-11-19T09:49:49+00:00"
+        },
+        {
+          "title": "Xi, Trump y Putin inician una histórica reunión trilateral en Shenzhen",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+          "published": "2026-11-19T09:45:00+00:00"
+        },
+        {
+          "title": "WSJ: саммит РФ, КНР и США знаменует собой конец однополярного мира",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28334727",
+          "published": "2026-11-19T09:43:11+00:00"
+        },
+        {
+          "title": "Putin pressiona Taiwan e reabre conversa com Japão",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/putin-pressiona-taiwan-e-reabre-conversa-com-japao.shtml",
+          "published": "2026-11-19T09:40:00+00:00"
+        },
+        {
+          "title": "Xi-Trump-Putin trilateral breaks historic ground",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/plus/economy/china-economy/article/3375070/xi-trump-putin-trilateral-breaks-historic-ground",
+          "published": "2026-11-19T09:22:16+00:00"
+        },
+        {
+          "title": "Watch: Trump, Putin and Xi sit down for historic three-way talks",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
+          "published": "2026-11-19T09:20:23+00:00"
+        },
+        {
+          "title": "Nuclear arms and ending wars in Iran and Ukraine will top the agenda at Trump-Xi-Putin meeting - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+          "published": "2026-11-19T09:09:00+00:00"
+        },
+        {
+          "title": "Xi Jinping, Donald Trump and Vladimir Putin begin unprecedented summit in China",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/xi-jinping-donald-trump-and-vladimir-putin-begin-unprecedented-summit-in-china",
+          "published": "2026-11-19T09:07:17+00:00"
+        },
+        {
+          "title": "Trump discusses nuclear weapons reduction ahead of meeting with Xi, Putin",
+          "domain": "nbcnews.com",
+          "url": "https://www.nbcnews.com/video/trump-discusses-nuclear-weapons-reduction-ahead-of-meeting-with-xi-putin-273794117764",
+          "published": "2026-11-19T09:04:14+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.75,
+        "r": 0.239
+      }
+    },
+    "ukraine-peace-framework": {
+      "kind": "major",
+      "title": "Gli alleati europei dell’Ucraina rafforzano gli aiuti e il sostegno finanziario",
+      "region": "Europa",
+      "summary": "A Berlino dovrebbero incontrarsi gli inviati americani Jared Kushner e Steve Witkoff con funzionari ucraini ed europei. I media scrivono che gli alleati dell’Ucraina stanno discutendo sostegno nel contesto dei continui attacchi russi e di un forte deficit di finanziamento per l’anno prossimo; in diversi servizi si menziona anche che Kiev attende un briefing sugli esiti delle conversazioni di Trump con Xi e Putin. Alcune testate riferiscono di un nuovo attacco al ponte di Crimea, ma il quadro generale riguarda la preparazione di europei e Kiev a ulteriore assistenza all’Ucraina.",
+      "picture": "L’immagine mostra un ponte crepato sostenuto da travi di riparazione, con droni e una batteria di riserva sopra di esso. È la rappresentazione di un Paese e dei suoi alleati che mantengono collegamenti e difesa in tempo di guerra.",
+      "mentions": 35,
+      "significance": 80,
+      "velocity": 25,
+      "domain_count": 30,
+      "articles": [
+        {
+          "title": "Jared Kushner and Steve Witkoff to meet with Ukrainian and European officials",
+          "domain": "npr.org",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6046102/jared-kushner-and-steve-witkoff-to-meet-with-ukrainian-and-european-officials",
+          "published": "2026-11-19T09:44:02+00:00"
+        },
+        {
+          "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+          "published": "2026-11-19T09:04:22+00:00"
+        },
+        {
+          "title": "Ukraine strikes Putin's Crimean bridge again, halting trains - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ib3J3VUIzaGljY0M0dEMtZ1pPOEhGVFBZWUNZN241cEJRZDRKb3U1NVRzalVZdDhncDFGWUJKaFlLVzJhSGFiVllqZzJiQUNWSG9mTDU3dDZJWl96cEYyV0dJblI?oc=5",
+          "published": "2026-11-19T08:39:00+00:00"
+        },
+        {
+          "title": "Japan Tobacco takes $8.6bn loss after Putin orders seizure of Russian business",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/3e06e2c6-f065-4cba-b453-b07378a259f1?syn-25a6b1a6=1",
+          "published": "2026-11-19T08:08:52+00:00"
+        },
+        {
+          "title": "Kushner and Witkoff to meet Zelensky and European leaders in Germany - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVFrZ2N0VTNKLXhlRlg5RFlaeVl1a0FPbGJITVl4RDFJWXAyODk4UktFbDdlWXY5bEFQTHQzbWl0OUhWNkZndkFoenpMTWl0YlExa2pxd0lrSzRCYkhJNjN4bDJzVnRfOWROdl8yWWdiTmJNUHBYNk5RRHRhZHRmTWRKeWVFZ1hhQWpqZFhXc2RPSS1RZkJsWHJ6eUVnS182R1JDQnNFY1NaRE0?oc=5",
+          "published": "2026-11-19T08:05:41+00:00"
+        },
+        {
+          "title": "“Wicker Nipples” and All: ‘Wicker’ Cinematographer Celebrates Steamy Film’s Viral Success - The Hollywood Reporter",
+          "domain": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSE56SUNQZjViRk4tVTNGNzVwbi1BbWNBZlZTU3lXWU1uTDRTX1VMcnJwcHhSN2FHdVlNWmZ5Q2FrT3NEUHJOallTeGV2UFVhTnpURXhHZm0yNmctMnpGdXBwVzlTRTNQbDIxSERIdlpjWTVBUFM2RUh2UWg1Xy1JZVF1UHZ1S1lCWXhiWFd3Q25zM28xR2J6dXZrSHB5ZGUtRi1ibEgweV9rWHdnQ2dYcFdfOFZUd0xVd0lvSmJR?oc=5",
+          "published": "2026-11-19T07:47:17+00:00"
+        },
+        {
+          "title": "San Diego State beats Texas Southern 97-51 - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXVzZkNYM0doamNvZlRFajRSc1BRRFg1VUJXZXYzNFowR1U0dHQ2aklXNVQyZmtvX0MxSFFwSlZDVlhuOGc5bFBEMHpBS0lHeDFTQ0hCWmZPSnVrTzBUR1dsRGN4Y0taLWtZclhMUldJa1BmUWNXalczQ3FLZ2NtYVRvQWNXZDFscHVCZENpYlB5UGc1QnFyWNIBmAFBVV95cUxQYXVzZkNYM0doamNvZlRFajRSc1BRRFg1VUJXZXYzNFowR1U0dHQ2aklXNVQyZmtvX0MxSFFwSlZDVlhuOGc5bFBEMHpBS0lHeDFTQ0hCWmZPSnVrTzBUR1dsRGN4Y0taLWtZclhMUldJa1BmUWNXalczQ3FLZ2NtYVRvQWNXZDFscHVCZENpYlB5UGc1QnFyWA?oc=5",
+          "published": "2026-11-19T07:07:00+00:00"
+        },
+        {
+          "title": "Sheinbaum llama a fortalecer la cooperación económica internacional ante la APEC en China; \"desarrollo de un país no debe ser obstáculo\", señala",
+          "domain": "eluniversal.com.mx",
+          "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-llama-a-fortalecer-la-cooperacion-economica-internacional-ante-la-apec-en-china-desarrollo-de-un-pais-no-debe-ser-obstaculo-senala/",
+          "published": "2026-11-19T06:41:50+00:00"
+        },
+        {
+          "title": "Why Ukraine keeps targeting the Kerch Bridge",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece",
+          "published": "2026-11-19T05:38:47+00:00"
+        },
+        {
+          "title": "Lee, Carney pledge joint efforts to establish stable energy supply chains",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119005800315",
+          "published": "2026-11-19T05:34:14+00:00"
+        },
+        {
+          "title": "Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin",
+          "published": "2026-11-19T05:34:11+00:00"
+        },
+        {
+          "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+          "published": "2026-11-19T04:58:36+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.287,
+        "y": 0.293,
+        "r": 0.221
+      }
+    },
+    "hormuz-shipping-risk": {
+      "kind": "major",
+      "title": "La guerra con l’Iran e gli attacchi nello Stretto di Hormuz aumentano il rischio di uno shock energetico",
+      "region": "Medio Oriente",
+      "summary": "Sullo sfondo della guerra con l’Iran e degli attacchi alle rotte marittime, sono cresciute bruscamente le preoccupazioni per la sicurezza energetica e le forniture attraverso lo Stretto di Hormuz. I media riferiscono di attacchi iraniani contro Kuwait e Bahrain, di danni a Riyadh, di trattative dei trader con QatarEnergy per forniture a lungo termine e di dichiarazioni dell’IEA secondo cui i mercati potrebbero reggere anche senza il ripristino dei flussi attraverso lo stretto, ma servirebbero tempo e investimenti. Diverse pubblicazioni parlano apertamente della più grande minaccia alla sicurezza energetica nella storia.",
+      "picture": "Una petroliera è stretta tra rocce che si chiudono, accanto a un tubo del petrolio in fiamme e a una mezzaluna-scudo crepata. È il simbolo del rischio di blocco di Hormuz e di un possibile shock petrolifero.",
+      "mentions": 27,
+      "significance": 88,
+      "velocity": 50,
+      "domain_count": 21,
+      "articles": [
+        {
+          "title": "World Architecture Festival 2026: Day One Winners Announced - ArchDaily",
+          "domain": "archdaily.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVNjR2l1Sy01c0NrMTZhN3B3alEyb3pvb2RyeUNfZVpjTF94clN2OFpWMy1LeGhqQUw1ekhtN2FMdi1oUTNvUmhkbDNXamdGYkhoXzZ1SVdZWHd3T09Sejg0RVZBVkR6M1p5dWF3QlhIZUw4ckhEeGZfdG9nb2hwck1KeW1zMlpiUkNoQ0FKczJRR192RzZv?oc=5",
+          "published": "2026-11-19T09:30:00+00:00"
+        },
+        {
+          "title": "Xi-Trump-Putin trilateral breaks historic ground",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/plus/economy/china-economy/article/3375070/xi-trump-putin-trilateral-breaks-historic-ground",
+          "published": "2026-11-19T09:22:16+00:00"
+        },
+        {
+          "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+          "published": "2026-11-19T09:10:32+00:00"
+        },
+        {
+          "title": "Saudi-led coalition says missile debris caused damage in Riyadh, and other Mideast news - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdU5UMjdYOUNtSUo4NUplOXVjbEdIandrS0toTVBSU3lsazZlZkRNWjlLRzVOdmxaS0hfWGlpV0x3eFBxVU9hV3Fwb3B4bENDOGtHYUxfLXdmaW5ZZWs5TWNGaFV0Z0JaeUtJOFVMNFptaVFSbFNhdUxtYUFFWFBkZEFTRE5lUVd3VzhFcW1TclNNcnBtOHJDREd2TVFnWVE0ZmZCMk03QTlRTkFTcHhUUVlpaVhPS1NZdEpXZWFhSUpSQjFBV2FUTjd3?oc=5",
+          "published": "2026-11-19T08:54:27+00:00"
+        },
+        {
+          "title": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies",
+          "published": "2026-11-19T07:32:54+00:00"
+        },
+        {
+          "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+          "published": "2026-11-19T07:26:00+00:00"
+        },
+        {
+          "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWRIQ2pBc2RZeE9Kb3BDdERYZXliUVpSMktDdC14SVV3cXE5R2VySFJOajRUUjBtel8zOG5VbC1ERWFLRjhCYjJ5WGxGS2loaklVZmplODluT1hIVXVUUnlBeVBoQUtfSGZqNUVHN2xPa2xYcTM4VXhXTTJKLVRDOXJDdnBReVNWUnhUNjEwWTlkWFNtUVVCN1E3Qk0yWDhNM0JCNkZIdE1xZkZDR2pzeEhzZmw3X1RFZ1dSOQ?oc=5",
+          "published": "2026-11-19T07:07:46+00:00"
+        },
+        {
+          "title": "Iran war sparked ‘largest threat’ to energy security in history, says energy agency",
+          "domain": "timesofisrael.com",
+          "url": "https://www.timesofisrael.com/iran-war-sparked-largest-threat-to-energy-security-in-history-says-energy-agency/",
+          "published": "2026-11-19T06:58:27+00:00"
+        },
+        {
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake? - Al Jazeera",
+          "domain": "aljazeera.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDBmQlh6bmJPWUFLQ1dpaXJGVHF3anN6UGJ1Mm9VUWpPY190UVlJOW1HaVhnbGE2Qzl0by02T3VoQUhjbkxzWUZaVlV3SnJxRnJianktREZBOTJPUjJOTkNUM0xXaDlLbkFEUnFaaGFsdzRQMGpZb3dmdzhpdVllemZISUg5THlndlFEWnBkYXhQUWVmMUVmYnlVMGJtSHpxSlh1NTZiYThvOHEzdUFN0gG0AUFVX3lxTE9aMmVQY2lNRFRVNUh4V05CbzNfZTltZ0RiRFBETEdrMmpsbzRGRmZ0Zk5lVlB3aU1fY19jeG5XVkFkcjh0dmpPNkpwSjJ6bnRHTEw5X1ZQR1NSRFpIMEU4RkpRS3dzWW1md1BYdWQ2bk5VdWkwa1hJcDcwT0FaZlU2RUpKRjlETElyU3FoWmxkaHZycFA4eFZMYkJ4Tk9nYUlWOG1Kd3pXMVlsLXRWSm5iX0VJbA?oc=5",
+          "published": "2026-11-19T05:19:59+00:00"
+        },
+        {
+          "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlVLekJsV1lXTGsxOWFDNkJLTDZhV3JSeFRQWS1zNXlobWJ6cDB0dXdhUE5IZ2VBY3N1THJOdVFtNmhEcnVTcUpWS2x4cVJRV1BscHJ2cVRmbGxtUEJLd0xvRUhkYlpUZU1PcnZpUzJ5cWx5R3ZnWFN5VXdiWmkwczJpci1yQkpVWWtMNV9yY3JHc3NfNzc0V2R2ZWlkSDVaa3V1MUhJVUNoSV9MQl91ckE5c2J4c1c2VFlPSHBIYzAxX2RZYXpZ?oc=5",
+          "published": "2026-11-19T05:05:00+00:00"
+        },
+        {
+          "title": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1",
+          "published": "2026-11-19T05:00:28+00:00"
+        },
+        {
+          "title": "Trump weighs strikes on Iran as Israel warns of chemical weapons - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhsMGFnUEhueFlmbkpjTEdvbU1LVkxiUk8wVzhQMUZ2QlNfYUo2Nmh4N3dVSzI5ZXByTHpmdU9FNE9HaTloeTBGQU51cHNEbkZ0VEZJZFgxVWdoMFJKdDJkQk00a0Q0VXJlRmQ0RlJKX2RBalV4cy1ZaVVkeFE3bQ?oc=5",
+          "published": "2026-11-19T02:12:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.412,
+        "y": 0.493,
+        "r": 0.221
+      }
+    },
+    "jeffries-speaker-win": {
+      "kind": "major",
+      "title": "Jeffries diventa un candidato storico alla presidenza della Camera dei Rappresentanti degli Stati Uniti",
+      "region": "USA",
+      "summary": "I democratici della Camera dei Rappresentanti degli Stati Uniti hanno nominato Hakeem Jeffries alla carica di speaker, senza rivali interni al gruppo. In diversi articoli si sottolinea il carattere storico del passo: Jeffries potrebbe diventare il primo speaker afroamericano della Camera se verrà eletto dal nuovo Congresso a gennaio. I media osservano inoltre che dovrà lavorare sotto la pressione dei democratici progressisti sulle questioni della sanità e dell’immigrazione.",
+      "picture": "Un pesante martelletto si alza sopra una scala di schede elettorali, accanto a una chiave storica e a bandiere divise. È l’immagine del cammino verso la presidenza della Camera e del mutamento degli equilibri politici al Congresso.",
+      "mentions": 23,
+      "significance": 77,
+      "velocity": 9,
+      "domain_count": 17,
+      "articles": [
+        {
+          "title": "House Democrats nominate Jeffries for speaker after he runs unopposed - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mQ29Na0xRalgxOG51MWE4QkEwSEZRcFcyT0xFTm1ibDdoUVNoRTlQQjlJQzlfSHVmNmJSTUZ3aGozUTFXSnROdzRmeEloQndPWlhyNjRn?oc=5",
+          "published": "2026-11-19T03:33:21+00:00"
+        },
+        {
+          "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+          "published": "2026-11-19T01:07:51+00:00"
+        },
+        {
+          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-19T00:49:19+00:00"
+        },
+        {
+          "title": "In historic move, House Democrats nominate Hakeem Jeffries for speaker of the House - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWs1TGZGZ3pwRnJtdkRvNTR2WHYtNjJSTjkzNkdROFJVek45NmJEbTRaQWpDRGc1LVZmOXRpcVVGRDJSYkJ3NXJCaU5uSUVRLWNPQmRia3ZwNlJBVE9ma2NIQmMxSC1EZGZNdFZCRFNpNXEydFI2d3NJX18zQURMN0JYQnkyWmI0dmpsdnJrSW1rTzItMXQtdEpBRGttZ9IBowFBVV95cUxOSlJ3TU5uZ0dpTXFnN2lfbjBFN1dGTm9MMG1mLUFMZFk4QlZkd1JaZFUxNDk2OGM3eE9KTXh1RW9zV3NhaG56U0gxWUJBNF9OZ0otU1RuTXpiQ0ZPTDBhdE9QRW1BS0UzVTZYWWtZM1B0OEthNjRENGJJdUNMZm50VEJHMXhkSmU1NU5tSEhrQWNaNi1WUlI3M0NIcFRERHZHc3Rz?oc=5",
+          "published": "2026-11-19T00:23:43+00:00"
+        },
+        {
+          "title": "Jeffries nears historic speakership as power shifts in Congress - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NOHRpWXNhVlJuOWNfN2ZyazVvRjNQU3BzUjd2eVZHNVhYRHVQNDlySDdhdHBWdE1sRkJkTU84Y05rSEl5V0dXMVF6bmNkOGlqVldtXy10ZUhCSENXaS1Tcm5wWE1fTFJpV29idFI0TFJVVlFrS3Fj?oc=5",
+          "published": "2026-11-18T21:34:19+00:00"
+        },
+        {
+          "title": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5",
+          "published": "2026-11-18T21:09:00+00:00"
+        },
+        {
+          "title": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5",
+          "published": "2026-11-18T20:31:31+00:00"
+        },
+        {
+          "title": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
+          "published": "2026-11-18T20:21:10+00:00"
+        },
+        {
+          "title": "US Democrats nominate Jeffries to be first Black House speaker",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
+          "published": "2026-11-18T19:58:23+00:00"
+        },
+        {
+          "title": "Hakeem Jeffries poised to make history after Democrats nominate him for speaker - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1lsd2VPcDFsekdSeXpxdDZLU1RpUnM4azhkWUZGQld5SGpEeXNLc0VHUm91MzBUVEdSYWJubWVxTEEwTnVObkNLSkdxNDdpT21IUXdhMWpGSExTcGh1RlpwV1d3NW9jNFBZWnJseFV3Vk5YLTNDamFnTGUyNm5JUHZnSzRYczNPdE8zSkUxQ2pSM0lTYWtlS05PWEMyWnVCRGNrdklUdjIxaFhl?oc=5",
+          "published": "2026-11-18T19:17:00+00:00"
+        },
+        {
+          "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
+          "published": "2026-11-18T17:44:05+00:00"
+        },
+        {
+          "title": "Democrats nominate Hakeem Jeffries for next U.S. House speaker",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/democrats-nominatehakeem-jeffries-for-next-us-house-speaker/article71717202.ece",
+          "published": "2026-11-18T17:08:35+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.643,
+        "r": 0.151
+      }
+    },
+    "musk-midterm-regret": {
+      "kind": "major",
+      "title": "Musk ammette che la sua spesa elettorale è stata un errore e si prende le distanze dal MAGA",
+      "region": "USA",
+      "summary": "Elon Musk ha dichiarato di ritenersi «piuttosto stupido» per le enormi spese sostenute a sostegno dei repubblicani nelle elezioni di medio termine negli Stati Uniti. Secondo varie ricostruzioni, ha speso tra circa 446 e 500 milioni di dollari e afferma che una campagna non si può semplicemente comprare con quel denaro. Alcune testate scrivono che Musk si è anche preso le distanze dal movimento MAGA e ha fatto queste dichiarazioni durante un viaggio in Cina.",
+      "picture": "Un ricco imprenditore si trova in un furgone elettorale crepato, circondato da monete sparse e da un berretto rosso strappato. È l’immagine di una scommessa politica fallita e dell’allontanamento dal MAGA.",
+      "mentions": 23,
+      "significance": 63,
+      "velocity": 68,
+      "domain_count": 17,
+      "articles": [
+        {
+          "title": "Elon Musk says he feels ‘pretty foolish’ after spending hundreds of millions backing Republicans in US midterms",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/elon-musk-says-he-feels-pretty-foolish-after-spending-hundreds-of-millions-backing-republicans-in-us-midterms/articleshow/135984027.cms",
+          "published": "2026-11-19T09:23:59+00:00"
+        },
+        {
+          "title": "Илон Маск чувствует себя «довольно глупо» из-за поражения республиканцев на выборах. Он вложил в партию 470 миллионов долларов",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/19/ilon-mask-chuvstvuet-sebya-dovolno-glupo-iz-za-porazheniya-respublikantsev-na-vyborah-on-vlozhil-v-partiyu-470-millionov-dollarov",
+          "published": "2026-11-19T09:18:48+00:00"
+        },
+        {
+          "title": "Elon Musk: I feel ‘foolish’ spending nearly $500m on US midterms",
+          "domain": "premiumtimesng.com",
+          "url": "https://www.premiumtimesng.com/news/top-news/926356-elon-musk-i-feel-foolish-spending-nearly-500m-on-us-midterms.html",
+          "published": "2026-11-19T07:40:03+00:00"
+        },
+        {
+          "title": "Two weeks later, Senate vote count is complete, the House nearly finished - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGo4UmFXMnBNd2ppMU03MEZYcU9RRzI1V0w0bzNMSS1QZDcxdF93RnpqSllyMHB0bU1DOFhpcFJZUHNmOTJTOGFCbWN3NDZubDFoekhkVVMzamRHZWZfaTFiQnVzaG9wZm4xemdGTVN5cWowZENjMUJhTHdMVnlXZGZ6VTZYSkNQZEtveWVmcUppMzJqVTZQSU1uYm1TSXk3QmpEaXJhdk03UGJvcW15c2RlcUVGWmtFelg0?oc=5",
+          "published": "2026-11-19T07:00:00+00:00"
+        },
+        {
+          "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdk5iRDJ2cm43cU1vc3pDeEgwQWRKZHNma2h2amx2Wi1JcFczLUxfMWNrdmxuODFLQ1NPRGtWSE5YZjBxNTRZVlBYNi1QNURZSHlWcEJXTHRPdmZ2YkdQRUZjcERIVGlSeFpKS3Z1R1NhTHFiTmRXaEZkR0F4bXNhbdIBhgFBVV95cUxNVTB0WGZtcHBnaEdKSkY4UHpfNzJaY1VhNjA4R01xTDhackN1M0plQlJ4XzhSN1BGYjJCX182U1IyQWRZTmhCOGhTMjVNRFlHb0JiRHNLLUI4VkZZUlhiV1AwYmlBak9Gb0xjNzVRX21QT19Zek5LNVRtSjhGWUtfOUp4NEtNZw?oc=5",
+          "published": "2026-11-19T06:07:29+00:00"
+        },
+        {
+          "title": "Musk says he feels 'pretty foolish' for failed US election spending - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2NOR2ZRRlBIa0hoTDI2Q28tay1jSUhVUkxJNkdxUlBjM3VGYmhpb3hTSjQyYUI0dXRHUVRKdDBqSkZPUW1QQXpidXlLbjd3bGJxU3ZiZnZ4aGJhZzhMUWRWVEdKVTY0a2JMMU1SeTRiYk12dXFETU1CSnQ5dXpQTS1kSTdRRXVCQUJucQ?oc=5",
+          "published": "2026-11-19T05:02:10+00:00"
+        },
+        {
+          "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+          "published": "2026-11-19T04:46:18+00:00"
+        },
+        {
+          "title": "Musk regrets nearly $500 million midterm elections spending, says he’s not MAGA - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUIyZnlMQ2YtZi13QkROc2xKZzBQT3B4cXg3QTdzVWE2YmtCS3RLRTh0R3NCb0Q2SjZ1dmxOOHg3cjZsRGRUZ2wzT2RVY3VTU1FRcDk5UVdJZ2lwUUl1ZXJCMFI3M3ZJeFJUMDdtdzE2TURma0ZITGxaUC0ydFVScUNRdWsxNkdWTVZmUDljRF9FSTAwRjB5Z1A3d2lDTWZOenBIWVN30gGrAUFVX3lxTFBxXy1yTGRCR0xxZzBKUExIZHhsZ19SN1g4ZFMyZTJNdGdHcUpIZHR4ZzNnMWV2eGtfcG1GcDdReXU5QjZLQ0VKWUxZUTR6MVJaeHB5R2JpSGVJdHUzRko3S2hWMHF3b1Q2Z1FXdWk4TTFpeWFWRGhoUi1Gdmw0dFpHR2ZWYkNBZ0l5aFdxSk1JVTZ1TnBsTnZGWWZ1WkIzMkpWazduSTRaNnR4RQ?oc=5",
+          "published": "2026-11-19T03:55:06+00:00"
+        },
+        {
+          "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-19T02:59:06+00:00"
+        },
+        {
+          "title": "Elon Musk feels ‘pretty foolish’ after spending nearly $500M during the 2026 midterms - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDc4QUd0dUhYQU5tVW91bG42MTRWbm1pS3BfZUo4RW5WREJVa01QcGJtRzBhOHVqSDIzaTVlcUNQNEJDUWYzVTBLY3dwRTByZWZIZXVrcEJNODM1MFoyMVBKalV2MDU5MVpxN0dGNGlBN2RMOGJuTS1GN210ei1ZdVJIMzFaY3ZHbFFBUEJrZzBKdzF3Q1FUbm5vcG05RW5FMlhUNzh4QS1hOTBqYmMtNTRhUmkxcFZhdllzQld3?oc=5",
+          "published": "2026-11-19T02:00:00+00:00"
+        },
+        {
+          "title": "Musk says he feels ‘foolish’ after GOP election spending spree - Politico",
+          "domain": "politico.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVUcXVheVUyMW5NWV8wRkptVklfYlZtOTZVUUNKNmxKdDZEbDdFZlJmVjhTN1UyQXlDUzZWVi00b2RRZlZFRWQzNm9GWnUtYnA3blFsR2FoTHN1b0ozTHlETFA4b2FSV2hFeU9Kems1MzlfSU1kQXF3OWhNek9jWGUxRWg1TmZRMXcwMVlwVG8xWnBlS190OG9CbWlSOWlyUzdWWXMxVzl2cGg5RS1n?oc=5",
+          "published": "2026-11-19T01:45:00+00:00"
+        },
+        {
+          "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+          "published": "2026-11-19T01:07:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.875,
+        "r": 0.191
+      }
+    },
+    "ukraine-strikes-bridge": {
+      "kind": "major",
+      "title": "L’Ucraina colpisce di nuovo il ponte di Crimea nel contesto dei negoziati sulla guerra",
+      "region": "Ucraina",
+      "summary": "L’Ucraina ha colpito ancora il ponte di Crimea e le notizie di diversi media concordano sul fatto che il traffico sia stato temporaneamente sospeso, incluso quello ferroviario. Reuters, AP, BBC e altri parlano di un terzo attacco in una settimana; le autorità russe hanno dichiarato di stare valutando i danni e cercando di ripristinare il passaggio. Sullo sfondo compaiono anche notizie di esplosioni a Kiev e di attacchi ucraini a Kursk, a conferma della continua escalation della guerra.",
+      "picture": "Un ponte scricchiolante viene trafitto da frecce, i carri merci sono spezzati e le travi di riparazione cadono in acqua. È il simbolo del colpo alla logistica russa chiave e dell’interruzione delle comunicazioni.",
+      "mentions": 22,
+      "significance": 93,
+      "velocity": 86,
+      "domain_count": 16,
+      "articles": [
+        {
+          "title": "В Киеве произошли взрывы",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/proisshestviya/28334775",
+          "published": "2026-11-19T09:50:27+00:00"
+        },
+        {
+          "title": "Украина ударила по Курску. Ранены более 10 человек",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/19/ukraina-udarila-po-kursku-raneny-devyat-chelovek",
+          "published": "2026-11-19T09:37:58+00:00"
+        },
+        {
+          "title": "After Crippling Crimea Bridge, Ukraine Attacks It Again",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+          "published": "2026-11-19T09:24:04+00:00"
+        },
+        {
+          "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+          "published": "2026-11-19T09:09:00+00:00"
+        },
+        {
+          "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
+          "published": "2026-11-19T07:45:11+00:00"
+        },
+        {
+          "title": "Crimean Bridge attacked again, Russia says",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-19T07:32:06+00:00"
+        },
+        {
+          "title": "У Кремлі стверджують, що Україна була головною темою зустрічі Путіна і Трампа",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/19/8063570/",
+          "published": "2026-11-19T07:17:00+00:00"
+        },
+        {
+          "title": "Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzRFcTV3RC1acloyenJ5UXlCQjNfZ0tieEg5NXpGX3NObnlVMzVTR1BDX3VsNWlhOEZKak1ja3JGU3hBMTI3cjJsRlpGWTNhRm1iSkc4U1JHeUdBYXFYdVpjWW9maWJ6MTdMOEw5ZG1YRUJyTkctVGxlTk1hT0VKY2lGNDdGS0w3ZnRJdUQxUzBHeU9KNHdUODBNMEllMDR5Y1NZaFhsd1ZNYzh6ZmZTS0p3S0pCckJ4REUwYnJIN3NsUQ?oc=5",
+          "published": "2026-11-19T07:10:00+00:00"
+        },
+        {
+          "title": "Why Ukraine keeps targeting the Kerch Bridge",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece",
+          "published": "2026-11-19T05:38:47+00:00"
+        },
+        {
+          "title": "Ucrânia faz terceiro ataque à ponte da Crimeia às vésperas de encontro de Putin com Trump e Xi",
+          "domain": "redir.folha.com.br",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ucrania-faz-terceiro-ataque-a-ponte-da-crimeia-as-vesperas-de-encontro-de-putin-com-trump-e-xi.shtml",
+          "published": "2026-11-19T01:28:00+00:00"
+        },
+        {
+          "title": "Reportan que Ucrania atacó de nuevo contra el puente de Crimea: una vía clave para que Rusia traslade suministros militares y civiles",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/reportan-ucrania-ataco-nuevo-puente-crimea-via-clave-rusia-traslade-suministros-militares-civiles_0_2ihmCjV26J.html",
+          "published": "2026-11-18T23:45:25+00:00"
+        },
+        {
+          "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+          "published": "2026-11-18T23:27:37+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.287,
+        "y": 0.507,
+        "r": 0.221
+      }
+    },
+    "measles-resurgence": {
+      "kind": "major",
+      "title": "Il mondo è di nuovo preoccupato per la recrudescenza del morbillo in un contesto di fiducia vaccinale in calo",
+      "region": "Mondo / cripto",
+      "summary": "Negli Stati Uniti prosegue una grave epidemia di morbillo: in Pennsylvania si parla già dell’ottavo decesso e i casi si avvicinano a 1600. In altri servizi si afferma che il Paese ha perso lo status di territorio in cui il morbillo era stato eliminato e che persone non vaccinate, compresi residenti della Pennsylvania, stanno morendo nel contesto del ritorno storico della malattia. I media collegano inoltre la situazione al calo della fiducia nei vaccini e alla mancanza di protezione tra i neonati.",
+      "picture": "Lo scudo dell’immunità è perforato da numerosi fori, accanto a una siringa e a una dispersione di scintille rosse. È l’immagine di una protezione indebolita e della rapida diffusione dell’infezione.",
+      "mentions": 17,
+      "significance": 83,
+      "velocity": 9,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "Eighth measles death reported as Pennsylvania nears 1,600 cases - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJwUVVOam91SHFIZTJtUk9KdUduZ000T0VHQVVZMmpfNEg5UUk3dEVka2ZiTVhXb212NnJEclJianh3YlFxQUZUWFBscUtOZTBnMURTekhsQTJWaHJTYnRHX3lRYXJSRDVyMS1tdTk3WlFidE9zNUpfX0V3NXJGTnBOQ2FYaVFINzd3c0tDUkxlUzBPbVFndy1kY2w3akVZMUZ2aXkzMHg4STFURXc?oc=5",
+          "published": "2026-11-19T07:24:00+00:00"
+        },
+        {
+          "title": "Anthropic raises record $107bn ahead of stock market debut - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVUwY01uLVU5cnBObXJodGsyV3RiTTk5ZzlXYy02LWJiLV90a25fX0FMXzJMcGxiSU9sOWNKOFZmV1ZMYWd2T2ttcW5RVWdIMk9YSGoxVkVHZXBidWhGZWU1cDNoUERTRGNNbnctckowUnNkRjRXOG50SEg3REUyZzNPUzlmUkI0S3ZSRzdlaWZiNjdxY3VGUnl6Z0otMFVNWGYwTVRvcVJqNGVGQUloT0JQWQ?oc=5",
+          "published": "2026-11-19T06:14:32+00:00"
+        },
+        {
+          "title": "Vance and El-Sayed are looking to meet after a bitter, personal campaign season - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUhEN0tEXzdwM0JaNjZ1RlJJdk9XcWlNZHJ5emVNdlUtWWlqOVZCYUNzTFQ3dy1vTVk0SldRQ1J0SFZkcEQ1U19YVjlKcHN3dEVhMjFaYWUxWXZtbmtHNVpCR3hqRFdNWVBiTm5XLVAwQWRsNDByUElmNmp2NkcxWjRjWEZUVEtLVU1sT185QlFKNVJqSUQ0MEhsXzc3RW5wMEE?oc=5",
+          "published": "2026-11-19T02:10:00+00:00"
+        },
+        {
+          "title": "Video RFK Jr. issues rare pro-vaccine statement after US loses measles-free status - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41NkZWM0p2V2RlNjN5XzRYQUh2TXlGZlNpY0d0ckg3YlhqQVl2T0lGODkzRXNWcFFJeHJjNDZTUHBkdllibXE5UVZhLVc?oc=5",
+          "published": "2026-11-19T00:46:05+00:00"
+        },
+        {
+          "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence - Al Jazeera",
+          "domain": "aljazeera.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHBYRnQzSUcybkh6SlVFcnJDRFphZWxuOGE1ZEhvdV9wcnR1VFRTVzlacHlGeWNOZ25wZEV0RWdpemR6REF5Ry1LWWZHUUJldUNqRGJPcFhkOTl4V2g0S0hVdEhIVUFyOUsxMjZCQmN2cUZIRko2aF9xTTMtNnk3NUFNdk9ZYks5RlNDUXAyNm4tdXBpYjF3Y3hnelpETng5MGR6RnhOUVpqa0UwYVFybkZDQi1IZlk30gG-AUFVX3lxTE5sZzRkemljbGt4UHNyazRfUHVOTHgtUmgzaktvcFYtbERfTkx5YXU4SFI2YkhyZDZiY1BZTG8wR21XaXdsSDBVc3NrRDdDTktMZWJWdDhiaGRvcVN3R1A5UjFyZy1pMkpyLUhLamdmVGhDOWYxLXkyYlQwZlRWSjFXUm1IVVZPNk8xY3lLZ0E0c0VYSVJoUURfZ1B6Um5qdXY1aGZLTUJrTC1HODl2T2tQczhPbFltZ3ZOcXFGVVE?oc=5",
+          "published": "2026-11-19T00:22:49+00:00"
+        },
+        {
+          "title": "Abdul El-Sayed Calls Out 'Grifter' RFK Jr. After U.S. Loses Measles Elimination Status - HuffPost",
+          "domain": "huffpost.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjNycmpVUl91RzVOSS1tTmxrUVNrUHk1N0JxcW1GdmRqa1F6T2VETGNuZFpWeUZYODlVS1ZXeGp3elpJQk5iUzRzZi05R2RnNVpwYk9xR00yLXZnX1YxNTRxRVRuVEtjUGctZk16M3pVXzRqcUtHaE5oYU9rN1VqTzVhN244OWVjdllYUzhOUjLSAZYBQVVfeXFMTXdCbzBFSGJZRzl6NXFwbjJEWTdzRDB1SFpqOHhtcmYtd2Z4UUZ4SXhoQ3hKVklDblh2THVpb0l5YkFBSHBYNENQUGFXLTN1bHllczVUc2pWeGdMY1FydHhiRHRTel9GS0Q4bU40X2owa1UtVEVUVkFCS0pETDVNYkRXX2JfbWR2RHVSQlB5cjVYT0V2bzd3?oc=5",
+          "published": "2026-11-18T21:23:40+00:00"
+        },
+        {
+          "title": "FILE PHOTO: A measles sign in New York - The Lufkin Daily News",
+          "domain": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGlrb0xrbUd4RDZGanZQM1NPeU12ZGxFQWJPUHBjNXhRbURqSmUwNjMwS0ltY3pNdlVubWdvcWxwZlRVTlpEUy1zWWxyTVBsSlpNXzc0Vl9wMktqRDdocUFOT1ItbkRUdFc5clktTTBwRlhOd1VtZTFoVmxJNGRxdGlYd0dqQUs1SklmQ3dZWWdPb2JEQ2VGNUl6RmQzMHluLWRjeUlzdUtyQzRQNnVpbk1EdTRCekUtR1JVeVlLUU5TaGZFWHNwdFNodTd1MnV2?oc=5",
+          "published": "2026-11-18T20:05:53+00:00"
+        },
+        {
+          "title": "'Malicious' activity not behind US tech outages: security officials - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSm1yS1lZZUt1OG9YQUdsaWpEcFo2bVVnR0s4Ry1fbk5tRTExdXREbWROU0lkbVoyTkl0b25scmoxMjlUakYzeWt4d01hWVcyQUt2c0NiR2hScUFrOG9OZmdwdlB2eWxOMWhpNFVvc0dpc2R0Y08zbXQtUHVXcFRkNnM1LUFyWnB4YVFISUlPS1A?oc=5",
+          "published": "2026-11-18T18:04:01+00:00"
+        },
+        {
+          "title": "Measles threat downplayed in posts misrepresenting vaccine safety - AFP Fact Check",
+          "domain": "factcheck.afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UbE4zWUJ6OE9IcHozVzA5WXJPT2wwMXVkYjRaUDlzSUVBUEpSS25FNHBFRmdxVzFCOWhVdGREV3hwNXpLSVVMeVp5NHE2UFZjalRnUjNXVlQ?oc=5",
+          "published": "2026-11-18T16:23:26+00:00"
+        },
+        {
+          "title": "With measles spreading, do you need a booster shot? - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVE0zOHdKZ3RpWl9mYTdmR3NBODA5eGZEYnFfYlJROFA2OFRybWJDQ1g0cW43ZWpGY1dfelBPSEphMmNTdFk4dG9RQVp3SkhNZVpnYlF1QW04NlF0UG9vbXA3LU96Sm16aE02TXByV3ZPdHZ3TElkUEFfTEFDVGl2QmR2LUlqbG5uNHBTM2NoUFp0S1E?oc=5",
+          "published": "2026-11-18T15:41:18+00:00"
+        },
+        {
+          "title": "America's measles return leaves infants vulnerable - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5neExMd21uMld4ZEh2Y1hnTnVEZ3V6Mk96OXBfSXlwUlN2SVF3bTJXUHdPZWxtaHZSLWw3alhCTW1RX3VpYlVrb24tMEhLVXUtM0k3VkVDZk13TTZmTnVWSVRuUFJHRE01TTZFSnJJN1ZjTFEx?oc=5",
+          "published": "2026-11-18T15:31:18+00:00"
+        },
+        {
+          "title": "With measles spreading, do you need a booster shot? - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWE1ekJieVpWajNYZzBGWEJ1UWhmYzRVZHN0WkNUbUl6clJMNW5tSjdyYklqd285X21PUUlsWlI0NHFFdUpnSWJWekhmTENtWE5tS3BMdlpsd2Z0cHhScXIzX1ZHWENkcjBQcUIxbExPMS1teXFSc3UzMm82NkN2d0FZQdIBiAFBVV95cUxPLVZuLXRHa21RTk1WOEVuVzdlV0xEUWFjVndVcDlLNEpPdjB4cDB3dGpMMjRxakZ4aEdOM1cyNGNzWW00QUlTVVNnWWg3bFVjamhiZFVMM1JDVzVjSWtnZm5ZUWFjYUVmVXRKdXVNbkJSX25XN2hNNWNaNTZ6RlBTWW1fYjlWNmc3?oc=5",
+          "published": "2026-11-18T16:57:31+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      }
+    },
+    "gaza-ground-operation": {
+      "kind": "major",
+      "title": "Israele amplia l’operazione di terra a Gaza e infrange la fragile tregua",
+      "region": "Palestina",
+      "summary": "Israele ha ampliato l’operazione di terra nella Gaza centrale, compresa l’area di Nuseirat, nonostante la tregua in vigore. BBC, Reuters, Sky News, Guardian e altri scrivono che i carri armati israeliani hanno oltrepassato la «linea gialla» ed sono entrati nel territorio controllato da Hamas; Hamas ha definito l’azione una grave violazione della tregua. Secondo le notizie, in seguito alle operazioni gli abitanti hanno lasciato la zona, mentre l’esercito israeliano ha dichiarato di distruggere infrastrutture e un tunnel di Hamas.",
+      "picture": "Sopra uno spazio urbano affollato, uno scudo incrinato; i carri armati spostano un confine vacillante e gli uccelli fuggono via. È l’immagine della rottura di una fragile tregua e di una nuova offensiva.",
+      "mentions": 15,
+      "significance": 92,
+      "velocity": 16,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "Gaza: Israel launched new offensive on Nuseirat",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
+          "published": "2026-11-19T07:50:10+00:00"
+        },
+        {
+          "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+          "published": "2026-11-18T23:25:25+00:00"
+        },
+        {
+          "title": "Israeli troops launch ground operation in central Gaza - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjBHejFOSnJSTFhwSXE4T2lmM2xOWDBrbzlTenhKbEw1cnFwaU5LR3dVVnJWZlRDWEpoYUxYTUt4WjUzWExKY09WLXlMaDhTdS1GUEY5bVJGNGltOGRxNTFwZjZCdGduancybmNyclp4N1kwZzF2RXlZTHRUd3AtLVVwNHM5blk0T3paN1hPclNRbXdY?oc=5",
+          "published": "2026-11-18T22:54:20+00:00"
+        },
+        {
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T22:34:56+00:00"
+        },
+        {
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line - BBC",
+          "domain": "bbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5",
+          "published": "2026-11-18T22:34:56+00:00"
+        },
+        {
+          "title": "Israel army launches ground operation in Hamas-controlled area of Gaza - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWm1zcE9PTU85WEN1ek1LdUo1dEFXVWVRZHVFRkV2bndqYWhNZUVza0N1cnYyZzRjYW5ZNnBRUUR6SEdkZTE3MDJyT1ExYnY1ZjltU182ZEhtbkk3eGpfRGtQcS1Bbk01YlBJUGhxQVZYQUhEQnIzWnlrRE1SSDlnUlkwRzFoWFF0OTkwaUl3ZkY?oc=5",
+          "published": "2026-11-18T18:15:06+00:00"
+        },
+        {
+          "title": "Israeli military launches new operation on central Gaza despite ceasefire",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+          "published": "2026-11-18T16:01:27+00:00"
+        },
+        {
+          "title": "Israeli military begins a new thrust in Gaza, kills three people - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFdMSVppLTl5dUFSTXY2WDl6SnF0bk5PN2FYY3l3LXhkRWJpLUh0SDB2MUpKMk9EcDlYcFNxSGZ2MGdIRlZoTG94WlVqOTFadGN6cVRuakFzcTkyc080bjNuN2hCODhzVFFWdm9CYnJncjIwSVNEOWFzd3dzdy1uWFpsWU5SZlBkaDZwQU9yX2xWSExITnE0Y1Y3UTlCWGU0ZTVaSzFlU2o2RXJ1?oc=5",
+          "published": "2026-11-18T13:38:01+00:00"
+        },
+        {
+          "title": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+          "published": "2026-11-18T13:01:00+00:00"
+        },
+        {
+          "title": "Gaza: Israel launched new offensive on Nuseirat",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
+          "published": "2026-11-19T07:50:10+00:00"
+        },
+        {
+          "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+          "published": "2026-11-18T23:25:25+00:00"
+        },
+        {
+          "title": "Israeli troops launch ground operation in central Gaza - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjBHejFOSnJSTFhwSXE4T2lmM2xOWDBrbzlTenhKbEw1cnFwaU5LR3dVVnJWZlRDWEpoYUxYTUt4WjUzWExKY09WLXlMaDhTdS1GUEY5bVJGNGltOGRxNTFwZjZCdGduancybmNyclp4N1kwZzF2RXlZTHRUd3AtLVVwNHM5blk0T3paN1hPclNRbXdY?oc=5",
+          "published": "2026-11-18T22:54:20+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      }
+    },
+    "bangladesh-unrest": {
+      "kind": "major",
+      "title": "In Bangladesh esplode una nuova ondata di violenze e proteste dei sostenitori di Hasina",
+      "region": "Asia",
+      "summary": "In Bangladesh è esplosa una nuova ondata di violenze sullo sfondo delle proteste dei sostenitori di Sheikh Hasina. Reuters, Guardian, Dawn e altri scrivono di morti, dell’incendio della casa ancestrale dell’ex leader Muhammad Yunus e del fatto che in alcune aree la vita è stata di fatto paralizzata. Si riferisce che la Lega Awami ha chiesto una protesta nazionale dopo il rifiuto delle autorità di rilasciare il passaporto a Hasina e alla vigilia del suo previsto ritorno.",
+      "picture": "La folla è divisa da una strada in fiamme e da barricate rovesciate, mentre bandiere strappate si mescolano nell’aria. È l’immagine della frattura e della violenza di strada prima del ritorno politico di Hasina.",
+      "mentions": 15,
+      "significance": 74,
+      "velocity": 79,
+      "domain_count": 9,
+      "articles": [
+        {
+          "title": "Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2045664/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-ex-leader-yunuss-home-set-ablaze",
+          "published": "2026-11-19T08:11:04+00:00"
+        },
+        {
+          "title": "Yunus's ancestral home set ablaze as violence grips Bangladesh",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/yunuss-ancestral-home-set-ablaze-as-violence-grips-bangladesh/article71719029.ece",
+          "published": "2026-11-19T07:19:24+00:00"
+        },
+        {
+          "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+          "published": "2026-11-19T06:58:33+00:00"
+        },
+        {
+          "title": "Violence rises in Bangladesh as Hasina supporters escalate protests, fuelling instability - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObnh2NW55dVlOaU1GVkducTZmZ0QzZWNsRTdsRXNDVzgzRkFtdV9faGVFVnhKQ0VkMWVSMWlraV9sby1KemZvRFNsS2o2dHNWNVRmUE5Ecmo5VXlabkJweHZuQWFqamFFZGx5elpsa2hiU05IVkVYbjVSeHRCNmlwdUNrNzl4c3FwUE15SDlNRklyeXoyRHdITTZvdmpiMFpnRDA2NXZhdkJkZ3FHbjFnTFFhUDluNFF6TmlTOHloSjZjOFhVVmJuOQ?oc=5",
+          "published": "2026-11-19T05:58:00+00:00"
+        },
+        {
+          "title": "Top UN court to deliver judgment in case alleging Myanmar committed genocide against Rohingya - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV19YVVFyMjZPbHdVbkk3NFRQR1h3TmNSZksya21iR0hhbXozV2ZYOVlaa2NNc1U5dmxxeTJWdWdyRTdXOWgxbTlNOGRLTjdYVXAtRVUyLWlkaGxXWk9XMWRDRDR0aE1idlNqWWhwRWxJUUx5cF9mMWFOUHBQLUVvMUpDeFZhSWpabF9YejdDNVRnREIzRXZhZnhFRUlUWEloblpVekpuUHQ4VGNkbzNPUXV30gG3AUFVX3lxTE1OMkdyMDZvWmRCRXhhSVRtcFQ4bGJjaERmWjNiTUJqZlBWN3FGU1Z5bEhFVUxnUW1FbEs1NmswSmc1Z2ZRZTN2SXVLeENVT1ItNEIwLVVSUmwtaVA3eDMycktERFZNd1lyTVZ2N3VubHZicENiS2h5bmQ4N0lQOVNjeEx5V2VHTEhIMV8wXzEwdzl6MFJ1enp0dXFNaDZoNVhRS0R6V2szdlgzeG1lZWkyeG1jek9rOA?oc=5",
+          "published": "2026-11-18T19:06:03+00:00"
+        },
+        {
+          "title": "Indian troops kill militant hiding in a mosque after siege of villages in southern Kashmir - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjMxR0IzMkRmbHlvMFgza2VacmlmcTZpSk1ucjZSR09BclJnVzNpN0JSem4xTnhmaWwxSE9kOFJQZHgxTVJWWWViZkpURmxHWDAtaURET3Yycm9qWGdRTlNnZDJjeW15TTMyNnVJcW1ObERDRlZxemxGRUhNOV9UMGRzNWVlVHlBcU1TOVVzd0c0VjZaQnRfa1dhVVFoa3dWa21rYTlIVmFsd2xab0psb2ctbnRXOGxFN0dQdmFfbUhUdnpzM2xOWGFWTlVuTVNKSUE?oc=5",
+          "published": "2026-11-18T17:26:24+00:00"
+        },
+        {
+          "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWhBaHFaVUFGT3RIMTlteEYtcHJ2bjVYZW1KQlRiQmZEbHIwMU5IU0d6dU9aekJmVTBGM3FKZ096NXJUdVk4dnJjQVo3dE5qajQxaGEzelFrVXJpQjRMTzJVd1c2Z3l1TEI2NHRlcm5oZlAyclNuaTkxWXdkUHhobm14WnkxQzJLQ0hXRmhIVGRtZm5EV2s3ZGYwRW84Ykl0UHZxcg?oc=5",
+          "published": "2026-11-18T14:45:00+00:00"
+        },
+        {
+          "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/18/police-in-bangladesh-clash-with-garment-workers-demanding-higher-minimum-wages",
+          "published": "2026-11-18T12:45:21+00:00"
+        },
+        {
+          "title": "Fans rated KC's World Cup above other host cities - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTgwMzBnUWc3REtMTjhxby1saThSZlI1bFJ5TVA1aE9iaklXV1NMRVFZWGVuSGpDYXlCeGU0OWVVR0FtZmNYNzVGRHZJeUluN3AtaWJwZnVORUtnbkcxa0puZndpSk0wOVpCdVl2MC1aNUZPVWRxWk05WkZJbWxUVXJkMWljaDVlOVo0RWVQdUR1OFNfYXc?oc=5",
+          "published": "2026-11-18T12:33:25+00:00"
+        },
+        {
+          "title": "Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2045664/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-ex-leader-yunuss-home-set-ablaze",
+          "published": "2026-11-19T08:11:04+00:00"
+        },
+        {
+          "title": "Yunus's ancestral home set ablaze as violence grips Bangladesh",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/yunuss-ancestral-home-set-ablaze-as-violence-grips-bangladesh/article71719029.ece",
+          "published": "2026-11-19T07:19:24+00:00"
+        },
+        {
+          "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+          "published": "2026-11-19T06:58:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.202
+      }
+    },
+    "south-korea-chip-boom": {
+      "kind": "major",
+      "title": "La Corea del Sud supera per la prima volta la soglia di 1.000 miliardi di dollari di export grazie ai chip per l’IA",
+      "region": "Asia",
+      "summary": "La Corea del Sud ha superato per la prima volta la soglia di 1.000 miliardi di dollari di esportazioni grazie alla forte domanda di chip per l’intelligenza artificiale. Reuters e Yonhap riferiscono che il Paese è diventato il quarto al mondo a raggiungere tale risultato, mentre la Borsa di Seul ha chiuso in rialzo sulle attese legate al settore tecnologico. Le pubblicazioni segnalano anche il rafforzamento del won rispetto al dollaro.",
+      "picture": "Una fabbrica di semiconduttori è sormontata da una montagna da mille miliardi, mentre le casse dell’export scorrono come fiumi. È l’immagine del boom tecnologico che ha spinto il Paese verso un record storico.",
+      "mentions": 5,
+      "significance": 72,
+      "velocity": 86,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "(2nd LD) Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006552320",
+          "published": "2026-11-19T08:48:26+00:00"
+        },
+        {
+          "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
+          "published": "2026-11-19T06:29:00+00:00"
+        },
+        {
+          "title": "(2nd LD) Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006552320",
+          "published": "2026-11-19T08:48:26+00:00"
+        },
+        {
+          "title": "(LEAD) Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006551320",
+          "published": "2026-11-19T08:01:26+00:00"
+        },
+        {
+          "title": "(LEAD) Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006551320",
+          "published": "2026-11-19T08:01:26+00:00"
+        },
+        {
+          "title": "Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006500320",
+          "published": "2026-11-19T07:36:20+00:00"
+        },
+        {
+          "title": "Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006500320",
+          "published": "2026-11-19T07:36:20+00:00"
+        },
+        {
+          "title": "(URGENT) Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006400320",
+          "published": "2026-11-19T07:33:29+00:00"
+        },
+        {
+          "title": "(URGENT) Seoul shares end higher ahead of Anthropic's stock market debut",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006400320",
+          "published": "2026-11-19T07:33:29+00:00"
+        },
+        {
+          "title": "S. Korean won extends gains against U.S. dollar",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006900320",
+          "published": "2026-11-19T07:20:00+00:00"
+        },
+        {
+          "title": "S. Korean won extends gains against U.S. dollar",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119006900320",
+          "published": "2026-11-19T07:20:00+00:00"
+        },
+        {
+          "title": "(LEAD) S. Korea's exports top US$1 tln for 1st time on strong chip demand",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119003951320",
+          "published": "2026-11-19T06:39:06+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.338,
+        "y": 0.707,
+        "r": 0.264
+      }
+    },
+    "voyager-1-light-day-record": {
+      "kind": "progress",
+      "title": "Voyager 1 raggiunge la distanza di un giorno luce dalla Terra",
+      "region": "Spazio",
+      "summary": "La sonda Voyager 1 ha raggiunto una distanza pari a un giorno luce dalla Terra. I media scrivono che è il primo veicolo costruito dall’uomo ad essersi spinto così lontano e che continua a trasmettere dati dallo spazio interstellare a quasi 50 anni dal lancio. Si sottolinea inoltre che la soglia corrisponde a circa 26 miliardi di chilometri.",
+      "picture": "Un veicolo spaziale attraversa la linea luminosa della distanza di un giorno dalla Terra. È il simbolo del limite storico del volo umano nello spazio profondo.",
+      "mentions": 100,
+      "significance": 94,
+      "velocity": 61,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "«Вояджер-1» удалился от Земли на одни световые сутки. Так далеко ни один космический аппарат еще не залетал",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/news/2026/11/18/voyadzher-1-udalilsya-ot-zemli-na-odni-svetovye-sutki",
+          "published": "2026-11-18T19:21:07+00:00"
+        },
+        {
+          "title": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
+          "published": "2026-11-18T19:19:35+00:00"
+        },
+        {
+          "title": "NASA’s Voyager 1 has reached 1 light‑day from Earth, the first human‑made object in space to reach that distance",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/18/voyager-1-one-light-day-from-earth/5931795019381/",
+          "published": "2026-11-18T16:36:23+00:00"
+        },
+        {
+          "title": "NASA Voyager 1 probe believed to have reached ‘light-day’ milestone",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
+          "published": "2026-11-18T11:42:33+00:00"
+        },
+        {
+          "title": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space - Space",
+          "domain": "space.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODFmbDBOVGlucGFfckdVdkVuY016dXFtUTlSdXlRZnhmTW1rakRXZGg0ODhldmpqMGxFWEJDVU5LTFJVNnNyRzlLa0F1aDV4SmZyOEh0OUc3ZzM0V2oyZTZ5OWkyZUZ3azdfMUttM3BfT1JPYmp1cmRFdFk0R0x1N19HUTRNZ2lkYXd2V1dYTWtYT05KdlU5ZmNBWFAyTnVJYy1fZnF0dUdvNEJGT0Etd3FqcEJDTzlMV2lncWI4eklmVVlBYU1DdGZOMUs3dlE?oc=5",
+          "published": "2026-11-18T11:35:47+00:00"
+        },
+        {
+          "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+          "published": "2026-11-18T11:00:56+00:00"
+        },
+        {
+          "title": "NASA Voyager 1 probe believed to have reached 'light-day' milestone - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
+          "published": "2026-11-18T10:21:49+00:00"
+        },
+        {
+          "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
+          "published": "2026-11-18T10:39:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.354,
+        "y": 0.06,
+        "r": 0.156
+      }
+    },
+    "van-gogh-record-auction": {
+      "kind": "progress",
+      "title": "Un dipinto di Van Gogh venduto all’asta per il record di 190,4 milioni di dollari",
+      "region": "Arte",
+      "summary": "Il dipinto di Van Gogh Chataigniers en Fleurs è stato venduto all’asta da Sotheby’s a New York per il record di 190,4 milioni di dollari. Diverse testate osservano che la vendita si è svolta sullo sfondo di una disputa sulla storia nazista della proprietà dell’opera, ma l’acquisto è comunque diventato il nuovo prezzo massimo per l’artista. I media scrivono anche di una serata forte all’asta, con un volume totale di vendite di circa 778 milioni di dollari.",
+      "picture": "Una tela con un cartellino del prezzo che si dissolve in stelle. È l’immagine di un prezzo record che trasforma il quadro in un simbolo culturale e finanziario.",
+      "mentions": 90,
+      "significance": 88,
+      "velocity": 57,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRHbm1wODU4d2dRTXJTUGN0aTVqb3hTS3FSVUNCdFJmN3NSeS1TQm4wTGJnQnRDV0pQcTM0YWVBVHkxTTVlS2FWOFh0MTBMOGpyQ3NOd2JLVk11cVNEUC1xOXF6SFp0UmdEdFJOemMzdWJNYVZ5ZVU1d1Q1bG9iM2J2YmHSAYoBQVVfeXFMTTZlU3V3TTZnS2w0TzZ3ZWwzemhZZ19pdWNGUXNvN0djT2tFanJac28ta2tWVll2bHhPYnMyYmpkenBaRlg5cVF2eE9qVHpPYWVFV1FmQk9hekdjZklUaHNBc3FzMFJQR0llTzZ3TW01dWJQVWhWUjQwQ1VweVkzbldBVHZaRDNBcGtB?oc=5",
+          "published": "2026-11-19T07:48:46+00:00"
+        },
+        {
+          "title": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+          "domain": "theartnewspaper.com",
+          "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+          "published": "2026-11-19T06:42:07+00:00"
+        },
+        {
+          "title": "Van Gogh painting sells for record US$190.4 million after dispute",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375017/van-gogh-painting-sells-record-us1904-million-after-dispute",
+          "published": "2026-11-19T05:45:48+00:00"
+        },
+        {
+          "title": "Sotheby’s Notches $778M Night, $190M Van Gogh, But Bidding Is Thin for Blaquier-Arrieta Works",
+          "domain": "news.artnet.com",
+          "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+          "published": "2026-11-19T05:30:30+00:00"
+        },
+        {
+          "title": "Van Gogh painting sells for record $190.4 mn after dispute - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPek9NOWtMNWtLOXZjN2l0MnVnQWVCTHBCVHZZblc1WWlQWmhuUDl2TVFJN25VdjBzUHM3VXpxcXE5SEExdEktTThYT0FSdjh3Vnk4VWVMTFloX3lrNlBsV1VGd0tEU0FiemZLdUF3bHBGRWxvNmw0RTMzanNIZmh0aQ?oc=5",
+          "published": "2026-11-19T00:05:17+00:00"
+        },
+        {
+          "title": "Van Gogh Painting Sells for $190.4 Million, Most Ever for the Artist - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHg4Uk1qUVBmSVlZYlZWY2laYTYzOTNvQXliQWJ6b0JoNEZIa1JJd21VSkJxVzdKcEZVa1BZSTNZNTEwdFVIY2RlUXY5TWI3T2dGZ0lSV3hPNnpLSG5ZNUFOT0pKOWc1MDRWVnJ5MDlsS2NnS0NOcTFjTXkxclE1cnV6M0ZUWVBmTWFzT1NWazZObmo1Q1dYdzd0RkdhMEFNX2ZsSWZaSQ?oc=5",
+          "published": "2026-11-18T23:57:00+00:00"
+        },
+        {
+          "title": "Van Gogh Painting Sells for Record $190.4M Million in New York—Buyer Is Dealer Bill Acquavella",
+          "domain": "news.artnet.com",
+          "url": "https://news.artnet.com/market/a-van-gogh-painting-sells-record-190-4m-million-in-new-york-2838742",
+          "published": "2026-11-18T23:25:43+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.071,
+        "r": 0.125
+      }
+    },
+    "rohingya-genocide-ruling": {
+      "kind": "progress",
+      "title": "Il tribunale internazionale si prepara a pronunciare una decisione sul caso di genocidio dei Rohingya",
+      "region": "Scienza",
+      "summary": "La Corte internazionale di giustizia dell’ONU si prepara a pronunciarsi nel caso in cui il Myanmar è accusato di genocidio dei Rohingya. I media definiscono la sentenza un verdetto chiave e sottolineano che per la Corte si tratta della prima decisione sul genocidio in oltre un decennio. Le pubblicazioni affermano anche che i Rohingya sperano di poter un giorno tornare nella loro patria.",
+      "picture": "La bilancia della giustizia regge rifugiati e un martelletto del tribunale. È l’immagine di un caso in cui su un piatto stanno le sorti delle persone e sull’altro una decisione giuridica sul genocidio.",
+      "mentions": 100,
+      "significance": 82,
+      "velocity": 56,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "UN court set to rule on case alleging Myanmar committed genocide in Rohingya crackdown - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUJUNXlpRDY4MFo2V1JrQnRlVjEtNEpUbWZWM1FRZm9lTThwODdHNGVQRUFDR1hVbkZLX3NUNzNTSTd0UDdJdFBIU19raFJLMk5tS1BMRF92R2d0aV9XblQ1dGdGYXRmeko1MmlVY05lR09rajNFd3p3ZlpDNHJkMDg5Rm02THV5UTYyckRaRThVUjhFVVkzQlBUenNYQ3ZpSWRwc2EzaE05RW1pZlYxa3o2ZXhLWjBBblZ4TWNORkMyRFZRalV4WlRR?oc=5",
+          "published": "2026-11-19T06:24:56+00:00"
+        },
+        {
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+          "published": "2026-11-19T05:13:13+00:00"
+        },
+        {
+          "title": "Rohingya hope to return to homeland as Myanmar genocide ruling looms - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTRPa25vS0x6bmdlQ1pvM2dfTmFQRkhSY1lFbFlQQzBXZVFTSENvWlpJNVZ4TGo5cWtLa3hZLWJ6aEFZWFg1SWh5LTdlZkpSYmJvYUNBZ25kTzhZdS1oNW5ubG9tVkVZY3hlTEhESjdsRFI0dGp2WXdPc2ZhSC1tcW9Vbk5nUHVOQVE?oc=5",
+          "published": "2026-11-19T03:03:55+00:00"
+        },
+        {
+          "title": "International Court of Justice to rule on whether Myanmar committed genocide of Rohingya - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHdEZ09xdzczMVNtR005eDVGNjBSOGtsZEY4VDE5N0JqRGE2VWpWNjFLRUVkUks2UXBLcXB1WTlrbXFtYzhFWDdCZXpfOEFqREJhOXlqRkdhWHl2OUtLVlVGWEV4bzMwUW5ENWUxbDBicllVbmlsM0FYT2ZLaG1aYVhrWHhkWGhJd1RrZG5iVVgxT2VvbXJQVzduYS1McnRnMWViM1F3T2ZocUpTMlZ5VUZBS2gxaERmWWhuLUh1YUlZUQ?oc=5",
+          "published": "2026-11-18T17:48:34+00:00"
+        },
+        {
+          "title": "¿Ha cometido Myanmar un genocidio contra los rohinyás? El máximo órgano judicial de la ONU resolverá este jueves",
+          "domain": "elpais.com",
+          "url": "https://elpais.com/internacional/2026-11-18/ha-cometido-myanmar-un-genocidio-contra-los-rohinyas-el-maximo-organo-judicial-de-la-onu-resolvera-este-jueves.html",
+          "published": "2026-11-18T17:25:13+00:00"
+        },
+        {
+          "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+          "domain": "dw.com",
+          "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-11-18T14:27:00+00:00"
+        },
+        {
+          "title": "Top UN court to deliver judgment in case alleging Myanmar committed genocide against Rohingya - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2JsMy1wbUtIak40cVlJbkk4cWxNdER4QThqbi0tY2h6d1dOM0NWZUJZYjhMaGplRFRFLW9VMDNrbkVsM19SMWUxS01aNEFIVHBwMjZ6dDRubmZFclZzaVNvam4zazJLZjFpank3a3l1VzRrXzlqLTdnU3JiRG1vQkNyUnB6S0tVcnNlU2dqNG1SWG96Rzdhem5ZLW5vY2VUQUNfcTNWdEV5Zw?oc=5",
+          "published": "2026-11-18T13:48:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.107,
+        "r": 0.125
+      }
+    },
+    "anthropic-ipo-record-2": {
+      "kind": "progress",
+      "title": "Anthropic realizza la più grande IPO della storia per oltre 81 miliardi di dollari",
+      "region": "Tecnologia",
+      "summary": "Anthropic ha realizzato la più grande IPO della storia, raccogliendo oltre 81 miliardi di dollari. WSJ e CNBC riferiscono che il collocamento ha stabilito un record, superando i precedenti parametri di riferimento, compresa SpaceX. Le testate presentano l’operazione come un evento di primaria importanza nel mercato delle aziende di intelligenza artificiale.",
+      "picture": "Il nucleo dell’intelligenza artificiale è avvolto da un gigantesco certificato azionario e si solleva verso l’alto. È l’immagine dell’ingresso record dell’azienda sul mercato e del forte interesse degli investitori.",
+      "mentions": 55,
+      "significance": 90,
+      "velocity": 56,
+      "domain_count": 27,
+      "articles": [
+        {
+          "title": "Anthropic Raises $81 Billion in Biggest IPO Ever - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1dQS0xwaGdEa3NFS3B0NzlPZnJyUC01VjFHU0s1TkJnZkEycHpwUm1uQTBfYUYzRE1zUjJsQ05xelp2SGlYbWl3aklQdWdlOXFXbF9aRTc4Sk50dW5MQWZsRnVULUVaaFBMTmpmai1Fb3RsenBWWHBOTEt5MmNrZTlwSFY?oc=5",
+          "published": "2026-11-19T04:19:00+00:00"
+        },
+        {
+          "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
+          "published": "2026-11-18T15:15:54+00:00"
+        },
+        {
+          "title": "Behind the Curtain: Anthropic contradictions - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zRm9ENm84U1FRN19NU2hIbmRBVjI0QTV5MlFKR2IwcjQwaWoweC1iVG9IQ29fU3VXS2JDWUhGS1ZiRDZ5UzBzenN1TkJ5YmZCd0JZRWdUckQwUW1lOGZabnpKNW1RTlFyVUluNHhJQ2NhempaLThr?oc=5",
+          "published": "2026-11-18T11:39:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.143,
+        "r": 0.151
+      }
+    },
+    "rockstar-gta6-release-marketing": {
+      "kind": "progress",
+      "title": "Grand Theft Auto VI è uscita in tutto il mondo ed è diventata il più grande lancio videoludico dell’anno",
+      "region": "Cinema",
+      "summary": "Grand Theft Auto VI è uscita in tutto il mondo dopo 13 anni di attesa e ha ricevuto recensioni molto positive. I media scrivono che il lancio è già diventato un grande evento dell’anno nell’industria videoludica, mentre Rockstar ha pubblicato il gioco in diversi Paesi seguendo gli orari locali; in India, secondo quanto riportato, alcuni hanno preso un giorno di ferie. Nei resoconti vengono anche citati i protagonisti della trama: la coppia criminale Lucia Caminos e Jason Duval a Vice City.",
+      "picture": "Un controller al neon esplode all’interno di una sagoma urbana. È l’immagine di un lancio mondiale di grande risonanza, diventato un evento per l’intero settore.",
+      "mentions": 79,
+      "significance": 78,
+      "velocity": 32,
+      "domain_count": 36,
+      "articles": [
+        {
+          "title": "GTA VI is here, and India has taken the day off",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/technology/gta-vi-is-here-and-india-has-taken-the-day-off/article71718783.ece",
+          "published": "2026-11-19T09:12:35+00:00"
+        },
+        {
+          "title": "Why is GTA 6 such a big deal? - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TQlVyRmtqS1NvYWxqTTdlck14Y1RqQVVJM0lBMnByUTh3dmhucTFXckpoUEFKWjZKNlRwMmpOaWJtZ3RadFUzVGE5U1JTOGltRE5vNl9DSXRQd19SRENrbDVURkFpZ3BzZlVnd2hVRnFkdw?oc=5",
+          "published": "2026-11-19T06:31:05+00:00"
+        },
+        {
+          "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait - Al Jazeera",
+          "domain": "aljazeera.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOektPZ3lXMkg4dTBVbU84Wjc5dEducXhBMlZINFdFYXE0bmxjVGVIemhHMVZRTnU5Z2lHZ0w5alpfblAxVEVIRTlRZGxmZ1RuUWlaaVVPOThuZXNEeGxPY3RaSVlZLWpIeHdRWmRrYVpvMkd1eFU2dW9XWTRqSnFmaDhTcUN1LUhZUUU0emJ5cGJQcVA0VG8tOEZKNG1BTDBQNXBDMVFtblnSAa4BQVVfeXFMTnctX1Q3NWRIVDVCcU1lNzJxTnEzTWJnOEdJb3Zia3hHTTRxbFNoSDZxZ1oyVkxIdlI5bnZtc2c5Tm5scG5sN2gxMUMzYk5zbF9Lb1ltVU1FdktoTUlNMTlvNmN6cDNVNnpsenRJU2ZKcFhSVUJId0hHWHZNWXhQeDZ6ODMxTnhwNVZPYy0wUmF5SXFPTTRKektVZVE5YWpZSzZWcnVyb0FXQ2YyVHNR?oc=5",
+          "published": "2026-11-19T06:14:04+00:00"
+        },
+        {
+          "title": "‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
+          "published": "2026-11-19T04:00:16+00:00"
+        },
+        {
+          "title": "Grand Theft Auto VI has arrived - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHlxQnN5cFJNY3lXc0pnMzBodlNzcTIwTFJsY05nUFBqb2Rkell2cnhoeVlLWDZxZ3Fod2w2RHlnd1FiR1B0aVM0RlIwcml1aVpQNlJjWkQ0bkNpVTVyMUhISlh1MzJMV0lOZVJSQ3hzbXRaSjhEb0E3ODZ4SUt1Tk5fT0txTUxIZlZfaA?oc=5",
+          "published": "2026-11-18T20:12:23+00:00"
+        },
+        {
+          "title": "GTA VI: Gamers enter Vice City as most-awaited game is rolled out globally",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/entertainment/gta-vi-gamers-enter-vice-city-as-most-awaited-game-begins-globalrollout/article71719016.ece",
+          "published": "2026-11-19T08:50:30+00:00"
+        },
+        {
+          "title": "Gamers in New Zealand will be first to play Grand Theft Auto 6 - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUks4WVRBalFxNkl2UkJnM2p6by1KUHhOeW9wTVVUVGkzcjZ0cXVUcnBtWUNtU1dqT1BNM0hPdTFxMXpXT084bXpOSVRGbExxMXk4YlcyeEZGb0tJU2M5Q2RQcUw2RkE1OXk0VXFjYVNPbFpjSFp3ckZseTdsR20zVnJrdVZOam4yOXBHc3h3eFhIM3ZGZ1JHdndKQ0tBVDA?oc=5",
+          "published": "2026-11-18T11:48:27+00:00"
+        },
+        {
+          "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+          "published": "2026-11-18T11:00:55+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.771,
+        "y": 0.131,
+        "r": 0.156
+      }
+    },
+    "first-breast-cancer-pill-fda": {
+      "kind": "progress",
+      "title": "Negli Stati Uniti approvata la prima nuova pillola contro il tumore al seno per il trattamento dei pazienti",
+      "region": "Medicina",
+      "summary": "Roche ha ottenuto la prima approvazione negli Stati Uniti per una nuova pillola contro il tumore al seno. Il WSJ riferisce che si tratta di una vittoria regolatoria importante per l’azienda e che è la prima autorizzazione americana per questo farmaco. Nei titoli disponibili non compaiono altri dettagli.",
+      "picture": "Una pillola si apre e mostra uno scudo attorno a una cellula del seno. È l’immagine di un nuovo medicinale pensato per proteggere il paziente dalla malattia.",
+      "mentions": 26,
+      "significance": 87,
+      "velocity": 56,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHVLYW8zRHhLTktXQklOMkxoODNIdlBleDYyRmVoZUZSd1hXU1d6SW96bkRuT2lRM0dzek1fNkZ5X3NxVEItX1BUa090ZklZX18wUHUxSU5oRUk1V3JoZl9qZWt3Qkl4bGFkc2F5SVhMZTlTMWRTTS1wR3BHMnA1T3ZDQUxNZkQwWGRjNmJLWkhqNFczdThoNkFRd1BDMXJ2RnNqLQ?oc=5",
+          "published": "2026-11-19T06:39:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.062
+      }
+    },
+    "fiona-hippo-swallowed-a-hat": {
+      "kind": "micro",
+      "title": "L’ippopotamo Fiona ha inghiottito un cappello ed è sotto controllo",
+      "region": "USA",
+      "summary": "Allo zoo di Cincinnati l’ippopotamo Fiona ha inghiottito un cappello ed è sotto osservazione. AP e BBC scrivono che non può essere operata, quindi i veterinari le somministrano liquidi e cure di supporto per aiutarla a espellere l’oggetto naturalmente. Il caso è diventato una notizia curiosa ma clinicamente seria sull’animale.",
+      "picture": "Un ippopotamo tiene un cappello in bocca. È un’immagine semplice di una situazione bizzarra che ha portato l’animale a controlli e cure.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 12,
+      "articles": [
+        {
+          "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5",
+          "published": "2026-11-18T23:06:00+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDZ6VTRhOVJmTHBUQUJ2dWJDVW9VOG81STQ4cU4tUzVraXN5V1ZUdmRfR1ZKY25UOWN4LVp4a2cyejU0Z09rTjJRSUlPZUdxQ1VDRjBNdU5UcGJ4V1FVcHkwR3F0b1pLUlFlRDI5UmZUZjA4aUh5R3pUd2RqMXhNWkVPc3NkYzR5N2l3Zm9TVmdyc19LM1hnckt2aGZRUURZWDFmLUtDdV9sc0xpUG5SeWN0QmJjeGYt?oc=5",
+          "published": "2026-11-18T17:03:02+00:00"
+        },
+        {
+          "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T16:05:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.893,
+        "r": 0.062
+      }
+    },
+    "valedictorian-sneakers": {
+      "kind": "micro",
+      "title": "Agli studenti eccellenti promesse sneakers personalizzate da Nike",
+      "region": "USA",
+      "summary": "Agli studenti migliori negli Stati Uniti sono state promesse sneakers Nike personalizzate dopo l’appello del senatore eletto Coloma all’azienda. AP, PBS e KSAT riferiscono che l’iniziativa riguarda i migliori studenti delle scuole superiori. È una storia locale che premia l’eccellenza scolastica attraverso un marchio noto.",
+      "picture": "Accanto al diploma ci sono sneakers personalizzate. È l’immagine del successo scolastico per cui è stato promesso un regalo insolito.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "High school valedictorians to get custom kicks after Sen.-elect Colom asks Nike to 'Just Do It' - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd00zR3ZobjBrdk40U1EySGxqYVI0YjFZem1fbTAxY18weDV0a0xDNHYwWk5SX1o4dUdVM0d4U3lpVTZLSzNoUWFiMUlwYWl2RkU2dUcxcW1kOExJdlA1UExHQ1d3RDNzeC01MFI0dkExdnNVZ0ZwTURRUjVTQ0lTNlYwWEMxM0gyNUlYSlRUM3V2ZjZHR1c2dVkzUXNrTXJabUlnak85RDU2cy1oeklUaU1SeVRoZGhsaXNkcC01S01EOHV6REJsb2dn0gHPAUFVX3lxTFBIcGg2NFhyejdzdFM3RWZDZWxhOTBva05QQ09DSWZ2MmFSTnVaZl9VcnNxUGtYRV9rRVBpQTUyQzFrWWZqSkY2Q3hBS1FVY1ByWXFXVWgza01YNzVtMW40X0lzaXhKVnFqYWtkMWw0Z0tLcjl1YjVKcmxGamF3Sm9WWFhxdU1nWHkzT2xrd0dqc2JiUnJwOVE2QmNWVUt0TklOOGc4dTVfaDZvSmtHRUdmRGF2TFVHN09xN21GUGFBS3ZKanNTX0ZldXpyVnMxMA?oc=5",
+          "published": "2026-11-18T23:07:29+00:00"
+        },
+        {
+          "title": "High school valedictorians to get custom kicks after Sen.-elect Colom asks Nike to ‘Just Do It’ - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjhiSHJiOF9FYUt6M0E4NzdhclJUSmlFTldTcFVRNVoyaWpYNzk3MFpFWUhfaUY2ZXY4X2dUUUtTcFpGUWFCUmNOLXNZUm1MTlFoT2tQN0pMSTJEVlVaNDRHTWNqRUhpa21pR3M1Z1c2TnAzYW5UdkVnc1g3cUtwWUpRNWxwV2VKbGQ0M2tuUjBMN0V6aHNTdk05LURBYWxiUzRVdGJQWUlRMDBkdVM1RkhnMGdQOGM?oc=5",
+          "published": "2026-11-18T21:49:00+00:00"
+        },
+        {
+          "title": "High school valedictorians to get custom kicks after Sen.-elect Colom asks Nike to 'Just Do It' - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlRyRHQ2Q1BaV0hKWWM1bElDalNEeTJsZGtMR2lhZW43Vzc1Ry1KQURvNElyT0Vibjg3RFNpcUhWMWo5cG5XWnNTMXlDbjdlZ3daQUNxbDJ1OVpzeV95R1pMRGhUUkUteHZ6YXlMRk9SeVBFUExYeDdvakQ4bWVpd0t2R0RnZHcwcFRIUVhuQWcwTzlvd2ctUEYzZlJVZEFicmZhWjFkMlYtZV9nRlNLTld0WWNBRUNock4zMnZNb1pRRlNvdmlqWFl0NnZybVk?oc=5",
+          "published": "2026-11-18T17:06:09+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "thanksgiving-turkey-donations": {
+      "kind": "micro",
+      "title": "Per il Giorno del Ringraziamento si distribuiscono migliaia di tacchini alle famiglie",
+      "region": "USA",
+      "summary": "Per il Thanksgiving negli Stati Uniti vengono distribuite migliaia di tacchini alle famiglie in difficoltà. In uno dei resoconti si dice che la tribù Morongo in California abbia distribuito 15.000 tacchini, mentre in un altro le famiglie dello Utah riceveranno pacchi festivi grazie a una lunga iniziativa benefica. Sono storie di preparazione alla festa attraverso il sostegno alle comunità.",
+      "picture": "Scatole con tacchini e volontari sorridenti. È l’immagine della beneficenza natalizia e dell’aiuto alle famiglie per il Thanksgiving.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "California's Morongo tribe distributes 15,000 Thanksgiving turkeys, reaching 4.8 million meals",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/forty-years-after-californias-morongo-tribe-began-sharing-thanksgiving-food-despite-having-little-to-spare-volunteers-distributed-15000-turkeys-to-136-groups-taking-their-reported-impact-to-nearly-4-8-million-meals/articleshow/135980781.cms",
+          "published": "2026-11-19T09:29:00+00:00"
+        },
+        {
+          "title": "Promise that started at age 11 grows into Thanksgiving meals for 3,600 Utah families - KSL News",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUotTk5XME9SRW1GWHIyUVMxbTd2X1FucUwwYjNYRmRCVllnR2YzZktKaVF1S2RoWWJkdk03UEsxRlZWWUpnM040aXZxUVhZcEJzVTJPT2pEY1RGNzRSZ0VCeTV0ejFIUnJLb1g2S29mTXBvR1RzVGkzZFYtMlp5NlJaVUhibXFSSlU3elNsSkd6aTBnS19LZVA3SFB1RG1XbUNSNTBOZjc1VjUwM1FtRUFkVzFxMkNVTkhjRA?oc=5",
+          "published": "2026-11-18T22:21:25+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "holiday-market-german-style": {
+      "kind": "micro",
+      "title": "Ha aperto un accogliente mercatino di Natale in stile tedesco",
+      "region": "USA",
+      "summary": "Ha aperto un accogliente mercatino di Natale in stile tedesco. Nel breve servizio di KSAT viene presentato come un evento festivo stagionale con atmosfera tradizionale, cibo e souvenir. I dettagli sono limitati.",
+      "picture": "Una tazza di vin brulé accanto a un giocattolo di legno. È l’immagine di un caldo mercato invernale con le tradizioni festive tedesche.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Shop at this charming German-style holiday market - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYkJLdWlOem1uUV9LQ0JHdmdtS1RtckM5ZG5aXzdjWVJHLTZTN3RIbW5LV0dxNWN0dkd5Q3dKYU9XQXktNE5lYmVUcHlEcUdrSGJ5UjFhcDhXNkNzaVdXU0d4N3RjUUtVcHNUS1MzWnpacnN3aEpnTzBDTkwzUmNGc0liSV9KQTVjSGcxVk5SLXlSYTUxclUzaUZ1WWU?oc=5",
+          "published": "2026-11-18T17:08:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "mexico-catholic-street-djs": {
+      "kind": "micro",
+      "title": "La processione cattolica di strada in Messico trasformata in una festa con DJ",
+      "region": "America Latina",
+      "summary": "In Messico il tradizionale pellegrinaggio cattolico di strada è stato trasformato in una festa con DJ. AP e KTLA scrivono che la processione religiosa è accompagnata da musica e balli, non solo dalla tradizionale sfilata. È una storia locale su come la cultura contemporanea sia entrata in un rito religioso.",
+      "picture": "Una console da DJ accanto a una processione religiosa. È l’immagine dell’incontro tra fede e festa di strada.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Mexico's Catholic street DJs turn annual pilgrimage into a party - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1A2YkFZMzBvYnpaQV9qb2c2ZEdTR1JETV9ES2dtdExfNWdvSlhvX3R1OV9yWTNvWHN3S0JtblJmTmdJb3g0ejRUNmZrOUlBT3R6cUZ6WWhlLTdWdXI0ZVotLTBXeWF1cWl3SlFWYWRua1Q5eTF0c25KVkVWY0FUcy1lcjR0TjAwNHVoeGlObTgxcWRPY2N1bjV5TDBGekpMOVR2OGlLYTdCMlk?oc=5",
+          "published": "2026-11-18T21:22:18+00:00"
+        },
+        {
+          "title": "Mexico’s Catholic street DJs turn annual pilgrimage into a party - KTLA",
+          "domain": "ktla.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2ZOc185WVhUeGRrNlNrMUhiblBqUWdDb1hya2cyZzlKaUl0VmZtSVVZbVpldVNjQ09fMkYyaUJQOWI2Z2wwU0VFUWdmSFkxRFJCZDBLbmxQZERPYTcyUzZlc2IwYlZSOTJyZTNRS2VLQUtBcFhXN25kVkRSUkVzbFczRjdIc0gyMUFCRzI2SWRsbWNKdFBFbjJwcHJ2ZzNnNkJ5WkVOMl9IZjU4bkw0dVI3NG5aY2FpMnllODhqY9IBvwFBVV95cUxPX2ZOc185WVhUeGRrNlNrMUhiblBqUWdDb1hya2cyZzlKaUl0VmZtSVVZbVpldVNjQ09fMkYyaUJQOWI2Z2wwU0VFUWdmSFkxRFJCZDBLbmxQZERPYTcyUzZlc2IwYlZSOTJyZTNRS2VLQUtBcFhXN25kVkRSUkVzbFczRjdIc0gyMUFCRzI2SWRsbWNKdFBFbjJwcHJ2ZzNnNkJ5WkVOMl9IZjU4bkw0dVI3NG5aY2FpMnllODhqYw?oc=5",
+          "published": "2026-11-18T19:24:40+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.896,
+        "y": 0.94,
+        "r": 0.156
+      }
+    },
+    "jollibee-fried-chicken-delivery": {
+      "kind": "micro",
+      "title": "Il presidente delle Filippine ha fatto recapitare un Jollibee a Trump per la notte",
+      "region": "Asia",
+      "summary": "Il presidente filippino Marcos ha fatto recapitare a Donald Trump uno spuntino notturno di Jollibee. ABC News e il NYT scrivono che si trattava di un ordine della catena di fast food filippina per il leader americano durante un incontro notturno. In altri articoli viene citato anche un generale momento di cordialità tra i partecipanti al colloquio.",
+      "picture": "Un secchiello di pollo fritto e due contenitori da asporto. È l’immagine di un episodio politico informale raccontato attraverso il cibo.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Rubio and Philippine President can’t stop laughing as Trump jokes about firing Secretary of State - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXpTLWctbTY4QVlBU0FqRnZDckJITjdvSXU2dmpFcnl2U3lQVTVPQmVESFNEejNUSEZReEN3bVQ4T3EwZXJIUGEzbVBUa3JiRW5NdzM5b2w5WFR6ZE8xLUJva0l1bVZvakkweTM1MzFuVF82ekNWUWJhUjhRLTRmX1NDSjZXWm43U3VmeXpjTnBOZk81MHpWWEtMNmo0bG5ydGtBTU5yQmkxNlNKX1BGS3dSUjJmQ3B0dzhvODNrOA?oc=5",
+          "published": "2026-11-18T19:10:06+00:00"
+        },
+        {
+          "title": "Philippine president has Jollibee fried chicken delivered to Trump for a late-night snack - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDhqN1o0Q20zU0c0SHNES1hVakVVM0tqV1lObTlIUC1EUnpMVmN5aEhIUTg1QWpaZF9rOENVcXpCOGtmT2QwbTBWWUpsb1VrQTBIVm81YlJRQ1FzMzVPSjV4QjNZZDA2cEdIdURJbmk3VXIyNlA3em0tSFBRVklhSTQ1dlBKZVJ2aEh2QlRjZkFyaXlsc0N1dVRkQU1tRHRsUmxETk5pNkM1czlCZS1JeVpnbk56V0dwRkHSAb8BQVVfeXFMUDRyT2didFhSUGg4M0FSZW40Tzd3X0dndlRsRURVM04xeVVJZVJaekVWcFZBYVRMckpKeGtjSXlNcndkQWpEV25KVlFLRFZkeVVkTi1ocC1OYWFtSmRnNVhwUE1zbXczc0VJX2RjSEt1blJBVHRRLXhTMDF0WFg4YnhUVnl4MTVQd1FsS08zVHJUZTE4TnhSZy1NQnBzcURZV1EtalFGTThwWWMwVUZHZ3ZpaXF3SWE5YUFrejhUZ1U?oc=5",
+          "published": "2026-11-18T13:39:57+00:00"
+        },
+        {
+          "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+          "published": "2026-11-18T13:29:27+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      }
+    },
+    "robots-serve-coffee-and-ice-cream": {
+      "kind": "micro",
+      "title": "In un polo tecnologico cinese i robot servono caffè e gelato",
+      "region": "Asia",
+      "summary": "Nel centro tecnologico di Shenzhen i robot servono caffè e gelato. I media scrivono che gli sviluppatori locali stanno addestrando i robot umanoidi con movimenti umani registrati per prepararli al lavoro quotidiano. La storia sottolinea il ruolo di Shenzhen come vetrina della robotica cinese alla vigilia del vertice APEC.",
+      "picture": "Un robot di servizio tiene in mano un gelato e un caffè. È l’immagine dei robot che vengono già addestrati ad assistere le persone nella vita quotidiana.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "En Shenzhen, China entrena a sus robots para incorporarlos al mercado laboral",
+          "domain": "clarin.com",
+          "url": "https://www.clarin.com/mundo/shenzhen-china-entrena-robots-incorporarlos-mercado-laboral_0_XkpocGOyCI.html",
+          "published": "2026-11-18T18:00:00+00:00"
+        },
+        {
+          "title": "Robots serve ice cream and coffee in China's tech hub",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub",
+          "published": "2026-11-18T15:20:22+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.643,
+        "r": 0.125
+      }
+    },
+    "south-korea-exam-checks": {
+      "kind": "micro",
+      "title": "Negli esami in Corea del Sud si controllano di nuovo perfino i bottoni",
+      "region": "Asia",
+      "summary": "In Corea del Sud gli studenti vengono di nuovo sottoposti a controlli severi nel principale esame di ammissione, compresi persino bottoni e occhiali. Reuters, AFP e Yonhap scrivono che l’esame si svolge nel timore di imbrogli con l’IA e dopo uno scandalo di frode. È una prova annuale importante per centinaia di migliaia di studenti.",
+      "picture": "Un bottone e un foglio d’esame nella stessa illustrazione. È l’immagine di controlli rigorosi che arrivano fin nei dettagli più piccoli dell’abbigliamento.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "From glasses to buttons, South Korea’s anti-cheating exam checks raise eyebrows",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375067/glasses-buttons-south-koreas-anti-cheating-exam-checks-raise-eyebrows",
+          "published": "2026-11-19T09:03:28+00:00"
+        },
+        {
+          "title": "In South Korea's make-or-break college exam, even a shirt button can raise suspicion - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa0k5T1o4dEJmT3VOYkozNEpiNFg2dmZ0aklxdWdWcU51S0RGNkFobDFHVmRRcFRIVDM5a0dMa0JIVklmMXpiNEtITWpwUE9aQ1FQU3RzZk53QVpIMlVkcWQyRkZnaUpDeC1vT3B0amlHR0lOLVpReE5ZV1RTdzI5a2ROQlJ1SkZWSTlITnVOdlRzNVNtQlF1NzdZWFByTVhuYU9pdkk1ZjNqcnVNeVVCUWsxNjZlLXViQ1UxeGdIZlV1UjQtSG0tYnh3eGQ?oc=5",
+          "published": "2026-11-19T04:20:00+00:00"
+        },
+        {
+          "title": "South Koreans sit key college exam mired in cheating scandal - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcnpqTUZZQ0xxaFBXYi1URDIxMVVrLS1GaW5aN3A5bm9yeTRkck1Ralh5WWVyOWtrcFBCQVU4TFU0Q2p3M29HMUVPS3E4TkJTYjBnRjdyR2FBV21oRVJrcVhnWVhQS2J6WDVfYlZwb05iQUxwb0R5SnI5Zmowb19kbTVVaFdlb28?oc=5",
+          "published": "2026-11-19T04:03:06+00:00"
+        },
+        {
+          "title": "(LEAD) Half million students take annual college entrance exam amid AI cheating concerns",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261119001151315",
+          "published": "2026-11-19T00:38:44+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "old-homemovies-archivists": {
+      "kind": "micro",
+      "title": "Gli archivisti riportano in vita i vecchi film di famiglia",
+      "region": "USA",
+      "summary": "Archivisti militanti stanno riportando in vita i vecchi film di famiglia nel Paese definito la patria del cinema. AP scrive che stanno restaurando e conservando le pellicole amatoriali per evitare che scompaiano. È una storia piccola ma culturalmente significativa sulla salvaguardia della memoria.",
+      "picture": "Bobine cinematografiche e un proiettore. È l’immagine del lavoro d’archivio che rimette in moto vecchie scene e ricordi.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "In the land that gave us ‘cinema,’ activist archivists are bringing back old home movies - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmdpX3lDUWM0eElzVnZPMjVBVmlmYi04Y3JUbDlCOXRmUVFkWW9ibzQxdk1HMUhVTnF2S2o0NjBlbTJHVDZaSUVtMmZsLUVMeGt6bHV0b0RNdVFab3dQVDhFVkZvcWhneEVmUXpqX1NtclJ3MlVDbmZoX0sxOGF2cEhhLWJUQ1drTFdxNnl2UG90eG5DZlRtSGh4ZFFrWWg2Tm8zbzJSV2Rocm44Z3U0?oc=5",
+          "published": "2026-11-19T05:01:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "wildlife-crossing-lane": {
+      "kind": "micro",
+      "title": "Costruito sopra l’autostrada un enorme passaggio per la fauna selvatica",
+      "region": "USA",
+      "summary": "Sopra un’autostrada vicino a Los Angeles è stato costruito il più grande passaggio per la fauna selvatica al mondo. AP riferisce che gli animali possono attraversare la strada in sicurezza senza rischiare la vita. È un esempio di infrastruttura che riduce il conflitto tra strada e natura.",
+      "picture": "Un cervo e una volpe camminano su un ponte sopra la strada. È l’immagine di un attraversamento sicuro per gli animali attraverso l’infrastruttura umana.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Over a freeway near Los Angeles, animals can roam safely thanks to world's largest wildlife crossing - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUxCRkpSc0xtR0ZFbWN4dmVkVGw5akFEekZVY2NzeWRQTmcyX3lIRldhNWs4VTR1cHRkS2tBVHBFcEJPdWJDWGFZZTVFc1FzTVdWX05iNlR3eDVyZGtWSUdJd0RyWmlnOHlqVnQzVm1CQXhhT1NDQi1JM0EtQ0twS0xWVlk2aUtid2VyWXRhYUhiTG5LWWpsU25CbFVGSG14bE5wbHRfbUt6MWhTeXJKXzAwbS1QaUtC?oc=5",
+          "published": "2026-11-18T18:31:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.75,
+        "y": 0.893,
+        "r": 0.125
+      }
+    },
+    "red-crabs-march": {
+      "kind": "micro",
+      "title": "A Christmas Island è iniziata l’annuale marcia dei granchi rossi verso il mare",
+      "region": "Asia",
+      "summary": "A Christmas Island, in Australia, è iniziata l’annuale marcia dei granchi rossi verso il mare. AFP riferisce che la migrazione stagionale ha riportato l’attenzione sul fenomeno naturale dell’isola. È un evento ecologico tradizionale senza ulteriore drammaticità.",
+      "picture": "Granchi rossi attraversano il sentiero in un flusso compatto. È l’immagine di una migrazione naturale di massa che ogni anno si ripete verso il mare.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Red crabs begin annual march to sea on Australia's Christmas Island - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHVOclNGNjZKN01YRVRyMEdGUVdPYy1hVFpwTWJObUIxbWI3M2VHdGJ6WERqRGQ0dkVoX0J0a2ZuLTZBcTBTRXJRdVBXYjAzQWh0NkFYM1RDa2dUUndUUndOWU15YUpBNlhGTi15RGM3N2tkb21Rajd5TWdNSkpwWFVDMkVsTEY5WkNR?oc=5",
+          "published": "2026-11-19T04:05:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "pelicans-released-after-rescue": {
+      "kind": "micro",
+      "title": "I pellicani salvati sono stati rimessi in libertà",
+      "region": "Africa",
+      "summary": "In Perù sono stati rimessi in libertà sette pellicani, salvati e recuperati dopo gli effetti di El Niño. Euronews scrive che gli uccelli sono tornati in natura dopo la riabilitazione e che nel Paese è stato aperto il primo centro marino pubblico per la protezione degli uccelli marini. È una storia di salvataggio e di tutela ambientale.",
+      "picture": "Tre pellicani aprono le ali. È l’immagine del ritorno alla libertà degli uccelli salvati.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "At least one dead in latest migrant boat disaster off Senegal's coast",
+          "domain": "africanews.com",
+          "url": "http://www.africanews.com/2026/11/19/at-least-one-dead-in-latest-migrant-boat-disaster-off-senegals-coast/",
+          "published": "2026-11-19T05:54:19+00:00"
+        },
+        {
+          "title": "Peru releases seven pelicans rescued from El Niño's effects",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/18/peru-releases-seven-pelicans-rescued-from-el-ninos-effects",
+          "published": "2026-11-18T11:35:31+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "fiona-like-hippo-stories": {
+      "kind": "micro",
+      "title": "Le storie sugli animali sono tornate a essere le notizie più calorose della giornata",
+      "region": "Mondo / cripto",
+      "summary": "Nella rassegna compaiono subito diverse notizie dolci sugli animali: la marcia dei granchi rossi a Christmas Island, i pellicani tornati in natura in Perù e l’ippopotamo Fiona di Cincinnati che ha inghiottito un cappello. Queste storie sono unite dal tema degli animali e della cura nei loro confronti.",
+      "picture": "Nel disegno ci sono un ippopotamo, un pellicano e granchi rossi. È l’immagine delle notizie naturalistiche più belle della giornata.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Red crabs begin annual march to sea on Australia's Christmas Island - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHVOclNGNjZKN01YRVRyMEdGUVdPYy1hVFpwTWJObUIxbWI3M2VHdGJ6WERqRGQ0dkVoX0J0a2ZuLTZBcTBTRXJRdVBXYjAzQWh0NkFYM1RDa2dUUndUUndOWU15YUpBNlhGTi15RGM3N2tkb21Rajd5TWdNSkpwWFVDMkVsTEY5WkNR?oc=5",
+          "published": "2026-11-19T04:05:07+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5",
+          "published": "2026-11-18T23:06:00+00:00"
+        },
+        {
+          "title": "Peru releases seven pelicans rescued from El Niño's effects",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/18/peru-releases-seven-pelicans-rescued-from-el-ninos-effects",
+          "published": "2026-11-18T11:35:31+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "st-peters-basilica-400-years": {
+      "kind": "micro",
+      "title": "La basilica di San Pietro ha celebrato 400 anni nel cuore del mondo cattolico",
+      "region": "Europa",
+      "summary": "La basilica di San Pietro ha celebrato 400 anni nel cuore del cattolicesimo romano. AP, ABC News e KSAT riferiscono dell'anniversario di uno dei principali santuari del mondo cattolico. Si tratta di una ricorrenza religiosa e storica, senza ulteriori dettagli politici.",
+      "picture": "La facciata della basilica e le candele. È un'immagine di memoria, celebrazione e secolare importanza religiosa della basilica.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "St. Peter’s Basilica marks 400 years at the heart of Roman Catholicism - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxEbnJ0eG1FXzFpejEzTFdXaVY0dmpnbDZxMm1JaGN2TDl3U2lTRWdBWWtOX3VpNHNjZEJqb2podlIwNHItM1N2aWpIV0o0UjJNVDMtZFYtVEZmUy1vSmNSTXF1N3dnTzVsck1nSl9HZFhZLTRUckMxb1FIdGlyRWNJVmc0ckZWR3JscmZtNUE5ZG9PM1ctcy14YnpWZ00wUVhtQy1DaXZreU5NVGNHTU1nNA?oc=5",
+          "published": "2026-11-18T20:35:00+00:00"
+        },
+        {
+          "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakZqVUh1UGZ6SDFuN3d4MlotR2RXX0g2TlVkejVEektkVFN6eVU0WTQyWTduakdfSWZKdjhUZENSMHNkc2RzZV9qV0I0Q09GUWtPdWhoRGhuWjNEc0ZOMDBfdFRMYldSRjZCSEhxUlRYc1VwLVdzN0hwYjVQa3V6Z3RTcFJXRzhnb1Vyc1hSb3JxT05zaGZVOTNMV25ldTdkS3fSAacBQVVfeXFMT2ZDa2hLNEMtUVYxdnFtakEwR3F6VVBiOTRaYTNTOFd0el9lVEJKMU9ESzBRLWVFX1lSa0owbS1uT2VublZTOFFaUzRmeVZHVVZNMjhjYkptcDBXb3I4QTJjc1ZaajU0a2RLTVdHOExQT3FNQ2tVR29PVnZqel9sX2NBR3ZFd2NDbFJHNml2VURsUDhmcnZ0VzBReExYUE1nLXpFSmRUbjQ?oc=5",
+          "published": "2026-11-18T17:07:31+00:00"
+        },
+        {
+          "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbF9raFlCWjhWZHdpYlhnRlRqaEg5YUpvQ3pYWGVBWk4zaV9KM0k4S1dmSU9JcklNdjQ4YzBKdFpkd0ZBYTRVNjFuWFdfQkxsV3ZUZHh5MmY4RURBQ1QyMkVJYzAwa09YV0R4X29pTHVwSHRmRTVORkhXaFZQVVVWRFBjNkdMc2VQbHBFTEFrRFktTGcxSEpnYmFsdDhZYlZMWXBYUkdFT0VkMkRtMzBrU0lKUmd0UQ?oc=5",
+          "published": "2026-11-18T16:13:26+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.286,
+        "r": 0.125
+      }
+    },
+    "beaujolais-nouveau-toast": {
+      "kind": "micro",
+      "title": "A Lione si sono alzati i calici per il Beaujolais Nouveau",
+      "region": "Europa",
+      "summary": "A Lione si è celebrato l'arrivo del Beaujolais Nouveau: centinaia di persone hanno alzato i calici per il nuovo raccolto. Euronews racconta di una parata notturna con botti, fiaccole e una banda di ottoni. È una tradizionale festa del vino in Francia.",
+      "picture": "Calici di vino e un grappolo d'uva. È l'immagine della festa per il primo assaggio del vino giovane.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "France: Hundreds raise a glass to Beaujolais Nouveau in Lyon",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/video/2026/11/19/france-hundreds-raise-a-glass-to-beaujolais-nouveau-in-lyon",
+          "published": "2026-11-19T06:29:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "comte-crowned-best-cheese": {
+      "kind": "micro",
+      "title": "Un comté stagionato 24 mesi è stato nominato il miglior formaggio del mondo",
+      "region": "Europa",
+      "summary": "Un comté stagionato 24 mesi è stato nominato il miglior formaggio del mondo. France24 scrive che il formaggio del Giura è stato affinato per due anni in un'ex fortezza militare nell'est della Francia e che ha battuto oltre cinquemila concorrenti. È un traguardo gastronomico per il formaggio francese.",
+      "picture": "Una forma di formaggio con un nastro di premio. È l'immagine della vittoria in un concorso caseario e del riconoscimento della qualità del prodotto.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "24-month matured Comté crowned world’s best cheese",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+          "published": "2026-11-18T22:32:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "orchid-decor-negotiations": {
+      "kind": "micro",
+      "title": "Le orchidee sono state scelte per decorare il tavolo dei negoziati",
+      "region": "Mondo / cripto",
+      "summary": "Per il tavolo dei negoziati trilaterali sono state scelte le orchidee. TASS, citando un esperto di protocollo, spiega che si tratta di un fiore neutrale, solenne e nobile. È un dettaglio dell'allestimento di un incontro diplomatico, non un evento politico a sé stante.",
+      "picture": "Le orchidee sono disposte in fila sul tavolo. È l'immagine di una decorazione neutrale e solenne dei negoziati.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Эксперт Шевчук объяснила выбор орхидей для стола трехсторонних переговоров",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/obschestvo/28334583",
+          "published": "2026-11-19T09:35:12+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.786,
+        "r": 0.125
+      }
+    }
+  }
+}
