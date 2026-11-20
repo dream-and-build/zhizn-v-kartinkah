@@ -2,167 +2,129 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Реклама на баннере и сотрудничество — Жизнь в картинках</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Реклама на баннере — Жизнь в картинках</title>
 <meta name="description" content="Небольшой придорожный щит в левом нижнем углу картины дня. Как занять его и как обсудить стоимость.">
+<script src="i18n.js"></script>
+<script src="social.js"></script>
+<script src="ads-text.js"></script>
 <style>
-  :root { --ink: #e8e6e1; --dim: #a9a49b; --bg: #15140f; --line: #2e2b24; --tag: #c47e38; }
-  @media (prefers-color-scheme: light) {
-    :root:not([data-theme="dark"]) { --ink: #1d1b16; --dim: #5f5a50; --bg: #f6f3ec; --line: #ded8cc; }
-  }
+  :root { --bg: #0f0c0a; --panel: #1a1512; --line: #33291f; --fg: #f1e8dc; --muted: #a8998a; --accent: #e9a75a; }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--ink);
-         font: 16px/1.65 Georgia, "Times New Roman", serif; }
-  main { max-width: 42rem; margin: 0 auto; padding: 3rem 16px 5rem; }
-  h1 { font-size: 1.7rem; line-height: 1.25; margin: 0 0 .4rem; }
-  h2 { font-size: 1.15rem; margin: 2.2rem 0 .5rem; }
-  .dim { color: var(--dim); font-size: .95rem; }
-  hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
-  a { color: inherit; }
-  ul { padding-inline-start: 1.1rem; }
-  li { margin: .3rem 0; }
-  .board { border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.1rem; margin: 1.4rem 0; }
-  .board .tag { display: inline-block; background: var(--tag); color: #fdf6ea; font-size: .72rem;
-                letter-spacing: .12em; padding: .15rem .55rem; border-radius: 3px; }
-  .board p { margin: .6rem 0 0; }
-  form { display: grid; gap: .7rem; margin-top: 1rem; }
-  label { display: grid; gap: .25rem; font-size: .93rem; color: var(--dim); }
-  input, textarea { font: inherit; font-size: .95rem; color: var(--ink); background: transparent;
-                    border: 1px solid var(--line); border-radius: 7px; padding: .5rem .6rem; width: 100%; }
-  textarea { min-height: 5.5rem; resize: vertical; }
-  button { font: inherit; cursor: pointer; background: var(--tag); color: #fdf6ea; border: 0;
-           border-radius: 7px; padding: .6rem 1.1rem; justify-self: start; }
-  .said { font-size: .9rem; color: var(--dim); min-height: 1.3em; white-space: pre-wrap; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  a { color: var(--accent); }
+  /* Та же панель, что на странице события: «К картине» и выбор языка всегда на экране */
+  .bar { position: sticky; top: 0; z-index: 10; background: #0f0c0ae6; backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+  .bar-in { max-width: 760px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .tools { display: flex; align-items: center; gap: 8px; }
+  .back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; font-size: 15px; font-weight: 600;
+          padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); }
+  [dir="rtl"] .back .arrow { transform: scaleX(-1); }
+  main { max-width: 760px; margin: 0 auto; padding: 18px 16px 60px; }
+  h1 { font: 600 clamp(24px, 4.5vw, 34px)/1.25 Georgia, "Times New Roman", serif; margin: 0 0 18px; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); margin: 34px 0 10px; }
+  p { margin: 0 0 14px; }
+  .muted { color: var(--muted); font-size: 15px; }
+  ul { padding-inline-start: 22px; margin: 0 0 14px; }
+  li { margin: 0 0 8px; }
+  .board { border: 1px solid var(--line); background: var(--panel); border-radius: 12px; padding: 16px 18px; margin: 20px 0; }
+  .board p:last-child { margin: 0; }
+  form { display: grid; gap: 12px; margin-top: 14px; }
+  label { display: grid; gap: 5px; font-size: 14px; color: var(--muted); }
+  input, textarea { font: inherit; font-size: 16px; color: var(--fg); background: #0b0806; border: 1px solid var(--line);
+                    border-radius: 9px; padding: 10px 12px; width: 100%; }
+  input:focus, textarea:focus { outline: none; border-color: var(--accent); }
+  textarea { min-height: 110px; resize: vertical; }
+  button { font: inherit; font-weight: 600; cursor: pointer; background: var(--accent); color: #1b1206; border: 0;
+           border-radius: 999px; padding: 11px 22px; justify-self: start; }
+  button[disabled] { opacity: .6; cursor: default; }
+  .said { font-size: 15px; color: var(--muted); min-height: 1.4em; white-space: pre-wrap; }
 </style>
 </head>
 <body>
-<main>
-  <h1>Реклама на баннере и сотрудничество</h1>
-  <p class="dim">Проект «Жизнь в картинках» / Worldview Daily</p>
-
-  <p>Каждое утро новости со всего света превращаются в одну картину дня. В её левом нижнем
-     углу стоит небольшой придорожный щит — такой, какие стоят вдоль дорог. Его рисует
-     та же кисть, что и всю картину: щит стоит на обочине, выгорел на том же солнце и
-     живёт в картине наравне с событиями дня, а не наклеен поверх неё.</p>
-
-  <div class="board">
-    <p><b>Что на нём бывает</b></p>
-    <p>Образ и короткая надпись — название, адрес сайта или канала. Мы придумываем, как
-       ваше дело выглядит в мире этой картины, и генератор вписывает его в пейзаж: щит
-       получается частью дня, а не вырезкой из журнала.</p>
-    <p class="dim">Пока щит свободен, на нём стоит пасхалка — тихий образ, который
-       откликается на сегодняшний день.</p>
-  </div>
-
-  <h2>Куда попадает щит</h2>
-  <ul>
-    <li>картина дня на этом сайте;</li>
-    <li>Telegram-канал проекта — оригинал в полном качестве;</li>
-    <li>ролики дня: YouTube, Instagram, Threads, TikTok — щит виден в кадре, потому что
-        ролик собирается из той же картины.</li>
-  </ul>
-  <p class="dim">Проект молодой: аудитория пока небольшая и растёт. Честные числа по каждой
-     площадке на день обращения присылаю в ответ — без них разговор о стоимости бессмысленный.</p>
-
-  <h2>Что можно разместить</h2>
-  <ul>
-    <li>один образ и короткую надпись со ссылкой — больше на щит не помещается;</li>
-    <li>на один день, на неделю или на выбранные даты;</li>
-    <li>без политики, без лекарств, без азартных игр и без обмана — картина дня и так
-        говорит о тяжёлых вещах, врать на ней нельзя.</li>
-  </ul>
-  <p>Стоимость обсуждается: она зависит от дат и от того, сколько к этому дню людей
-     смотрит картину. Напишите — и мы сойдёмся на понятной цифре.</p>
-
-  <h2>Сотрудничество</h2>
-  <p>Кроме щита бывает другое: совместная картина к событию, разбор дня для вашего издания,
-     печать картин, использование изображений. Об этом — туда же.</p>
-
-  <h2>Написать</h2>
-  <p>Коротко расскажите о себе — я отвечу в Telegram.</p>
-  <form id="ask">
-    <label>Кто вы и что за проект
-      <input name="who" autocomplete="organization" placeholder="имя, компания">
-    </label>
-    <label>Ссылка на то, что рекламируем
-      <input name="link" inputmode="url" placeholder="сайт, канал, приложение">
-    </label>
-    <label>Какие дни интересуют
-      <input name="when" placeholder="например, 1–7 декабря">
-    </label>
-    <label>Что должно быть на щите и вопросы
-      <textarea name="text" placeholder="строка на щите, бюджет, вопросы"></textarea>
-    </label>
-    <button type="submit">Отправить заявку</button>
-    <p class="said" id="said"></p>
-  </form>
-  <p class="dim">Заявка уходит сразу мне; ответ придёт в Telegram или на ту связь, которую вы
-     укажете. Можно и без формы — <a href="https://t.me/zhizn_v_kartinkah_world">t.me/zhizn_v_kartinkah_world</a>.</p>
-
-  <hr>
-
-  <h1>Advertising on the banner, and working together</h1>
-
-  <p>Every morning the world's news becomes a single painting of the day. In its lower-left
-     corner stands a small roadside billboard. It is painted by the same brush as the rest of
-     the picture — weathered by the same sun, standing on the verge — so it belongs to the day
-     rather than being pasted on top of it.</p>
-
-  <h2>Where the billboard goes</h2>
-  <ul>
-    <li>the painting of the day on this site;</li>
-    <li>the project's Telegram channel — the original in full quality;</li>
-    <li>the daily clips on YouTube, Instagram, Threads and TikTok: the billboard is in frame,
-        because the clips are made from the same painting.</li>
-  </ul>
-  <p class="dim">The project is young: the audience is still small and growing. I send the real
-     per-platform numbers for the day you ask — talking about price without them is pointless.</p>
-
-  <h2>What can go on it</h2>
-  <ul>
-    <li>one image and a short line with a link — nothing more fits;</li>
-    <li>for a day, a week, or chosen dates;</li>
-    <li>no politics, no medicines, no gambling, nothing dishonest.</li>
-  </ul>
-  <p>Price is agreed case by case: it depends on the dates and on how many people are watching
-     by then. Write, and we will settle on a figure that makes sense.</p>
-
-  <h2>Working together</h2>
-  <p>Beyond the billboard: a painting made for your event, a day's review for your outlet,
-     prints, or licensing the images. Same address.</p>
-
-  <h2>Get in touch</h2>
-  <p>Use the form above, or write directly:
-     <a href="https://t.me/zhizn_v_kartinkah_world">t.me/zhizn_v_kartinkah_world</a>.</p>
-</main>
+<div class="bar"><div class="bar-in">
+  <a class="back" id="back" href="index.html"><span class="arrow">←</span> <span id="back-text"></span></a>
+  <div class="tools" id="tools"></div>
+</div></div>
+<main id="page"></main>
 
 <script>
-// Заявка уходит в приёмник проекта: оттуда она попадает в таблицу и письмом автору.
 const INBOX = 'https://script.google.com/macros/s/AKfycbyhyR7J4X7loYL20pxz4a8PN0bl3oMDYrI6XzD7Z521usFOvbn5roPldfjIruqzj0uI8w/exec';
-const form = document.getElementById('ask'), said = document.getElementById('said');
-const button = form.querySelector('button');
+const TG = 'https://t.me/zhizn_v_kartinkah_world';
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const page = document.getElementById('page'), back = document.getElementById('back');
 
-form.addEventListener('submit', async e => {
+const social = socialButtons(() => ({ url: location.href, title: document.title }));
+document.getElementById('tools').append(social, langPicker(() => { social.repaint(); render(); }));
+render();
+
+function render() {
+  const a = ADS_TEXT[LANG] || ADS_TEXT.en || ADS_TEXT.ru;
+  back.href = `index.html?lang=${LANG}`;
+  document.getElementById('back-text').textContent = t('back');
+  document.title = a.title + ' — Worldview Daily';
+
+  page.innerHTML = `
+    <h1>${esc(a.title)}</h1>
+    <p>${esc(a.lead)}</p>
+
+    <div class="board">
+      <p><b>${esc(a.board_title)}</b></p>
+      <p>${esc(a.board_text)}</p>
+      <p class="muted">${esc(a.board_note)}</p>
+    </div>
+
+    <h2>${esc(a.where_title)}</h2>
+    <ul><li>${esc(a.where_1)}</li><li>${esc(a.where_2)}</li><li>${esc(a.where_3)}</li></ul>
+    <p class="muted">${esc(a.where_note)}</p>
+
+    <h2>${esc(a.what_title)}</h2>
+    <ul><li>${esc(a.what_1)}</li><li>${esc(a.what_2)}</li><li>${esc(a.what_3)}</li></ul>
+    <p>${esc(a.price)}</p>
+
+    <h2>${esc(a.coop_title)}</h2>
+    <p>${esc(a.coop)}</p>
+
+    <h2>${esc(a.form_title)}</h2>
+    <p>${esc(a.form_lead)}</p>
+    <form id="ask">
+      <label>${esc(a.f_who)}<input name="who" autocomplete="organization" placeholder="${esc(a.f_who_hint)}"></label>
+      <label>${esc(a.f_link)}<input name="link" inputmode="url" placeholder="${esc(a.f_link_hint)}"></label>
+      <label>${esc(a.f_when)}<input name="when" placeholder="${esc(a.f_when_hint)}"></label>
+      <label>${esc(a.f_text)}<textarea name="text" placeholder="${esc(a.f_text_hint)}"></textarea></label>
+      <button type="submit">${esc(a.send)}</button>
+      <p class="said" id="said"></p>
+    </form>
+    <p class="muted">${esc(a.direct)} <a href="${TG}">t.me/zhizn_v_kartinkah_world</a></p>
+    ${supportCard()}
+  `;
+  document.getElementById('ask').addEventListener('submit', e => send(e, a));
+}
+
+// Заявка уходит в приёмник проекта: оттуда она попадает в таблицу и письмом автору
+async function send(e, a) {
   e.preventDefault();
+  const form = e.target, said = document.getElementById('said'), button = form.querySelector('button');
   const v = name => (form.elements[name].value || '').trim();
   if (!v('who') && !v('link') && !v('text')) {
-    said.textContent = 'Напишите хотя бы пару слов о себе или о том, что рекламируем.';
+    said.textContent = a.empty;
     return;
   }
   button.disabled = true;
-  said.textContent = 'Отправляю…';
+  said.textContent = a.sending;
   const body = new URLSearchParams({
-    who: v('who'), link: v('link'), when: v('when'), text: v('text'), page: location.href,
+    who: v('who'), link: v('link'), when: v('when'), text: v('text'),
+    page: location.href, lang: LANG,
   });
   try {
     await fetch(INBOX, { method: 'POST', mode: 'no-cors', body });
     form.reset();
-    said.textContent = 'Заявка отправлена. Отвечу в течение дня — если хотите быстрее, напишите в Telegram.';
+    said.textContent = a.sent;
   } catch (err) {
-    said.textContent = 'Отправить не получилось. Напишите, пожалуйста, в Telegram: t.me/zhizn_v_kartinkah_world';
+    said.textContent = a.failed + ' t.me/zhizn_v_kartinkah_world';
   }
   button.disabled = false;
-});
+}
 </script>
 </body>
 </html>
