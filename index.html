@@ -29,6 +29,11 @@
   #people { left: 14px; top: 16px; }
   .step { height: 100vh; height: 100dvh; }
   #langbox { position: fixed; top: 12px; inset-inline-end: 12px; z-index: 20; display: flex; gap: 8px; align-items: center; }
+  /* Тихая ссылка на страницу о рекламе на щите в углу картины */
+  #ads { position: fixed; left: 50%; transform: translateX(-50%); bottom: 10px; z-index: 20; color: #fff;
+         font: 12px/1 system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: .03em; text-decoration: none;
+         opacity: .42; padding: 6px 11px; border-radius: 999px; background: #00000066; transition: opacity .2s; }
+  #ads:hover { opacity: .9; }
 </style>
 <script src="i18n.js"></script>
 <script src="social.js"></script>
@@ -46,6 +51,7 @@
   <div id="steps"></div>
 </div>
 <div id="langbox"></div>
+<a id="ads" href="ads.html"></a>
 <script>
 const frame = document.getElementById('frame'), svg = frame.querySelector('svg'), dateEl = document.getElementById('date');
 const leftEl = document.getElementById('left'), peopleEl = document.getElementById('people');
@@ -74,7 +80,10 @@ function labels() {
 function init(data) {
   days = data;
   const social = socialButtons(() => ({ url: location.href, title: 'Жизнь в картинках — ' + days[current].label, image: days[current].image }));
-  document.getElementById('langbox').append(social, langPicker(() => { social.repaint(); labels(); current = -1; onScroll(); }));
+  const adsLink = document.getElementById('ads');
+  const paintAds = () => { adsLink.textContent = t('ads'); adsLink.href = `ads.html?lang=${LANG}`; };
+  paintAds();
+  document.getElementById('langbox').append(social, langPicker(() => { social.repaint(); labels(); paintAds(); current = -1; onScroll(); }));
   days.forEach((d, i) => {
     const img = new Image();
     img.src = d.image; img.loading = i < 2 ? 'eager' : 'lazy';
