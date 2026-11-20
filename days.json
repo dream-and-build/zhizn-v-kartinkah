@@ -1,5 +1,267 @@
 [
   {
+    "key": "2026-11-20-1",
+    "date": "2026-11-20",
+    "image": "img/2026-11-20-1.jpg",
+    "aspect": 1.7778,
+    "people": 8327187179,
+    "spots": [
+      {
+        "id": "ukraine-peace-framework",
+        "x": 0.312,
+        "y": 0.25,
+        "r": 0.188
+      },
+      {
+        "id": "wall-street-ai-rout",
+        "x": 0.438,
+        "y": 0.696,
+        "r": 0.191
+      },
+      {
+        "id": "trump-asia-trip",
+        "x": 0.5,
+        "y": 0.821,
+        "r": 0.202
+      },
+      {
+        "id": "anthropic-ipo",
+        "x": 0.729,
+        "y": 0.369,
+        "r": 0.156
+      },
+      {
+        "id": "nvidia-chip-probe",
+        "x": 0.25,
+        "y": 0.518,
+        "r": 0.231
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.688,
+        "y": 0.286,
+        "r": 0.202
+      },
+      {
+        "id": "ukraine-strikes-bridge",
+        "x": 0.25,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "oil-shipping-and-houthi-strikes",
+        "x": 0.75,
+        "y": 0.679,
+        "r": 0.202
+      },
+      {
+        "id": "brexit-reset",
+        "x": 0.5,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.838,
+        "y": 0.507,
+        "r": 0.221
+      },
+      {
+        "id": "cybersecurity-chief-replaced",
+        "x": 0.479,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "musk-midterm-regret",
+        "x": 0.271,
+        "y": 0.798,
+        "r": 0.156
+      },
+      {
+        "id": "jeffries-speaker-win",
+        "x": 0.229,
+        "y": 0.726,
+        "r": 0.156
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.25,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "rohingya-genocide-ruling-2",
+        "x": 0.625,
+        "y": 0.179,
+        "r": 0.125
+      },
+      {
+        "id": "fiona-the-hippo-death",
+        "x": 0.479,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "rockstar-gta6-release-marketing",
+        "x": 0.75,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "van-gogh-record-auction",
+        "x": 0.146,
+        "y": 0.131,
+        "r": 0.156
+      },
+      {
+        "id": "deep-sea-mining-first-auction",
+        "x": 0.938,
+        "y": 0.107,
+        "r": 0.188
+      },
+      {
+        "id": "roman-library-opens",
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "prisoners-stage-drama-festival",
+        "x": 0.125,
+        "y": 0.321,
+        "r": 0.125
+      },
+      {
+        "id": "rare-rhino-birth-video",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "guam-kingfisher-release",
+        "x": 0.062,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "christkindlmarket-opens",
+        "x": 0.104,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "winter-festival-returns",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "christmas-village-canton",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "festival-of-lights-returns",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "cookies-with-santa-zoo",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "holiday-parade-announced",
+        "x": 0.146,
+        "y": 0.798,
+        "r": 0.156
+      },
+      {
+        "id": "rare-bird-return-oregon",
+        "x": 0.375,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "zoo-pregnant-runner-story",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "long-marathon-mother",
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "monopoly-capitalist-fun",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "indigenous-food-quest",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "food-festival-salvador",
+        "x": 0.875,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "deaf-nigerians-sign-languages",
+        "x": 0.25,
+        "y": 0.536,
+        "r": 0.125
+      },
+      {
+        "id": "deaf-nigerian-festival",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "rabbits-at-japanese-island",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "indian-driver-wins-lottery",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "afghan-grapes-for-winter",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "blind-adventurer-everest-base-camp",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    ],
+    "video": "video/2026-11-20-1.mp4"
+  },
+  {
     "key": "2026-11-19-1",
     "date": "2026-11-19",
     "image": "img/2026-11-19-1.jpg",
@@ -692,8 +954,7 @@
         "y": 0.5,
         "r": 0.125
       }
-    ],
-    "video": "video/2026-11-17-1.mp4"
+    ]
   },
   {
     "key": "2026-11-16-1",
