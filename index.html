@@ -20,6 +20,9 @@
   #frame svg { position: absolute; inset: 0; width: 100%; height: 100%; }
   #frame circle { fill: transparent; stroke: transparent; stroke-width: .005; cursor: pointer; transition: stroke .15s, fill .15s; }
   #frame circle.hover { stroke: #fffc; fill: #ffffff14; }
+  /* Щит у дороги: по нему можно нажать и перейти на страницу о рекламе */
+  #frame circle.ads { stroke: #ffffff3d; stroke-width: .004; fill: #ffffff0f; }
+  #frame circle.ads:hover { stroke: #fffc; fill: #ffffff1f; }
   #date { position: absolute; left: 14px; bottom: 12px; font: 600 15px/1 Georgia, "Times New Roman", serif; letter-spacing: .02em;
           padding: 7px 11px; border-radius: 999px; background: #000000a0; pointer-events: none; }
   /* Без подписей, почти сливаются с картиной: дни, что остались человечеству на Земле, и сколько людей живёт */
@@ -123,7 +126,9 @@ function onScroll() {
   history.replaceState(null, '', `?lang=${LANG}#${d.key}`);
   // Мелкие сюжеты поверх крупных, чтобы их можно было выбрать
   svg.innerHTML = d.spots.slice().sort((a, b) => b.r - a.r).map(s =>
-    `<a href="event.html?d=${d.key}&e=${encodeURIComponent(s.id)}&lang=${LANG}"><circle data-id="${s.id}" cx="${s.x}" cy="${s.y * ar}" r="${s.r * .8}"></circle></a>`).join('');
+    `<a href="event.html?d=${d.key}&e=${encodeURIComponent(s.id)}&lang=${LANG}"><circle data-id="${s.id}" cx="${s.x}" cy="${s.y * ar}" r="${s.r * .8}"></circle></a>`).join('')
+    // Щит у дороги ведёт на страницу о рекламе — так же, как рисунок ведёт на событие
+    + (d.ads ? `<a href="ads.html?lang=${LANG}"><title>${t('ads')}</title><circle class="ads" cx="${d.ads.x}" cy="${d.ads.y * ar}" r="${d.ads.r * .85}"></circle></a>` : '');
 }
 
 // Подсвечиваем самый маленький сюжет под курсором

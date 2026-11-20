@@ -9,8 +9,8 @@
       {
         "id": "ukraine-peace-framework",
         "x": 0.312,
-        "y": 0.25,
-        "r": 0.188
+        "y": 0.232,
+        "r": 0.191
       },
       {
         "id": "wall-street-ai-rout",
@@ -26,9 +26,9 @@
       },
       {
         "id": "anthropic-ipo",
-        "x": 0.729,
-        "y": 0.369,
-        "r": 0.156
+        "x": 0.719,
+        "y": 0.393,
+        "r": 0.191
       },
       {
         "id": "nvidia-chip-probe",
@@ -74,21 +74,21 @@
       },
       {
         "id": "cybersecurity-chief-replaced",
-        "x": 0.479,
-        "y": 0.512,
-        "r": 0.156
+        "x": 0.438,
+        "y": 0.5,
+        "r": 0.125
       },
       {
         "id": "musk-midterm-regret",
-        "x": 0.271,
-        "y": 0.798,
-        "r": 0.156
+        "x": 0.312,
+        "y": 0.786,
+        "r": 0.202
       },
       {
         "id": "jeffries-speaker-win",
-        "x": 0.229,
-        "y": 0.726,
-        "r": 0.156
+        "x": 0.25,
+        "y": 0.714,
+        "r": 0.151
       },
       {
         "id": "voyager-1-light-day-record",
@@ -98,9 +98,9 @@
       },
       {
         "id": "rohingya-genocide-ruling-2",
-        "x": 0.625,
-        "y": 0.179,
-        "r": 0.125
+        "x": 0.604,
+        "y": 0.155,
+        "r": 0.156
       },
       {
         "id": "fiona-the-hippo-death",
@@ -116,9 +116,9 @@
       },
       {
         "id": "van-gogh-record-auction",
-        "x": 0.146,
-        "y": 0.131,
-        "r": 0.156
+        "x": 0.125,
+        "y": 0.143,
+        "r": 0.151
       },
       {
         "id": "deep-sea-mining-first-auction",
@@ -129,8 +129,8 @@
       {
         "id": "roman-library-opens",
         "x": 0.062,
-        "y": 0.214,
-        "r": 0.125
+        "y": 0.25,
+        "r": 0.188
       },
       {
         "id": "prisoners-stage-drama-festival",
@@ -188,9 +188,9 @@
       },
       {
         "id": "rare-bird-return-oregon",
-        "x": 0.375,
+        "x": 0.312,
         "y": 0.964,
-        "r": 0.125
+        "r": 0.062
       },
       {
         "id": "zoo-pregnant-runner-story",
@@ -213,8 +213,8 @@
       {
         "id": "indigenous-food-quest",
         "x": 0.812,
-        "y": 0.964,
-        "r": 0.062
+        "y": 0.929,
+        "r": 0.125
       },
       {
         "id": "food-festival-salvador",
@@ -230,9 +230,9 @@
       },
       {
         "id": "deaf-nigerian-festival",
-        "x": 0.938,
-        "y": 0.893,
-        "r": 0.062
+        "x": 0.896,
+        "y": 0.845,
+        "r": 0.156
       },
       {
         "id": "rabbits-at-japanese-island",
@@ -254,11 +254,16 @@
       },
       {
         "id": "blind-adventurer-everest-base-camp",
-        "x": 0.938,
-        "y": 0.607,
-        "r": 0.062
+        "x": 0.188,
+        "y": 0.929,
+        "r": 0.125
       }
     ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
     "video": "video/2026-11-20-1.mp4"
   },
   {
