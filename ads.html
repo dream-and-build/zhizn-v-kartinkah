@@ -93,12 +93,11 @@
     <label>Что должно быть на щите и вопросы
       <textarea name="text" placeholder="строка на щите, бюджет, вопросы"></textarea>
     </label>
-    <button type="submit">Составить заявку и открыть Telegram</button>
+    <button type="submit">Отправить заявку</button>
     <p class="said" id="said"></p>
   </form>
-  <p class="dim">Кнопка собирает письмо, кладёт его в буфер обмена и открывает
-     <a href="https://t.me/zhizn_v_kartinkah_world">t.me/zhizn_v_kartinkah_world</a> —
-     останется вставить и отправить.</p>
+  <p class="dim">Заявка уходит сразу мне; ответ придёт в Telegram или на ту связь, которую вы
+     укажете. Можно и без формы — <a href="https://t.me/zhizn_v_kartinkah_world">t.me/zhizn_v_kartinkah_world</a>.</p>
 
   <hr>
 
@@ -138,24 +137,31 @@
 </main>
 
 <script>
+// Заявка уходит в приёмник проекта: оттуда она попадает в таблицу и письмом автору.
+const INBOX = 'https://script.google.com/macros/s/AKfycbyhyR7J4X7loYL20pxz4a8PN0bl3oMDYrI6XzD7Z521usFOvbn5roPldfjIruqzj0uI8w/exec';
 const form = document.getElementById('ask'), said = document.getElementById('said');
+const button = form.querySelector('button');
+
 form.addEventListener('submit', async e => {
   e.preventDefault();
   const v = name => (form.elements[name].value || '').trim();
-  const letter = [
-    'Заявка на баннер — Жизнь в картинках',
-    v('who') && 'Кто: ' + v('who'),
-    v('link') && 'Ссылка: ' + v('link'),
-    v('when') && 'Даты: ' + v('when'),
-    v('text') && 'Текст и вопросы: ' + v('text'),
-  ].filter(Boolean).join('\n');
-  try {
-    await navigator.clipboard.writeText(letter);
-    said.textContent = 'Заявка скопирована — вставьте её в Telegram.';
-  } catch {
-    said.textContent = 'Скопируйте текст заявки вручную:\n' + letter;
+  if (!v('who') && !v('link') && !v('text')) {
+    said.textContent = 'Напишите хотя бы пару слов о себе или о том, что рекламируем.';
+    return;
   }
-  open('https://t.me/zhizn_v_kartinkah_world', '_blank', 'noopener');
+  button.disabled = true;
+  said.textContent = 'Отправляю…';
+  const body = new URLSearchParams({
+    who: v('who'), link: v('link'), when: v('when'), text: v('text'), page: location.href,
+  });
+  try {
+    await fetch(INBOX, { method: 'POST', mode: 'no-cors', body });
+    form.reset();
+    said.textContent = 'Заявка отправлена. Отвечу в течение дня — если хотите быстрее, напишите в Telegram.';
+  } catch (err) {
+    said.textContent = 'Отправить не получилось. Напишите, пожалуйста, в Telegram: t.me/zhizn_v_kartinkah_world';
+  }
+  button.disabled = false;
 });
 </script>
 </body>
