@@ -1,5 +1,254 @@
 [
   {
+    "key": "2026-11-21-1",
+    "date": "2026-11-21",
+    "image": "img/2026-11-21-1.jpg",
+    "aspect": 1.7778,
+    "people": 8327375854,
+    "spots": [
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.797,
+        "y": 0.259,
+        "r": 0.241
+      },
+      {
+        "id": "nvidia-chip-probe",
+        "x": 0.25,
+        "y": 0.679,
+        "r": 0.125
+      },
+      {
+        "id": "wall-street-ai-rout",
+        "x": 0.263,
+        "y": 0.593,
+        "r": 0.221
+      },
+      {
+        "id": "anthropic-ipo",
+        "x": 0.738,
+        "y": 0.407,
+        "r": 0.221
+      },
+      {
+        "id": "trump-asia-trip",
+        "x": 0.487,
+        "y": 0.807,
+        "r": 0.221
+      },
+      {
+        "id": "ukraine-strikes-bridge",
+        "x": 0.312,
+        "y": 0.214,
+        "r": 0.202
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.5,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.848,
+        "y": 0.515,
+        "r": 0.295
+      },
+      {
+        "id": "cop31-climate-stalemate",
+        "x": 0.562,
+        "y": 0.536,
+        "r": 0.188
+      },
+      {
+        "id": "mamdani-rikers-plan",
+        "x": 0.5,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "poland-russian-airspace",
+        "x": 0.25,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "oil-shipping-and-houthi-strikes",
+        "x": 0.792,
+        "y": 0.726,
+        "r": 0.23
+      },
+      {
+        "id": "brexit-reset",
+        "x": 0.75,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "rockstar-gta6-release-marketing",
+        "x": 0.875,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "bayer-roundup-settlement-approved",
+        "x": 0.646,
+        "y": 0.083,
+        "r": 0.156
+      },
+      {
+        "id": "ai-solves-riemann-hypothesis-claim",
+        "x": 0.312,
+        "y": 0.054,
+        "r": 0.191
+      },
+      {
+        "id": "voyager-1-light-day-record",
+        "x": 0.479,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "pancreatic-cancer-drug-trial-breakthrough",
+        "x": 0.125,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "estonia-closes-russia-border",
+        "x": 0.104,
+        "y": 0.202,
+        "r": 0.156
+      },
+      {
+        "id": "europe-student-cost-of-living-protests",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "italian-strike-hits-services",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "snowy-russia-diplomatic-tension-in-north",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "vatican-museums-popemobile-show",
+        "x": 0.062,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "rome-starlings-welcome",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "dublin-christmas-markets-open",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "vatican-christmas-tree-and-papomobiles",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-hippo-mourning",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "daredevil-zipline-on-fire",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "cultural-festival-tree-and-bakers",
+        "x": 0.125,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "baby-marmoset-named-after-detective",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "record-breaking-shot-putt-and-racing-moments",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "trump-arch-blocked-again",
+        "x": 0.625,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "flesh-eating-screwworm-alert",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "puppy-joins-police",
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "zoo-lights-season-begins",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "fancy-holiday-shopping-deals",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "christmas-train-rides-and-lights",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "camels-and-coffee-heritage",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "iraq-power-plant-fire",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.188
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-21-1.mp4"
+  },
+  {
     "key": "2026-11-20-1",
     "date": "2026-11-20",
     "image": "img/2026-11-20-1.jpg",
@@ -691,8 +940,7 @@
         "y": 0.643,
         "r": 0.125
       }
-    ],
-    "video": "video/2026-11-18-1.mp4"
+    ]
   },
   {
     "key": "2026-11-17-1",
