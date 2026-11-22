@@ -1,5 +1,302 @@
 [
   {
+    "key": "2026-11-22-1",
+    "date": "2026-11-22",
+    "image": "img/2026-11-22-1.jpg",
+    "aspect": 1.7778,
+    "people": 8327564528,
+    "spots": [
+      {
+        "id": "trump-asia-trip",
+        "x": 0.5,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "mamdani-rikers-plan",
+        "x": 0.562,
+        "y": 0.714,
+        "r": 0.202
+      },
+      {
+        "id": "mexico-cartel-capture",
+        "x": 0.25,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "hormuz-shipping-risk",
+        "x": 0.479,
+        "y": 0.274,
+        "r": 0.156
+      },
+      {
+        "id": "wall-street-ai-rout",
+        "x": 0.75,
+        "y": 0.321,
+        "r": 0.125
+      },
+      {
+        "id": "ukraine-strikes-bridge",
+        "x": 0.271,
+        "y": 0.274,
+        "r": 0.156
+      },
+      {
+        "id": "cop31-climate-stalemate",
+        "x": 0.438,
+        "y": 0.393,
+        "r": 0.188
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.781,
+        "y": 0.232,
+        "r": 0.222
+      },
+      {
+        "id": "nvidia-chip-probe",
+        "x": 0.188,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "anthropic-ipo",
+        "x": 0.75,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.438,
+        "y": 0.571,
+        "r": 0.3
+      },
+      {
+        "id": "indonesia-factory-fire",
+        "x": 0.646,
+        "y": 0.56,
+        "r": 0.156
+      },
+      {
+        "id": "nigeria-boat-disaster",
+        "x": 0.287,
+        "y": 0.721,
+        "r": 0.221
+      },
+      {
+        "id": "france-lisbon-living-costs-protests",
+        "x": 0.5,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "canada-us-defense-rift",
+        "x": 0.25,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "south-korea-education-resignation",
+        "x": 0.562,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "brexit-reset",
+        "x": 0.75,
+        "y": 0.679,
+        "r": 0.125
+      },
+      {
+        "id": "bolsonaro-icu",
+        "x": 0.438,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "kate-cancer-documentary",
+        "x": 0.312,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "bepi-colombo-mercury-orbit",
+        "x": 0.875,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "rockstar-gta6-release-marketing",
+        "x": 0.5,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "ai-solves-riemann-hypothesis-claim",
+        "x": 0.688,
+        "y": 0.036,
+        "r": 0.062
+      },
+      {
+        "id": "special-mosquitoes-dengue",
+        "x": 0.125,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "miley-marries-maxx",
+        "x": 0.875,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "mini-moon-around-earth",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "beautiful-photos-around-the-world",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "alcaraz-vs-zverev-final",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "record-run-streaks-in-sports",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "paolo-bulgari-legacy",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-the-hippo-tribute",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "cat-on-delta-flight",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "go-army-prank",
+        "x": 0.125,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "fiona-long-distance-boyfriend-letter",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "restaurant-thanksgiving-overload",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "thanksgiving-turkey-safety-tips",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "thanksgiving-food-drive",
+        "x": 0.25,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "holiday-tree-lightings",
+        "x": 0.438,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "f1-verstappen-las-vegas-win",
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "wembanyama-50-point-night",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "brunson-buzzer-beater",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "youth-soccer-first-title",
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "airport-dog-escapes-kennel",
+        "x": 0.875,
+        "y": 0.893,
+        "r": 0.125
+      },
+      {
+        "id": "pumpkin-and-fall-fair-fun",
+        "x": 0.875,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "food-colors-trend",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "cute-animals-and-rescues",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "mascot-mania-japan",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "north-korea-marathon-delay",
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-22-1.mp4"
+  },
+  {
     "key": "2026-11-21-1",
     "date": "2026-11-21",
     "image": "img/2026-11-21-1.jpg",
@@ -726,8 +1023,7 @@
         "y": 0.464,
         "r": 0.062
       }
-    ],
-    "video": "video/2026-11-19-1.mp4"
+    ]
   },
   {
     "key": "2026-11-18-1",
