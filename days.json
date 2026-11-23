@@ -1,5 +1,254 @@
 [
   {
+    "key": "2026-11-23-1",
+    "date": "2026-11-23",
+    "image": "img/2026-11-23-1.jpg",
+    "aspect": 1.7778,
+    "people": 8327753203,
+    "spots": [
+      {
+        "id": "ukraine-strikes-bridge",
+        "x": 0.25,
+        "y": 0.214,
+        "r": 0.151
+      },
+      {
+        "id": "ukraine-libya-ship-strike",
+        "x": 0.271,
+        "y": 0.488,
+        "r": 0.156
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.75,
+        "y": 0.25,
+        "r": 0.25
+      },
+      {
+        "id": "us-house-democrats-majority",
+        "x": 0.312,
+        "y": 0.571,
+        "r": 0.202
+      },
+      {
+        "id": "anthropic-ipo",
+        "x": 0.688,
+        "y": 0.357,
+        "r": 0.202
+      },
+      {
+        "id": "cop31-climate-stalemate",
+        "x": 0.458,
+        "y": 0.405,
+        "r": 0.21
+      },
+      {
+        "id": "nvidia-chip-probe",
+        "x": 0.229,
+        "y": 0.417,
+        "r": 0.156
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.838,
+        "y": 0.607,
+        "r": 0.223
+      },
+      {
+        "id": "indonesia-factory-fire",
+        "x": 0.762,
+        "y": 0.836,
+        "r": 0.221
+      },
+      {
+        "id": "mamdani-rikers-plan",
+        "x": 0.438,
+        "y": 0.857,
+        "r": 0.202
+      },
+      {
+        "id": "france-lisbon-living-costs-protests",
+        "x": 0.287,
+        "y": 0.707,
+        "r": 0.221
+      },
+      {
+        "id": "trump-crypto-gala",
+        "x": 0.5,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "south-korea-education-resignation",
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "mexico-cartel-capture",
+        "x": 0.163,
+        "y": 0.85,
+        "r": 0.221
+      },
+      {
+        "id": "armenia-azerbaijan-constitution",
+        "x": 0.625,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "nato-russia-satellite",
+        "x": 0.646,
+        "y": 0.083,
+        "r": 0.156
+      },
+      {
+        "id": "miley-marries-maxx",
+        "x": 0.896,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "bepi-colombo-mercury-orbit",
+        "x": 0.625,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "ai-solves-riemann-hypothesis-claim",
+        "x": 0.375,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "special-mosquitoes-dengue",
+        "x": 0.438,
+        "y": 0.143,
+        "r": 0.125
+      },
+      {
+        "id": "kate-cancer-documentary",
+        "x": 0.125,
+        "y": 0.036,
+        "r": 0.125
+      },
+      {
+        "id": "tiny-marmoset-rescued-in-garden",
+        "x": 0.062,
+        "y": 0.179,
+        "r": 0.062
+      },
+      {
+        "id": "wild-animals-and-birds-britain",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "record-hiking-and-race-celebrations",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "board-games-with-strangers-curbs-loneliness",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "hanukkah-house-added-for-kids",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "festival-of-lights-returns",
+        "x": 0.104,
+        "y": 0.56,
+        "r": 0.156
+      },
+      {
+        "id": "holiday-tree-parade-march",
+        "x": 0.125,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "macys-returns-fiona-tribute",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "pickle-fans-at-festival",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "lucky-thanksgiving-note-becomes-movie",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "batmobile-heads-to-auction",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "fiona-the-hippo-memorials",
+        "x": 0.75,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "taylor-swift-cheers-at-chiefs",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "hunger-games-box-office-boom",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "rare-malian-otter-returns-to-river",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "restored-shuri-castle-hall-reopens",
+        "x": 0.188,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "lion-lost-in-istanbul-search",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "classic-car-festival-in-qatif",
+        "x": 0.938,
+        "y": 0.714,
+        "r": 0.125
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-23-1.mp4"
+  },
+  {
     "key": "2026-11-22-1",
     "date": "2026-11-22",
     "image": "img/2026-11-22-1.jpg",
@@ -809,8 +1058,7 @@
       "x": 0.16,
       "y": 0.93,
       "r": 0.12
-    },
-    "video": "video/2026-11-20-1.mp4"
+    }
   },
   {
     "key": "2026-11-19-1",
