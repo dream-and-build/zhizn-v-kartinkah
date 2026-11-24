@@ -1,5 +1,248 @@
 [
   {
+    "key": "2026-11-24-1",
+    "date": "2026-11-24",
+    "image": "img/2026-11-24-1.jpg",
+    "aspect": 1.7778,
+    "people": 8327941877,
+    "spots": [
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.703,
+        "y": 0.67,
+        "r": 0.241
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.583,
+        "y": 0.274,
+        "r": 0.295
+      },
+      {
+        "id": "ukraine-libya-ship-strike",
+        "x": 0.828,
+        "y": 0.384,
+        "r": 0.241
+      },
+      {
+        "id": "us-house-democrats-majority",
+        "x": 0.277,
+        "y": 0.474,
+        "r": 0.256
+      },
+      {
+        "id": "pope-diary-devil",
+        "x": 0.487,
+        "y": 0.379,
+        "r": 0.221
+      },
+      {
+        "id": "vietnam-hanoi-blast",
+        "x": 0.688,
+        "y": 0.821,
+        "r": 0.188
+      },
+      {
+        "id": "sanofi-insmed-deal",
+        "x": 0.312,
+        "y": 0.714,
+        "r": 0.202
+      },
+      {
+        "id": "apple-future-products",
+        "x": 0.25,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "oilfields-kurdish-iraq",
+        "x": 0.338,
+        "y": 0.636,
+        "r": 0.221
+      },
+      {
+        "id": "eu-hybrid-import-limits",
+        "x": 0.562,
+        "y": 0.893,
+        "r": 0.188
+      },
+      {
+        "id": "xiaomi-earnings-drop",
+        "x": 0.604,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "west-africa-gold-refining",
+        "x": 0.5,
+        "y": 0.786,
+        "r": 0.151
+      },
+      {
+        "id": "nvidia-reinstates-jensen-huang-ceo",
+        "x": 0.479,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "pakistani-astronaut-china-space-station",
+        "x": 0.688,
+        "y": 0.071,
+        "r": 0.202
+      },
+      {
+        "id": "fda-approves-bridgebio-muscle-drug",
+        "x": 0.188,
+        "y": 0.089,
+        "r": 0.191
+      },
+      {
+        "id": "greece-acropolis-museum-reopens-after-restoration",
+        "x": 0.875,
+        "y": 0.107,
+        "r": 0.202
+      },
+      {
+        "id": "brentford-four-goals",
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      },
+      {
+        "id": "festive-white-house-turkeys",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "fiona-hippo-memorial",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "wild-turkeys-chasing-walker",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "deer-stuck-between-house-and-deck",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "donny-osmond-backs-fire",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "thanksgiving-dessert-table",
+        "x": 0.125,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "miley-cyrus-marriage",
+        "x": 0.104,
+        "y": 0.655,
+        "r": 0.156
+      },
+      {
+        "id": "holiday-lighting-events",
+        "x": 0.062,
+        "y": 0.714,
+        "r": 0.125
+      },
+      {
+        "id": "rare-rhino-birth",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "hellbender-raise-program",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "wooden-batmobile-auction",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "jp-morgan-soup-tureen",
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "commanders-bengals-lighting-glitch",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "cat-on-a-plane",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "beaver-moon-watch",
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "holiday-shopping-scams",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "apple-tv-ted-lasso-renewal",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "mysterious-lioness-misidentification",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "rsm-classic-playoff",
+        "x": 0.188,
+        "y": 0.857,
+        "r": 0.125
+      },
+      {
+        "id": "gta6-record-launch",
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "fifa-2031-womens-world-cup",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-24-1.mp4"
+  },
+  {
     "key": "2026-11-23-1",
     "date": "2026-11-23",
     "image": "img/2026-11-23-1.jpg",
@@ -791,8 +1034,7 @@
       "x": 0.16,
       "y": 0.93,
       "r": 0.12
-    },
-    "video": "video/2026-11-21-1.mp4"
+    }
   },
   {
     "key": "2026-11-20-1",

@@ -1,0 +1,2312 @@
+{
+  "key": "2026-11-24-1",
+  "date": "2026-11-24",
+  "image": "img/2026-11-24-1.jpg",
+  "aspect": 1.7778,
+  "events": {
+    "gaza-ground-operation": {
+      "kind": "major",
+      "title": "이스라엘의 가자지구 전쟁은 서안지구와 함께 여전히 중대한 지역 분쟁으로 남아 있다",
+      "region": "이스라엘",
+      "summary": "팔레스타인 소식통과 AFP에 따르면, 화요일 이스라엘의 가자지구 공습으로 하마스 내부 보안 책임자 나임 아부 나할을 포함해 7명이 숨졌다. 이스라엘군과 신베트는 하마스 고위 인사를 타격했다고 밝혔고, 베냐민 네타냐후 총리는 하마스 내부 보안국장을 제거했다고 말했다. 보도들은 이번 타격이 지난해부터 이어진 휴전이 유지되는 시기에 이뤄졌다고 전했다. 이는 가자지구와 서안지구의 분쟁이 여전히 치열하고 계속되고 있음을 보여준다.",
+      "picture": "그림에는 갈라진 방패, 손상된 올리브나무, 그리고 손전등을 든 의료진이 보인다. 이 이미지는 방어의 취약함, 지상의 파괴, 그리고 밤의 폭력 속에서 사람들을 구하려는 노력을 전한다.",
+      "mentions": 100,
+      "significance": 90,
+      "velocity": 79,
+      "domain_count": 62,
+      "articles": [
+        {
+          "title": "Israeli strikes in Gaza kill 7, including senior security official",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2046778/israeli-strikes-in-gaza-kill-7-including-senior-security-official",
+          "published": "2026-11-24T12:27:15+00:00"
+        },
+        {
+          "title": "Israeli strike kills Hamas internal security chief in Gaza, source tells AFP",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp",
+          "published": "2026-11-24T12:16:18+00:00"
+        },
+        {
+          "title": "Нетаньяху сообщил о ликвидации главы службы внутренней безопасности ХАМАС",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28349855",
+          "published": "2026-11-24T12:11:16+00:00"
+        },
+        {
+          "title": "ICC president thanks Japan for early 2027 payment as US sanctions squeeze the court - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEJIWDZ6NWpKZWxaZ01tRVpFa09yeFVYU0JzQ0t6ZEFWS1Z6UHRIX2RwSlc5TEZQOFJ3UGtZQ3VONHAwSGU0MlhzTFpIbW9DbUtkbTRZMHd0M0Z5U3U2M0NoWDRWV3BsRm55TnU5bS1VbTVtT1NTa2ZqdS1QVXlnTmRnaTd0SkY4Y3RzazlaM2hGSzQ?oc=5",
+          "published": "2026-11-24T12:09:00+00:00"
+        },
+        {
+          "title": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSENST0RmUXRVTWdNeVRYeWhNWW9ESlo2cXdYcFRpV0l6aVNEOXI5MHprMUxDVVFXdVFOTmlZRklIT2FpVTFZUkFrMlpQaHl3OVQyLVRhSG1nVkZhZjJKRVpjMS1Cc2MxWkRYbVV4WDhvLTlVUW9URzNVeFY2QjNjMV9hc0l0X2ROOVkzeDFoUk1DQWR6YXE1X1lRZEt4WEVsc3hDOXM5R3dpU1QwcS1wRk5mOWQ?oc=5",
+          "published": "2026-11-24T12:07:57+00:00"
+        },
+        {
+          "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDJDTDZRbHdYS21mVFNxZ3Y1ZTlnT3VJQlhDVGZKRWdpYnI2M1AzTTNOYkx3S2N0SjB5UVRXb2dwbTQ0N2RKVjZKbkFQTDY1UFJqYUVNeHF4bjVnSGI3cmo3WXM2RGs1UmF2QnF1bW81Nm5Uai11MVVwdml2NGxmWFowWV9ROXNLZmZFY1c3OXVYYjMyT08wbXFrRlh3MG5JOTVhbE5zRHZGaWVJWWc?oc=5",
+          "published": "2026-11-24T12:07:20+00:00"
+        },
+        {
+          "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+          "published": "2026-11-24T12:00:41+00:00"
+        },
+        {
+          "title": "Prince William and Kate Middleton’s Sandringham estate home broken into in major security breach - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXVKWXlpVy0yR0xSajhQeUtDLVBDR1FsOUVXYVBmNXNQaFJBc3VpNDhTYVVkeHJudm0xS0FEVjJoWUN1RkNyMnVUakNBSFZKZlYxQ1V1a1MwWUtTVFR3XzVCeVZEWWIyZVlfc0RCU1NGVy10Y3VCanprZkZydkxESmx5OG5pRXBkS29sV0ZLZEpRWURuQmR2UEo5N1RGaXJnMWpTVFV0YmlXeEp5cFRZbTRjZ1huVDlpWG1UOXpUeDN5VzNpZmNSRHhPcw?oc=5",
+          "published": "2026-11-24T11:42:00+00:00"
+        },
+        {
+          "title": "A mother's love of Christmas lights inspires a West Side tradition - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0xHellHdm1HZzI2blBwSkloRXhkb1RSZ1g1OFVKN2ZHZ0hZNkhGbHBiQUU1em9RcEJMdC1JNXVuUzBqVldQS0dxQjR2YURIY042bzFwOVVpaURuTnlWakpXQTZDWjFsM01uTVBFOFRDeXJ0WW5PU1BwMWYxTzJzc0U2V0NReGg5R19QYVg2ZGV0c0FxbHZPUlRCVDUyUQ?oc=5",
+          "published": "2026-11-24T11:28:01+00:00"
+        },
+        {
+          "title": "House Democrat expands investigation into Donald Trump Jr.'s investment firm - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEJobXdOVUZ5UVVKQXBQZDFDbDl5TkRfUHFqRE13aWs0Qll3VURnZ1pzRjZLSmtHNnVFLTRtTjRYeDIwNERuQVdpMjlQbGhqT2lWSUN6TngxZUI3ZTE1SWpOUHFNVnBndDM1WWZPbGVOTTNDbHZFVHVmZW9xNUh0SWlJemtOWm9LQmlYRDZoV3VuWUkyQzVIMHYxbHFtcFZmT0w5QWdXeU1DUlBXNWtmZVFn?oc=5",
+          "published": "2026-11-24T11:26:41+00:00"
+        },
+        {
+          "title": "Cosmetic Filling Machine Manufacturers in China: Multi-Format Capability Ranking - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMEd0MDdhUUlwaEVLbGpZaU0wRUtOWkxjRTFJZ1Jvci15ck5RSkI1NEktcXkxOTJXa1IteWdlQjZqZVhlYTlxaUpBa3V5ZldMODcta1JNWjNyakRxeERsbExKaWZOd3VlemU1dDB4NFBSRk0yMU5PbDVzUGZFY1JYWU1nSGFUb2lzZkNDVzF1ZnVpaVZtVGRTS1FpdnJDWGJyaGFZNThnY0FMeU81WnlTS0pYRmJWLUdNTWpxd0Z1TVNnc1JuY0szc08wa2RuWGs?oc=5",
+          "published": "2026-11-24T11:13:08+00:00"
+        },
+        {
+          "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
+          "published": "2026-11-24T11:10:02+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.703,
+        "y": 0.67,
+        "r": 0.241
+      }
+    },
+    "global-outage-microsoft": {
+      "kind": "major",
+      "title": "장애와 악천후, 미국 추수감사절 항공편 차질 우려",
+      "region": "미국",
+      "summary": "추수감사절 여행 관련 보도들은 최근 네트워크 장애와 악천후로 인해 미국 항공편에 대한 위험이 커지고 있다고 전한다. France 24는 미국 항공사와 FAA의 네트워크 및 규제상 문제로 지연 우려가 커졌고, ICE 단속도 연휴 여행객 급증 앞에서 불안을 더하고 있다고 전했다. 이와 함께 다른 기사들은 여행객들에게 실질적인 조언을 제공하고 도로 수요 증가를 경고한다. 전체적으로는 미국의 연휴 이동이 기술적·기상적 요인으로 복잡해질 수 있다는 점이 핵심이다.",
+      "picture": "그림에는 폭풍 속에서 고장 난 관제탑과 수하물 카트 옆에 여러 대의 비행기가 움직이지 않은 채 서 있다. 이는 멈춰 선 항공편, 인프라 장애, 연휴 기간의 혼란을 상징한다.",
+      "mentions": 87,
+      "significance": 58,
+      "velocity": 63,
+      "domain_count": 69,
+      "articles": [
+        {
+          "title": "Holiday shopping is getting more expensive. Here's how people are adapting - WOAI",
+          "domain": "news4sanantonio.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQMzBWLXQzcTVkX2s3QmFWZnBoTE1RWi1TM0VlNlFtS3JPNG96SzFRRUpsMldyOXpiLW55T1lObFpTYUoxTW1qR2NyMjlwYkl0TkVLRElMMWlHQno3amd5NU5PZ1IwV3hVNGV0eDM1NW41VWo0eEw0ME5fRzJiQmExVlJua3BpTDl2UWR4dUh4QVp1ai13YjJXdEE0VWs1U21YWUhOM2l3TGVXSFl3QU5HM1BaSERKRjg2UDhYX1JWUDA4WFdpNThtaktPSDNNVUNJMzlqcDdpVWozZ3o4dlJ1a2hkSGtGVUxYN0NtcTV4RTdmdDlfM01ZQmZRbDB5aG84Mm5YaC1xcnBwbG1SSWd6bkRwSFNJZnEtS2NpZk1ndVc2WDZBRjdJSHRHSXVhNFV5SzNSNW9WU0lnbURub2NNbTRnbHFoUkV6QUhpS0dpSW4?oc=5",
+          "published": "2026-11-24T12:28:14+00:00"
+        },
+        {
+          "title": "Белоруссия выступила за создание единой цифровой экосистемы логистики в СНГ",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/mezhdunarodnaya-panorama/28349821",
+          "published": "2026-11-24T12:04:11+00:00"
+        },
+        {
+          "title": "Kinsta Adds Patchstack Vulnerability Protection to Every WordPress Site at No Extra Cost - Los Angeles Times",
+          "domain": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1V4WVZ5R1ZXWTVCcVVoMkVVVTVDNkhTWjJxWHhFbnEzdjl2b25zZEllMDhwX0xPZVp1NjdVX1FJcmpkRWhGSnFONFRqbWNOaGtyWGUwRnFWNkxNOVp6dm5ROUJmLWJyT3M4aWJNU1pfMXNnQXE1cTUyYklMTEQ4MFZMVjNYaXVUQVZSSTgzV0MtZmFRNFotLTBCajh3ejR0UW9z?oc=5",
+          "published": "2026-11-24T12:00:00+00:00"
+        },
+        {
+          "title": "Salt and Donald vaporise target as England crush Australia in 13.1 overs to win second T20",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/24/salt-donald-blast-england-crushing-twenty20-victory-australia",
+          "published": "2026-11-24T11:24:39+00:00"
+        },
+        {
+          "title": "ICE raids add to jitters ahead of Thanksgiving travel rush",
+          "domain": "france24.com",
+          "url": "https://www.france24.com/en/video/20261124-ice-raids-add-to-jitters-ahead-of-thanksgiving-travel-rush",
+          "published": "2026-11-24T11:02:37+00:00"
+        },
+        {
+          "title": "Traveling for Thanksgiving? These are the best times to hit the road, according to AAA - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTkN0VFRmQnI0WDlweW1GUDlJelc5TXl2Z1p3ZmNoWWt5TEowMDZNcy1Eb1BlNzFyU1FLUERnaTBsaXFnbW8ta1BhS2poa2ZLTmpmTlBzR24xbHRYNjhHSGF4RHd6cFY4UXlJbGFrejdKY2tWMW9CLXNzb190emxoR0V6b2R0NkhlSzNaWVJOYUlJMlVma1dVZVQtTDUxRHQ4bkUxcExabE5Nd0xJUXdxNUx5NjQySWhlYXBuMXI4NjBGLUxfU2xGT2NFZlR6RENhZnBfQzBEV3dtQi0wZVhZRWdWWkNIS0hsaEZESkxxWQ?oc=5",
+          "published": "2026-11-24T10:38:00+00:00"
+        },
+        {
+          "title": "World stocks are mixed after Wall Street's rebound as Jensen Huang returns as Nvidia’s CEO - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
+          "published": "2026-11-24T09:52:00+00:00"
+        },
+        {
+          "title": "High school roundup for Nov. 23, 2026: Franklin Regional drops Armstrong - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXVpVkw0RXdFWE1EZFNQTEp4ZXBNcUVrMTBKSEJxYkc2VV96TDR4dlJGZDBkelBIUVlqanktbm9WcWxrWExhR1FHMFdiNVUwT2JpUUpxWWJXV0JqVGFrNUF2Qjc2RzJmeUpRdWQ3Q25kaEd2Uk9pSWR4ZXFpbjdoZ2xDU0QzWXM2U2tvei1FS0ZFZnBZeVppTVZTMk5pSEE?oc=5",
+          "published": "2026-11-24T09:51:04+00:00"
+        },
+        {
+          "title": "Former school IT worker charged with grooming, school says",
+          "domain": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-24/criminal-charges-former-it-worker-williamstown-high-school/107422894",
+          "published": "2026-11-24T09:26:46+00:00"
+        },
+        {
+          "title": "Russia to build Kaliningrad exclave rail ferries, citing transport 'blockade'",
+          "domain": "euronews.com",
+          "url": "https://www.euronews.com/2026/11/24/russia-to-build-kaliningrad-exclave-rail-ferries-citing-transport-blockade",
+          "published": "2026-11-24T09:26:10+00:00"
+        },
+        {
+          "title": "TotalEnergies: Additional investments planned for the Amiral project in Saudi Arabia - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHY3blc4dllaR2xTWHJEc3dLTXFZOWh5MF9XZzBVcmwxcmRLazV3Ukw5cHRHUkFXZ3lYcHdCUDIwT0pSQk5uUFhQX1pBWVItajY5b25DN1VZaTFQeUItNXB3Mi1pV3pINjBNcU0zT1VyWmxmd2w1bTctLWYtNE1Ud0wzenhYNVhZemc2Vjc5VHVoa1l3dnp4eWZVaDE5TFJ2VE5Ta3ZIRzNRQk9pSlNIemJnYUNUOVlQSjFVNlNwbGNVX1U?oc=5",
+          "published": "2026-11-24T09:07:43+00:00"
+        },
+        {
+          "title": "North Korea threatens to shut Swiss office over Russian youth camp sanctions",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3375602/north-korea-threatens-shut-swiss-office-over-russian-youth-camp-sanctions",
+          "published": "2026-11-24T08:42:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.583,
+        "y": 0.274,
+        "r": 0.295
+      }
+    },
+    "ukraine-libya-ship-strike": {
+      "kind": "major",
+      "title": "우크라이나, 리비아 연안의 러시아 선박 타격을 확인",
+      "region": "우크라이나",
+      "summary": "우크라이나는 리비아 연안의 러시아 선박에 대한 타격을 확인했으며, 보도들은 이를 전장 밖에서 러시아 선박을 겨냥한 원거리 공격의 일부로 설명한다. The Guardian은 리비아 인근에서 공격받은 러시아 선박에 대해 보도했고, Al Jazeera는 이를 키이우의 ‘장거리 제재’의 연장으로 해석했다. 노르웨이 국방장관은 Pravda.com.ua 보도에서 이러한 공격 속에서도 지역 안정성에 대해 우크라이나와 대화하고 있다고 말했다. 이 사안은 전쟁이 우크라이나를 넘어 지중해 해상 경로까지 영향을 미친다는 점에서 중요하다.",
+      "picture": "해상 드론이 군함을 타격하고, 또 다른 드론이 찢어진 지도와 닻사슬 옆에서 가라앉는 장면이 묘사돼 있다. 이는 해상 물류에 대한 타격과 전쟁의 원거리 해역 확장을 뜻한다.",
+      "mentions": 84,
+      "significance": 88,
+      "velocity": 69,
+      "domain_count": 48,
+      "articles": [
+        {
+          "title": "COP collapse",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2046710/cop-collapse",
+          "published": "2026-11-24T12:31:23+00:00"
+        },
+        {
+          "title": "Commanders find their groove through the air in walk-off upset of Bengals - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekh2OE5ESWR2OHhSc1NsVHlvYllzZkVSV0FKbUdDeTFhZ3dtS3NOaFdvVkF0dWpqalBZNmJNbkIyZHZicVFyYkZSLVhtWEw0QnEwS2o4VGdoaWhZTmV4YUlhaHRWVGV3cTdrblBPcllrZ1MtOXJXa3VXUlZrR1ZtSnRpSDR4a0FSTWpUNVAyQU1HMzlRTWF2d2xtLUQtRlVCTnlweU9EeEIxV0hsaXJkLUVEVQ?oc=5",
+          "published": "2026-11-24T12:30:04+00:00"
+        },
+        {
+          "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+          "published": "2026-11-24T12:24:27+00:00"
+        },
+        {
+          "title": "У Норвегії розповіли про діалог з Україною щодо потреби \"стабільності в нашому регіоні\"",
+          "domain": "pravda.com.ua",
+          "url": "https://www.pravda.com.ua/news/2026/11/24/8064403/",
+          "published": "2026-11-24T12:15:00+00:00"
+        },
+        {
+          "title": "Perfect employees and managers may not be the perfect match",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-employees.html",
+          "published": "2026-11-24T12:00:01+00:00"
+        },
+        {
+          "title": "Welshmen Donald & Salt demolish Australia as England level series",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T11:57:04+00:00"
+        },
+        {
+          "title": "Down the Rabbit Hole: Decoding the GTA VI craze for normies and non-gamers",
+          "domain": "timesofindia.indiatimes.com",
+          "url": "https://timesofindia.indiatimes.com/world/us/down-the-rabbit-hole-decoding-the-gta-vi-craze-for-normies-and-non-gamers/articleshow/136127890.cms",
+          "published": "2026-11-24T11:45:28+00:00"
+        },
+        {
+          "title": "Jensen Huang vows to be 'a better CEO' as Nvidia employees cheer - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm5qbzYwZWszQjNXSEtYdDNEZUd0a1ZNMTl1a0Z3QmNZQ2hDM3IzT3YtdlByYWRIMnRfWUEtYlhnRlpuSldNYlc1bm5adGdNRmx3NFg4VXNzQWpHU1VBdHRxeWpRUC1KV0h6S00wQkwyZGczSm1iLVcwdlg2a05UN2YzT254NWJJaEFOVmhrQ19Odk9xY0N6Y3lzRHRjZlo0NDJXdmp3WTZNSDQtd2pReDh0OA?oc=5",
+          "published": "2026-11-24T11:36:54+00:00"
+        },
+        {
+          "title": "Democrats’ 2028 Presidential Season Launches With New Debate Plans - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWVQRWRLaFhGQzJXbURPeExmNkRyemxSNm5iTGNBamtWU2ZibzRWaHdTR0YyV0c2Y19uZWhNR0pHQ2p1OW50VTRKOUd5dTVQZ2NBeEhaWHR3Zl9WUENpbXREZmtySlhEMzEyUTRiN28zN19OVjJ3c0JRT2IzM0JyVXE4UC1mam85REVXc0JkeWpYMWtjNEdNU0NoczhjVTQyekdXTXlSOHJxMl9GNDlmSUVvWQ?oc=5",
+          "published": "2026-11-24T11:31:05+00:00"
+        },
+        {
+          "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks - CBS News",
+          "domain": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5",
+          "published": "2026-11-24T11:29:00+00:00"
+        },
+        {
+          "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+          "published": "2026-11-24T11:27:35+00:00"
+        },
+        {
+          "title": "Debates rages over revamp of S Broad Streets - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU2ZWSkJRX2NhT25PSXJMQXYwTzBhcVpJSmlhMWo2TDFNZlBmWlZ0RTM4QkNfcGl0UkpTdTVpLWdsV29KMVFLX3RYT1pVZkhGLXJBTlpvYTQ1UG5TUEpBbDVCLTFFU056YUhvWmhSLUFScVJha3BKOENTT2FSZl92VG9zTERGMGtJc2pab2tjdkUtb3F0enZyZ1dOdUNHZGYyajJiUXdOQXlNRWVzdEZ0X3NaWDJ2ZU5hTVlB?oc=5",
+          "published": "2026-11-24T11:04:33+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.828,
+        "y": 0.384,
+        "r": 0.241
+      }
+    },
+    "us-house-democrats-majority": {
+      "kind": "major",
+      "title": "민주당, 수십 년 만에 미국 하원 최대 다수 확보",
+      "region": "미국",
+      "summary": "제목과 관련 보도들에 따르면, 민주당은 수십 년 만에 미국 하원에서 최대 다수를 확보했다. Associated Press는 별도 분석에서 ‘민주당의 물결’이 가져올 결과를 설명했고, 다른 기사들은 당의 의제와 새 정치 주기와 연결된 인물들을 다뤘다. 또한 일부 의원들의 조사와 윤리 위반 보도도 있었지만, 핵심 사건은 하원에서 민주당의 세력이 강화된 것이다. 이는 향후 입법 전쟁과 의회 권력 균형에 중요하다.",
+      "picture": "그림에는 파란 물결이 가득 찬 회의장을 뒤덮고, 빨간 기둥이 양옆으로 물러나며 투표함이 문처럼 열리고 있다. 이 이미지는 정치적 변화와 선거를 통한 권력 이동을 보여준다.",
+      "mentions": 59,
+      "significance": 83,
+      "velocity": 54,
+      "domain_count": 29,
+      "articles": [
+        {
+          "title": "Постпред РФ сообщил о вирусе политической сегрегации в ОЗХО",
+          "domain": "tass.ru",
+          "url": "https://tass.ru/politika/28349889",
+          "published": "2026-11-24T12:15:41+00:00"
+        },
+        {
+          "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+          "published": "2026-11-24T12:13:53+00:00"
+        },
+        {
+          "title": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
+          "domain": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining",
+          "published": "2026-11-24T11:36:08+00:00"
+        },
+        {
+          "title": "Inside the Democratic wave: Who showed up, who stayed home and who switched sides - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVZ3czY5Q1lpMGYzWDB3eU1NV3VlMEpBZHRqcTFtMzN4dlhDUDJhV2ZTQXdLT2VYdzBOMzdVQXFYbXp6X3hyMEQ2OEs0X2Z1WTJrbnZpVkI1aVNSLUVTeFhycWw0YVUzQ1JOVjd3b0o1S0ZoTzI2RGR4LWxoV0tDT0d6am91YmF3WFZ0S3E5WkV1cTV0cUwyaHZwbEhvaDFPMmdNT3VPa1dxWjltS1hwLXlKWm4taVMxUk5Wbl9MZw?oc=5",
+          "published": "2026-11-24T11:09:55+00:00"
+        },
+        {
+          "title": "House Ethics finds misconduct by three outgoing lawmakers - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUoteXFlYS1YWDNBcWNOX3kyZUVrQkcwNktvUjg3U3dXbWNPR19jN3dZR2VzV3FsU1FlTjJGUFpvTHdvMWRKMkdadzl1RGJCMUFnNVBNMUdNcTFpdGwxck1HcDJidkpGNFhYS2FJNGw5OWFHNGxvbjZkb19YVUVTQzNUWm1CWkR2ZndxOEpn?oc=5",
+          "published": "2026-11-24T08:29:38+00:00"
+        },
+        {
+          "title": "Troy Aikman says rainy conditions benefit Commanders vs Bengals on MNF - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnliWks5N0lkeWN6VnRmdkx1WERUaDEwbUlUejRzanBkMi1fZUhfRFAzVUZ6RXp1cWVjNGFrZTlDYmxxb0VYLXdUb002TnhGY3FTVlJCYVR5QnRGN2FKY2E3cDFMVFpTM2ZteGdIUUdKYUpidzJtcFJyck5WVk5Wa3ZGUEV4QnZkVTBiSlFFdjBSWFpEakZ6YURHMkRJZDAwV1JxX0xXM3NlWE04MUU2Q0huWk5xRm9jWldVckxMaDQyRTZqQ0hSYkJiQXNzMjhOSm1CRlRR?oc=5",
+          "published": "2026-11-24T07:41:15+00:00"
+        },
+        {
+          "title": "Banks to issue stablecoins; digital asset platform operators' stake capped at 20 pct: regulator",
+          "domain": "en.yna.co.kr",
+          "url": "https://en.yna.co.kr/view/AEN20261124005200320",
+          "published": "2026-11-24T06:00:03+00:00"
+        },
+        {
+          "title": "Election présidentielle américaine de 2028 : chez les démocrates, un casting de candidats très riche et une primaire plus ouverte que jamais",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/election-presidentielle-americaine-de-2028-chez-les-democrates-un-casting-tres-riche-pour-un-premier-role_6814712_3210.html",
+          "published": "2026-11-24T05:30:05+00:00"
+        },
+        {
+          "title": "Trump’s intervention on behalf of Jensen Huang gives Democrats another 2028 target - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMU85QnkyODhXZWxwenBBNWVKaElURnNWbDVVd2FtRlQ3N0F1d3A2YXYyLW5zUnJCQzdXZHRreXhDeWpZNTcyT2hVcHlrMHJqVUt2bUUwR2JEdUxUMFk4LWFQenp5TGY0RTJFUXFUN1hPSGtfcTZvZmRGc0MyWkhUTmtzQnh3My04UTJaVVN4dVNSVWtRc0tpaEoxeGd3QnA3UTZ1Wl91SGhfTmxpQVNIVDE2WjRuM2tES284?oc=5",
+          "published": "2026-11-24T05:01:00+00:00"
+        },
+        {
+          "title": "NFL Power Rankings entering Week 12: Is it time to start taking the Giants seriously? - Yahoo Sports",
+          "domain": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjZxdnVfc0swTW9YeEltc3dTS2VZUG5DM0V4dDB0OVpzazJlZjlrMlpHM3dkbnBMOU1JRmpodUdOUlZqMHFhNjAxUnRuWnh4bmxUbEJTTERyclhQM21DQUdHaW5JVVV5a0xjNjVtcjd3dk82WXBlQjZDeDVrVWZESldjMUNaQzJZLVRfcTdhWEVGbXFwSTJ5MUM1MWFKbkdlTzg3LTE0YkViNEg5azhHelQ1bTVQc18zaTY0d3N6WkplU0FiSjdJSzFnM0Iwd2Vs?oc=5",
+          "published": "2026-11-24T04:44:00+00:00"
+        },
+        {
+          "title": "Keystone Law Group, P.C. - Los Angeles Times",
+          "domain": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTlkN19IOHl1bVZLZERuSlViVWItc0pvUlRFZHg4YVdFbENrOE1LTkl6MWtVVFVBNmJESVhaM2xFSlY2WnYzT2VYYWpWeGUyX01GR2VVVG9DeFFYcE5sM1hPS0hUZnZUTElZNlhsdkEyb2JVTEJubmxBNHBtX2pUTUt6WmhxUzFZX0cyT0lXbnpXMDJaMnVMNi1jbVFBS3VUU2RvYk1R?oc=5",
+          "published": "2026-11-24T04:13:31+00:00"
+        },
+        {
+          "title": "Democratic Rep. Jimmy Gomez to resign following House Ethics report that he engaged in sexual misconduct - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTVVjLUZTaENuTDg1QjZXWXVCNzN4MzUwRnJJZ0V4cV92NE5KVWhFNWlFNHFkeXFFcUs4Q2lDcm1qc3BRWlRrdVcwc1psbXJyXy10cEVPcFJEQUJKVnJZcjF0MV9JTld4V0IxMHB6NjRJZVdLQTFQb0tIUFZ4a3FEMEtFcFpqb1BqdUx5dWJYY2djdk5BUFNfbDhMOEpMdUhjYzlj0gGoAUFVX3lxTE1pbWVPbkpyMmFZQTA0V1BDdWladllPcGFLR1pYWEdzZDVmSGZad2xhT3lBVTVoMmpXWkhRQWlveHZJcjdQTzJFZ25hZlBLSnhFRmxpb2ZoQmptamlHRVNKVmpkUWIwQkVzQ054M0FVU3d6UHBFY2R0dWlRR0IyNlBoMVdVc0tWWFRpWkdzNEk2S1UzbS1MSDYwUFF6UzZlQ3VEMEE1eUpFVg?oc=5",
+          "published": "2026-11-24T02:28:05+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.277,
+        "y": 0.474,
+        "r": 0.256
+      }
+    },
+    "pope-diary-devil": {
+      "kind": "major",
+      "title": "프란치스코 교황의 일기가 악마와 지옥에 대한 환시를 드러내다",
+      "region": "세계 / 암호화폐",
+      "summary": "공개된 프란치스코 교황의 일기에는 악마와 ‘지옥의 문’에 대한 그의 환시가 담겨 있다. AFP, BBC, CBS News 보도에 따르면, 교황은 2021~2022년 심각한 영적 위기를 겪었고 악마를 세 차례 만났다고 적었으며, 기록 중 하나는 보도마다 합창단 또는 미사 순간과 관련된 것으로 전해졌다. 책과 기사들은 그가 이 위기를 권력의 유혹과 연결했고, 하느님의 자비에 대한 신뢰로 극복했다고 전한다. 이는 그의 개인적 영적 체험이 드물게 드러난 사례로 의미가 있다.",
+      "picture": "그림에는 일기가 펼쳐지며 어두운 뿔 달린 형상으로 바뀌고, 페이지 사이로 묵주와 금이 간 후광이 스쳐 지나간다. 이는 믿음, 두려움, 영적 시련 사이의 내적 संघर्ष을 형상화한 것이다.",
+      "mentions": 44,
+      "significance": 51,
+      "velocity": 86,
+      "domain_count": 19,
+      "articles": [
+        {
+          "title": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEkxUWFUNFVCOFIxR2k5X2xXZnhXNEJERmRDY2J1ejg0NWlLUV9RNUNhREVudF91V29fb1UzanhkeEtuRHhselFzaTV0NE9hcVp4V0tOZ2NKck5VVWR2dThYazVtQ2Y4Z25BTUhxTlZfb1FOTEw3Z0FDTVo3aGVPeWxhY3B6Z1U4elBvNGVNVmlQY0EyUGEwWUtFZEdnZ3Y3cHh3a3NhemQ?oc=5",
+          "published": "2026-11-24T12:30:04+00:00"
+        },
+        {
+          "title": "'Watching me with eyes of fire': Pope Francis revealed in personal diary having seen devil",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2046776/watching-me-with-eyes-of-fire-pope-francis-revealed-in-personal-diary-having-seen-devil",
+          "published": "2026-11-24T12:19:52+00:00"
+        },
+        {
+          "title": "Pope Francis' diary reveals claims he saw the devil three times",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T11:10:57+00:00"
+        },
+        {
+          "title": "Pope Francis' diary claims he saw the devil three times - BBC",
+          "domain": "bbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FZnFuN0ZUVkMzeE1uZEdJXzZYcFJQZmx2bWFvOGY0amhPUVNxM3R6eXhua2dncHlQUEJXdnJ4bmVGVk1va2drVmd2OUpjWUFFTlJMdDFCSmRiOGs?oc=5",
+          "published": "2026-11-24T11:10:57+00:00"
+        },
+        {
+          "title": "Pope Francis' private diary details a profound spiritual crisis and encounters with the devil - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkhvYWtnaXZOWUpZTlI4VDRBdjVISVFPbkQyQjg4eUxVWkhoemtIcEc0SUE4Nm9uV3F5cGViSnNQc2FxSUNCb1BoSVpRUHYxNlFYM0w2S2psR3dQbTZUWkhTa2NSV0lhX3ZTak9XZUQwX0l0a2VlSjdvX2d4QldFcGpEc2hwZ2ZVZEJzUG9MN1ZNeTlrRFlsSEF1cUM4NklnU1I2b2xGN05STW1iamVhbzJMeUVjUURuWGN0Zkt3?oc=5",
+          "published": "2026-11-24T10:23:00+00:00"
+        },
+        {
+          "title": "« Le Journal spirituel du pape François » dévoile trente-deux années de réflexions du Saint-Père argentin",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/24/le-journal-spirituel-du-pape-francois-devoile-trente-deux-annees-de-reflexions-du-saint-pere-argentin_6814741_6038514.html",
+          "published": "2026-11-24T10:10:54+00:00"
+        },
+        {
+          "title": "Trump made up to $15m after ousted Nvidia boss Jensen Huang reinstated: report - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFdtZDFLcGJVOUFwWHh5UW9FVWJmajZxV05BcXBIbVB0X0dyeWh0SzhHc2V0ZmN2V2ZBYjJBdWR6eGdwTll1blV1NE9mNHZyVUUwNW42TkktQ1NsdkJxVHJLQmY1NzZzbGtfM3lVNzg3NTlXVlpjb2FYdWduZ2h6QkhxTXh0TG80aktzOHNHMDNmTnVsVFVRVjRYU2dnRzBIejQ2dExxQmVnemp1?oc=5",
+          "published": "2026-11-24T09:55:00+00:00"
+        },
+        {
+          "title": "Pope Francis' private diary details a profound spiritual crisis and encounters with the devil - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSF9va0xfUHVJUmdvVlo3WGN1dTN0c0VhTm9MWGhxbG5tVTVvWDctNTYxVGZxQ1luQXpuNWtKQVQtYUxyN2dqWVUxSTZrUjRCSGhTd0N1UWRzdXgxUzdZNzFWZXYzWUYzdHNhS1lxOG5BcFhSaFg0a0V2U2NxNi1QTWNRYlhCeFlEZ0VfOG5xb2JBSUtsdFZCaVB2Z0U3TktMRlJOODNNRUFSeEZzYUNkUy1VTkvSAboBQVVfeXFMTUtoSnR6eXJna2pxSHBwWTR3UWJnbGhqMVpnUVhwdGtTN0hLSzJ1ZGNFbklkNUlZMDY1RVdwdEtya0wzSmJxbmhrZkFXbldDRXF2YVRna2JoSkdKT2NuRVAzcklTeHBSYnZidVR5UUZGbWxjbGtRY3daYWV0aWFOWXF6bzB6cldEMXR1R040Q29mZVBMNXAtUC1xNlBDYjZnYS1HWkRMR1J3cUhsRXRIVnEtelN2UzdvUUhB?oc=5",
+          "published": "2026-11-24T09:32:15+00:00"
+        },
+        {
+          "title": "Pope Francis had visions of devil, \"gates of hell,\" diary reveals",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/pope-francis-devil-gates-of-hell-visions-diary/",
+          "published": "2026-11-24T09:18:41+00:00"
+        },
+        {
+          "title": "Pope Francis battled visions of the devil during a two-year spiritual crisis, diaries reveal - KESQ",
+          "domain": "kesq.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ2toNUNZSXZBV2NkclFNR3cycXNxQ1ZLX2NRZ042WmxzdEJpTDRSSGZzOUl6T1ZyZzJjamQ3QWFscWVNRk40a2RqaEZWdlhUdVdmMjl2N0ZrTlY0WWhTZWFmZGd6NDFteGtsbXBKSjBYS3I2cGxMNEJ2eDhqZUt2M2hGQ0VOWXE3LXMxQ3BzSmI5WVAtd01Md2l1X3lhWm1vcEhMN2c0b2oyUVoySm5VU3Y2akdDbFptUUJFdXBFbWM5RmRBOUtWM1lMQzF4Y2FlUjJWbUtndGRkNFpuQzFTbXlZR2M?oc=5",
+          "published": "2026-11-24T08:12:04+00:00"
+        },
+        {
+          "title": "Pope Francis revealed in personal diary having seen devil - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkpsTzl1c2RzaXdsUW9SRTZZd3dlMVJaYWZ1dmZtMV9aV0tOSDBzNVJtWkVscjduNi1NYUJFN09aQVFxV3ZMQmdMQzhuRmhVbWhmWkJUYlFLUUtGM1FwLUlTV09yT2VqQ01BYmU1QlB1WjF1czhzc3NDNGJuSGJBUlZpQQ?oc=5",
+          "published": "2026-11-24T08:03:02+00:00"
+        },
+        {
+          "title": "‘The Private Diary of Pope Francis,’ by Argentine Cardinal Fernandez: The Pope revealed in personal diary having seen devil three times",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/the-private-diary-of-pope-francis-by-argentine-cardinal-fernandez-the-pope-revealed-in-personal-diary-having-seen-devil-three-times/article71737371.ece",
+          "published": "2026-11-24T07:47:50+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.487,
+        "y": 0.379,
+        "r": 0.221
+      }
+    },
+    "vietnam-hanoi-blast": {
+      "kind": "major",
+      "title": "하노이 폭발로 6명 사망, 10명 추가 부상",
+      "region": "아시아",
+      "summary": "하노이의 뜨거운 음식점 폭발로, 여러 매체에 따르면 6명이 숨지고 최소 10명이 다쳤다. Reuters, AP, Al Jazeera 등은 이번 사고가 화요일 베트남 수도 동다 지역에서 발생했으며, 원인으로 가스 누출이 거론된다고 전했다. 보도들은 또한 구조 작업과 잔해 아래 매몰자 가능성도 언급했다. 희생자 수와 추가 피해 가능성 때문에 이 사건은 중요하다.",
+      "picture": "그림에는 깨진 그릇에서 연기가 치솟고, 쓰러진 의자들과 부서진 문이 보인다. 이는 평범한 장소에서 벌어진 갑작스러운 폭발과 파괴를 상징한다.",
+      "mentions": 19,
+      "significance": 42,
+      "velocity": 86,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/news/international/vietnam-blast-six-killed-dozens-injured-in-a-hot-pot-eatery-blast-in-hanoi/article71738306.ece",
+          "published": "2026-11-24T11:58:47+00:00"
+        },
+        {
+          "title": "Suspected gas explosion at Vietnamese hotpot restaurant kills 6",
+          "domain": "scmp.com",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375639/suspected-gas-explosion-vietnamese-hotpot-restaurant-kills-6",
+          "published": "2026-11-24T11:32:25+00:00"
+        },
+        {
+          "title": "Vietnam restaurant blast kills at least six",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+          "published": "2026-11-24T11:17:20+00:00"
+        },
+        {
+          "title": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVEzelRwd2pzaWFoRmhiVTIwb2JRem9VRFgyTkFlUVRNOHh1bVJLRnNoTm90SnhscmpVcW56STVUaTBZS3ZsSUJZZUpDSTBidHp1Wl9DbEt4WlhuZjV1RFZGUnRkTFAwMVpEcGdJZDZXYkNncGFwZUp6SEpGRjZ1bXN2aHJmNTZaazJRdDhPdHFZUHltbXVySjIxMTlocDVSc1FVNmEyNXZNbnhGLTN5Zlhwc0RRUQ?oc=5",
+          "published": "2026-11-24T10:34:00+00:00"
+        },
+        {
+          "title": "Explosion kills 6, injures 10 in Vietnam capital Hanoi - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5",
+          "published": "2026-11-24T07:52:00+00:00"
+        },
+        {
+          "title": "Deadly fire at confectionery factory in Indonesia kills 24 as rescuers search for dozens still missing - Sky News",
+          "domain": "news.sky.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRktQNkE1djZDVWRLVDdJb0Y4ZGM4VEFDTjAyZDZ4MDlCQ01vcE9ISmhnNVMwWU1fYy03a3ZBNi1PVFVrdEJTLTZqNy1tbXc3STZZYWxfbWw5RWVZel9tVjg0M010UFNNS3IzeVNON2VIN21PeWJnbVV6THhLaGFVTDZtZUM2aWV4R2JNWVBBaDE3bUNPTWVmcVlhelJxalNmNVRtdWp1VGU5dVF4dWJzRlJUb2ZDcXRVSmhfRTQ4dUVhdUJGWGVUcWlNb0NxLXI1eV9paw?oc=5",
+          "published": "2026-11-23T18:13:17+00:00"
+        },
+        {
+          "title": "A blast at a hot pot eatery in Vietnam’s capital Hanoi kills 6 and injures more than a dozen - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE9ZWEhqNHBLUzMzYXVpOGd4S1N0cVlCWUFPV2Yyblh2dE11Q2VVUjIwZEFfWUxyLUIzWElhdFRDNlZmdldqVWU0NG5WU3RfeFQyQTU3YnVsQlR6OC1TeUZvWUYzbEU0NnhNZ2tNc3h6TWJBRFdpZ2xOamY0anBaVWNhSnh2SlVvX3V2VmJ0alRocEFOS3VPM0tHZUttNUJ4TTRmdXBoZ21nMVdfTkE?oc=5",
+          "published": "2026-11-24T10:12:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.821,
+        "r": 0.188
+      }
+    },
+    "sanofi-insmed-deal": {
+      "kind": "major",
+      "title": "사노피, 410억 달러에 인스메드를 인수하며 듀피젠트 이후 성장에 베팅",
+      "region": "경제",
+      "summary": "사노피는 미국 바이오제약사 인스메드를 현금 410억 달러에 인수하기로 합의했다. Reuters와 FT는 이번 거래가 프랑스 기업에 두 개의 상업화된 의약품을 제공하고, 특허 만료 위기와 향후 수익 감소 속에서 듀피젠트 외의 성장원을 찾는 데 도움이 된다고 전했다. Bloomberg, CNBC, WSJ도 이 거래를 최근 몇 년 사이 제약업계 최대급 인수 중 하나로 꼽았다. 이는 제약 시장과 사노피의 전략에 중요하다.",
+      "picture": "그림에는 약병이 동전 더미와 교환되고, 뒤편에는 거대한 ‘특허 절벽’이 드리워져 있다. 이는 미래 손실을 피하려는 대형 인수를 뜻한다.",
+      "mentions": 17,
+      "significance": 70,
+      "velocity": 86,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Sanofi to buy US biopharma group Insmed for $41 bn in cash - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLTEtaU1dvcVN1eXFjMVZ2OVBRLWZoNDI3bUEtVVJOaHpjblNDbjBOcFZVQno0Ni0zT0dEbnh4VVhhelJoczRPUVBmSHZ3SmtrWkw1a0lxRHNVUTM2SmVEVFRYN3Z2V19LYllibVpzYXBSZm11MG9PRGJB?oc=5",
+          "published": "2026-11-24T11:15:48+00:00"
+        },
+        {
+          "title": "Sanofi strikes $41bn deal as patent cliff looms",
+          "domain": "ft.com",
+          "url": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6=1",
+          "published": "2026-11-24T11:05:33+00:00"
+        },
+        {
+          "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mSVdLNmxnYXl4a2VvR1BfV202ZXZBckFZWVI5WWtGNkFxQ3d0NDRLd0JNdjJUMWJQVzV4NVNGVWNhZ0I2Rml2NWZXTlNFcDhfaE9kUnVpZkxWWEh1RDk5YV9fTWhqcUZyUzVjLWo5ZnlKN0pkM3Rr0gF8QVVfeXFMT2ZKcnhlaEFlTUtDQ3NnYnlrd1g3d3dZTms3YnM4Yk40ZlJ1eG10N3MzSFZiVUFCQ3lkQUtSYzBNTUx0dks4SkF6azhjaVFpb3p2UTFxYnV4d1RNZFJDZ2hxV1hOTHlSMHNPeHNBQTEyVnBsRnpKRVdxTE1wZA?oc=5",
+          "published": "2026-11-24T09:59:10+00:00"
+        },
+        {
+          "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
+          "published": "2026-11-24T09:39:59+00:00"
+        },
+        {
+          "title": "Sanofi's $41 billion Insmed bet charts life beyond Dupixent - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWdIeVloUTlfMmVFX2VlV3NycWRzei00N3V1MnNHVlhHbVdySVlsb1BjSmxfTFA5VUo2Z1RfM044alZxYzVaUVNiZmtqUjhMVnBvN0NiMWhHVWVWempLTlhmaGEtQUNHcDIwTG1XaUpnVEJtTGVuX25ETGxocWlvUEdIMExSQVlFS1VnNUJwMDdPbGh2?oc=5",
+          "published": "2026-11-24T06:36:00+00:00"
+        },
+        {
+          "title": "Opinion | Government Gets a Tax Windfall From Anthropic - WSJ",
+          "domain": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaGd6QWJjNFRlSFhvaGQwTURBT2ZjNjQxUHpmLUhiUmtWQzU5cDlrZTNyZ25NTWc4RkpFZXB5ODcweVVGb1RfSlFYUlFDNmNGU0I3X0ppSHVpUThIRjhPNDJjM0tLSEhxLWFUdnQ1R2hWbFY4Uy1uaFI3VlZscC1JdlZib2RTQ0ozanc?oc=5",
+          "published": "2026-11-23T17:31:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.714,
+        "r": 0.202
+      }
+    },
+    "apple-future-products": {
+      "kind": "major",
+      "title": "애플, 새로운 제품과 결제·서비스 생태계 확장을 준비",
+      "region": "세계 / 암호화폐",
+      "summary": "이번 묶음은 애플이 지갑 기능과 향후 제품을 포함한 서비스·기기 생태계를 계속 확장하고 있다고 전한다. 눈에 띄는 보도로는 Apple Wallet Driver’s License Feature가 미국 3개 주에서 추가로 확대된 것과, Ted Lasso의 Apple TV+ 후속 소식, 그리고 MacRumors에서 다뤄진 접이식 아이폰 논의가 있다. 기사들에 새 기기 발표가 직접 담기지는 않았지만, 전체 흐름은 애플의 서비스와 제품군이 넓어지고 있음을 보여준다. 이는 회사 생태계의 점진적 업그레이드의 일부로 중요하다.",
+      "picture": "그림에는 접히는 전화기가 태그와 화면, 지갑으로 변하고 애플 로고가 열쇠로 바뀐다. 이는 새로운 제품과 서비스가 하나의 접근 체계로 연결된다는 뜻이다.",
+      "mentions": 15,
+      "significance": 44,
+      "velocity": 69,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable - MacRumors Forums",
+          "domain": "forums.macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGVlUFpGdUZYa3hKMjBHT2g1NVZVd3JCdVhGZVBFRjhkcmhTVTA2MHc5Nzg0MEJlQTRvdzdfWGxKT1huMHNjc3BiNGdCazU3SGVmRWZ0VXZtQ1hIUG1kMFBhamh5dm9iV2VZaFVHMWFQRkdvOGVuX3ZyYTdSRnFsOXRua1BBX2QzNzM0TjhvakhPRDU3REFLYVFEclZsTW4xYnVTVUV3?oc=5",
+          "published": "2026-11-24T12:18:03+00:00"
+        },
+        {
+          "title": "iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable - MacRumors",
+          "domain": "macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNEZzVHlnNVY3MmtxUmd6SUZHZ1hJOFFzN0ZibmtEc3BCbFBXVG5xbE9tZXJ4bGRubDVDQVluQjFoVlBTVWJzRnpOR2d3S011MWw1dUlnOHdMUHpaT0ktNkp0UTJOOVVCTEJUZTZIUWN1YWlz?oc=5",
+          "published": "2026-11-24T12:18:02+00:00"
+        },
+        {
+          "title": "Jessica Alba ordered by court to pay ex-husband Cash Warren whopping sum as part of their divorce - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMGpuN3ZZLTV0QWJzeUV1bHoyV0k2RWJhUE9pZDVTTV85cWNhRWctU0ZPOTJtMUNyWDAtSElTWHpVeVJVZ0FWb2ppTkdnaUNNZTJpQzZIRi1JTlUtYk91VFJfeTVXRDNTeG5SZkNhN3Y0ck9oem9rNHFTMU5QV3ZGdTExR0RxdVU2MUZPZWNRSjNHTU1DS00yekFDdHBTbU5Udm9Ub0x4UURRN01RcngtLVVQMlZiSERkUFRCcE5jbFRidXBQSVRKekRSWFFaVWNkb21lNGczd211dkFP?oc=5",
+          "published": "2026-11-24T00:50:00+00:00"
+        },
+        {
+          "title": "Father remembers Detroit mom killed outside Chicago hookah lounge - FOX 32 Chicago",
+          "domain": "fox32chicago.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02dmFXZjdYSmZvcGJaaUJSdzJnZElobHhFMTE3YlVZcG1pRzFlRGhraW8tSlBXeTA2UF9zVnUzSDBlX3NsbmJZS2gtc3JkTXhuVVhMeXpGOHlUUXRwZUFWc0xSWWw5LW4zREJF0gFrQVVfeXFMTTZ2YVdmN1hKZm9wYlppQlJ3MmdkSWhseEUxMTdiVVlwbWlHMWVEaGtpby1KUFd5MDZQX3NWdTNIMGVfc2xuYllLaC1zcmRNeG5VWEx5ekY4eVRRdHBlQVZzTFJZbDktbjNEQkU?oc=5",
+          "published": "2026-11-23T23:16:10+00:00"
+        },
+        {
+          "title": "See inside Miley Cyrus and Maxx Morando’s magical wedding: A-list arrivals and more - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJBUTJRNVpWeWdoQXVUMmxLbE9KTzFJWWhYcXc1Ri1DcEVtR2dsclNKbDh1OXJRZGRjUFVQX1JKalZWYngxaHFsRURlSTM5c0h2RGhua1JRcXZGZDFtYWd2WjlnbGVZdm9YY1dHX2puX3RLNjlENXJJSi0zN3Bibk1UQUxhaWZ0ekJvaVR0SUw4UHFxWVVSTHFtb055VlZUSW41Q3BGYVptYkFw?oc=5",
+          "published": "2026-11-23T21:48:34+00:00"
+        },
+        {
+          "title": "Apple Announces 'Ted Lasso' Renewed for Fifth Season - MacRumors",
+          "domain": "macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iOTZkUjNZXzlTNlUyaFkyRVc4My1yNnlnem95MXdrc1RVYUZueFkyaXIxV1JEcDByaDh4MGFOc2VHSmFkdG9VR21oX3VpYlpIUzZyZlNBT2lscElCdDBGM1Y0RDJfVWM1VGd3RjlJZFNOYlFQY1E?oc=5",
+          "published": "2026-11-23T20:44:34+00:00"
+        },
+        {
+          "title": "Grab an AirTag 2 for Just $18 at Best Buy and Amazon - MacRumors",
+          "domain": "macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EQktPQzRsbG05WkVkVVpDT0lKeTdQajA5bEtpUTFmY2NJSVFUcFdpb05pU28tbzZMSXBreDBlRGtQZXhRTVFvN2t0WUpjR1o0TXNGNGRCSFczTmNHQjJqRVJVa0xqNDdx?oc=5",
+          "published": "2026-11-23T19:51:02+00:00"
+        },
+        {
+          "title": "Apple Bringing Back (PRODUCT)RED With Red HomePod Mini 2 and AirPods Max 2 - MacRumors",
+          "domain": "macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZTlpKM3A2WmgxTWJoRjRtYjVrWkJtX3g1bTNXUFhaMEJMb1RSZTdCM3VnaTdPQ01mNlBsZGw1NndpdDItejJ5SlNOT1pNSmlFM3RiWTJnUGliSXg1OHBCSVc5S0wtRmM5TUZYQVhqOGNzRVVQYUtPM0NxSm42M0k?oc=5",
+          "published": "2026-11-23T19:27:42+00:00"
+        },
+        {
+          "title": "Apple Wallet Driver's License Feature Coming to Three More U.S. States - MacRumors",
+          "domain": "macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0tadGM4Y2ZhU0xiTTJXYzI5MDhjaE5SZTU4NkRSNlJRVEFTUkFxU1k4WjFiQ1hOQ18wR0hsdDgydGZ1ZmRscHYyRUZxTXlneVhfQVFFbTUwQl9yQlZMTGIyblBwcVl2YmxTVTBUV3h3UnlmZlFla09OaGFHYl9FYTVnU1lDb3RpVHc?oc=5",
+          "published": "2026-11-23T16:35:17+00:00"
+        },
+        {
+          "title": "Is buying back the MacBook Pro 16\" Mini LED the right choice? - MacRumors Forums",
+          "domain": "forums.macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWRsQk1VM18yVWRZNmZtaWEzWl9lakZhVWRVVVJIaTBRQnZiMjNZVklKQnIwMTI4Z0puOGdTdjBSVEYyTHNabWh6VHZZempNOHpwSE04YU8wTTF0UXdlZmxpdUNEZkRkWjZXbzF2bGJqMUJHUlppMjJjR3g5SzZEMzB5NmotUnVfckMxcFFCMjI1cW8tRGVEVVNDVERVYkVwWGRBSHJpRk8?oc=5",
+          "published": "2026-11-23T15:52:29+00:00"
+        },
+        {
+          "title": "M5 MacBook Air Now Starts at $989.10 for Black Friday, Get Up to $310 Off - MacRumors",
+          "domain": "macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQT0cwa1dUTUdmbTg1NC1oMFRxVnhuVWkwS0VrY3BEWWdmdHMzR3Z3ZE96UUk3Mm0xR1VOSEFxc0kwWk9Bdm5NSUFIWmljdk9LT3FXUW5lX25vNW9PRVZoR29FbnlIclMtSDNlcXhOVkg?oc=5",
+          "published": "2026-11-23T15:51:13+00:00"
+        },
+        {
+          "title": "Hailee Steinfeld confirms Marvel return in ‘Avengers: Doomsday’ - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWtNeVlIWVBEX1pMT1JzY3U2eEUyd1hONFZsZm4tZjFwRXY2X3lnNjdIWHdMMDVCU1ViWUFCMzNOck1QdXJ6d0QwSmR1UmFoNUlMdmJ6Q3FPU01HdFJPUk44bDV5a0FSSWpOb1VKZXJMUEtxX2JWbzNiM0hnOXJZLXJiMmFqUk1hVFhVRnV4MUxvczcwQ0RUZFVVai1RNVl2N05mWDdpR19uUQ?oc=5",
+          "published": "2026-11-23T15:44:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.25,
+        "y": 0.286,
+        "r": 0.151
+      }
+    },
+    "oilfields-kurdish-iraq": {
+      "kind": "major",
+      "title": "이라크, 쿠르드 자치 지역의 유전 통제 강화",
+      "region": "중동",
+      "summary": "이라크 총리는 쿠르드 통제 지역의 유전을 관리하라고 관련 부처에 지시했다. Reuters는 유전 관리 이관만을 전했지만, Al Jazeera는 석유 밀수 조사 이후 쿠르디스탄의 모든 국경 검문소도 장악 대상이라고 덧붙였다. Arab News는 관리 권한이 국경 관련 부서로 넘어가야 한다고 보도했다. 이는 자원과 국경 통제를 둘러싼 바그다드와 쿠르드 지역의 갈등에서 중요한 조치다.",
+      "picture": "그림에는 갈라진 산에서 중앙의 유전 밸브를 두 손이 서로 끌어당기고, 옆에는 닫힌 문이 보인다. 이는 석유와 영토 통제를 둘러싼 싸움을 의미한다.",
+      "mentions": 12,
+      "significance": 64,
+      "velocity": 86,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
+          "published": "2026-11-24T11:38:53+00:00"
+        },
+        {
+          "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+          "published": "2026-11-24T11:19:04+00:00"
+        },
+        {
+          "title": "Iraqi PM orders border ports authority to manage all crossings in Kurdistan region - Arab News",
+          "domain": "arabnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNajZLdDNEWUNSM09jMXZGa2luaG0wenhFYldGTjFBVFlnbFRQaXg1RXVVTzl3U0lCTnFZczY0RFM3bkRlUHN1YjVGamdRMmFoWmdhNkN3U1NKWUVDb0tzT09IQ1haYlFxWXJQTFRSVE1LalpNbzlzVVNRZnFrNEdMVUZTQnZabHA0UU4yT2xfUy1YaUhkbVZMWTllLUtSLWh3TUQ5WkdvUnNrVHRfRHU3OHJ3S3V6Xy1TWGpPT21Zc0pIV3J3ZlE?oc=5",
+          "published": "2026-11-24T08:15:07+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.338,
+        "y": 0.636,
+        "r": 0.221
+      }
+    },
+    "eu-hybrid-import-limits": {
+      "kind": "major",
+      "title": "EU, 중국 및 기타 국가산 하이브리드차 수입 제한",
+      "region": "경제",
+      "summary": "유럽연합이 중국과 다른 나라에서 들어오는 무관세 하이브리드차 수입을 제한하기로 했다. Reuters와 The Guardian은 다음 달부터 영국, 일본, 튀르키예산 차량에도 쿼터가 적용된다고 전했다. 이번 조치는 EU 시장으로 들어오는 하이브리드차 흐름을 조절하려는 것이며 여러 공급국에 동시에 영향을 미친다. 이는 자동차 산업과 역내외 교역에 중요하다.",
+      "picture": "그림에는 하이브리드 차량이 두 개의 관세 장벽 사이에 끼어 있고, 공장 표식과 컨테이너가 양쪽으로 기울어져 있다. 이는 무역 압박과 공급 제한을 의미한다.",
+      "mentions": 12,
+      "significance": 55,
+      "velocity": 86,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "EU to impose cap on Chinese hybrid EV imports next month",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+          "published": "2026-11-24T10:59:40+00:00"
+        },
+        {
+          "title": "EU sets limits on hybrid vehicle imports from China and other countries - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckRyU2g2M08tN1IyMGlVTkhPcnYxVkpQRjR6Ymw3ck5sWW03ZVpEcmxsT1E5YTczaWZvRS1Ea09HWVB5cTFFMEI3TXZQOFlGaFpVd0ZRa0NmV2w5T2otX1NpSzFrT0xRQ3hLQmEzdzA4dERMbm8wazRjbHZXY2t0N1VkcTAwNHc4X3R3ZTlndFE4NHBrRW1qV1RNa1J6RmVaMGJZQmhaWmVVNXc?oc=5",
+          "published": "2026-11-24T09:30:10+00:00"
+        },
+        {
+          "title": "Automobile : les ventes de voitures neuves dans l’UE augmentent, tirées par les véhicules électriques",
+          "domain": "lemonde.fr",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/automobile-les-ventes-de-voitures-neuves-dans-l-ue-augmentent-tirees-par-les-vehicules-electriques_6814715_3234.html",
+          "published": "2026-11-24T06:52:39+00:00"
+        },
+        {
+          "title": "Battery EV surge continues to push Europe car sales in October - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmxGdmpXV1NCTXhJejE0UXpFckk2X2VYMXk4RldUa3RwS21SRExfZzRMZ19lMGhuTmF1OVhEN3gxeEloenhKUnV4Y2VTbHF0S1Z4U1d2elllM21OUzdZUEhCQlNIV3lUZDNHbE9ET0Y3OWd0RWt1cnA0TDBNMmZNOWFjN0FHcWZmZnMxcWhvOVBCa3U0NmJCSHhHYnBOU0pxMHFINExqZw?oc=5",
+          "published": "2026-11-24T05:02:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.893,
+        "r": 0.188
+      }
+    },
+    "xiaomi-earnings-drop": {
+      "kind": "major",
+      "title": "전기차 판매 부진에 샤오미 이익 급감",
+      "region": "아시아",
+      "summary": "샤오미가 분기 이익의 급격한 감소를 발표했다. Reuters는 전기차 판매 감소 속에서 3분기 이익이 57% 줄었다고 전했다. 보도에는 추가 세부 내용이 많지 않지만, 원인은 제목과 요약에서 직접 제시된다. 이는 회사의 새로운 EV 사업 부문의 약세를 보여주는 중요한 신호다.",
+      "picture": "그림에는 휴대전화 모양의 배터리가 정지된 전기차로 방전되고, 옆의 동전 더미는 줄어들고 있다. 이는 판매 부진이 이익에 타격을 주는 모습을 보여준다.",
+      "mentions": 6,
+      "significance": 36,
+      "velocity": 86,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Xiaomi third-quarter profit falls 57% as EV sales decline - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5",
+          "published": "2026-11-24T10:30:16+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.604,
+        "y": 0.512,
+        "r": 0.156
+      }
+    },
+    "west-africa-gold-refining": {
+      "kind": "major",
+      "title": "서아프리카, 자체 금 정련 확대하며 설비 능력 급증",
+      "region": "아프리카",
+      "summary": "Reuters는 서아프리카에서 자체 금 정련이 빠르게 늘고 있으며, 그 결과 설비 능력이 급증하고 있다고 전했다. 기사에 따르면 지역 국가들은 원광을 수출하는 대신 자국 내에서 더 많은 금을 가공하려는 움직임을 보이고 있다. 이는 원자재 시장과 지역 산업 정책에 중요하다. 이번 묶음에서는 이 내용이 개관 기사 한 편으로만 제시된다.",
+      "picture": "그림에는 금의 강이 새 용광로로 흘러가고, 작은 망치들이 정련소 벽을 세우고 있다. 이는 자체 가공의 시작과 산업 기반 확대를 뜻한다.",
+      "mentions": 6,
+      "significance": 34,
+      "velocity": 56,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "West Africa's rush to refine its own gold unleashes flood of capacity - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGNqT2ZGcU9hQW1ldS1mb09xYjNjMVFqSkVieWxYQzk3bUVsbHJWTjhvYnZrcXduOVZydHI4ZlNodXdLWDVQMVFKMWMzaGUzTTR3Qm1mY0hJMlY4bVFZV2xNVklIYVZsRXNsZUN3cnhELXk5eFg0V1JNR09ETWgzRGVLUkNfZDF4aWF5Yk1KZUJiSnZ6Nm9IUlU3b0x4aG1ZT01wY0xfdm5Gd3JQN0x6Tg?oc=5",
+          "published": "2026-11-24T06:03:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.786,
+        "r": 0.151
+      }
+    },
+    "nvidia-reinstates-jensen-huang-ceo": {
+      "kind": "progress",
+      "title": "엔비디아, 젠슨 황을 CEO로 복귀시키자 주가가 급등",
+      "region": "기술",
+      "summary": "엔비디아는 이사회의 결정에 따라 젠슨 황을 CEO로 복귀시켰고, 시장은 이에 주가 급등으로 반응했다. CNBC, Reuters, AP 등은 트럼프가 자신의 말로는 이사회를 ‘설득했다’고 주장했으며, 백악관과 민주당 측에서 정치적 반향이 일어났다고 보도했다. 엔비디아 주가는 이후 30% 넘게 뛰었다고 전해졌다. 이 사건은 기술 시장뿐 아니라 기업 의사결정에 대한 정치적 개입 논쟁에도 중요하다.",
+      "picture": "그림에는 왕관을 쓴 AI 칩이 주가 그래프를 트로피처럼 들어 올리고 있다. 이는 리더의 복귀와 그 결정에 대한 시장의 거센 반응을 상징한다.",
+      "mentions": 100,
+      "significance": 96,
+      "velocity": 60,
+      "domain_count": 107,
+      "articles": [
+        {
+          "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable' - Ideastream",
+          "domain": "ideastream.org",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2dnYk5mTUg3UW9IeThZQkRCZTEyLU9icjVFLU85aktpWVp6MDRjT2hJbmlwakJXRDE3TDlZb1FDb3dLQ3BVU0hWT0NBaDdYQnktSTNyX3RuWnBOdHJMcGZCZnBCWnMwZktCUjUxZ2FtZzQxTzFlUGd6ak9KQl9HeFBpcURlQVNMQ1VNN3o5TWdadmJucTVLUW0xcFhad3ViRFJpc0JHeXNIQQ?oc=5",
+          "published": "2026-11-24T10:00:00+00:00"
+        },
+        {
+          "title": "German minister 'shocked' by Trump's intervention on Nvidia - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckxlY3A0OWdwSmZNdVJYX2RTblUzN1NjcXJGUXoyQnBHUXlMdlBoNUNMeTVUZVB2cnZYQUFnYll3ZnFzSmo0VHJoTm1HM0VpUmx3WFhtVF9wbmFIclhtZG9pdzBXWVFtd2pZREIwdG5EWW90cU1TbEppYzFZNFEtMFNmYzVFZnpfSzVia3VIMjhWNzFDNVpFQWljRQ?oc=5",
+          "published": "2026-11-24T09:50:19+00:00"
+        },
+        {
+          "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal - WRAL",
+          "domain": "wral.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG1wVVNSU0RVZHRSQUkwcmROQVVSMjItVkZsWVo5VENkekN0MEF3cERZc2Rta21xcGlGYlpwOUd2cWpiTXJUTkVENUhRYUtTNFNvTjhlbnFTQlZvZ0RwTG1ILUdLd2VKSWN2cHBxcDE1QXZoWnV3RzdSWjRlSmExb2ZTWjBUSFZFa05iS2Q3RmNLTjY4ejlWQjhfVTd2R29fbmZQS0VRblotd1liRzJuRkVOeWdEczFG?oc=5",
+          "published": "2026-11-24T08:59:16+00:00"
+        },
+        {
+          "title": "What Jensen Huang's return teaches China's Xi about Trump",
+          "domain": "bbc.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T07:26:27+00:00"
+        },
+        {
+          "title": "Nvidia reinstates Jensen Huang after Trump speaks ‘directly’ to board - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5",
+          "published": "2026-11-24T06:06:12+00:00"
+        },
+        {
+          "title": "Nvidia shares soar more than 30% after Huang reinstated as CEO - KESQ",
+          "domain": "kesq.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFYwYVdxaVF2OERwSHZYNWM4VWV2dEY5Ukhvcm96NWg1TWU0Yi0xdllyR0tSSlBkdTZVUXB2YW5tV1FoampNaXFadUtJbDEwSkJLTHZ1dEw1YXNDeXJINFlubDdFUkpGMDlWN0ZzNWFvTGluamlNdHNhZUJaMFpKbE92alFIUXJUdmJsOHVYUzgxMEhrZFdOYW5WZEtJbWx0a2VIRU5GSlo3bTZfanZjamVHeEhJZDJmY1E?oc=5",
+          "published": "2026-11-24T05:13:26+00:00"
+        },
+        {
+          "title": "Nvidia’s comeback bet: Why Jensen Huang’s return calmed markets, for now - WPRI.com",
+          "domain": "wpri.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXJFS3lJUWtsVHI5aDl6a1ZIMTQ2OUlEMVB6MFB4bENzVVZlOGNKcFhDRnlhRnp1SERIN2ZSWkdEb2l0RlVFQzB0MFBsTFB5azlZbG5sWTdvVU5IbS1oNEJRZElyWmVmN05SdUtzdWFsU2Vrdk5DOUJSd3pXdXJUYnFTbDVUbjRBRFhIellnSWlEcDlMemdyVmdHeU5SVUxselcxb0xVMXd3bXJJQXIxaNIBtgFBVV95cUxOTWxUZkZYWGptVlJlZHNVSHFOWmxjZmVhcjdsOUlad3NrYVh4U0lfMzJvdXhDNUpSQzZWOVAxcmRYWUthN0VkbVVOSFl6QVVGUXQ1aDRTYkZzcnhpaXpnR1ZjYjBPcFplQkFTOTBNQzVyaUFjaVZIazRYU0V2OGNzTUFLT2ZFSkltZnBYQ3BPc2xMRmVyOFdjakxJeWJHblUyUEpaQXI5ZEYyb0YxdFdBUmI0RGpuZw?oc=5",
+          "published": "2026-11-24T05:01:06+00:00"
+        },
+        {
+          "title": "Nvidia stock surges more than 30% after CEO reinstatement - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXVnTEI2V3lrNHRjbTQteHAyQW81ZWZNcV8yNWcxQzRjSy1hMjctM1FGNkllZlZnbmQ3TWRYaGdIdU5COEFWdFNUeDFkb2xRWTJhU3JHcmgyVTFGWXRlOUtkTERaSTg4Wktud3Uwc3VpMXFhMDJJTWdzVHA5U3Q4WDNmelI0cFN0Rk1mUjAwMEo3YVh4VnVwV2JNT1Zsd1RRbDZKY09NWjh4OGc5eV9BVU9NWk40S1hhVDQwWVM1aHJnemV5U1lHdTN4cw?oc=5",
+          "published": "2026-11-24T04:18:00+00:00"
+        },
+        {
+          "title": "Penn State Wrestling Has an Unexpected Lineup Dilemma - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMzJ5aFNUWDZMWmYzcFB3em5hWE1CQWp4d0hIQTRzNDBwWGtGUzdrMUwyNWJiUnppNUFIZTBIeDlPRlFTam42WE1Qd042RW5MNDM0b19qUlJjbThZYkc5UXYzR0Y0VGd1Y0pic2hYa2o1V2JrTnVVNmJyWmRRQm0xWjhqQkk2emxfUkdxTkkwYXFxc0o4aDdSeU9tcnNCZk5NN3lBTE9LbGJwSEpzemY4MzZ3VzlPRS1WMEtodVdpb3lRNmhDTmhWQlUzNXJiWXR1a1FiWTljNmJBVEgwRW1XOHQzcDJZdXgxWlZ3cEctUml0YWtHTmZGaVE3eW9nakNxSUl0N05Gc3QxWWVhUUpB?oc=5",
+          "published": "2026-11-24T03:52:00+00:00"
+        },
+        {
+          "title": "Jensen Huang returns as Nvidia CEO after board reversal - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHRRY3dsR0d5MDRIV2I0blc4cDZXeEpCaUp4R3p4eXFMdHpXcXlzNWdnYTUwRFZiNHgzdXMyc0g4SFJadTdnVG9CRjV3NU9pTDFwYjZkZGR0dUdrR3dJdmRjYTROOVA1Z2FGbUZzazBHczNjMFpaaHkzYk5SM01od1JKQk5vY2c4WXNwal9FWjdPaDNPdU9sUnpMTmVKWlk?oc=5",
+          "published": "2026-11-24T02:20:00+00:00"
+        },
+        {
+          "title": "It wasn’t just Trump: Vance also ‘personally’ pushed for Nvidia to reinstall Jensen Huang - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXdWWVFWb28xblNVcDRhYnJZUXU4NDZsVHdrbDgwTG13LUxraEREUjRVSGdZeVkzalAwcUE0bWNKMXpaSmVnUG9CU2IxUVFQdWdrRU9QZFF6ZFNfRmpweGI4cThYaEp3NVNCVGRULUNFOWt0MDB2NURmN0JiclJUMUlSNE0tc1pxR1pRNTBwQ3M4TUdoS1BKSW1VZ3ZJMEJheVAyd2FZUDBjN3N6ZVJF?oc=5",
+          "published": "2026-11-24T01:56:00+00:00"
+        },
+        {
+          "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5",
+          "published": "2026-11-24T01:05:13+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.479,
+        "y": 0.06,
+        "r": 0.156
+      }
+    },
+    "pakistani-astronaut-china-space-station": {
+      "kind": "progress",
+      "title": "중국, 자국 우주정거장에 첫 파키스탄 우주인을 포함한 새 임무 편성 발표",
+      "region": "우주",
+      "summary": "중국은 새 션저우-24 임무 명단을 발표하며 파키스탄 우주인 무함마드 지샨 알리를 포함시켰다. Reuters, AP, AFP 등은 그가 중국 우주정거장 톈궁에서 첫 외국인 우주인이 될 것이며 발사는 며칠 내로 예상된다고 전했다. 보도들은 알리가 약 일주일간 정거장에 머물며 중국 승무원과 함께 실험을 수행할 것이라고 덧붙였다. 이는 중국과 파키스탄의 우주 협력에서 중요한 진전이다.",
+      "picture": "그림에는 파키스탄 국기를 든 우주인이 궤도정거장 모듈 옆에 서 있다. 이는 역사적 비행과 중국 프로그램에 대한 국제적 참여를 뜻한다.",
+      "mentions": 51,
+      "significance": 88,
+      "velocity": 76,
+      "domain_count": 23,
+      "articles": [
+        {
+          "title": "'Hopes of 250 million' for Pakistani on China space mission - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KWEN5QWp3V2pqN3g3WWZGbVUtTm9lUXVmdkpLUEx5cG0yRVlLZGxmalRQODhtWXdEejZnaUtqaE1UVWdBTy1mdDRXcEhlWDZQVGREOWUyOGVWUXF4VlZ3ZmlPS0NEVC16VEFWZ0piekR1QUJtVC1VZzdB?oc=5",
+          "published": "2026-11-24T10:03:29+00:00"
+        },
+        {
+          "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
+          "domain": "phys.org",
+          "url": "https://phys.org/news/2026-11-china-unveils-space-mission-crew.html",
+          "published": "2026-11-24T09:54:03+00:00"
+        },
+        {
+          "title": "'Carrying hopes of 250m people': Zeeshan Ali to be 'first' Pakistani astronaut in space aboard China’s Shenzhou-24",
+          "domain": "dawn.com",
+          "url": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-astronaut-in-space-aboard-chinas-shenzhou-24",
+          "published": "2026-11-24T09:16:20+00:00"
+        },
+        {
+          "title": "China to launch first space mission with a foreign astronaut",
+          "domain": "s.france24.com",
+          "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
+          "published": "2026-11-24T08:50:18+00:00"
+        },
+        {
+          "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+          "published": "2026-11-24T07:55:18+00:00"
+        },
+        {
+          "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
+          "published": "2026-11-24T05:51:00+00:00"
+        },
+        {
+          "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+          "domain": "thehindu.com",
+          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+          "published": "2026-11-24T04:22:29+00:00"
+        },
+        {
+          "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station - KTLA",
+          "domain": "ktla.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEdJV01abjZtVUJ2NEZadUxudmN4a3pYNDFVTkEyUkotX2hSdUVmZVlUNUI0S0EydWpwZF9hWUVjZ1JSSXFQbXJlR1FXT3A5MkV3SUQyTl9VXzJPcE5kazRFYkY4alRmcTdBaDNVRzNqMVhldmg4S1kycUUzZjZyX0YwdUhQWmJLUHlYdUNSX3N4VUQ4bkRPd29JYVkyd2dxRzBnaHRoVVRPQWQ2SFdvdm9LWGlKZTZUdU1XZnBfOTc2dDRt0gHKAUFVX3lxTE1ZbXNod09WUk9TRFlmVWpWX0FXMEQ1cjMxalJfVTJNVS11MWtWZlBOa1ZGU0VtUS15UzlOWENTSVd0ai1WNU9aN09hNjJLUHpvMjBjemhHSDNuZzN0M3VSVDFGUUJfTW8xbkF1RFgxLWFNdlFveFhLMEpJQ2VSaE1TTTRkM0RQVm9NUzYtUkM5T3dqY1BGS1lSdFUyV0N3MTZXWWtrOWF2R0UwWDVOTXo4a21odmxvWlBwb1VwR09JUFFDUFUwLWVleHc?oc=5",
+          "published": "2026-11-24T03:14:55+00:00"
+        },
+        {
+          "title": "Pakistani pilot to become first foreigner to fly to China's space station - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjlOOEE2ZGVBYmJLbmlvRXdLTzF4UjNOVXFoY0J6c29vSDF1cDZBTk02QTFDWlRwbk9ESThyeGI0dzdKUFhhMmRyb0ZmVWlsLXlUR2ZNTHJjckdybTRlMTRYOWNwcDhSV2duaTI4ZXB5dFlCNlBTSnlCYTNQN25ZdThTS3NHVUtlZ1NIQ2Z1cWZLLTgzQ3VocjZNcFRBMmJQZjZ0dFZ1UXRCcU0?oc=5",
+          "published": "2026-11-24T02:49:00+00:00"
+        },
+        {
+          "title": "Pakistani astronaut to become first foreign visitor to China’s space station",
+          "domain": "nature.com",
+          "url": "https://www.nature.com/articles/d41586-026-03829-y",
+          "published": "2026-11-24T00:00:00+00:00"
+        },
+        {
+          "title": "FIFA picks US-led bid to co-host 2031 Women’s World Cup - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmVGaksxTVBvaGFselAxMzRoM1o0X2JIczFaczI3Nnp5VDRfOEpjNHJITS1XaWpQSXBYeEdvQkRYRjlSQ1dKb2tjVGRYcjh3T1A5WHo4U1d4QTFHdHN4WmJBdmk5WUpjYnprSjdoamQxaXhPWWN4UWc4U2hEalU1WlZSSG05cENQU1gwQkRSUHVKaG5zSkkwdFQ4WVRyZ9IBsgFBVV95cUxNM0s0TUdJeWstMndYNjFaSnNXeFgxSE5TZ1B4NlRzNzJRUmdTbnZRVGpzazB4YzE1ZVo3NGZnd19MODhWTGJzTUYyWWFVRERFUjZQd1B3c09aWUNNb0Mxa1F5VGJRMjVmVDdHU2g1VzFJNVBRdkQtUmNwUE4yb1liNS1vTm5DWVJtdkRIV2ppeGN2NmJaVlZzVi1ldE05VGluSnJsWnY1ai1vZEN0MzV4cEFR?oc=5",
+          "published": "2026-11-23T15:43:00+00:00"
+        },
+        {
+          "title": "Tiny tracking device documents a record-breaking hummingbird journey",
+          "domain": "science.org",
+          "url": "https://www.science.org/content/article/tiny-tracking-device-documents-record-breaking-hummingbird-journey",
+          "published": null
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.071,
+        "r": 0.202
+      }
+    },
+    "fda-approves-bridgebio-muscle-drug": {
+      "kind": "progress",
+      "title": "FDA, 희귀 근육질환 치료용 브리지바이오 신약 승인",
+      "region": "의학",
+      "summary": "FDA가 희귀 근육질환 치료제를 승인했다고 Reuters와 CNBC가 전했다. 이번 묶음에는 다른 FDA 관련 기사도 있지만, 핵심은 브리지바이오에 대한 허가이며 요약에서는 질환명은 공개되지 않았다. 이 승인으로 해당 약물은 미국 시장 진입이 가능해져 회사와 희귀질환 환자들에게 중요하다. 관련 제목들에는 종양 및 호르몬 치료에 관한 다른 FDA 결정도 다뤄지지만, 이는 다른 기사들에 해당한다.",
+      "picture": "그림에는 빛나는 알약이 잠긴 근육 섬유를 열어 젖힌다. 이는 질병의 닫힌 구역으로 향하는 문을 여는 새 약물을 뜻한다.",
+      "mentions": 32,
+      "significance": 79,
+      "velocity": 56,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "FDA approves first new hormone therapy for early-stage breast cancer in more than 20 years - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0pUbUZfN0dWZXVDbFo3aUtHX1pZVC1rUGZHWlo4WV9ITkl5d2F3MmN6eUdrTDBkVG1qVElUZE5PUVBkUzJfMFpWUTNIRXhRaFBSbEozMTluTmpNRnNfZ2tEbjhGTXZfTlFCdk1XNzFQMVRISzl2SlptWG9HX0RDYnRmdlNOaVpwQ2V2TF95NkpoSFM0X2FneDVEQ0RWZkYwZGdhZ0t2ZGl1UQ?oc=5",
+          "published": "2026-11-23T23:38:00+00:00"
+        },
+        {
+          "title": "FDA approves first new hormone therapy for early-stage breast cancer in more than 20 years - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQi1tWEpFZldrT0NWcFJ1VVo2MER6OFdvRXpaSGRGVnpxbzBPZFRvd3NnWTJXcVE1T19MMWNHcFNuMkNIVEI5ZDJJZ2U0U3ZRWHVoTlV3TU5UVzYxaC02d2JQVkxnSnVzSFVwUzh6dEx6MVBZcjlablB6cVhwekdtb1F0NTFCdlJNd3dxZGNYLU8wUWpvS1hDY2dNS0pmOGh2ci1tbWhJS2Jtdw?oc=5",
+          "published": "2026-11-23T23:38:00+00:00"
+        },
+        {
+          "title": "US FDA approves BridgeBio's drug for rare muscle disease - Reuters",
+          "domain": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjBWcXMtRnluUTRaUFdBQThseE5rOHNOUzcwampwV0s4ZFMzZ25Zc2FhMmhkUjJOV1pqeDJBY3hUTTU3Tlh4NWJuNzhLZFVuZW1ITEw5VmlEVEtFdndLeE1QMThuSW5DYnA0bTRvZEwzVHRBQlBoWk9jZUREdEp1OV9RanUzVTNJOVBZa1YyUmJVV3BaOFg5OG00RnlLZkFLTjI5aGkwODZXMGRSMFJHcGxybnFlWS1tWGpF?oc=5",
+          "published": "2026-11-23T22:42:46+00:00"
+        },
+        {
+          "title": "First new hormone therapy for early-stage breast cancer approved in decades - The Hill",
+          "domain": "thehill.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkhTRGtiWm1HYkpTUTRZOHppbnlBUDViY0ZFZTRtU0s4cW9JbnczOENZUS1rZGxZODZ6VThsdmJVeW9yNUhjVUFqajU5a2hGdi01Y19nSGtxS0IxREh6djNFQjdrVEhWS3FVMEpkZjJNWXVLWU9NVU1ZYmdLNUdrTURxTVZpd1hKaUxabG02YlFIMWxmM2xXdmdDMWs0c3VMaTZvREMtOUlocHYxbFRWa0ZTWGxpU3lVVG9jV0Rqb9IBxAFBVV95cUxQOG5oTTBjMFI2dmdMUlVaQ085enpYQWRJOHcwWmZBR3dHeWlMdDFDdTdhSlhIejdBWWVUTTg1Q1NTU0otM2c0dTlIY0xzbnhrSjJJNU92Y3RacElDNnVRLUxRbzNSdU5uVnkxTnM0NndHYjJxN3ZfUHd0ZGoydEEyOTlycUZMOS1mMUpGTFRJX1pFRnJKaFh0eVVnRUJCWUFzU1hhTC1QSzEtTElRaUJ6M3ExbG92NE9rbmFJY3lDR3AxZUVH?oc=5",
+          "published": "2026-11-23T22:16:00+00:00"
+        },
+        {
+          "title": "FDA approves BridgeBio drug for rare muscle disease - CNBC",
+          "domain": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHpfUWFKZXpYZnR4cjFMZWY1MjVVbDNNSTJTcGNhNVI0bzUtTlNmMVpJYnBkNGgxdWFaQmJNYlZacWhUT0paYjZYcTctWC1WR0g5aFJLbjZ1dlR4RDk4NkJXRTNpUmpxSWxTSW4yWEtpMTNFUXI3b2tkNXI2emJtc2xEVXQxelcwTm5QMnZ0M0pzbU04d1HSAZsBQVVfeXFMTkx1QmExWUxmeDd4M0J0UkJHa2ZaTzJ0dTFuOGZ0c2JsTWVudk91Y3RGZXEzbmFXdnpCVWFTY1RkVFVaanNNc1p0ZGFnalJ4NklxMDBzbjBoMDRpd0FwVWw3Ul9aU2xnSWpPWlBjTDhIcVRDdU9saEtMOVFNODhaNGRHYkZrRHB6b1NVZFZXVkJyd2NxYzZPR2w5NVE?oc=5",
+          "published": "2026-11-23T20:12:59+00:00"
+        },
+        {
+          "title": "Klarna Expands Collaboration With Visa, Bringing Flexible Payments to Merchants Using Visa Acceptance Platform - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVBDUWJTaHVla2NiS0J2OTJQMDkxT1F6RWtYU0poNDE3V0pxNkFUblc1dGR0ZE9aUDNzUVY2RFNTRERzMmlscW9xeTJtdFotZk02cW9MYm1aZ2RaY3dnQzBreEVzNVdqeWJ5RE4talM0Y0pWdGk1SnFSNEprMUNJSFQ0SjItMHc1c20yWUFLM3hVU1NuZVBnelRSeUkwMGhJTnREQzdmTnpnYmhRZzgyZTZMdUJFZEJ2OUpkNFdR?oc=5",
+          "published": "2026-11-23T13:30:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.089,
+        "r": 0.191
+      }
+    },
+    "greece-acropolis-museum-reopens-after-restoration": {
+      "kind": "progress",
+      "title": "복원 공사를 마친 그리스의 최고(最古) 박물관, 아크로폴리스에서 다시 문을 열다",
+      "region": "건축과 디자인",
+      "summary": "그리스 현대사상 가장 오래된 아크로폴리스 박물관이 대규모 복원 공사를 마치고 다시 문을 열었다. AP, AFP 등은 건물이 새롭게 단장됐다고 전했고, AFP는 수리 비용이 약 1,100만 달러에 달한다고 보도했다. 보도들은 대규모 보존·현대화 작업 끝에 박물관이 오랜 기다림 끝에 운영을 재개했다고 전한다. 이는 아테네와 그리스의 문화유산은 물론 관광에도 중요한 의미를 지닌다.",
+      "picture": "그림에는 복원된 대리석 블록 위로 고대 박물관의 정면이 솟아오른 모습이 담겼다. 복원 이후 역사적 건물이 다시 생기를 되찾았음을 상징한다.",
+      "mentions": 32,
+      "significance": 72,
+      "velocity": 76,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "London Museum brings \"back a bit of London's heritage\" with Smithfield Market opening",
+          "domain": "dezeen.com",
+          "url": "https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/",
+          "published": "2026-11-24T09:54:18+00:00"
+        },
+        {
+          "title": "Greece’s oldest modern-era museum reopens on the Acropolis after major restoration - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRnNVphTHlISVFGbzZ2cHBJallTZkFDRmk2djQxMGFSc1pJcWJRdUk1d29LYTJGeUtYX0hicGM1YmZZWFpMVVRfeV9WaWNnbllOTXlTaU5GN2gyeWtiRWR0OWljb0hPQWduWnluQ3VwZzlWdVZKbndTVlpOQ3NHWUZFNUdKZUxuMldhRjNwdHA5ejlVbjg1MXRZY092dXNRUzlBWDhkNVoxVkhwRXE2c1hDdnFXN0FN?oc=5",
+          "published": "2026-11-23T23:14:01+00:00"
+        },
+        {
+          "title": "Greece’s oldest modern-era museum reopens on the Acropolis after a major restoration - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjY1LW9maWl0MUxORE8xN3BGVzZMLUVCc01HYVJMT0FuN0wwdjF3MXRxY3d6dzdHUGQ3YlR1anN0SXJqTFBCdVhLcHBmZGxwQmp3YnkySkZndnNqODFGa0s0M3BQdTBIM1AyaDEya09jcXRMcDhCZVpaNHNLRTVMZkNGcVViV1JZOGFDbGlkLWxVOHNoTHZ2UWstaTdnaG5CR3ZrN1pkck9NTU9p?oc=5",
+          "published": "2026-11-23T22:10:54+00:00"
+        },
+        {
+          "title": "Greece’s oldest modern-era museum reopens on the Acropolis after a major restoration - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2hQYmNEejV5SXRqNURkN2lBV0FuS3AxLVVMQVRlOUl4ZWk3TnFRWENfX0ViRXR4ZTZNZFJxaVVyRm9HbXRxeV9XZmx3WVYzS1dWTlBFQ0lRR3JNTVdWWlAyRnFNV3d3RXlzejJOazNZdTlZeVBzeXJzRWRFVl90ZURlTFZreUNJRVBsVTI0aUdubndsNFlYUDRFdWd6alBNaFBQbHlfNF8tX0Q2NUNn0gG0AUFVX3lxTFB2ZFZ0UDdlUjh4Z1FZQk9hbERINXZZSTFPcTE2OHZjYWltdFk5S0s4N29Zd3hFTGxWbTZNMVNhMTg5Z01nSUxPMnBsUUs3a1ZHZVhFZWFPM2xKWURfZF81bmpxNDR4bzdlZnQzZVdYRlgyTFVPU0l3MXFSQXFhOE05MUc3MlVEZEExOWxsT01JQmVIa29IM21QcHQwZWRwc0xGazdic0wyTFgwTS10LUtDbGZvUw?oc=5",
+          "published": "2026-11-23T17:46:12+00:00"
+        },
+        {
+          "title": "Athens Acropolis museum reopens after $11m revamp - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ISUdQWExCdVFmR2FXVE5SZjNqTHctSG1hN29WRW0tVTl3eWZubVNzZXJrUlktbm9SakF3T3VtLXBUSEI3OHVLS1dYQjA2bFRpWWtRQWsxYlV4Mm40THBxc3ZFcGRpT0dsVVNydlU2TEdKaGE1SkxwOUduQQ?oc=5",
+          "published": "2026-11-23T16:10:11+00:00"
+        },
+        {
+          "title": "Ancient site, modern makeover: A mothballed museum on the Acropolis gets a high-tech lease of life - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOVm9oejVyZlc1WDU5LWY3dkU0ZFpuX0dGY3Y3WDMxX2RBd2NVUFRfQ1JKMTEtNkVoblJhQ1ZTb2hHMEtiYlBjc3JkLUg2TVozdmtXb0UtWGFyZGNvblBFOHp1WHFNNTRKb1UwRFlXQktuNXBCWWRiNl9RWFlxVm13bnJGVjAtRlM4cWVTTTFRd1JSNmhCR0R2dVRrRXRpdklGYjhUR2JfTjZqWVR4VExkNV9IVW94VXIzWkV1bEhveFVWTEg3aHJNZ3F2LWVYbVl2aFBzb0RJVjVmMzFicGFid1pSUlB1OG92ek9vQWNVUUFkYmFLd1ZzYnowSG1RaWRDWmlxTkJ5V2VMTm51Zy12NWpVQ2RpMzlwWmRoaENR?oc=5",
+          "published": "2026-11-23T14:43:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.875,
+        "y": 0.107,
+        "r": 0.202
+      }
+    },
+    "festive-white-house-turkeys": {
+      "kind": "micro",
+      "title": "백악관, 사면을 받을 추수감사절 칠면조 두 마리를 공개한다",
+      "region": "미국",
+      "summary": "백악관이 전통적인 추수감사절 칠면조 사면 행사를 준비하고 있다. AP, KGW 등은 칠면조의 이름이 Freedom과 Feather이며, 도널드 트럼프가 행사를 진행할 예정이라고 전했다. 보도에서는 이를 추수감사절을 앞둔 연례 축제 의식으로 소개한다. 규모는 작지만 미국 정치와 연말 분위기 속에서 늘 눈에 띄는 행사다.",
+      "picture": "그림에는 작은 연단 옆에 두 마리 칠면조가 서 있다. 이는 사면 행사와 백악관의 축제 의식을 떠올리게 한다.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "President Trump to offer Thanksgiving pardons for turkeys named Freedom and Feathers at the White House - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1RWRFpZSkFjWVVVMW9oTHJDRzRpQnpmTXdCMUJkbkRBOEozRjZSNS1fRlpqSlB5emUtOEVrdVZIVGF6UlgyeHo2VVBCcF9pV3hQVzROOU1MQnFUNjNRcmRacEJyZ0ZxR01xM1lXQW5QX29hbmVJRHdqaHdZMVd5cjhKNG85Q2xCc1hNTWtuMXlaUlFSMkVmMG9CUF9fQVMzc21YR3c3UjZZNGtFMWNPeGZMTm9fMlp2bXZVR1lyR2ZVcmhxSmx4bGU1RU9wUVU?oc=5",
+          "published": "2026-11-24T11:37:00+00:00"
+        },
+        {
+          "title": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House - WPRI.com",
+          "domain": "wpri.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY1AwWnlCWDlUaWZTNlByWTMzSWlQWHBPMHJJMTR0bWJ3MHl1QVN5bGtlRmUtaUtNMmVVaUh1aC1GazFsWklTOVlnMTVERi1lVl9QZGl1Vzd5eGVOMFlQSmNLVFkyX3JyOXZXa1BlV0RhN3FWTmVMdHA0Z0FOQ0lsbUFJcE9GaWN0YXl5ektNaTVTY3VZcTMxbURlZXFzdXlwVi1fX0d5OHJwX1k3LXo1YnFjZWZYdmJfb1BEY0ZXeTJ0XzBJQ2dmONIBzgFBVV95cUxNWXc4N1hCLWJ4ZGtVXzlCdjVOM2x0QlpLS3d4Qk1hVFN3Z25kTzE1cFE3QS11R08tUmRYODlsbmJ1MXU1VFQxbTlGWTAwUWRpV0xIckxqWm9xYWJZbWNqYUhiY2lRMjdUZzNnMGloUDRXb2VBSHV4cTA5WVAzZXlHR2JWcWxDQm5KSTY4TDR2dW1KVUlrcXZMNVVuekk1MWctaEFMVmdKMDNyVWN1OVNsMXV5UkRlWEJYRVZsN1FJc3lleDU5bHhMLW0zM2VSQQ?oc=5",
+          "published": "2026-11-24T05:03:48+00:00"
+        },
+        {
+          "title": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1JmVGVGUE9ZaW9JMnNkLTZtbm9oSFhJZl9wY0RDM0VwUVhrNWNrWmhFZzNGVW9XazlVcFFoTkdGZjAxLXpYN1VSb1lhU01OSzc0czhMbXI4RDhJZW9JdXAtNGZXNW8yUU16M3N6VnBDWGIyUGFTcXFBZDh0RW1Qc0w3eEMtX3RzOE1DcWU5SjZWUXhxb1FDeTAxTQ?oc=5",
+          "published": "2026-11-24T05:03:00+00:00"
+        },
+        {
+          "title": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House - KOIN.com",
+          "domain": "koin.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTJWOVhjSlc1OUczdFRGaThzNldFeVJwOGt1RW1SMVNVQm9CMllsRXY3M1pwNUdzM19lMEY1cG80N0pJcWEtdGJTQTdpd0cyczZVeUxKSExkejU1ZUcxRnJ4am5jaVlYYnVqNlNYR2paZEZYVmcydVB1c2d4MU5mZWluWUFwM283TE96a3U1RDUtRDBJUzVweDRiSEtwbG1DeTJuREJFcnhObDJMUldWc0VEeEVXM3VHc0Utc1d6aVJ3eG92UXlPZ9IByAFBVV95cUxPLTJWOVhjSlc1OUczdFRGaThzNldFeVJwOGt1RW1SMVNVQm9CMllsRXY3M1pwNUdzM19lMEY1cG80N0pJcWEtdGJTQTdpd0cyczZVeUxKSExkejU1ZUcxRnJ4am5jaVlYYnVqNlNYR2paZEZYVmcydVB1c2d4MU5mZWluWUFwM283TE96a3U1RDUtRDBJUzVweDRiSEtwbG1DeTJuREJFcnhObDJMUldWc0VEeEVXM3VHc0Utc1d6aVJ3eG92UXlPZw?oc=5",
+          "published": "2026-11-23T21:03:48+00:00"
+        },
+        {
+          "title": "RANKINGS: Will Tennessee be DISRESPECTED Again by the College football Playoff Committee? - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMktsSHZrT2ZEOE9MTTJQX25RVE5hZGo5WnFKTndfZExEMVBsa1dRandFSXRWVm5jSy1ZOWJLdHpyZXZ0eDJuM1ViWkF1b1NfLWI2b2Fqd2w5OUh5eTFCQWI1elVEYTBjUHU3QjJSSzdPVmtjN0w5c3c5cmVwVEZCR214RmVnMk9taV9iMkNpX2VBNFBoU3lfd3NyZURQLUx1bnZ4b1RhRTFQV1cybWkxWjZTdXk3bzJRQ3NTUEhUcjc2RmVqeUxJNTlIejhYYjMybGliQlhHTU02WXR3bE1qckJRX2F0QTBHeEVWVFJ4Y1d4SFlwX0NHc0h5TTdfcnlYdHFzSXdJS1RnQ1pYRnJRU2NidEJVQy1LZE52MnZ1cGZuTXEyVnJreFJnTFNJZw?oc=5",
+          "published": "2026-11-23T17:27:00+00:00"
+        },
+        {
+          "title": "Trump Organization hosts 'exclusive' dinner to promote president’s meme coin - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLLUNiWnpSbllBNnFra0c2OWhtYW9UaUdwa29OUThkMjJIUzdLNThQVGlQUFc5Wmtvd1dhUnhMcUJFRkEwTWZ2VkcxNDFVSGRVdGFJYkszV2RvSHExWjJ2SWVMWjRHMUhuTVVEalZNWDk1dUVoU3Aw?oc=5",
+          "published": "2026-11-23T16:15:00+00:00"
+        },
+        {
+          "title": "VOTE: Do you think interest rates on credit cards are too high? - WOAI",
+          "domain": "news4sanantonio.com",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNczJKQnhZd3lYYWpTbE9iSDFLdmRYRzdZTm1TaVpZSmRoNEEwWUlEeGl0T2hLMnlnTzFCNVp1TjBKOFMxc0FjNExpaDJIVmNKRi12eC1vOHljbTg5WXY1Qk5vSFh3YkdscUJtM3A1eWs1MGtpdkdadzNUMEQycHRGZUZiY3gtSHc5VUsyaTVxZXFwTlFLd2VydUhRdFBOWnVrTHZuTFhFZkVQNVRuT1Q0NFM1eGlBRGRqUTREZ2t0UlpPYTYzbnJiNGxuSjQzR0lHelNWa09EcHJtOEFfOFFmdGZPWms5UzFwLU9fTWVqT05Xd2JRcWdPb3c2TGxqUHFQbW1nUnUwbER2bmxZQjVyQ3g1TFJnbTZsUG1KTFlNcnVTanlheXlfT1gxWnc2ME5S?oc=5",
+          "published": "2026-11-23T15:22:24+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      }
+    },
+    "fiona-hippo-memorial": {
+      "kind": "micro",
+      "title": "피오나 사망 뒤 신시내티 동물원, 하마 우리를 개보수하고 추모 행사 열어",
+      "region": "미국",
+      "summary": "하마 피오나가 죽은 뒤 신시내티 동물원이 Hippo Cove 우리를 개보수하고 추모 행사를 열었다. 보도에 따르면 우리에는 새로운 안전 조치가 적용돼 다시 문을 열었고, 시와 동물원은 조명 등으로 피오나를 기렸다. 세부 내용은 동물의 죽음 이후 시설이 변경됐다는 점에 모인다. 동물원의 인기 스타였던 피오나를 지켜본 지역 주민들에게 중요한 소식이다.",
+      "picture": "그림에는 꽃과 보호용 그물로 둘러싸인 장난감 하마가 있다. 피오나를 기리는 동시에 새로 강화된 우리 보호를 상징한다.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "CVG Tower glows purple in honor of Fiona - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDEwa1hyR0twakc0TnJWQ1ZaX012amE5d2U0aEVWbHduMXpqN0NMZHMyS3pRb3NvRWhkU0FmLUppTDN1dDNiaUpCbVBCWUVKd0N5UEJYOFcwaUlpSy1zUG9PaC1tN1RQWWY3RzU5Z0RHMG9jd1RsZmpqRGZ4ODgta1BodHVvUVE2SEI3a0o4MWN4Rl9ELWZQV251amY1ckcwR2FhUDhvaURfeS04NUJsSFRzNXV2RlctRGg3Y2tmdkg?oc=5",
+          "published": "2026-11-24T02:03:00+00:00"
+        },
+        {
+          "title": "Former Butler County deputy facing charges, including OVI, after July crash - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWdGSkdQOGV1aExvMUNkdUp2N0E5V2o1LTh0QmZES2FQYW4zZm40d080SWhiVXAtUmlvNlhJZEdXUkRESklqd2Zab2N2MFlNbksxdGp1VFVrRXlHSEt3REE1MXBSR2EybU90TW1lUlU5NzQ3cjFwcDU0c0tDN0lUcmRCc003emQwaUxrTk1ERTVqRldJS2JRLV9faw?oc=5",
+          "published": "2026-11-23T22:48:00+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo reopens Hippo Cove with new safety measures after Fiona’s death - WCPO 9 Cincinnati",
+          "domain": "wcpo.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnRZN1l3WDFrbWFDQkZQdThFVnM3a2xiTkxnaTg4Vk1tUmF4XzRxem9Vbk1wYVlGa0xVMV91SWpiLWlRSjMyVDhQREhZQVJaUVRhZFEyWG94YURJdXZtWkdsb21zZ2pfZGhEOXRBYjBURzNSV3lWdUN5eUlfYnI4R0J1Mm1MUllzeUFyTTNDRW1Ca1pBUW5DUGRLUk1UQW9wc0VpYmhRVE8zeHo2ZVFDbi12SWY?oc=5",
+          "published": "2026-11-23T21:20:12+00:00"
+        },
+        {
+          "title": "Hippo Cove at Cincinnati Zoo reopens with protective measures following beloved hippo Fiona’s death - WPRI.com",
+          "domain": "wpri.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSEZqUFFqNUhwTWNZaXpaTjZTTzgzdXFPM0pSMzl6XzBYbzBmelh3S0lza0Fqdkc1RU1DVUJPLWtURF82Nldhel81QTlQUGYtaEtXZ0tOQTdBTXZoMGNVQ2RsNERINGtBQVFsZm5CcEgxV0dsQTVQWkFMSVJfVk0wcVVqaG4wLXZ1X1RkMEN6M0lNWnNMcXBFQXFOSTFIbmJZQ1hZM01zMnltalFidDkzVFlfZVFaemNldUY1WUE3WVhnRUc4eHVLcjM3bG9hbjhUTGR3ZmNwNHDSAd4BQVVfeXFMT2pGdWNtdkRYMWpFVmJNbEJUTnNDb2V0SGhJWUpBcGhwYnlTMHBkTVYxQ1RnaFc0ZWZtckRUQy1qazZNcElmcF93aElKS0pLRmtCemlEVHVJOUszcVhfT2JsMkRCWExjd2dWZExERFhzWW04Y3lhR19ISHl3bkNDRkdtTGtNMVFQX2s1UTM4S3ZvemtUWEJ2Zmp5WVJONmg1MEs5c1M1ZnB3bDRSeGNycmlGXzkwVGdlOEl2cWcxa3A3RVd3MEoyYmdVRU8wamltaUhwSEN1WFNTR2g1WEpB?oc=5",
+          "published": "2026-11-23T19:35:37+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo reopens hippo enclosure with changes after Fiona’s death - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazFoeS1rLVZuazR1VHlVQmdNc3JPQ1JwdnZqUlhNazJKdkJsd29wUEdqbTFfbUt6MEJ3cEM5RGplYnpuMGY2NklheFNqcEpXa3Z0ZXl0VW9haWVmbHdEbFNiZjBFUTFHRV81R25jNmtpQW1yTVA2amUyTEVTTmwzY21ldUdDTWl2UGtuVXp5enFiaGZFQ0ZaNUROZUh6Yjkxam5fa294RE1tUUNBeFBZS2ZVSk9wNnc?oc=5",
+          "published": "2026-11-23T18:19:00+00:00"
+        },
+        {
+          "title": "See changes made at Cincinnati Zoo's Hippo Cove after Fiona's death - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd185VjFrM1ZZNWNqRW1mUl90Sjk0aTA3cDB2ekNwNWFZT3JsUmRkVC1QX3I5RllVVlN3U1N0dDk0MXBRNDVCU1FYaGxfLUhfRllTVy11dzNaSXFaTnZ4S0xCalJLU1pnZ0xtR1dWdmtZNDBwQ20tZmNielVWdWNOWXc2Q1N4cmRtOWZJWFdGTG5La3FTS19zQjFoazRabUlkZzFRZ2xVQ21fckt3ZkVWTVBfcWNJeFY4ZlEzNmhBN0pLSW15QUdzUEVDX2tmU2VqR0VBZQ?oc=5",
+          "published": "2026-11-23T21:41:44+00:00"
+        },
+        {
+          "title": "How is Fiona's family? Cincinnati Zoo shares positive evaluation, video - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXplZXRyeUpIMENpR1B1Q3YwbVRNY3FRY1JlRnduM0h1aUtmSnJXc2NnR3A3bDRPalZHUWpTSDJTZEFkSlI0OXBDdExHR1pvTTFYOTl1NFdrOElrOS03Wk9UOFBWcTVQTUJ4WHlZaURYNE51QUJPQmpkamlwTGYxemtTX3BFM2xSQWFycE9WQl9hQVcwckQxTkRQczg2a2pURGMtUlVhR0NjN1ktQ1VTMklKMG12MVNiblRXV21NZ1U3NzZCOFdVcENQQzI4UF9BbnhEQTN5NUZCUQ?oc=5",
+          "published": "2026-11-23T20:32:00+00:00"
+        },
+        {
+          "title": "Cincinnati lights up for Fiona after her sudden death - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFNzTnE1ZC1aOWpOV3RFVTZYNWJBTHV5S0tHWUp1eExJZUt2dkVKZnJ5YXY4VmVwWmpzR1p4TjNHNFp1cGNScko1NmlzNlNLNWl4WkZTQVBFS2swT21zRER5VWtCd2NhQ1c0bWVuNDIwelNPQmN6OVZNaU8zejhMa1dRVFctdTRacGpUY3hUdy0wNHpzRTlBXzFobGo5YlJkQy1PSElwYUN2SW5IcFVmUXFBUWtDMGNtdzR1Z3hTWHRLQlE?oc=5",
+          "published": "2026-11-23T20:08:13+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo reopens Hippo Cove with changes after Fiona’s death - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDBrOUxHbm1wajdna0t1b0psTGtpTjBKUUhIRmpCdUg3aXNyNVFKd2w2Y3o3VTNxUW92akRYbDcxMnFWRC1ZNXQ2cDVSY3M2QlFNUnJfVlhsMjQ2M3FBVnhESTRsa3JPNG5xZjNSVUoyS0t1V21UdGgxRVlxOWRGX0JUZ2dFYkRoaDR0Y2dfZE5oNHUxTTlJM2pwVjlXdjI2NFU1VFhBVVdrVHZDQjltU0syZFpQUWpVZDMzZXowSFRxN05fbEFKMQ?oc=5",
+          "published": "2026-11-23T19:30:00+00:00"
+        },
+        {
+          "title": "Cincinnati Zoo planning a memorial for beloved hippo Fiona - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHY0dUgxRVRkSU9LYmhPdTdFWjNqYU9KenBOODlqYmREa3BRWS1BNU5iTTRCRmtaOGdoMnUxaVhYSlV0WVNwRTB2MEhReVVxa3dZNEllRG11NmFtc3FhdVlVUDJ6QW1VVnpiaHU4alZWZC14b2ZqLTdJUzJwWlg3Mzd4ME56OUxqRkJtZ2V1RmFHcFE5?oc=5",
+          "published": "2026-11-23T17:15:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      }
+    },
+    "wild-turkeys-chasing-walker": {
+      "kind": "micro",
+      "title": "야생 칠면조 떼가 길 가던 여성을 쫓았고, 이웃들이 도왔다",
+      "region": "미국",
+      "summary": "여러 매체는 야생 칠면조 떼가 한 여성을 거리에서 쫓았고, 행인들이 그녀가 빠져나가도록 도왔다고 전했다. WLWT, WTAE 등은 이 장면이 카메라에 포착됐다고 보도했고, New York Post는 이를 추수감사절을 앞둔 칠면조들의 ‘공격’이라고 표현했다. 보도들은 주변 사람들이 개입해 여성을 구했다고 강조한다. 명절 직전 뉴스에서 나온 짧은 해프닝성 이야기다.",
+      "picture": "그림에는 야생 칠면조들이 한 여성을 뒤쫓고 있다. 예상치 못한 우스꽝스럽지만 무서운 거리 추격을 표현한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "CAUGHT ON CAMERA: Wild turkeys chased a woman. Strangers stepped in to help her escape - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1YxM1BUamU4cHFFQ0djZTFaaXFxY3ZFNk5GeGVZTU5WZVFzeWtUaWMzZ1lVelo1dmtFREFjYmhySVVBcS15TWw5ZWxJLUV3bFlJdVZqOFcwZl9UaTlXWDV0TE5Oa3ZPTk00cGtOVE9nbmd2WXR0czhYYWc3SXhYelU1d2ZXbzZtZnlnVS1UVTdVZ0k?oc=5",
+          "published": "2026-11-24T03:58:00+00:00"
+        },
+        {
+          "title": "CAUGHT ON CAMERA: Wild turkeys chased a woman. Strangers stepped in to help her escape - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHBkbXV6b2lWREtIOVh1R1NNYmRHYjVwbzA1YzF2YzZyZEQ4djJPRUFoMmVTUktPWXZTSTQ0WW1nRlhRSEJSdGwxY0J6bVJpWGVrWG5xVF9kZ2FJUlVnNUE4SXhxS1JVS3ltXzdqdGV6MnIxNEpQME4yZ3pZdzgwSnpvNjhxcjAtWm1YU0xSdXpCc3c?oc=5",
+          "published": "2026-11-24T03:58:00+00:00"
+        },
+        {
+          "title": "Gang of ‘gobbling’ turkeys chase woman down street — days before Thanksgiving: video - New York Post",
+          "domain": "nypost.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGFQNXpUN29wYjZ3cWlrdmxJNHcydDFkNzY0RGNfTkMzZWU0N2FHWFlkbVNub1ZURlVMNFR3b2tQZi1TWkRDRGlvRXhNODVIYU1DMDlLNUR3NnM3ZF84XzhiWi1RZkJ4UFlMTTBiOWRWdGtMSnljaThDRWpYdjVIUElfLW1Ed0ZraDNqTzF4cVd3Wkl4LWpn?oc=5",
+          "published": "2026-11-24T02:18:00+00:00"
+        },
+        {
+          "title": "Flock of wild turkeys chase down woman taking a walk - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ293Vy1mSTUtWVhTaXdoZ1daaEI3SGM4Wi1zZzIySHh6b3BKXzNvZ2t1clJJREwzVXhjdFVULWtkOEU3dnl5X3FqWmlyaDB5aTlqRTVXRENLRzhtUjRaTE0ySG1UelRLWnRjbFVuUXQ1YXJwb1pLRWJKSkxLQkphS2hlbUV0ckxmWTlxSk92U0RSNTV1dW1oY256eDFXVzBF?oc=5",
+          "published": "2026-11-23T19:51:00+00:00"
+        },
+        {
+          "title": "Flock of wild turkeys chase down woman taking a walk - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVEtIcEVJRkp1TXIyOFRPZ0pJaGNfV0ktRUx4bE9zRXpvRm9jeUlSU0dTc19YVmYzVlg1Q3pqeHo4ckhPUGp1S1Y1a1hRdklITlRtNEtvNEs1ZUw5dHdaS3dVcmhCWDVGUzFiSGwzVkJkc3poc1ZNUFVyMEU4RnpJbVE5NHBJdzJ0ZDEtcVdwbnE?oc=5",
+          "published": "2026-11-23T19:51:00+00:00"
+        },
+        {
+          "title": "Strangers save woman from turkey attack - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2ttWjY0QWIyekhhUEhuYmREUVNSaGRoV3dFX1BadDRaN2Z0Um45b0t4MC1rMHhrVTNSOXVaWFZZUTRQU3QxaXpmUnYtdFc1YU9iM3FKYjFuRGg3YWZlaDlpYWxUTWlwUEQ1emgtajlMZnVsU0RaZHFpdFRWcmdkZjlVeGJXR3lLWUFHOWE5bWRzWnFPQkVEY2VKaDIwcTlGVUkwcEl5c3BWeTBmcGlMSk5UWHhkLWN4a2FZ?oc=5",
+          "published": "2026-11-23T16:22:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      }
+    },
+    "deer-stuck-between-house-and-deck": {
+      "kind": "micro",
+      "title": "집과 데크 사이 좁은 틈에 낀 사슴, 조심스럽게 구조되다",
+      "region": "미국",
+      "summary": "경찰이 집과 데크 사이에 낀 사슴을 구조했다. WLWT와 WTAE는 동물이 좁은 틈에 갇혔고, 조심스럽게 꺼냈다고 전한다. 이 묶음 기사에서는 추가 설명 없이 지역의 구조 소식으로 소개된다. 동물 구조라는 점에서만 의미 있는 사례다.",
+      "picture": "그림에는 사슴이 집과 데크 바닥판 사이에 끼어 있다. 조심스럽게 풀어내는 좁은 함정의 모습이다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Akron man pleads guilty to fatally running over brother with car, sentencing set for early 2027 - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOFFpNkJBM3BYS3RpZmdWcTNfc3YxSWs5b1lqRmwzeERsWHQzMjltWG1seGpldEV3aWo5U2VHZEpQQnRPS1A4a2JCaHhrSkZ2TTlWUXN1NGV5cW55YVc4MTh5UEFZLXBtSVpyZnF2NDZNSFRhTFpCTEl6R2xabUdJNWJjYzBTaThpTjNhMFFfcmFYTUcwTGJsUEtWeFFEVkdBNkgyQ0lDY3h4LVIwaUQwRkU2Ui1hNUlNWmxsV2s4cDVTN1NhYjdKa3A0d041bGx4dFN4Zjl2RDhmckJMaXFYdFp4VGFpYXBPSnE4dnhOdmg0MmxaQ0NGbTJqLTRvM3V4U3VIQ2NMcGQ4Zw?oc=5",
+          "published": "2026-11-24T11:38:00+00:00"
+        },
+        {
+          "title": "WATCH: Deer rescued by police after becoming stuck between deck and a house - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVVjLW9rbkdITThkc1hwMkhfajRaOU0zeTRXektWN1FyY3JEMHczMVlJRU1MWmE1S05pLWFySmJRbjFsV3FMdFV5Z3hxV2E4S3J4Y2R4UkFzSGkybHZvdG1ra1hYWjJYdnU0YkN2M0plcUIwWXhIbXlXamhEZEFRMVZaOTRURWRuRGM1MjZHME1GZw?oc=5",
+          "published": "2026-11-23T22:04:00+00:00"
+        },
+        {
+          "title": "WATCH: Deer rescued by police after becoming stuck between deck and a house - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3hzM1I5akl1TTNrVFJMSlR3T0s4NzdWOEZJWU1lZnVOMzlHN19pOTgxem1PQ21wSlZQamZrRUtXV0dCLTRlQVdEdFk0ZlNrcXJUTzR3R0RVbk13X2p0N3l4NUZiYi1LTDAxN20tY3JrYV9BQjBhYUxTd29oanVreDhCTTk5NmZCb1JKMGp0SFNwUQ?oc=5",
+          "published": "2026-11-23T22:04:00+00:00"
+        },
+        {
+          "title": "Look: Cat rescued from deep inside Virginia underground drain",
+          "domain": "upi.com",
+          "url": "https://www.upi.com/Odd_News/2026/11/23/cat-rescued-underground-drain-richmond/1141795451639/",
+          "published": "2026-11-23T16:36:51+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      }
+    },
+    "cat-on-a-plane": {
+      "kind": "micro",
+      "title": "고양이가 이동장에서 탈출해 비행기 객실을 뛰어다니다",
+      "region": "세계",
+      "summary": "The Independent는 고양이가 이동장에서 빠져나와 비행기 객실을 뛰어다녔다고 보도했다. 기사에 따르면 이 일은 비행 중 벌어졌고 승무원과 승객들의 이목을 끌었다. 묶음 기사에는 다른 자세한 내용은 없다. 기내 질서가 잠시 깨진 짧고 재미있는 이야기다.",
+      "picture": "그림에는 고양이가 비행기 좌석 사이를 질주하고 있다. 기내의 갑작스러운 혼란과 달아난 고양이를 잡으려는 상황을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Air traffic controller meows after cat escapes carrier and runs loose on plane - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUW96dlFoWVIxWVluanhNU0VfRU13MDBVcmhIQ0YxdzF5cDVMc2NEWHhuTllEWkQ2RXVaSC1EejI3SXNkY2R6SWZPdVJxSEJnRzJOUURoaWJHaGtwODlGN3pySmFTNkQ4dzV4RldCZ1NBN2J1T0dwUGJyNzladlhCR3FhVDZFc1hzVG1BcTA0WlZ2bDQ?oc=5",
+          "published": "2026-11-23T17:09:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "donny-osmond-backs-fire": {
+      "kind": "micro",
+      "title": "도니 오스몬드, 가족 집의 불을 끄고 그날의 영웅이 되다",
+      "region": "미국",
+      "summary": "도니 오스몬드가 뒷마당에서 난 불을 끄고 가족의 집을 구한 것으로 전해졌다. KSL 등은 바비큐 도중 발생한 불길을 가수가 호스로 물을 뿌려 진화했다고 보도했다. 보도들은 그의 대응이 집의 피해를 막는 데 도움이 됐다고 강조한다. 빠른 대처가 돋보인 작지만 인상적인 이야기다.",
+      "picture": "그림에는 정원용 호스를 든 남성이 있다. 스스로 불을 끄고 집을 구하는 사람의 모습을 직접적으로 보여준다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Have You Seen This? Donny Osmond puts out backyard barbecue fire - KSL",
+          "domain": "ksl.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1VGX1NOODdvRVJwSENLRWg3Uk5WdlVBZ0xZR1JKZHZMRlFiOXVoYkVjUVNobjhoMVJENTZyOVF4NEJsVVdOZUV2TWdpS1hOSG16ZlNZN0VaWXZpTEx6UkJTeGVsQ1dPd0FQRldERWJFdGE2aElydl9zV0xuaW1NU2N2bF83M0dBck42anE4cWFnamNJSzRyNHhadmFyYjkwVGc?oc=5",
+          "published": "2026-11-23T22:28:00+00:00"
+        },
+        {
+          "title": "‘My Love is a Fire’: Singer Donny Osmond douses flames to spare a family’s home - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjFxV3QwR01rbmQzYWlrN2tGcUxmVGFFemNSWjJORDN4WElLejczaVNiZkhXbXBIY3M4UTZNQ25OQXpleDduNlpFMlFSbzIxVDlmQmJBQmplM3BZN1c3VFROLVNVdTVRUmRRWnhXdUhTdVBOeDYwdnFFWnRlVy1EM0JKZGRlcV9hNkJMMmE0MXVHNTRaYU5zbXVKdHFEcUlHWHJXSGJxdm9jOXVCUVhaNWVnd3g?oc=5",
+          "published": "2026-11-23T21:28:00+00:00"
+        },
+        {
+          "title": "‘My Love is a Fire’: Singer Donny Osmond douses flames to spare a family’s home - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVU4TE0wZFU4cE55NHBjbW1DQ19jdXcydlZNTTVQSWxmWTBTSDNUTlhNRnhueWlpZ01xeFFVNW1iSHpXY3BQcVhCTUE0Z0hNZEJqbVdkNlhtNWZ6V1VOUnRsWkcxSUZDQ1dBN045WUNrakl0VHNCVGttcFM2ejZ2b2JBa3RMdmRzVWh6SEZZNkVqVnFpZ3lzQ01GVTM3ZlhXQ1ZzWQ?oc=5",
+          "published": "2026-11-23T21:28:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "beaver-moon-watch": {
+      "kind": "micro",
+      "title": "사람들, 11월의 비버 문 관측 준비",
+      "region": "세계",
+      "summary": "매체들은 11월의 비버 문을 어떻게 관측할지 설명한다. CNN과 ABC News는 달이 뜨는 시간과, 이 보름달을 맨눈으로 볼 수 있다고 전했고, 일부 기사에서는 점성학적 의미도 다뤘다. 이 묶음 기사에서는 극적인 사건 없이 밤하늘의 이벤트를 예고하는 내용으로 보인다. 천문과 보름달 달력을 좋아하는 이들에게 중요한 주제다.",
+      "picture": "그림에는 밝은 보름달이 망원경 위에 떠 있다. 밤하늘의 눈에 띄는 순간과 관측 준비를 뜻한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "November beaver moon 2026: What it means for your zodiac sign - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlo2MUxEUnkyZV9mZEdQdndYM3ZMSC10NnJBeGlSOHZGSTlNekIwNWpKVnlJRDlyUHM5cEk4VE95QXpxTWJTZHU3SmxKb3BMeXBhNnFwWTZNbFZ3N3ZIRF93akp5Z0Y5cV9yanY0UTVvb3dlRmNMMTVONWR3ZEJJWWl2bXg3eEJWb0dJSEdnNFdCMVBiVk9SbNIBngFBVV95cUxOemUxOHl1QzN0R3JRUU85RXpFNjduWnpHa01qeWE2Q216M3duMFNPeXFjX21NRXNKTnVHWHJKRkRMdDYySHVkNWNiOUpJREx2S3R0QUYwY1ZZTlRtR2ZudkZJcllIbjdDUWNpU055aUZRUUlUTExPcHF5Z3ZtYWpVelZVVXlTQmZUckZDRHBQOGlLbm12ejVNWlFiQWlXdw?oc=5",
+          "published": "2026-11-23T23:08:19+00:00"
+        },
+        {
+          "title": "How and when to watch November’s beaver moon - CNN",
+          "domain": "cnn.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHX1hhMXFBblZCZTBxdHE1UG5EOUhvT3RxczVDSnhxU1Z2RUVIcmUwUGpPRXZaWnlnZFhLN2pmU0Z0TmVwSXFVMnVKajZVYzFJcl9aaW9YNEhNaFFkaWx6ZHJKS2pTQVlLRVhnTlgzTm9LTUNpbkJ3aw?oc=5",
+          "published": "2026-11-23T17:41:19+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.929,
+        "r": 0.125
+      }
+    },
+    "thanksgiving-dessert-table": {
+      "kind": "micro",
+      "title": "추수감사절을 맞아 파이와 디저트 레시피가 쏟아지다",
+      "region": "미국",
+      "summary": "추수감사절을 앞두고 여러 매체가 레시피, 요리 팁, 명절 음식 관련 기사들을 내놓고 있다. 묶음에는 식품 안전, 남은 음식 보관법, 그리고 명절을 앞두고 가격이 오른 식재료를 다룬 글도 포함됐다. 또 경제적인 저녁 식사 아이디어와 흔한 조리 실수를 설명하는 기사도 있다. 전형적인 명절 직전의 실용 정보 묶음이다.",
+      "picture": "그림에는 파이, 거품기, 크랜베리 그릇이 있다. 추수감사절의 디저트 준비와 집밥 식탁을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 14,
+      "articles": [
+        {
+          "title": "Experts debunk Thanksgiving food myths, from turkey 'coma' to risky leftovers - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGlXUGdoV2pwd2UxTGJGQjdLLUNPWWw5R0lkVEQ3NVhFRDYwZF90RlR3M0tVT1Z3eHRUZDdnQ2s2WnhxRUJfdmE5bFBUOXJxM2dscUcxMVlVTXIwb0RZdlBvMGpzSE9ZaWVXRGhZSjByQTZjLUJBNXpLQi0zUDd6Z3p0YmlRdnJocHlrYk1NcFZiWlFtaE9aWFdyVjlfTlVuR1V3N3BCU2lZZXVHYXE2ZEpEWHkzUjBhOVJzR0s5TFFQLXRoT1AzRnFvR3Z2N3pTQTZNcU00RFZ6NlE?oc=5",
+          "published": "2026-11-24T11:52:00+00:00"
+        },
+        {
+          "title": "Here are some Thanksgiving hacks for a cheap holiday meal - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHlJUEV3dVdPOFFxX0hOdE1PNHN3S2lfNl9uMkhLRkR0NHBXNWN3SVBHMWdCUHJXUjg2c0lmaXc1SDQ0TVo0UkZHSUprcEs0YzQyN25Oc1RieEZmZERKMlJ0bWw4eG03UzdnSVNmMlR2b2JpaGtTTDhJS0tQa18tcVprbUxnWHpCYVAzb1VJc2hPc2xQdVhUQ2dR?oc=5",
+          "published": "2026-11-24T11:03:45+00:00"
+        },
+        {
+          "title": "Turkey, cranberries and sweet potatoes are all more expensive this Thanksgiving - KESQ",
+          "domain": "kesq.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMXlGZ2x6dW54Tk1hZS1VNWF0b0RQdjRzMmhxbDladjJjWjEzcm9NaXFRbkhrRW9HTzBLZlpEQl85Nkw3anZnNUJtT1diOEFzMW5QVU9la3BsX3k4RGQxX0w3djVOaEVUS1RHeTI0SzhOT1k0SEF4Mkd5X2JKNUdqX2tFbEdDdktpSXd3bDVSRmZYcG82N3lOZDFKRGpnNGc4Zi0wQy1Oc3Q3NEx0RDd5emJ1eUk1dkhwdVVZWjUtdXVmZjIwM0RMMGVpelRYZ1NU?oc=5",
+          "published": "2026-11-24T10:05:14+00:00"
+        },
+        {
+          "title": "Three common mistakes to avoid when cooking turkey this Thanksgiving - Yahoo News New Zealand",
+          "domain": "nz.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnItUnJYNkN5QlhFLWhhNWZYeFlubTg4YnZfdUVUaHNEekxZNU05dVd2SEgxZ3M4TWRaN2hqaEFya29rQXlTa1VSQTFRUVdUZDdVOE5jSXQ4MkRsVFdWUFJLdWQweEg0MHRobFZ5dDlFU21NRkIxNFQ5RERyTkxORWR3?oc=5",
+          "published": "2026-11-24T09:46:23+00:00"
+        },
+        {
+          "title": "How to make holiday travel less of an expensive hassle and get home safely - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZXVkamJ2R09tUEJRcW1kVTlZZlBzTkNTTWgyTUIyYWpRY2JBZlV1UEdVdlJUeV9WNWY3UlNMY2FCSGJLOGJWZkh2aDE0cjhMVHR5dzFWVG1KS1haZFo4cUg2R0x6dFdvV2pralpnWWZCWFlmWnpLa0ExMlNGMlpxZlVHWEotT28zYkVhZjg1QTdHLXdOdkw1elhVendFdVNHXzhqZTNKQXBYWmJPanlMV0tSTnZaMWlwakpLTnM1aUN1MUdGZjF4TU5pVEp1MDBveXZtbHpwZGNtMFhp?oc=5",
+          "published": "2026-11-24T05:40:02+00:00"
+        },
+        {
+          "title": "12 places to cut your own Christmas tree in the Cincinnati area - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUlqZHhpMU1tWkhmWTIySy0yMWN3anVtSzVWdUtBWVE0eEdtaEcxdi1sMVB2VUR6SnBTZ1RqbUljMDA5U295cmRDQXJQeGJLQWhfaU54aGh1dmROSWFqYmhFUEEwalp2VnU2NVJ3MDBiWkVJbHpmeHZiZV8xOUc3STVqMDBBX0VjbWRGa2lSX1EzcGJpbGE2djVQeWFrWkVVQ0dETnplODl5Q25laGdJUW43Vm80NmhaalNvaDI5N2FJcV85UG1fVUdzSjFDUmQ3dDUyY3JmdFp3UHVSWVE?oc=5",
+          "published": "2026-11-24T05:02:00+00:00"
+        },
+        {
+          "title": "These Jennifer Aniston-Inspired Gifts Are So Nice, Everyone Will Wish You Were Their Secret Santa - People.com",
+          "domain": "people.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2ZWhXaGxoSmpwODJxdGwzR3NWcUdJbzQza0N0cHlGRTYxWVloMDRvUlRhM3NmV0NJczlTSnZOY1BTMWtCdUlJcjFOTVRJUUt1VXlTM2NoLVFXS3p2aS1GUml3a1FZOFAzQ2V4bUJ1QUhSemkwamJaUDVtNUhPdw?oc=5",
+          "published": "2026-11-24T04:00:00+00:00"
+        },
+        {
+          "title": "Exclusive | Why Taylor Swift isn’t ‘losing sleep’ over scathing Vanity Fair exposé as Travis Kelce stands by her side - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ1hyN3pjZkRETGQ2ZDdCWTk0SFhxWlpNd1NlbUFpT1pndFBYeGRpeVpSTUpRUTM2V3o0TmJQTWhsVkV6YWZOVXY0R09TbXFWdlR0bTZ1NWtYZGZyWGdhRVhzbTl0eTNZV3l5S09GYmsxdkFXaDU2am1tbzZJczFlLXhvUER0eGp6QjR0aDA1b1RFQjF2Z3VuWHlDWnZ1VEwteWZZcEg2VzN4MWhwelY3M0ZmTkY4Q1FHY3NYRG96RVN4TWJfRGdiNjRZU29VU3IxdmVFS0lIcVAyYkhvbVB6dlBB?oc=5",
+          "published": "2026-11-24T00:29:00+00:00"
+        },
+        {
+          "title": "What's driving up the cost of Thanksgiving dinner - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ204Yzg3dWE5dVJHdTg0a2lUYkpHaDlCWFU0ajRlUXQ2dUVfWXQ2UU12b25NOGVDel9lYmk2dDFmVUhtVU5ZLXhGcDc5cU5uWXQzcDFVem5ELWJzQXlpYVNjakV2c2haZ0FOai1tbk1LS2lMRGdYTnhURjJ1NGVZRnMtWlZVVUZGUGc?oc=5",
+          "published": "2026-11-23T23:20:54+00:00"
+        },
+        {
+          "title": "Food safety tips for Thanksgiving: How to properly thaw, cook and store your turkey - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWFCcm1lSUhUU09PcDVMQWRZUGY3dXpBelh4U052ZGg0YXR1U3dxZFY0YWg1b3JzOEFuMFI3WFFqbFdpSVBOX0tQUkM4RGlzU3VDb0kwd3ItaUNHeHA1YjYwVUlreElRNlFLZmxGaGlxeThfUERJRnp0MmVxZmhFdm9Qa9IBiAFBVV95cUxPTFVPZ3loYW40TWZEelctdXFQRS1IMXh5TGxoTVFMeXJheEttdDMyaTI1aU1OdFlnWnp3aFZOMmdrNlpSWWdveHRyLVgtQ1hEdDh0Ny1iLTVTWWd4ZnRlSTY4Zk5iYnlwaWZnZUh0Y01tN3diOFJHaFAyUU9XdVdqU1BXV2hkOHVY?oc=5",
+          "published": "2026-11-23T22:06:06+00:00"
+        },
+        {
+          "title": "Experts reveal whether you should eat less before your Thanksgiving meal - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXlfbXFvN1AxeVExX2swUno5UjczMExXS2VIcnh3MFdMb2JZamYxZVBXTzM0T0V1TURPbTZHWld5QmkwaGN5aC1LM3JiVnhfdFk4bVVWWjMtSUdza2dncDE1bzhUUjZNVE8xQkp0andST2JhSGxSdEF0MGZKMEt4QlVZSzV3SHZXQ0QxOFYzZk5fQUxTUTRlbGZ4TVdtMlhwekxYem9SYzBtSjJsQVpjSEdDNmNTWFFndUhr?oc=5",
+          "published": "2026-11-23T17:47:00+00:00"
+        },
+        {
+          "title": "Are those Thanksgiving leftovers still safe after four days? - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0FERkd5cWYxOXZneEZFN0Rrcl9PZ1dYRVZHVXBTRFBIclZDeGZySklZd3NwM0JXV1pCc2JYUlV3dnhaSGw4aVhKNVJwV242OHJuM05VVnkwaEVITDhaTi0wUHJKSm43eGZ4aFlwR0Z5cVdUNkFtd1NPa3ctVG0zMHNQTXBjUWY1WjRuRWZQSEdVNHFUMDVnMlYzaw?oc=5",
+          "published": "2026-11-23T17:32:31+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.125,
+        "y": 0.607,
+        "r": 0.125
+      }
+    },
+    "holiday-shopping-scams": {
+      "kind": "micro",
+      "title": "구매자들에게 할인 확인과 연말 사기 주의가 당부되다",
+      "region": "세계",
+      "summary": "구매자들에게 할인 여부를 꼼꼼히 확인하고 연말 사기에 조심하라는 경고가 이어지고 있다. The Independent는 Black Friday 할인 중 진짜로 보이는 것은 다섯 개 중 하나뿐이라고 보도했고, KOIN, WPRI, The Washington Post는 계절성 사기에서 자신을 지키는 방법을 전했다. 이 묶음에는 보스턴 FBI가 명절 쇼핑객을 노리는 사기범들에 대해 경고한 내용도 있다. 온라인 쇼핑이 늘고 계절적 위험도 커지는 시기이기 때문에 중요하다.",
+      "picture": "그림에는 쇼핑 카트 옆에 경고 표지가 서 있다. 연말 쇼핑은 조심스럽게 하고 할인을 검증해야 한다는 뜻이다.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 15,
+      "articles": [
+        {
+          "title": "Experts debunk Thanksgiving food myths, from turkey 'coma' to risky leftovers - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGlXUGdoV2pwd2UxTGJGQjdLLUNPWWw5R0lkVEQ3NVhFRDYwZF90RlR3M0tVT1Z3eHRUZDdnQ2s2WnhxRUJfdmE5bFBUOXJxM2dscUcxMVlVTXIwb0RZdlBvMGpzSE9ZaWVXRGhZSjByQTZjLUJBNXpLQi0zUDd6Z3p0YmlRdnJocHlrYk1NcFZiWlFtaE9aWFdyVjlfTlVuR1V3N3BCU2lZZXVHYXE2ZEpEWHkzUjBhOVJzR0s5TFFQLXRoT1AzRnFvR3Z2N3pTQTZNcU00RFZ6NlE?oc=5",
+          "published": "2026-11-24T11:52:00+00:00"
+        },
+        {
+          "title": "A New Era Begins at The New York Philharmonic - Ideastream",
+          "domain": "ideastream.org",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhpR01EdllCNmo4ZjJ1cTdJWWkzV1FBSlVRc1pzZFJMZ19LcU93a2l6QzVrbTE1Y0tfNHBhUC03Z0FkMHBJUkhfa0ZWMGgwNUJZX3Z5SVFDQ1MzZGZoaTAybWRTdTd2U2xlR3YyU1NPZDFZRnIwYVd2LS1SMUVTMDdrLTdUNl84ZmJuVUZGeWpuZlo3YlRJU2hYWTdGcXVIMFIxbmJ0RHRoSFloN3c?oc=5",
+          "published": "2026-11-24T01:41:26+00:00"
+        },
+        {
+          "title": "Only one in five Black Friday deals legit, new research warns - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcF91b0dma3lrZHRSTm5GVFhvN3YzVGVoU2RUN1FWdlI0bHJlS2NyeVMyUVJyNG1OYk03cUFkUGVQOUhnU2gxWC1BSFAtdkRWaXl1aEZiMVB3dE9hampERUtaT05QLVFLeUdGQlFNUFRGcXFCcjF1M2ZnWWIzTGJqd3JxYTBHRHJyMnJJTHBBaUJrQU91S1N4WFlVNmJRMFpuc2M1SHA1bkp5RUczRjcxNDJB?oc=5",
+          "published": "2026-11-24T00:01:00+00:00"
+        },
+        {
+          "title": "Tips to avoid holiday shopping scams, according to the experts - KOIN.com",
+          "domain": "koin.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalc2OG5ZU0VvRE01MnVkX3VNNXhPNlpGR1Q3Q292dW03cXF1bFlVT0hwWVlhbVZiWUNuRkVhNHBTeXVILUVTZUdrUVdoSWZRNXVhX1NtaU1TWkNEMk41cUhEcDA0czducDF4Y0VXcjRIZms2aXA5OU43UGxnYVhpNTM3Z2JBc1pqV1VzQVFhSXNidTh3bVRVSGdETVBXQzA?oc=5",
+          "published": "2026-11-23T22:35:58+00:00"
+        },
+        {
+          "title": "FBI Boston warns of scammers targeting holiday shoppers - WPRI.com",
+          "domain": "wpri.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmFISnJtYk1wMHdXRDlxaFNyVDUxSXJ1Y2tXTHRTd1lIeFMwNGNrV0ROZnNDZzhOQU01N3RxaUZhenM3aGdYTi1NUndKZXNfYnNwbnZQdkZ4bk5YSkxHbjF0SE8xY0VlYjBLd3g5cGpzOG5tX1lsX25uVkxIb0NhOFhzcXR4QnQtRGNxdlJuemLSAZABQVVfeXFMT2JhSEpybWJNcDB3V0Q5cWhTclQ1MUlydWNrV0x0U3dZSHhTMDRja1dETmZzQ2c4TkFNNTd0cWlGYXpzN2hnWE4tTVJ3SmVzX2JzcG52UHZGeG5OWEpMR24xdEhPMWNFZWIwS3d4OXBqczhubV9ZbF9ublZMSG9DYThYc3F0eEJ0LURjcXZSbnpi?oc=5",
+          "published": "2026-11-23T22:11:40+00:00"
+        },
+        {
+          "title": "Exclusive | Daisy Toye keeps seeing people make this beauty mistake — even her ‘RHONY’ castmates - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE9DZHcyd2prNDVjX18wSXlDVHhPVTQtQXpwcnhlYjladGVUcHdKT3RaY0tlcTdXTVdTanktMlVHREhCRk9uem5oNV9kcDZ1MUd6UFdHX3kyc0htM2Q2cTRrT0trWndta09fUUpjOWY4Z3lSYUxUYU1pZmdZMEFWaXNrbTMwdTRsV25xcFZFc2FNNWxZVEdDWG9Xb245Z3Zqc1Vwcy1BbjNrTTRsWUk0?oc=5",
+          "published": "2026-11-23T21:35:00+00:00"
+        },
+        {
+          "title": "Trump Says ‘Sex Sells’ and Posts Image of Jensen Huang Clutching Red Bra - People.com",
+          "domain": "people.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSW5jb0NBbzF5NDRjSy1OelpJWkk1LXE3Q0VUNGdfWGdHSWlSb3ktUHFCV0JXYW00YWEtWFJWY3BQQlMzQkRHT3d5NTNLR3pyZFI5eFFMbG14amRpazRzR1dkVGttQ1BJeHhVWnh3M08yQzFxcG5IcWd2cW5ld2hDR3QzUFpQb0dpS1oydVo0R2FLeFFzU2xKdmRwRVYyRDg?oc=5",
+          "published": "2026-11-23T18:40:57+00:00"
+        },
+        {
+          "title": "The three most common holiday scams — and how to avoid them - The Washington Post",
+          "domain": "washingtonpost.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0E5c2hxdHdhWEhuMi1IcmVLY0UzdG41RG9FdnU0dDZ3cEE1Z3BraEZIdEJqMWM2bXRnMjNEcktDelVEejYyTWRtU2Q3eXlNSWxDRkluMUdYcFVUemlEcGROTnRaa2RfZkoxQUJrcTV0cTUyVXFBQTQzdlFzbXlQeVZKNHhuQS0zdUViVVg4cXB6YjVHZTdiRUc4bWh0bnV1RmtVR1lIOFJYR1B2T1pwMHMxY0ZhQQ?oc=5",
+          "published": "2026-11-23T18:00:00+00:00"
+        },
+        {
+          "title": "Re-mark-able find: TSA officers detect concealed knife hidden inside Sharpie marker - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTZCSUM1eTQ3MmtJOEd0cHlIdE11WEk0QWlTcVhiZEx2YVVwZEtkS2doLWZ6UmNWaUNENkdJR0xOZmdGcTcxNExtUWZmMTlqS2dpY3FKbWV3anhZaXRmaWNoRDJhbFRVYnpHeS0zQVpCUllQSjZGYmNxSVJJajlwMUxhWVhtZFBsbjJIdE1kQjVVUQ?oc=5",
+          "published": "2026-11-23T16:59:00+00:00"
+        },
+        {
+          "title": "Shoppers who are not tech savvy may miss grocery savings, expert says - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEVGV2cyeWk3ZXlqTklXbUR4UGNzLTUyMGt3RmQ3Sm1ENTR5OThJVF9zMlpIYWJnaXUxdzNBNDhlUlZBazhiZFZGa0MxbFQ0MV9wLU15Y1FOR0ZSR3NZdEdfM3FyLU4xLUktOHB4OHB0WEN1WHJvMHBBWjJfME9XeUJJa0J2eFN5Q2ptazh6N0xwS3l2ZjJIR2xDV3hNR056TGs4a3BqQTFFUDVV?oc=5",
+          "published": "2026-11-23T16:55:00+00:00"
+        },
+        {
+          "title": "‘Lil Kev’ Ends Up Behind Bars In Season 2 Trailer For Kevin Hart Animated Series - Deadline",
+          "domain": "deadline.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUJ2cUkwSFI3aVdLV1RNbC1SdF9MTW8xVWlBam4yc2M2SzJLZ3dBYkFoaVNHZ2FIX0dTWlFrcmZKWTBjTlZzOHJteWF0Rlo0dUNjbXpscXpXWkpXVmVnT1BvRk4yZVhQalhvYmpTRnlocFB1aVRZR3IwdHcxQ1RiMWktcGp0RnpweGZz?oc=5",
+          "published": "2026-11-23T16:00:00+00:00"
+        },
+        {
+          "title": "Sexual images from Elon Musk's AI chatbot harmed consumers, AGs argue in new lawsuits - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlpwUnhGMEpKMloxTjc5YUNmQ1ZTTHRKS3lQZk16aXhGeXY4NGVOVmJVQ3EwT2lPV2o5ZDhJcnlDRnlaU09aUEVka0xxVWNKaUl4bVIzUk1Od1dBcFFSMWZPU2xGd0ZEdmpyN1dyTklTb3pOelVZWldyeHhyVWh3RDVzak1tdmJ3WTZv?oc=5",
+          "published": "2026-11-23T14:58:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "apple-tv-ted-lasso-renewal": {
+      "kind": "micro",
+      "title": "Apple TV, 《Ted Lasso》를 다섯 번째 시즌으로 연장",
+      "region": "세계",
+      "summary": "Apple TV+가 시리즈 Ted Lasso의 다섯 번째 시즌을 확정했다. The Verge, Deadline, MacRumors는 플랫폼이 이미 대표작 중 하나가 된 이 작품의 제작을 계속하기로 했다고 확인했다. 이번 소식에는 줄거리 세부 사항은 담기지 않았고, 연장 결정 자체가 핵심이다. 팬들과 Apple의 오리지널 콘텐츠 라인업에 중요한 소식이다.",
+      "picture": "그림에는 축구공이 노란 머그잔 옆에 놓여 있다. Ted Lasso 특유의 스포츠와 따뜻한 분위기를 떠올리게 한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 3,
+      "articles": [
+        {
+          "title": "Apple renews Ted Lasso for season 5 - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sdVpFRHZFOVQtczZRYkZpc2ZnMEw1cHJNSFo5MlBITUhWV3VCbTlKdWJla01pVUJOYm9lVDY5dGJRMldtQUF4akxJRWV1YnJ3TTdQYXVYODhpTzVCd0lTV2VxalJDOFh6VE9ENVE2NFc5dXRXeFRRaTAzendpbDA?oc=5",
+          "published": "2026-11-23T20:56:00+00:00"
+        },
+        {
+          "title": "Apple Announces 'Ted Lasso' Renewed for Fifth Season - MacRumors Forums",
+          "domain": "forums.macrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVpBb3VoZmFTXzhiWUU5dU96TG9pMzdHem9PTllDS1Rab0NwYXVRa0o3SVE0Wl9tRk9PMmdqQ2dFc3piRldoNlpnX0E0RGNPMmV3LU42SXV4UFdaSlV2dV9CUlBIc3R6XzZVQVBWSGNLd0JZNkY3Vjh1QTNUWHlHQzlwTG9VVDV3ckJ1ZVUwVXByclBvbXJrNVpGOUc?oc=5",
+          "published": "2026-11-23T20:44:38+00:00"
+        },
+        {
+          "title": "‘Ted Lasso’ Renewed For Season 5 By Apple TV - Deadline",
+          "domain": "deadline.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3ItZ05WOWR1bkphNy1QSmlrVnFrdjRMRzZvbjBaZG52cDdrU2habGk1ZjBYazNCdTNwRmk4YkxUV1RhZXN4RW11ODlIWXdEMkEzQ0ZJUzlXeVZKZ0RXVmtab3I3WGg1Ykd3VmttMGo5dnRKYm9aMmlTc3U0MEx2OTNB?oc=5",
+          "published": "2026-11-23T20:30:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      }
+    },
+    "miley-cyrus-marriage": {
+      "kind": "micro",
+      "title": "마일리 사이러스, 결혼 사실과 결혼식 장식 세부를 공개하다",
+      "region": "미국",
+      "summary": "마일리 사이러스가 맥스 모란도와 결혼했으며, 결혼식 장식의 세부를 공개했다. People, ABC News, Los Angeles Times는 이를 확인된 결혼 소식으로 전하고, 약혼반지와 다른 주얼리의 첫 클로즈업도 공개했다고 보도했다. 보도에는 가수의 어머니가 말한 ‘마법 같은 밤’에 대한 언급도 있다. 연예계와 아티스트의 사생활 소식으로서 주목된다.",
+      "picture": "그림에는 결혼반지와 기타가 함께 그려져 있다. 마일리 사이러스의 결혼과 음악 경력을 함께 연결한다.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Miley Cyrus Shares First Close-Up Look at Her Bridal Jewelry, Including Her Wedding Band, After Marrying Maxx Morando - People.com",
+          "domain": "people.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWThFc0ppWDRnVE1NOWJNOS1yMkdJZ0d1VFBFdVBhWFEyMzZSYkt2M1k3ZkRERFpBUHpmNm9TUDVqSHNpRDhlRmpjbjFneXQ0dkxRTHNDT0txMXhndEppOXZTRnZjN3pZcUQ0YmpITjlGeldiOWVtSEMzWXlhMmpOSU5hUjJyNHBfWW9IZlB6WQ?oc=5",
+          "published": "2026-11-23T21:06:06+00:00"
+        },
+        {
+          "title": "Miley Cyrus is married: What to know about her husband, wedding - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQTg4QkxyLTB6SkNNNHBMVlN5QlJrNmZMU1dHYTgxYkszRTJrcGk0MUVTZ2dHNWRfRThOTDNSb0ZYQ0lsR0NwbG1uNkRmd1lWRFZmM3ktYXRsNWVZaV91a2NWQ21LWkQxd2ZjcHJkaHk3U3d5ckRwMklucm9aZmhXVEtQQ0ZINGFINl9xM0RXWdIBlAFBVV95cUxPSTZhRmFEcEFHdTB6VlUzNGlrSmdvM2lzQkQ5T1I4aDA1Qm45OHNLV09ZYmpyV2kzNUpUM1h2aEhWSlJIemJ4T2tCQTJ2Q3hLOG9xUzhJSGhCT0NHbTEyN190dlo3TXlLa0E0YWNjXzRrTy1HX3Z2eWF0MWlRa2NfNlJBTTZPUjRtbTFHWVFrVU5LMFEw?oc=5",
+          "published": "2026-11-23T19:39:14+00:00"
+        },
+        {
+          "title": "Kim Kardashian’s racy leather F1 Las Vegas looks have a special connection to Lewis Hamilton - Page Six",
+          "domain": "pagesix.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTRlT3ppOWk2bk5CbmZub2J5LS1HVDNTaVZ2eVY1aHVjcVZMZ3pIY0ZIb3FXRm9PQnExQkdpOVdmQ0NTUEhySm9xdDVpX29tMlV1NXFzb2J5alcyalJjUW5mbUR4cGZfbGhpb2RJM3AxVjRvei02VzRzdWV1bDQ1TzBwNjVnV29tRnlWbVg1VndxaUFvSTJKM0NvRzNvTFlBelYzQzRCdU5iV0ZPZHBQTEZEalVzTlhCeV82S1VSMVIxOTNTNnVwOQ?oc=5",
+          "published": "2026-11-23T18:06:00+00:00"
+        },
+        {
+          "title": "Miley Cyrus is married now! Drummer Maxx Morando is the husband - Los Angeles Times",
+          "domain": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1dPc21YVXNkWnlKQ0xyejROZTF3NnlrR2szY2dpdGRDTXk5eVV3YS1tQVZ5YWVqcUN2RXJNT3JsRTZTVU1ra1lycEROOUsyNnRBUUFuLWlZRDhUZ29Oejl0bWNUZG9IUU44TmR4RklrQ3c3M2pCS0s2TllLcW1ubUtJWlk3Z0Q3bDJ4RlJ2LU9KNGVYVUNINFYwQ194VXg2RzFPSGdLY0czclZxOGI1Y1BsMA?oc=5",
+          "published": "2026-11-23T17:52:44+00:00"
+        },
+        {
+          "title": "Tish Cyrus Calls Daughter Miley’s Wedding to Maxx Morando the ‘Most Magical Night’ - People.com",
+          "domain": "people.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUWxqVnFUQTVPSTNLclQ5WGEtV0JVbkRsSGZuV1lXY1dkVV9BVFVfaUljWjNFdlEzUVBrYUVDSWZhZHJ5QlB3QmRRNUQxc2wxYUZXclNhWTl1VVRMdUhuNDN0bUN3OTBFVFpLeWljRXNzcjlkTFpxUm50UEhwMWJGUExkdldVbE4wMVlNRzQ4Q2pKQlFKSy1n?oc=5",
+          "published": "2026-11-23T14:19:48+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.104,
+        "y": 0.655,
+        "r": 0.156
+      }
+    },
+    "holiday-lighting-events": {
+      "kind": "micro",
+      "title": "전국 곳곳의 도시들, 크리스마스 트리와 전구를 밝히다",
+      "region": "미국",
+      "summary": "전국의 도시들이 크리스마스 트리와 전구, 연말 조명을 밝혀 겨울과 크리스마스 행사의 계절을 열고 있다. 묶음에는 퍼레이드, 트리 페스티벌, tree lighting 등 여러 도시의 지역 행사들이 포함됐다. 하나의 단일 행사가 아니라 여러 축제 개막과 기념 행사의 모음이다. 핵심은 미국 각 지역 공동체에서 겨울 시즌이 시작됐다는 점이다.",
+      "picture": "그림에는 큰 크리스마스 트리와 전구 장식이 있다. 축제 시즌의 시작과 도시의 조명을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 21,
+      "articles": [
+        {
+          "title": "Free Winter Ice Festival at Murray Skating Center - Yonkers Times",
+          "domain": "yonkerstimes.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWxrWWFfVE5oV3VGZHVnaHRGTDBrOG11YU9xNE9HSmE5VWs4T3BXYU9mODFoSEhkZ3VkZmZtSU51YUQ0N3lGd3o3aENMcHNSUi10RkVWWnBsMHp3TWQzWG1FT3JtX2x1RWxVOG5XQnpwSUtUU19GSGE3RURDM3BoMg?oc=5",
+          "published": "2026-11-24T12:23:42+00:00"
+        },
+        {
+          "title": "Two Triad students will perform in Macy's Thanksgiving Day Parade - WRAL",
+          "domain": "wral.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWd1S1c0ZURiVEFpZ2NreTdGNTVycURxc3dtWDdkd211RUJZRy1EVmI0WjY4am1GTDI4Zk9mY3ItWGdBaXl1andLdVNIbW52aW5BNi11bWF3S1AtV19mZ1RXWjZLdFJHR2lNWkpzMkVrcEtiTGxLSzhLZkVBWU82cTBQNUFzSzVhY3M3MEt6RWM1VWpr?oc=5",
+          "published": "2026-11-24T11:59:17+00:00"
+        },
+        {
+          "title": "Warren Holiday Walk & Festival of Trees brought new memories - The Huntington County Tab",
+          "domain": "huntingtoncountytab.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd05yQ3lya3ZlZ1Y1VVJBU3NuNFgxSERXbnhqaGVFTFN0TVZNUExyTG5wMnJsWkhYano1NWlrS1VTMmREWUhJdTlYdFRzV293NE9TWlFWeEw2OWJub0hNRzlOSFhOMU5YSks4S3BjZExQOUp5U3hyT0JmelNBZ2VWdlNvcHItWkZ2MVU1bDhtN3V1ckpmaUdUV1JzWnZnZTFfczdZSEZGaVg2QlR0S1gwUlhsVQ?oc=5",
+          "published": "2026-11-24T11:08:15+00:00"
+        },
+        {
+          "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+          "domain": "sciencedaily.com",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+          "published": "2026-11-24T10:57:44+00:00"
+        },
+        {
+          "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one - Ideastream",
+          "domain": "ideastream.org",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmxkRGpIUG80TWpKUDd4TldmeTNXeWlzNWhVdW9MdGN3QlphUmVIUk53TjVYX2F2SkxOeWxIRWx2ZW5kM29oZ1h0Z0pqSDFidTc4bU5mUEhIbmxwMWdJRmpmWnQtcWhPNHdCT251cTNVN3ItZHRoeTU4WWl6M18xTHg4LWUwY3VwOVJfTlhIeWdXemNnZG44dmJyVXNYcjZGRHJLZ2pnNVpxcVEyMzZpU0JYeXVYUDNs?oc=5",
+          "published": "2026-11-24T10:00:00+00:00"
+        },
+        {
+          "title": "Sioux City kicks off holiday season with lighted parade, Festival of Trees - KTIV",
+          "domain": "ktiv.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUdNUE1jd3JjUFU1NF9tTFNkcm1KNGJnd1VMcU5KSEh4S29PMWJ0WTFDMzRqc25qOGpDOHFOUkR3bmJoSGNXZnpJTjdoSzZMX1NIUmpkQ3VaRTVFRm8zcHF6QmpTX0R3RGxxTFM1YzdyM2xLbUxkT2VkUzE5UDRlUnA2aGVtYVpKazl1S1otajJnVzZKWjVYWXVoS3Rnc2Z5V0pjN01R0gG6AUFVX3lxTE8waXVjU2ZJRVBxam45T3JSbGoycnYwbUpBQ3Nyc21VdkdhN0IxQ2RoLXc1QmVFNlJTT1RKU0lDV0xuRkVYU0FxYzNRYTNwMC1haHBFWi1BQndPNWVmS3hnWWxBZzkwV2JTSlVfdWdtUHAydkhoc2xwclFlai1PSmJrMXY5aWZrWEZDVXhDNXVwQXltR204YV85SzJVVXQ0ZURQYks3NGJuTTJpemZoM2JEbzF4cjFpNXZkUQ?oc=5",
+          "published": "2026-11-24T04:40:00+00:00"
+        },
+        {
+          "title": "Festival of Trees Returns to Farmington Nov. 27-28 With Sant... - Park Hills Daily Journal",
+          "domain": "dailyjournalonline.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT05KV1YxbW9DTWdRbEhLYkxTUDBzTklORjVLeVBlajBRcE5lNmxBcGNaTlRoT1ozNnpFdl80aHBZZUtTbHVablJzQzRsa3ZBWHFKV2s5QVRJWUtZVC1DV0ZwRTd0YTRvREp5WjM1TEkyMjBmdGNPVHM2VzNvWW5DdTdwMXlVQjVENzg4S0U2RzRpUEtRQUxLQlNWOGF3MmJreWRMR3htRll6Yi1pN0pFQXFCVEhkZ0trRXVFYk4xbUNkNVFYWnczUGF0cHIyc1FadEVaMi13bDVPOUk?oc=5",
+          "published": "2026-11-24T03:37:46+00:00"
+        },
+        {
+          "title": "Macy’s Thanksgiving Day Parade will celebrate its 100th edition: Which stars are in the lineup? - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczU1LThWZFcyZ08yZ3pzQ0ZhLThGdWZsa2dQQXkzZkhhaWVESjJ3QjVWZFR5dDlXRjNwbHhIU0VaSUx0T3RUZmhuSFdjU2U2RWRiVl92ckdfQ2UxYjdiWWlVa29Vek5jeHBxYUE2YlptRXFIWEwwbkp2OWE4X0tTaVlRM1c0NEYzTTFHR012YldwMTVvZnc1TV91X0hKeWduc0Q4VEVvb1JSX2tDeTVTRUktMHctaFBqdnBIYnlSV1luUE1mZjlzZ0wzNA?oc=5",
+          "published": "2026-11-24T02:57:00+00:00"
+        },
+        {
+          "title": "Holiday Lights Festival & Tree Lighting in Reno - KOLO | 8 News Now",
+          "domain": "kolotv.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWENjTzBsTjJ3MXhQQ25iR19aOVZNVl90djdrVzhYS19OSkVyME13NTNMaTNfc3ZwVmliT1AzVG5sbEFjb0h1enpIRVdIc2xKbHZBTmZBLXp1VnpuZTM1TEYwNVdhXzJLaEhFZkpRRUtJSUhyclIwT0x4eWpTZ0Nhamsyb0RwY3VkdGRV?oc=5",
+          "published": "2026-11-24T02:42:00+00:00"
+        },
+        {
+          "title": "Piano Queen Holiday Show returns to Portland | KOIN Conversations - KOIN.com",
+          "domain": "koin.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaV92NENxbmc0SmFYRTg5WF9FeG5KZEc1SkI3WTBnNEVTaEFTb1ktMGdLY3VaWWtHU3NRN1RKaktfUXZza0VqWXZVeE1BM2JQeVBheUE0QVpTTHVXRE1Xa3pRRkRtRnp1Q1ByNkN4Vk1QXzBqUEJZQ3NpeldRS1VubUZyRThQb05xN01HcHNmaFdId2hyN3NwZmhZWi1nc29zVnc?oc=5",
+          "published": "2026-11-24T02:26:40+00:00"
+        },
+        {
+          "title": "CVG Tower glows purple in honor of Fiona - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDEwa1hyR0twakc0TnJWQ1ZaX012amE5d2U0aEVWbHduMXpqN0NMZHMyS3pRb3NvRWhkU0FmLUppTDN1dDNiaUpCbVBCWUVKd0N5UEJYOFcwaUlpSy1zUG9PaC1tN1RQWWY3RzU5Z0RHMG9jd1RsZmpqRGZ4ODgta1BodHVvUVE2SEI3a0o4MWN4Rl9ELWZQV251amY1ckcwR2FhUDhvaURfeS04NUJsSFRzNXV2RlctRGg3Y2tmdkg?oc=5",
+          "published": "2026-11-24T02:03:00+00:00"
+        },
+        {
+          "title": "30-foot Christmas tree arrives at Oregon State Capitol - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcHR2cWVpT0FTeUhmakVBRW1NeF9KQVh1czg3UTlQNkhkZHdJTEFfTXhKWENuOTJIcXBzZ2hIakJaUnJfaHJMalF3cmNQN2ptNS1vMFhKQndEWUplYmtuSTZQcUttZzl4LW85NE1JdURXblJlU2RWb3lmYnR6MXV2UXRRdjZqUGxhaUdCNmMzbmFsSkJVSThRUmFwb19NOUtIVnpEUzRvMEppLTFUNkM3aGV1bGc2c1RCejFNRjdHYl9uLVlDUkpQTi1Gc2ZVQ0Ns?oc=5",
+          "published": "2026-11-24T01:51:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.714,
+        "r": 0.125
+      }
+    },
+    "rare-rhino-birth": {
+      "kind": "micro",
+      "title": "동물원에서 희귀한 코뿔소 새끼가 태어나다",
+      "region": "미국",
+      "summary": "동물원에서 희귀한 코뿔소 새끼가 태어났다. Reuters와 지역 매체들의 제목에는 내슈빌 동물원에서 태어난 새로운 남부흰코뿔소와, 다른 동물원에서의 희귀한 코뿔소 출생 소식이 담겼다. 개별 새끼에 대한 자세한 내용은 짧지만, 멸종위기종 보전의 의미는 분명하다. 동물원에선 이런 출생 자체가 보전 활동의 성과로 여겨진다.",
+      "picture": "그림에는 어린 코뿔소가 건초 옆에 서 있다. 희귀한 새끼 동물과 생존을 돕는 돌봄을 뜻한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Nashville Zoo Welcomes New Southern White Rhino - Sumner County Source",
+          "domain": "sumnercountysource.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNE9iLThha3NjOUM1Z1RjdWdxRUV3RXFITU4wSERYMFJUbnNRWlo5eTVHMHMxLUpjSTVQVGdFbTRXSzFsNkg5QkhYX3N0Sjg5RkhBZGxON0J0UHJuQ0d1WkY5MEdENUFDYWxzcHp2THY2NVpoeVpibWd4UEN2dnQ2dEp1UWF4UQ?oc=5",
+          "published": "2026-11-24T08:45:25+00:00"
+        },
+        {
+          "title": "Nashville Zoo Welcomes New Rhino in Effort to Grow Endangered Species - Clarksville Online",
+          "domain": "clarksvilleonline.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzBUUVp3MTQwdGo5UFpQNTR0Y3c2ZjhjUmw3WlEtdXMwR09mWTVFb3cxY25Dd0NBa3FONUpiSE5nRU8yOGFrWHFWRGxzYnpzNjRWZ0pMQlFraE5xdm9tVXhwRTEtajNkWW44d1NFc0V5bEd6cXM5eldUQkJ0elk1UlIxUDJBZm5SVkJseEJaQ2x5N2UxRnBzcDFGcUo4Q0NVR0dFMVpNOHI5d3VQcTlycDZnU2dPZw?oc=5",
+          "published": "2026-11-24T02:00:39+00:00"
+        },
+        {
+          "title": "New rhino introduced at Nashville Zoo - WKRN News 2",
+          "domain": "wkrn.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tVzU0YlhvZ3YySUROTERWRG1OQUJWdzVHbC1qa0Rwa1NNMlBWQ3Q2cFFjd3VYTFV5MUFQV0VCNGY3WWxQLXp4Q2VpQ21kanpHeWhPX0NpWVFydnZjQUluSWFoZ1Y1Mm9wSWE3M3VST3NtQy1id3dQYVJPRzJPVXM?oc=5",
+          "published": "2026-11-24T00:38:16+00:00"
+        },
+        {
+          "title": "Zoo celebrates birth of rare one-horned rhino - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGpvVFpvNWJ6WWxmSm9OdlctSFZmUE5tSkxfQ19EeHdWNGtDam1kdXBuY2JPSHpYby03WlJ2a2MyQWd6U3pyVTRaczd4ZlpYNjJmQlNmZmktZDA0WjdfS0liZXNzZUdRY2JtbWJrdmFuMEdLRkZnWTFkWnN1LThGdHVITUFrUmlwUHZVZnJjSHktQdIBpgFBVV95cUxNQWRmaUdob282S3Y1RUFoYTc5N25scl9NTU9Cd252NDFGeWUwTENOdFFGTTRKblpUR1BPY0R0UHVBRW53YmtIeHlKc1JQSUtSWWdTUUoxbjhKNkFmMFFCTkRkU2hhTEM0SVo3LW10ZHZ3ZzBlTUhpc0NseFBETW1lbC1tNzZYaHRuVW1tR3BJaF9ucjRfdVRaamJPeHZPMWJscnY2YzRB?oc=5",
+          "published": "2026-11-23T16:48:00+00:00"
+        },
+        {
+          "title": "Zoo celebrates birth of rare one-horned rhino - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWM2bXQwbS1UVHVvcFNzVzJqUDlUdjZEUWF1WDhoM3V0QXNOLTVrYXlTeFVBLXF5ZkpzR0ZySW1fSjEzTldUb0NJTjNualFMY3VKbXZpN1dDT0hSN2Q5Y0VJV001WDQwd2pwaUR6aE54MTJKUmxudFZQX1E0RUxkXzlR0gGWAUFVX3lxTFBCdG9xSlE4WjF2ZzQxNTdfNU0yejFGZGdyd3JsN0w4SjVPaU1xWnlqM1RWdlFDbTd6VHB3TkJqdHVsN0Fhak5MNXhBNl9EZlZiM0VialRRYmVvVFFlakxPZ1hqellsU05KWWtHRU8xaEZ5QmhvY2xrSGVoajVUZmM3LWtBYXFHbTFKdVMyQ0NTTzg3MU1VQQ?oc=5",
+          "published": "2026-11-23T16:48:00+00:00"
+        },
+        {
+          "title": "Rare rhino born at Chester zoo - Alaska's News Source",
+          "domain": "alaskasnewssource.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXF3SjRaaG8xenRQdU0xSm1GZFRwOTExOU9KZkE5a3p5WXN6TzhSZG4zMkF6QXdtbWhQMUlRYjJ2Y0l5eHRKSjF4RlNvVjV3eWE4Q1VlRktqQ0xZUC1oLWh4clA3QnNTdWpnelR2UzJQZzlaWVJEU1cyMHNJTDhLdlpqOXZwdw?oc=5",
+          "published": "2026-11-23T16:47:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      }
+    },
+    "hellbender-raise-program": {
+      "kind": "micro",
+      "title": "대학 연구소, 헬벤더 도롱뇽을 자연으로 돌려보낼 준비",
+      "region": "미국",
+      "summary": "Thomas More 대학의 현장 연구소가 헬벤더 도롱뇽을 자연으로 돌려보내기 위한 준비를 하고 있다. FOX19는 이를 위해 새 장비를 구입했고 번식 프로그램 준비가 진행 중이라고 전했다. 보도는 자연보전 작업과 이후 방류에 초점을 맞추고 있다. 희귀한 양서류 종 보전에 중요한 일이다.",
+      "picture": "그림에는 도롱뇽이 맑은 시냇물 속에 그려져 있다. 동물이 되돌아갈 자연 서식지를 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 1,
+      "articles": [
+        {
+          "title": "Thomas More UnivNew equipment will helersity field station prepares to raise hellbenders for release - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEw3V2l3cEpOcnJlLVNVQnNMb1JUWHdYV3NXSkY3a3YxQzhtam9GNklOM0tQbGltaU9PTEhscXYxTDZ1X0VZSW1yc29IQVV5Mk5PaDdEZnZCVFRWZ0NUWVlXM1BNUElQcC1WWmpjdE11MlRXZG5xNXUtbjltdFF3ZU4zT2kwSF91SXRxYmtGX3hBUWdBT1RTeGtKQ2IxUzhTUEpVWW1rXzFrbl82UVlPdUgwSzRGbzlXcWN2aDVhdHlQeTVDN1JqRXQ4YlJpUQ?oc=5",
+          "published": "2026-11-23T20:38:43+00:00"
+        },
+        {
+          "title": "Thomas More University field station prepares to raise hellbenders for release - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm4wdHQ0LWNKSUltN3lCZUZRZkU3REdXVktka0xZdU1TTDJJTy1WTHFnelRiWVhMMzNvbk1rYzc3MDV3Q0NQUFFTampZb1hWZzNpRkY0RkhuUGVTQ0hBRVFrelNseTNlUEQzb2llUEZ2SHdfeDVVc1BLU1pmSUdHOWxaV29sMlhMTmNWWnBFa29JWXBGRXB4SEF5Q3lLdWN0NXQ5c0c3bU3SAbwBQVVfeXFMTTdtTVRZcFY3SW90OGRURXB4YUUyMVkwMElpUU82dXRuaHVob0lfa1VpVUVXNnpScFlfVUc1MW1fMDJuM2d1NVVPcVJtV1NxYk1tME81Vjk4c3BvWG9iOU1VaGRkMnd1a1JhbGxrMlozRjZUNW5yUmR4UmhfcnRpT1dnTFBmWXJXYUhVUWY3RTRndWZVQnBEWEpIZlo3cV9scHY2Ri1qVHNpc0d2aFhONERrSVkyYkhZUnZzRE8?oc=5",
+          "published": "2026-11-23T18:56:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "wooden-batmobile-auction": {
+      "kind": "micro",
+      "title": "«배트맨 리턴즈»의 배트모빌이 경매에 나왔다",
+      "region": "미국",
+      "summary": "영화 1992년작 Batman Returns의 배트모빌이 경매에 출품됐다. WLWT, WTAE, FOX 32 Chicago는 이 차량의 예상 낙찰가가 500만 달러를 넘을 것으로 보도했다. 이번 목록에서는 이를 희귀한 영화 세계의 수집품 판매로 다뤘다. 이는 컬렉터와 메모라빌리아 시장에 중요한 소식이다.",
+      "picture": "그림에는 검은색 배트모빌이 경매 망치 옆에 서 있다. 이는 곧 경매에서 팔릴 희귀한 컬렉터 아이템을 뜻한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 4,
+      "articles": [
+        {
+          "title": "Holy collector's item, Batman! Batmobile used in 'Batman Returns' to be auctioned off - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnU4QkE4WGhpUjZIdnNnbDFWWUliRDdicFdLdVlmbjNadkI2MVdSMWxhMlR1LURWSVQtSXktSXZfQnpoLVJYcWdKX2o2cFNIMDBCbkJJQ2l3TkJJaHdkV05neEtITVFJQlY4MldzVmlqWWM3TV8xZXlrQllyVWN3dW1kdTAxOU5wYUl2VQ?oc=5",
+          "published": "2026-11-23T16:38:00+00:00"
+        },
+        {
+          "title": "Holy collector's item, Batman! Batmobile used in 'Batman Returns' to be auctioned off - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHNVMTBDeTZieGdjQVBPZTBIbkRFXzlRTV9GcExjQVdUSUR2NkdCUnJwM2EyUDhucXhubXhVaW8tV203aW03TzBVX1NzenpzYkNnTEpQNVltbkFVdEw2MGc3dnZrOVlTZ0lKb2gzT1dJZHRqbUlEbkc3b21MU2FVMWtUTFVoMjR2ODludw?oc=5",
+          "published": "2026-11-23T16:38:00+00:00"
+        },
+        {
+          "title": "States sue Musk companies over flood of sexualized images made with AI chatbot Grok - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0hqRDZJQ1U5QUU2ajhjOUhzOFVoQ2dLZUNXU1pRR2lvUC00Tm9ob0Y3ZTQ3Xy1HcmRPa1FpVGpmMlk5aXVxMjV0SEZmMUNiSGRNQWQxbEx0RTZ1UHp3SzVIWDdMZTZQUDFOc1VlVTlhM0t0S2k5YXBBbEJtd2t5c2NOU2NMeGhLa3g2V0FOeG9zM0xFcmdMMkczNkRhWVJhTkx1X3FpRDZIdm9LOU03NU5yTzU1eGc?oc=5",
+          "published": "2026-11-23T15:41:14+00:00"
+        },
+        {
+          "title": "Batmobile from 1992’s ‘Batman Returns’ up for auction, bids estimated to exceed $5 million - FOX 32 Chicago",
+          "domain": "fox32chicago.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnprdGtma2dwUDV6SDJCUWRTcjgxLTFycEo3elhMUERPZFFyUXRRYUphdnROTVJ2eTlPMTRSWW82MkN4Vk5XbmhqQnNHNFp6MnRfeVUwUGdiYXJjWWhGQlZzeXM0Vm8yMmdaNm1hVmxvT3c0MjM0Q2hheVdBR1J4bTc1eFJibzhNbXNUSzBIVTRkVzBTTjRGMHByRVRWTndwTktNWXBvR3YyTWZ1MGQ1bnRR?oc=5",
+          "published": "2026-11-23T15:15:47+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      }
+    },
+    "jp-morgan-soup-tureen": {
+      "kind": "micro",
+      "title": "JP 모건의 은 수프그릇, 경매에서 수백만 달러에 팔릴 수도",
+      "region": "미국",
+      "summary": "한때 JP Morgan 소유였던 은 수프그릇이 크리스티 경매에서 800만 달러에 팔릴 수 있다. Reuters, AP 등은 이 평가를 확인했으며, 헤드라인들은 이 물건의 희소성과 높은 가치를 강조하고 있다. 이번 목록에서 이는 Morgan 자체가 아니라 경매 출품작에 관한 소식이다. 이 사건은 골동품 시장에 중요하다.",
+      "picture": "그림에는 우아한 은제 수프그릇이 보인다. 이는 가치가 수백만 달러로 평가되는 고가의 골동품을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 6,
+      "articles": [
+        {
+          "title": "Astros hire J.P. Martinez and Aaron Bates — A new pitching and hitting philosophy? - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWkNtd2xReEpyX2NJX251MUhmZ0tBRU12T25jR3RqUVlvdTRqeHpPRTlPdEN2UDNOeXdQS0NuUlAwV3k4SmFSU3V2d3FVUG5iaHQ5TFM1em9JSXFIWmZiMnFyVVRZY1h1SFpLd1Q1RFNRMFVDUmVkVTZKZXdrZllvWkxIcFBwcXloanBGSWFka0RPa05DU1JmQ19mYzRTb3RnQ1lsdDlVdi1RWU5LYVNVV2cxVGZ4MHctY3FQNzlKUU9mVUdObW9TZWc0akRiYWtHUWt2aFhMeTB4eHFzNk1pNGFXZEJWbWNZSTlWOWJuZ2NDUUFIc1l4X2RoYVg4c1hkdThvazU0cVpLOEVrbmFXdHhlVQ?oc=5",
+          "published": "2026-11-24T12:03:00+00:00"
+        },
+        {
+          "title": "A silver soup tureen once owned by JP Morgan could fetch $8 million at Christie’s auction - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjBWTFgweWhTSXBSSWlBdzE3Q0g3RGpEakUtRXFMUE9VZk1SODJia01ET1YzTENWOFU2SG5Tb3N3bGlOUzNxVXc0OUdiVUJCSnQteVIxRHBrYUxtWGJJZnBPUHBraGx6MUpXalpMNTFINFBwZFlLaGpqU0JnenUxMFFpSGpMS196RTdTS0VVejJPbW1mYlpSZ0RuU3VvaGZCbWdlWGRvZlZKN1JYWTh0UjNhU3liRjZjcWdNcGpUTzk?oc=5",
+          "published": "2026-11-24T03:21:14+00:00"
+        },
+        {
+          "title": "A silver soup tureen once owned by JP Morgan could fetch $8 million at a Christie's auction - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNektVbEpzWml0R0lvZ1JOc0owdnhoR25fMmhRQTRxNjEtaEQ3a25uU2JhYnJfWmgtUERuclFxSS0wYTloM1E2NXJrbG9pMGFOVmJNU0QtMUlmaHQ0X0x3MV92Y1FNVGcxOUdHdTRTN3FLcEoxVHQ0Y1M5UXBiOWY3ZXF1M1ZiSkpyckxyOERfNzc3UDBhU1dveUFR?oc=5",
+          "published": "2026-11-23T14:05:00+00:00"
+        },
+        {
+          "title": "A silver soup tureen once owned by JP Morgan could fetch $8 million at a Christie's auction - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2FaaldtcWpQNkpTb2VieFVUYmZ0ejhhMFJLZm8xSVp3LTFRd0hnTy0tVVRHbHU1Q2xkNGx0ZExBWjRoeUx6eVNSckZ1MjV1RXkyWlA0VHFsR1BUbDJNWVo3blA5c3p0cHprWXZnWXdpbWQwb0JZdi1XRFlTTlh1M0VjNFlCTjNEaXFBX0llYUVqQjZkalcyTEln?oc=5",
+          "published": "2026-11-23T14:05:00+00:00"
+        },
+        {
+          "title": "A silver soup tureen once owned by JP Morgan could fetch $8 million at a Christie's auction - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXFMc0hhOGtUZGpiS21mOEo2Zzg1M19Qc2lnMTZLbUVOaUc4Yzl2Ukl0U1E4VnVpYXNRR2lxcmtTNzNRczJjb3N6VW52MmxSRUJXX1c3OEx4RURkR1U3T0UwNE9hU1MyZldhOERNeGl6WVlPZE9GTE9zNTVyZ3FVMmhqUlpWbFMtcFdHVEdqaDVqNkdmdFBjcnJNaDPSAaIBQVVfeXFMTnN3RlpNMkxySllRRnJuQ2pGZUZnODRISTJzR0Q3WjVldWhJMXZmbHZIWDNKUzh4ZUZOSkV4MWNYRzRlR2pDT3ItUC0wWjJZSVVtdjF2dHQ4dW5VM1BzU19SS2Rpak5vV2pmcTZZcTI3aUM0Sm9qMExreXA4SmdXUkdsOEtYZi16SUNSWEIyZzJJZjBCZlhvYk9tQ2p3cUV5eDdn?oc=5",
+          "published": "2026-11-23T13:44:38+00:00"
+        },
+        {
+          "title": "A silver soup tureen once owned by JP Morgan could fetch $8 million at a Christie’s auction - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXBwN0pGMkswcklEdk5wanFSYmJla2VYVWRXU0g2RDVFaVU1d0kxTTAtWnl0bFhoNmpnX3lSZHBSRzBtMHhFNGhMamtvZEN2c01JWTdlYl9wZXlQemRvSW9rR2J1ZUxXWGdBUHVpc3gzdm55VlZjVUcxQnlySjhtTXdkREFPYlNIcnRMczk1QVNBVzVJcEVIOGoyZlFuUUlvWjZFVkFR?oc=5",
+          "published": "2026-11-23T13:29:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "mysterious-lioness-misidentification": {
+      "kind": "micro",
+      "title": "터키에서 수색 끝에 숲 속 ‘암사자’는 존재하지 않았던 것으로 밝혀져",
+      "region": "세계",
+      "summary": "터키에서 수색 끝에 숲 속의 ‘암사자’는 존재하지 않았던 것으로 드러났다. CBS News는 이스탄불 교외에서 벌어진 24시간 수색 작전이 불안을 일으켰지만, 이후 당국이 동물이 없었다고 밝혔다고 전했다. The Independent도 같은 내용을 보도했다. 이는 오경보와 동물 오인에 관한 짧은 이야기다.",
+      "picture": "그림에는 덤불 사이로 흐릿한 사자의 실루엣이 보인다. 이는 불확실성과, 불분명한 목격에서 공포가 생길 수 있음을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 2,
+      "articles": [
+        {
+          "title": "Istanbul lioness never existed, Turkish officials say after search",
+          "domain": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/istanbul-lioness-never-existed-turkish-officials-say-after-24-hour-search-for-her/",
+          "published": "2026-11-24T11:40:11+00:00"
+        },
+        {
+          "title": "Turkish officials say animal spotted in Istanbul woods was not a lion - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1kyYXpfby13MEdhUl9oOEUwMVRaRG1kYjE4c0VRdnQ3TG9YeUgxV2diSGhhaHliZ01hMElHbWRIOVNmTW8tTDFSWXBSRTFaZ3hObDhMcHdxQWc5WnRwREhEcHJiZi1DLUhPdm96bEF3VkV1THoyb2xOYjQ0RDRTdzVpRm82eHlaR2xNWHQxemZLNkVwN1NDRVBUZk9BV3M?oc=5",
+          "published": "2026-11-24T07:48:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      }
+    },
+    "commanders-bengals-lighting-glitch": {
+      "kind": "micro",
+      "title": "커맨더스와 벵골스 경기 중 잠시 조명이 꺼져",
+      "region": "미국",
+      "summary": "Bengals-Commanders 경기 도중 경기장 조명이 잠시 꺼져 경기가 일시 중단됐다. WLWT, WCPO, Guardian 등은 이번 장애가 3쿼터에 발생했으며 이후 경기가 재개됐다고 전했다. Fox News는 원인이 하청업체가 Monday Night Football을 잊었기 때문이라고 주장했다. 그 외에는 경기 중의 짧은 기술적 장애에 관한 이야기다.",
+      "picture": "그림에서는 축구장 위의 투광등이 꺼지고 있다. 이는 정전으로 인해 경기 중 갑작스러운 중단이 생긴 모습을 뜻한다.",
+      "mentions": 0,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 24,
+      "articles": [
+        {
+          "title": "3News at 5A - WKYC",
+          "domain": "wkyc.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjNqeWlpalpmM3RkSXB4anhITzdsZkF2STlIb2VmMWhnSjVWY1ZpSFZnd0ZBcnJ6YXhTUko3RXlXcWhsa20yREt6ajN5RWdNbDBzZ0t5RnZGcGwwRFJWX2FHSTA1YTdyamZ2eWtfbXF1aEUzV1h6NWRvcTBLdk14WEQ5VWtXZy1GbTFldDktQXlhRnpCSDVDZ015RQ?oc=5",
+          "published": "2026-11-24T10:00:00+00:00"
+        },
+        {
+          "title": "Power outage interrupts Bengals-Commanders Monday night - Cincinnati Enquirer",
+          "domain": "cincinnati.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjhPSzNXVTRfVlhGZ29USl9sb3V2eEU3TVlTYlg0WDFCbGkzQndqZ3pmOGR1OHdpREd6NHFWX19hbThxaU05a0M2MzlXVnB5X2xrZ3lKaWJwcVdNMUlfd3V0UmlDRWZueTJsSUFFYUotaGpOMXhtR052WWZxX0dIWkZMVGZTYmxiUEdTc3NLSFY3dmRoT2g4dkFkb3ZsdlZpOTJxaklrLTZqTzQ1OFhyNllyMWFEWC1RWjcyazNQOFBMeHh4ekh5MHVPUQ?oc=5",
+          "published": "2026-11-24T08:12:50+00:00"
+        },
+        {
+          "title": "Commanders stun Bengals, snap win streak - FOX19 | Cincinnati",
+          "domain": "fox19.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkWXlJVlVmZUJCSnRWTHFGMmRGR0drcURQQlNESEJlYlZlRW53TTNKdnJpem5fNGZhb1RWdVdnZW5GREhCcFFoN184RjlXVzFPTk9lcW5vWW5WYWZJVFBqd2VNMWI0cDFrRXhuVE1oQ0hXUXJBckZDS2l1a2kwZ9IBkgFBVV95cUxQbTFTVHExQ3VodUpjVWJybFZrY0p1RG1rYnkwMnpnbnJEaGlGU2h1SUVadVZzdWMzTXc0QWZHUFRDeXotRUlJMF85UGpWNU5tS2p5cGswREZqVHFmUEJHNS1QT0hRTzRHbEJfbHFFdEFKNnN4a2kyR0ZnMEVhSHJCSVdZWmtObTljUlhGakJFa1FZZw?oc=5",
+          "published": "2026-11-24T05:39:00+00:00"
+        },
+        {
+          "title": "Lights go out on Commanders before they beat Bengals in final seconds",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/23/lights-go-out-on-commanders-before-they-beat-bengals-in-final-seconds",
+          "published": "2026-11-24T04:43:36+00:00"
+        },
+        {
+          "title": "Lights go out briefly at Northwest Stadium during 3rd quarter of Bengals-Commanders game - WLWT",
+          "domain": "wlwt.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE8tNllCVFRQR0ZfdU5HVVk5d1hwaFJ2WjkzR01qQTZLMERBbzVQaGkzdkRza0tUZDdYRTYyVUhOcTBFbm5FdXQ2UWc5NnVRUHVBcXpjN2k0R1NidzQzbERXMER2T2NMSXlTb25IbWNpZW5fUGpWMnhNVUlqT05GUU5EOVlKOW5xVTg4bFRn?oc=5",
+          "published": "2026-11-24T04:42:00+00:00"
+        },
+        {
+          "title": "Power outage causes brief delay for 'Monday Night Football' - WTAE",
+          "domain": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDQ0YlRkV0t0cVZZVmdGVzNVTWFzMXlwTDlWaThBM0Z5THZ5bFlEcXg1TWxaQ2lvZ3hHWlAzSVA0eGJOd1hITHVnbVVvYjF0eDI3Tm5CVTJUcGFUX1B4UER1QmVfbW1HQ0Zxa2hMTHVjMzRlUWwwNUI3WmRsWEM3VjFMTUZWaUkwd2ExQlR3?oc=5",
+          "published": "2026-11-24T04:24:00+00:00"
+        },
+        {
+          "title": "Lights go out briefly at Northwest Stadium during 3rd quarter of Bengals-Commanders game - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh1N2dWVW4tM0w0N2ZEVjg1RjlKSTBobGZ6VkVLNkQ4YUczMWJWdEdQOXBQZUdEYnVTOHdMeXluMlVJeTRlLTcxOEJCN2J2WmtSV1JSSkhCVEhubXJ0MWVRX0Izb1B1bkRNQU5uOEpneTR1RmlaejNVNEN3M2MxVTZTakk1NWhLMjFBUzg0dUpXeUNVUmd6UEU1UDFzNFREUnhucllKeFNudExzUWYtNjVGLWFGWC1MZHkyU3JlR0laUHFGV3pLanBzZTU0bTczNEVGQnY3TQ?oc=5",
+          "published": "2026-11-24T03:50:00+00:00"
+        },
+        {
+          "title": "Lights go out briefly at Northwest Stadium during Bengals-Commanders game - WCPO 9 Cincinnati",
+          "domain": "wcpo.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeGl5aXFDNVBWclZkaF9KcW9fdVZPeGxNQ09sX1RSU2dKMXNudnpaYVpvRjZlVFJIdjFpX2lWeC1kMDQ3WnFvTTRFdHR0UUl4N0dtdGNINGt0UzYzVkdIcjRSRUd6djFZSkcxZmdkRjlZb2dTbkIyOTRVb2U5bTNLWXpOZ1V0ZGhGUlRvak5DU0EwaG1OeXNBMWVqWXJVc2ZiX3U3UFNialU3Mnk0TXBJV3pXMWQ3TWoycmx4MHhmaWRxRHItM1VzcFMwd3J4Zw?oc=5",
+          "published": "2026-11-24T03:44:47+00:00"
+        },
+        {
+          "title": "Lights go out briefly at Northwest Stadium during 3rd quarter of Bengals-Commanders game - KTLA",
+          "domain": "ktla.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlFBVVJqSUlhVWR5eDF3THQ0Q2RXZGJfS3o0NmI0NlowMk5WV1I1bHJEU08xbERpUElnOUk3TVhoOWhaczNXMWNBR010bEdKTFBLS0cwdmhtZjFma1hjSlA3ZEhiNDZmRTdVTXVPNnZlZFotU2JzUDY0dGtVMXBXQTA3d1RlTGNUYmJud1FkUkRaSE5ScHhLXzdtYmtNcmMxNnZxMFRXX1BiWTlQNUpLQ1B3dkVCRWJhM1R6OHc1d21EdVl00gHKAUFVX3lxTE9rR0tuV2I0cHdDQm1HOVJTWTFCV2xEZHdnZkpRWlR3THZVTDN5ZG5VS2UtdmhDSXc4UUY4NDVSNTAzamk5bnFSUDBEbTd2cTgzWlh4dmc4TWxiOW1Fbm1BNHNZb0pnMkUwYmJySUROamhTYnBEQ3pfRFBBbUZnUnF2R2ZmckxyOTFoNHlnQXJ4V2NQaUdERnZfNmNFWlhNYjZTUWtUWGlBeFBZbkZVN2dIRVpSN0FZVnNOV3dNemdZVUFqb3hucGF1OHc?oc=5",
+          "published": "2026-11-24T03:43:34+00:00"
+        },
+        {
+          "title": "Stadium lights go out during Bengals-Commanders game because vendor forgot about Monday Night Football - Fox News",
+          "domain": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFRLb2NqcGNVaFNVMzRnSmxVbnJDSDdtNVdhb0hzTE9nU3QwWWJwRHFDNkNtQXhsckR6OGx6c19TQWhRcE9OdFRaRVpNZFJPY1pBejlXeG9qVlc2RGxJYnVGeHhMR2FkWDRuekxXSmI2cU9EajVOT1dWQ2hacHFfN0xVdjc2c3pIZ1dRLXZmbmZNcm5MVmJEN195Qk9pSGZmMmZsNDFjUTQ3SEV2cTlTRk9YY2gtV3Bzc3l1aVhqX01yUkV3aERFM1RuS25kbFpmcDd4OTRrMU0?oc=5",
+          "published": "2026-11-24T03:34:58+00:00"
+        },
+        {
+          "title": "Spurs rule out Wembanyama, Fox for game at Kings - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnFsQ3R0LWNzOTJuUVZmNTVtLXdOV3dxNzZsOU9UZmdIWE11OWQ5d1RPc0VFTzBESWxOYkU0Q3dxMVJvVmp6cjNmWFhhaGh4NXV3djdMOWpUUmhsT005akpZNjZmSktabS14cXZRMlVzSXpPYkVsajVnMWozbnJwNHBHUTloZF96bnYzZEZfRjc?oc=5",
+          "published": "2026-11-24T01:46:41+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      }
+    },
+    "brentford-four-goals": {
+      "kind": "micro",
+      "title": "브렌트퍼드, 에버턴을 대파하고 톱 6 진입",
+      "region": "유럽",
+      "summary": "Brentford가 Everton을 크게 이기고 프리미어리그 톱 6으로 올라섰다. AFP, The Independent, The Guardian은 Brentford가 4-0으로 승리했고, Everton은 10명이었다고 전했다. 보도들은 또 이 결과가 데이비드 모예스의 기념비적인 저녁을 망쳤다고 덧붙였다. 리그 순위에서는 Brentford의 중요한 승리다.",
+      "picture": "그림에는 축구공 세 개와 골망이 보인다. 이는 확실한 득점 승리와 상대 수비에 대한 압박을 의미한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 7,
+      "articles": [
+        {
+          "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+          "domain": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+          "published": "2026-11-24T07:52:44+00:00"
+        },
+        {
+          "title": "Brentford hit Everton for four to soar into Premier League top six - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2VKSnBsS3QwdngzN2YwMUlobk9aNGUtd0JhYXQ3dVVXcHY4SFdneXRham5TY3pFdEZYUzJuQWxTMDJUVWZERjl3QmVGVXphQ1k5Z2wwcHVsWHMtWksyMV8xbHhXeVBjZ0RXRElfUFM3M1dGODB4RG9QY0hmT1pWOFMwYw?oc=5",
+          "published": "2026-11-23T23:03:12+00:00"
+        },
+        {
+          "title": "Brentford thrash 10-man Everton to ruin David Moyes’ milestone night - The Independent",
+          "domain": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelBvQ2M3SDBzSkIxbFVqemt5NE4ydWo4T0E0UVFmRW1QNnp6WnBoZkNIcEhRRnlmQXB1THl3UlNTcWVSVGh6enpsTFgzZks2WWpvUVliZERLOVBKS3hNSGp6WXdWQTY0c2h2Q2J3ZDZDSmRWejVBek5CNVg4c1Z2UkVuTXowUmQ0UzBDb2s3eHFzT1oyYjhoU090alBTdjFJOGNjdGlmaDNKVm5aU2dIaEx3Rk0?oc=5",
+          "published": "2026-11-23T22:25:00+00:00"
+        },
+        {
+          "title": "Charlotte's Thanksgiving Eve Parade canceled over dangerous weather forecast - Axios",
+          "domain": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTREUjAxRmhJWERSZ2poeUpYb3NScjVNVjZLZmFEci1SbmgySTZZTGZCejVfYnRXazQ3dXpRRl9sYUZ5VWVncnVnRXNza3h3VXhaWVdRQzRicXg0RGVuQXZUUzdueS04MzRYSFlTQWxfTTA2Q1ppYVhOdmFnaHJvSTlUZ0tBQlVHMno2SHZ1bWZxQmMyZmlIMTVXM3FzZEdUOTFmeU02WjVBb1NNeVk0ZnlR?oc=5",
+          "published": "2026-11-23T22:13:33+00:00"
+        },
+        {
+          "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+          "published": "2026-11-23T22:09:41+00:00"
+        },
+        {
+          "title": "Brentford hit Everton for four to soar into Premier League top six - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1pyUWF2RldUVTJNa3EtakhKY0IxNXVfc3huNnQ2MlU3Z3ViMEFYZ2JwYnYweHhrT3JmTGNrNWtXNjdWREJXMmF4anJaTk5WMjdNLXRranNYVmlTd3pHb09DX0hleVdSSGtxTHZ3YmFiemo1WTk2bVFtRXYyaV8zeDZMcmtQanAzcjdUR25aSWU3Q2NTVEoyTnBxMFktMGNWOHdGZEJMSmc4QXVkOVJ6c0RR?oc=5",
+          "published": "2026-11-23T19:00:00+00:00"
+        },
+        {
+          "title": "The Morning After...the Bears' Week 11 win vs. Saints - Bears Wire",
+          "domain": "bearswire.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGxfYlpqSW9GYlVNTVVjSmhocHN4MjR0NUdvNm1heTFCeFlIQzBfN1pTejN4alhyblZrYUdPd00wdkpTX3RHYUZ6TU90UVdzNVI0dkJmbUpTcG1iOUpsX2J0WG50cG5zLUhJUnJHaTNUYmt4OXBUUGsza0FkR2FVQm1ydWl5bm5VV01jekNjajFUQ0dRWDFUNnM5SkxJUnh2SWdET05GZXhMQnh5ZnRBc0Y1NWZKdEx3UjFHa2gtdjVPTEdrOEM1YQ?oc=5",
+          "published": "2026-11-23T16:16:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.062,
+        "y": 0.214,
+        "r": 0.125
+      }
+    },
+    "rsm-classic-playoff": {
+      "kind": "micro",
+      "title": "마르코 펜게, 치열한 플레이오프 끝에 RSM 클래식 우승",
+      "region": "세계",
+      "summary": "마르코 펜게가 치열한 플레이오프 끝에 RSM Classic에서 우승했다. AFP, Golfweek 등은 그가 18번 홀에서 두 번 성공하며 4인 플레이오프에서 승리했고 PGA Tour 카드를 지켰다고 보도했다. 이 대회의 중요성은 이것이 2026 PGA Tour의 마지막 대회였다는 점이다. 펜게에게는 우승이자 투어 잔류를 의미하는 결과였다.",
+      "picture": "그림에는 골프공이 그린 위에서 트로피 옆에 놓여 있다. 이는 결승에서 결정적인 샷과 우승을 상징한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 5,
+      "articles": [
+        {
+          "title": "Marco Penge wins RSM Classic, final PGA Tour event of 2026 - Golfweek",
+          "domain": "golfweek.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeWZmUm9IeEY4OW12V1p1RjNraWRyS05PZE85S2EtLVVzTUY1bUhCVUIyQlpHZnY4cXhuQkRaYjZtVlVNclE4dDZaTVM3bGV4RlhsQnBZMmdqTFh0akNxalBsNmUyZW1fWi1GZ1VTdFY0M3AzX24tR1JLb1pzNnVMUVRqYWQ5cmFnMGVDR2F5UXRiMjgxM0tLUGdyUzhxNzQ1X1NQMy1IdUhDR0ZRdTl4aTU1Y0FoWDhYajhtbzhKVFNRRWgzcFc5eFo0V0FuTHlHalcyd05JVGw?oc=5",
+          "published": "2026-11-24T06:11:09+00:00"
+        },
+        {
+          "title": "Marco Penge birdies the 18th twice and wins RSM Classic in a 4-way playoff to keep PGA Tour card - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTFwbkZadUoyaURnSkJySnUzRUdZYkk5VDk1dVhra0dVOTl2eTM0dnRRN202Tk1RV0ZjX3NGWW16SVNreFlZZTdyZVQ5aFBjek5UZ0J6TF9lY2NEc1Rsd0ZtUzNPb1ZCeUkyeXQyYnRNUGNVX3BOcWJmSnNGZXEtbDQ2a25mb0JiQnJfSUt6RWthdnNEOElJWFhJcXNoOE44S1czbnQ4VGhoMlhFVVh1WkJFb1JnS1pQNkdjNlo2SVhaalE?oc=5",
+          "published": "2026-11-24T01:31:14+00:00"
+        },
+        {
+          "title": "England's Penge wins RSM Classic to keep PGA Tour spot - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qdERYWVRmTWczZk5SWEdUVWgzMmxrRVZiVUNsajluR1hhbkd2LVhITS0zcVJCcXVhckVsc0t0VlNtRUgzdHhkRXRrWmZONFFuQ21Mcmg3MmU2eHU3dDBhTWdoU0tCdU05bGVrRjJwQlZaNHpDMGJvdHZJRVgyQQ?oc=5",
+          "published": "2026-11-23T21:02:36+00:00"
+        },
+        {
+          "title": "Marco Penge birdies the 18th twice and wins RSM Classic in a 4-way playoff to keep PGA Tour card - KSAT",
+          "domain": "ksat.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDFCaEduTXI2WUxDVWNCUWlqWGhtMGtkeUFSV1VfaFMxbll6ZllPaWwtb1FkdWhOYU5yd04xY291QWx2LWozQkVDZHZOZkZlaFZiSXU2SG1zRHBEUngzVzNvRTI2SHBRbXNoWXNMczdsRUhMczc4c3pQTDlyVHZldENvTC16bjJHTG1fSkZLS0pnUHhCUm5QdEw1dS0yekwyT09jdXVMZnJzY0FfTU5CUXUxbm1YdnN5THpyZjhpZVNFNUJIOFNKTGNNQU80dXVEVXc?oc=5",
+          "published": "2026-11-23T20:23:12+00:00"
+        },
+        {
+          "title": "Marco Penge birdies the 18th twice and wins RSM Classic in a 4-way playoff to keep PGA Tour card - ABC News - Breaking News, Latest News and Videos",
+          "domain": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTljTmcwYkgyOTI5eXZnU3FWNG9BamJFeENkTjBjQ0dUN2pJYTVfeTFkcmhCUWsxaUZnUF8tSXM0akNVVFExWEJHX2hRd3NNM3YyeHdNa3Y1MXZEb2hYVERyT0ZlVW81VDlvaWlHeGtZa2ZKMHAzOEhJNzFMb21JYTBEYXlzU3JaU1lpejltVE9URWx6SXVzWVh30gGaAUFVX3lxTE5NOWNOZzBiSDI5Mjl5dmdTcVY0b0FqYkV4Q2ROMGNDR1Q3aklhNV95MWRyaEJRazFpRmdQXy1JczRqQ1VUUTFYQkdfaFF3c00zdjJ4d01rdjUxdkRvaFhURHJPRmVVbzVUOW9paUd4a1lrZkowcDM4SEk3MUxvbUlhMERheXNTclpTWWl6OW1UT1RFbHpJdXNZWHc?oc=5",
+          "published": "2026-11-23T20:23:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.188,
+        "y": 0.857,
+        "r": 0.125
+      }
+    },
+    "gta6-record-launch": {
+      "kind": "micro",
+      "title": "Grand Theft Auto VI, 기록을 갈아치우며 큰 성공을 거두다",
+      "region": "세계",
+      "summary": "Grand Theft Auto VI가 큰 성공을 거두며 판매 기록을 새로 쓰고 있다. 이번 목록은 이 게임이 업계 기록을 세웠다고 전하며, 출시 당시 거의 4,500만 장이 팔렸고 첫날 매출이 37억 9천만 달러에 달했다고 보도했다. 다른 매체들은 수천만 명의 고유 이용자와 출시가 남긴 전체적인 문화적 영향도 주목했다. 이는 게임 산업과 대중문화에 중요한 사건이다.",
+      "picture": "그림에는 게임패드와 네온 스포츠카가 있다. 이는 조종, 속도, 대중문화를 결합한 대형 게임 출시의 이미지다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 8,
+      "articles": [
+        {
+          "title": "Все вокруг только и говорят о новой GTA, а вы ничего не понимаете? Тогда этот текст для вас. Объясняем, как устроена легендарная серия, чем запомнились ее главные части и почему выход GTA VI стал собы",
+          "domain": "meduza.io",
+          "url": "https://meduza.io/feature/2026/11/24/vse-vokrug-tolko-i-govoryat-o-novoy-gta-a-vy-nichego-ne-ponimaete-togda-etot-tekst-dlya-vas",
+          "published": "2026-11-24T05:06:53+00:00"
+        },
+        {
+          "title": "GTA VI Launch Weekend Sees Nearly 45 Million Copies Sold - TechPowerUp",
+          "domain": "techpowerup.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGdBaFBObTJ2QnM5cGdHTXFaU2FEQlBBUFlyWk5ROHN2cEVOVXpKSC1JMVRHOXVzRlR6bjZDMk8yM1dMaG0ycjh4Y0N5NFY5T2xPQ2FFdzhZZWo2a0pMdUFMMndLcnNVelBSNDRvZ3MySWlZZWg3UzE0V244UG5ia0dmODRCYmhpVjdFb0szb1J0Z2I1eHfSAZsBQVVfeXFMTUZsNE51OWQzSmREWlNKX3J1RnN3UGVjVVhYOXNUT2JHbHVHZlFHVEtCdUU0NzRBOXF0T3oxWUtpSFhmblBieHplYlhGMkVBdFgxZWpfR2NyeTlIRUVkdDFudllZVEJ3UDNMWkdxSy1OblhPeHJqdlRORHJjRm14SDZHd0RBLXRMRkp0Y2pWU0h6dzRZUWwzNWhDT2M?oc=5",
+          "published": "2026-11-24T03:37:54+00:00"
+        },
+        {
+          "title": "More than 39 million unique players tried GTA VI on PS5. - The Verge",
+          "domain": "theverge.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdU9KNkxtQzJSX1RFcDktX0NkRUhpQzRqQTJIREZvZFNkMGh6YS1nUmdqMVIzX1QxbWQ0OTFwSkZNQS1FbEJOV1czUURjV0RkMHYxQnBUaTRNOFpVV1hCOXYyNnlENTBhZkV5NzE4emY3b3NjY3BxWmNXbVFsb0pUVWM3QUNEeWNWS2dFX2l3d3JuaTVZbFhEYzFn?oc=5",
+          "published": "2026-11-23T23:38:09+00:00"
+        },
+        {
+          "title": "Game over? How playing Grand Theft Auto VI is affecting elite athletes’ performances | Sean Ingle",
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/sport/2026/nov/23/game-over-how-playing-grand-theft-auto-vi-is-affecting-elite-athletes-performances",
+          "published": "2026-11-23T18:14:03+00:00"
+        },
+        {
+          "title": "‘Grand Theft Auto VI’ lives up to its hype with compelling characters and spectacular action - TribLIVE.com",
+          "domain": "triblive.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHRoQWFBVmdBc3JKbDIzWkFlOGhkbWVrd2xlNFpFRmhVX3Mwc1h1d2dmczJQb1lscWNFRm14LVY3X0NYTTJIOHJDYzBvakF6YVpPemU3X2d0Y2dva3FYVmtqVWUxVWVfR0k3djFNSVNjTDlwVGNzNWJuT0dGeWc3TjZ2TGhjdUV0SHBJVXYwMnRkeFN4cE9ZcFBfUDhYNlVlcU9hZjhZcTlLV3M4YU4yakRhaGZSRDVSQndWUlNhWVZGZw?oc=5",
+          "published": "2026-11-23T16:55:12+00:00"
+        },
+        {
+          "title": "Theft. Drugs. Nudity. And it’s a game?! How Grand Theft Auto VI broke records at breakneck speed - News24",
+          "domain": "news24.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd1hhVGR2dFllellOTGMwNHFOb3JQSjdHZnNEdnVKcnpoaFE1Q3ptNmpLXzQ0TDJLVzE1bUswZ0lhb1Fza1c0UEwtMFdDLTFKaHVUNjZMSzRaNTRaOFc4dkxCR0hZYjdqblZueW5nSTdUaFFqQnZxejMyV1JMeUU1MVZvN25Yd09lcXRGM01oQmNXYmhUV1g2Rm15UXU2d19mb3RFcGJPb0thaE9zb1YtZGFIQW9jZFEtMDNHVlltUTllVjh6d0xOWU1OLUNzSk1nRVIzQndsZ0VBRUk0T012MWFEcnI?oc=5",
+          "published": "2026-11-23T16:07:50+00:00"
+        },
+        {
+          "title": "‘Grand Theft Auto VI’ lives up to its hype with compelling characters and spectacular action - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclgzZzdTUURYSmdheC1iVEg4SkJTOUxYMDZoaGttRU9leTlENGs4RkMwLVk0UG9yOTA2b0VWd2U0b0l1UUJHOGJmTDRtMTF1ZmF5TU9hU2Q2S01vUU00eUszbWlaTDZET202OHBuWDctYkgxUjd4Y0Rxa2RUVkpFSXJ2NkVkWTl3bUZMYjdwZTZhbVNFZFBj?oc=5",
+          "published": "2026-11-23T16:03:00+00:00"
+        },
+        {
+          "title": "‘Grand Theft Auto VI’ generates $3.79 billion, the biggest entertainment launch ever - Los Angeles Times",
+          "domain": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEVSTDU4OHF0clFiZVVEbEJRekQ4djNoU2NWMkRway1NUGl6dS1OQUFmeTc3YUhCbXhPb29YbUF0UFZaSGIwei0tUGdmb1hfbDh3djlZV0NLZWY3amhTNkltN2FqXzlVRjhIR0pUUzhXSXBGelZGRHBMWEctbGZoMVZEbDl4d3daZ1dtUTBqZEVHME5palhxNGdtYTNFNmJ6MTBlYXdUeUVlMVEwbDBtXzY1eGdJaE1TNnUyV2dQc3NPcTV5?oc=5",
+          "published": "2026-11-23T15:44:00+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.536,
+        "r": 0.062
+      }
+    },
+    "fifa-2031-womens-world-cup": {
+      "kind": "micro",
+      "title": "미국이 2031년 여자 월드컵 개최를 주도하고, 영국은 2035년 대회를 맡는다",
+      "region": "세계",
+      "summary": "FIFA는 2031년 여자 월드컵 유치안의 수장으로 미국을, 2035년 대회의 개최국으로는 영국을 선정했다. AP, AFP, USA Today 등은 미국이 멕시코, 코스타리카, 자메이카와 함께 공동 개최를 맡게 될 것이라고 보도했다. 보도에서는 경기 개최지를 노리는 시카고를 포함한 여러 도시도 언급된다. 이는 국제 축구와 향후 대회 일정에 중요하다.",
+      "picture": "그림에는 세계지도 배경 위에 축구공이 그려져 있다. 이는 세계 대회와 여러 나라에 걸친 개최국 배정을 의미한다.",
+      "mentions": null,
+      "significance": null,
+      "velocity": null,
+      "domain_count": 11,
+      "articles": [
+        {
+          "title": "USA joint bid and UK confirmed as 2031 and 2035 Women's World Cup hosts - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzJkTE9xQy1qMm91ckRYdHkxaEhmSFRDOXBjY2gxQVg3VmttRmdabE1HQ1ZDT0tOX01Fam9zSU1ZSVB2QXJkT2doT2lTRko1LTd4TlNLWFc1Q0t6ZllKUEM2RFZkelhacjBQaHFUTjNWX3RuX1ZNOHREbHVlcFk3UFNlY0hER21IcEkzbWJjWDVqb09o?oc=5",
+          "published": "2026-11-24T02:06:20+00:00"
+        },
+        {
+          "title": "Chicago makes its case to host 2031 FIFA Women’s World Cup matches - FOX 32 Chicago",
+          "domain": "fox32chicago.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTDVCSU1qdjlKaHlQNVNnLURvOVpmV0xsbEduTnF6NlJ5Um9hNEhIRUFnNnA5LTZkcVdsRGZVSFZSXzE3UDdSOHNxZmoxU0pXZU51OERwcm8wNk5fci0wM2VLRFBicTVPMmpDTGFLdlkxY3JzYkxuOTFkU1p1MnNDV1ZjTEIzdTdXVERj?oc=5",
+          "published": "2026-11-23T21:00:38+00:00"
+        },
+        {
+          "title": "FIFA picks US to co-host 2031 Women’s World Cup and UK for 2035 edition - AP News",
+          "domain": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWm82TE84Qm96Y2xpQ0N4Y1ByS2hwSVMxSU5UV0RIbWlWd2phNlFCUVktQWtSbWJCemZCQkRTd2Q4eWJGclFhbDVlQmI5bkN1OWoxbEtDUGFlUWNMbjJTVHlLOEE4OEF6NGc3SHNkTzBkSEZlTUw2RTlHdGhQSlB6T3hvNVRvXzR1dHgyX0xzU3Y3QWRuVjFsOTdsUFI?oc=5",
+          "published": "2026-11-23T19:46:00+00:00"
+        },
+        {
+          "title": "U.S. to co-host 2031 Women's World Cup with Mexico, Costa Rica and Jamaica - PBS",
+          "domain": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDhhbkZDYjk4OWlWblJNcjd5d1FUandPUU9BaWxMUm95MWJyZ1c5bVI1VG1Yd2tWOWxiNWoybUtPY0IyOUEtZTc3VjBEVFphcHdfVU9HbEpFOWxBLWdwX1d3dTk3MWg5M2dyckRJNTJBQkhhV2Vna1R5T1dFY3Rjb0tOWm5BUnRmTk9ucjZqT2tQRUhZcHl1alBxcm9Ic0NlZGxpX1JQZ2h2QQ?oc=5",
+          "published": "2026-11-23T17:53:49+00:00"
+        },
+        {
+          "title": "US selected as Women’s World Cup host site in 2031 - The Hill",
+          "domain": "thehill.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOW5IMDFQa0dCUTMzaWFVTzM1NzlYVDU3bGM0MGNFYmR2cUVNMjlYRDdEcmVFUWUxZ3VucGZPNUN1cHRqOE9maE9HaW83dnZXLUdITEYtWEFzVXFGN1BsU25pcXlZNzd3NjBzd1JwZmM5Y1A2Qmh4Wno5eVQ2bzdwb21NakNsWU5QMnI1NtIBkgFBVV95cUxPVmV0Ujc1bHU5U1lMTzdhM0pNNTdXejJLZ1RHUDRoWVRJM08tM3h2bzY2Tm9KSkJCUzlZZ2JyOVdsY1lNN2t4VWNCNkFiOGhnUFRPcm0yeUQtNnBSUGkxQV9GX1pPOEtCSzJOMzV2dzM1NFJPMGFoVjFPQWRvbnBMejh4MXZxQjB6ZFlvUG5ZVWhSdw?oc=5",
+          "published": "2026-11-23T17:13:00+00:00"
+        },
+        {
+          "title": "FIFA picks U.S.-led bid as 2031 Women’s World Cup host and U.K. project for 2035 edition - Los Angeles Times",
+          "domain": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2NubnRsb1NJX3d6SWktU2x4eWpyYTdtZXJKQnBaYnlpdDJER3gtOUF1bTRHTW9fLVJjTm92TlhkT2N6UnJUUmtwVENxbVhMNDhRXzBCMEVvVDkyXzJjR0ZuVDB2bnAyYlJwZUVlUnpZVWpoa2dmMlNidGhSSms0cGtvOEgyMWl5YjRnQ1NLZ2s1amNkSk9IVG9mU3drbHRKcWU3X1B3?oc=5",
+          "published": "2026-11-23T16:52:26+00:00"
+        },
+        {
+          "title": "FIFA picks US to co-host 2031 Women's World Cup and UK for 2035 edition - WRAL",
+          "domain": "wral.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHJTU3RpcjVkdDFUbGFCdm1sQ1J6eU1iQTh5Y3ZjbC01MTdWY3U0S1ZXcFJDU3p1VXFYU3Y0VHp0Vkw4d3VNM3RFajZoMzkxSEVid042UHUyaXJHUkdDNXNrSlpNeWRxRUtwcTljd21XZEItM2VxbWhIQVRJTUpXNnJXRG15dTZpUVd3UGZrNVpjWHNxblRfMTlEWnJlX1BQaWVmQ1l2dUtCWTRnSWFQcS1CV3RuX1J4MDRFVHlXbzNnUzQ?oc=5",
+          "published": "2026-11-23T16:19:13+00:00"
+        },
+        {
+          "title": "FIFA picks US-led bid as 2031 Women’s World Cup host - WPRI.com",
+          "domain": "wpri.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzdDMDhuamwzcnBpcU1HeElJd3ZPWUp4cnBTOGo0SUVUSE56SGVBd00tQkM4OGJJS3htS2xvSWFFMnhEYnktTEF6Y3FiZzRYU1hkNnBmV3pMUGZ0bXhNR3pKNEVHaGU1UmVfYUt5MnBtclIwY0Yyb292S0pnSlhjQTNiYzZwSFJOdlFvaVpwM3ZWZGotaHlrZm9sdmRtNm5Yelp0MNIBqgFBVV95cUxNTVNSWk1tRWxDcnhQaHVqN2tMVWhVdWpWUHkzUDhkU2ZNNUhsdXE5cnhJSVdDbzB0SzV5ZE5hXzFCajZqNDVxMFZDWWR5cHhqcVBxTzNRcGpXQ2lHUXZWSlNLYWpNRDZmam4teUJDNnhBLWxCY2dxekxDd2xfeDlTbmloZWRfQ3hfSlZHMTZZSE5YTzBYOXZ5dVMyN0QzLThjSC00Z3lQVGxaUQ?oc=5",
+          "published": "2026-11-23T15:26:31+00:00"
+        },
+        {
+          "title": "FIFA picks United States-led bid to host 2031 Women’s World Cup, UK bid for 2035 edition - KGW",
+          "domain": "kgw.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcTFEYnhyczRXd283RWlxVUhUaGItOVBqbWhYQkpxMHNwQlJ3YjhOQmhiMmdZOTVlRDJoU0JzN1FqU1AweUJ4U3FjTDJsWkRETUEwazJCZVZmT1EyZkhzdlJuR2QtQjM2UjJPZ2l5dDRkSzhYd215enhXbU13Qml2dTZmSTd4bnhFZm94aDV6VGRJZFBNVTNiLVB1MWc1NFF4cUZVTkRpVy03YnNIZTkySVBUWFZWS2Rqb2o3ZUVHN0NrOGw2NzdaajNkSzlQUTFvd2U5QnZhN3o0M2o5c25B?oc=5",
+          "published": "2026-11-23T15:16:00+00:00"
+        },
+        {
+          "title": "United States-led bid wins 2031 Women's World Cup hosting rights - USA Today",
+          "domain": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUZ5Q3d0cF9fUmFNSFl3eFVIRjNmTWJhVjV1aHZHYmFPMWlMZ05uajEtNXE4UkRvaXphYXRiR2gtcTBaU0Q5eDZhdnM4TGVaejUzMVJfZGlSYVBSUVN4YlpPMkg2UWFDSFVLc2NiLTA1LWRySXlBalU4SlpCYWpwNUdFUW9RX3FFckNfTFJiM0QwNnc0dnNIMGZqak5fU09FU0VSd0dob1NjQl94TFVCRXNFY2h1Zk9uLWlQeC1hdnJpVkhrZmtXUmdUdHYwYU5D?oc=5",
+          "published": "2026-11-23T15:14:00+00:00"
+        },
+        {
+          "title": "FIFA to pick U.S.-led bid for 2031 Women's World Cup host, U.K. project for 2035 - NBC Los Angeles",
+          "domain": "nbclosangeles.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTVjekxseElNZzhUZVdBeEFCaS01MVJva1VpWHFqSFRPQ3pPSjh0c1o1QzMwMEJvY1F5TjFfRk9vMDdOUk96bmZZWFJ1bU1vN2liMXVKRGVMZWV1SnJJTFQ0eG5VX0dmbkhWdVh2YWZyUHpmaHJRWTRXbl9QSGQ3UzBQY0NjSGNSU0MxeHppOGlYNUhfVVlvS2w1UElzdUZoWWRuVFRVdG8xUdIBqgFBVV95cUxQQTVjekxseElNZzhUZVdBeEFCaS01MVJva1VpWHFqSFRPQ3pPSjh0c1o1QzMwMEJvY1F5TjFfRk9vMDdOUk96bmZZWFJ1bU1vN2liMXVKRGVMZWV1SnJJTFQ0eG5VX0dmbkhWdVh2YWZyUHpmaHJRWTRXbl9QSGQ3UzBQY0NjSGNSU0MxeHppOGlYNUhfVVlvS2w1UElzdUZoWWRuVFRVdG8xUQ?oc=5",
+          "published": "2026-11-23T13:54:52+00:00"
+        },
+        {
+          "title": "USA joint bid to host 2031 Women's World Cup, UK to host in 2035 - AFP.com",
+          "domain": "afp.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEl1LWd1c1FEb2RKSkdfdXRBdUp0d1Q2czhncW1xb3g2ZGVQdm5DRW8taXZ4ZVdaZ3ZCbTVuZUNndk81MkRCcm5rS21DRGlUSGI5Mkg1dG80a2xfLU40UVlRSlE0TnMyWndPd1RRcmV5UnFqVGpOREVfMjFHSTk5WVRn?oc=5",
+          "published": "2026-11-23T16:18:11+00:00"
+        }
+      ],
+      "spot": {
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    }
+  }
+}
