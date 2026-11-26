@@ -1,5 +1,272 @@
 [
   {
+    "key": "2026-11-26-1",
+    "date": "2026-11-26",
+    "image": "img/2026-11-26-1.jpg",
+    "aspect": 1.7778,
+    "people": 8328319226,
+    "spots": [
+      {
+        "id": "economic-confidence",
+        "x": 0.438,
+        "y": 0.786,
+        "r": 0.202
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.412,
+        "y": 0.293,
+        "r": 0.221
+      },
+      {
+        "id": "ukraine-libya-ship-strike",
+        "x": 0.613,
+        "y": 0.407,
+        "r": 0.264
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.75,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "china-anti-corruption-purge",
+        "x": 0.854,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "europe-budget-ukraine",
+        "x": 0.438,
+        "y": 0.518,
+        "r": 0.191
+      },
+      {
+        "id": "nvidia-huang-return-fallout",
+        "x": 0.25,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "iran-us-escalation",
+        "x": 0.812,
+        "y": 0.268,
+        "r": 0.191
+      },
+      {
+        "id": "north-korea-diplomacy-row",
+        "x": 0.625,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "cairo-fuel-disaster",
+        "x": 0.229,
+        "y": 0.774,
+        "r": 0.156
+      },
+      {
+        "id": "us-tariffs-trade-war",
+        "x": 0.713,
+        "y": 0.864,
+        "r": 0.221
+      },
+      {
+        "id": "north-korea-shield",
+        "x": 0.625,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "ebola-congo-spread",
+        "x": 0.338,
+        "y": 0.65,
+        "r": 0.221
+      },
+      {
+        "id": "royal-home-burglary",
+        "x": 0.125,
+        "y": 0.929,
+        "r": 0.151
+      },
+      {
+        "id": "andy-taylor-dies",
+        "x": 0.562,
+        "y": 0.107,
+        "r": 0.188
+      },
+      {
+        "id": "nasa-titan-dragonfly-eyes",
+        "x": 0.479,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "record-quasar-early-universe",
+        "x": 0.312,
+        "y": 0.071,
+        "r": 0.125
+      },
+      {
+        "id": "top-gear-revival-gordon-ramsay",
+        "x": 0.75,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "hiv-prevention-drug-zambia",
+        "x": 0.125,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "quantum-fund-eu-strategy",
+        "x": 0.896,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "canary-islands-migrant-record",
+        "x": 0.125,
+        "y": 0.25,
+        "r": 0.125
+      },
+      {
+        "id": "guinness-push-up-pensioner",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "raheeem-sterling-dangerous-driving-sentence",
+        "x": 0.146,
+        "y": 0.369,
+        "r": 0.156
+      },
+      {
+        "id": "eurostar-cancellations-strike",
+        "x": 0.062,
+        "y": 0.429,
+        "r": 0.125
+      },
+      {
+        "id": "fiona-hippo-legacy",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "ezra-frech-dwts-prosthetic-moment",
+        "x": 0.062,
+        "y": 0.571,
+        "r": 0.125
+      },
+      {
+        "id": "baby-jaguar-mary-pat",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "missing-cat-found-with-airtag",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "bobcat-in-car-grill",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "corgis-lead-hikers-to-fairy-village",
+        "x": 0.062,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "macys-parade-postponed",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "king-tides-california-coast",
+        "x": 0.312,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "pacifica-pier-collapse",
+        "x": 0.375,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "wildfire-safe-holiday-tips",
+        "x": 0.562,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "thanksgiving-travel-chaos",
+        "x": 0.688,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "canadian-parade-and-winter-festival",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "zoo-lights-and-holiday-traditions",
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "curious-comedy-clue-stage",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "macys-blue-hippo-mystery",
+        "x": 0.938,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "colombia-supermarket-hostages-freed",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "new-miss-universe-puerto-rico-celebrates",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "rare-mughal-gold-find",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-26-1.mp4"
+  },
+  {
     "key": "2026-11-25-1",
     "date": "2026-11-25",
     "image": "img/2026-11-25-1.jpg",
@@ -791,8 +1058,7 @@
       "x": 0.16,
       "y": 0.93,
       "r": 0.12
-    },
-    "video": "video/2026-11-23-1.mp4"
+    }
   },
   {
     "key": "2026-11-22-1",
