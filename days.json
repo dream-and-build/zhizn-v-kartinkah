@@ -1,5 +1,284 @@
 [
   {
+    "key": "2026-11-27-1",
+    "date": "2026-11-27",
+    "image": "img/2026-11-27-1.jpg",
+    "aspect": 1.7778,
+    "people": 8328507901,
+    "spots": [
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.375,
+        "y": 0.286,
+        "r": 0.151
+      },
+      {
+        "id": "airlines-funding-and-disruption",
+        "x": 0.212,
+        "y": 0.364,
+        "r": 0.221
+      },
+      {
+        "id": "ukraine-libya-ship-strike",
+        "x": 0.688,
+        "y": 0.268,
+        "r": 0.191
+      },
+      {
+        "id": "europe-budget-ukraine",
+        "x": 0.25,
+        "y": 0.464,
+        "r": 0.125
+      },
+      {
+        "id": "iran-us-escalation",
+        "x": 0.83,
+        "y": 0.342,
+        "r": 0.256
+      },
+      {
+        "id": "zelyenskiy-trump-putin-friendship",
+        "x": 0.5,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "us-tariffs-trade-war",
+        "x": 0.688,
+        "y": 0.893,
+        "r": 0.188
+      },
+      {
+        "id": "north-korea-shield",
+        "x": 0.438,
+        "y": 0.643,
+        "r": 0.125
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.75,
+        "y": 0.786,
+        "r": 0.151
+      },
+      {
+        "id": "russia-sabotage-europe",
+        "x": 0.562,
+        "y": 0.482,
+        "r": 0.191
+      },
+      {
+        "id": "new-zealand-coalition-deadlock",
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.125
+      },
+      {
+        "id": "ebola-congo-spread",
+        "x": 0.438,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "economic-confidence",
+        "x": 0.25,
+        "y": 0.75,
+        "r": 0.202
+      },
+      {
+        "id": "fifa-cyberattack",
+        "x": 0.438,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "israel-coalition-and-justice-crisis",
+        "x": 0.854,
+        "y": 0.512,
+        "r": 0.156
+      },
+      {
+        "id": "china-market-support",
+        "x": 0.25,
+        "y": 0.607,
+        "r": 0.125
+      },
+      {
+        "id": "cairo-fuel-disaster",
+        "x": 0.312,
+        "y": 0.893,
+        "r": 0.188
+      },
+      {
+        "id": "bangkok-refinery-fire",
+        "x": 0.688,
+        "y": 0.5,
+        "r": 0.125
+      },
+      {
+        "id": "sap-security-and-layoffs",
+        "x": 0.375,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "bangladesh-unrest-shift",
+        "x": 0.604,
+        "y": 0.655,
+        "r": 0.156
+      },
+      {
+        "id": "india-cyber-voter-data",
+        "x": 0.062,
+        "y": 0.929,
+        "r": 0.125
+      },
+      {
+        "id": "nasa-titan-dragonfly-eyes",
+        "x": 0.625,
+        "y": 0.071,
+        "r": 0.151
+      },
+      {
+        "id": "depardieu-rape-trial",
+        "x": 0.887,
+        "y": 0.121,
+        "r": 0.221
+      },
+      {
+        "id": "venice-biennale-hoor-al-qasimi",
+        "x": 0.388,
+        "y": 0.093,
+        "r": 0.221
+      },
+      {
+        "id": "hiv-prevention-drug-zambia",
+        "x": 0.104,
+        "y": 0.131,
+        "r": 0.156
+      },
+      {
+        "id": "gingerbread-city",
+        "x": 0.125,
+        "y": 0.25,
+        "r": 0.125
+      },
+      {
+        "id": "old-free-plots-village",
+        "x": 0.062,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "hunger-free-thanksgiving-meals",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "turkey-trot-rain-run",
+        "x": 0.125,
+        "y": 0.536,
+        "r": 0.125
+      },
+      {
+        "id": "national-dog-show-winner",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "after-thanksgiving-parade-bands",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "flights-delayed-storms",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "weather-cancelled-run",
+        "x": 0.125,
+        "y": 0.821,
+        "r": 0.125
+      },
+      {
+        "id": "lucky-lottery-before-arrest",
+        "x": 0.375,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "thanksgiving-hot-chocolate-and-pie",
+        "x": 0.5,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "holiday-turkey-fundraiser",
+        "x": 0.625,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "baby-hippo-arrives",
+        "x": 0.75,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "koala-style-birdwatching-no",
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "spacesuit-greens-thanksgiving",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "giant-wedding-india",
+        "x": 0.938,
+        "y": 0.786,
+        "r": 0.125
+      },
+      {
+        "id": "robot-dog-companion",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "robot-dog-hi-tech-fire-suit",
+        "x": 0.812,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "tiny-cafe-buses",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "flower-market-festival",
+        "x": 0.938,
+        "y": 0.464,
+        "r": 0.062
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-27-1.mp4"
+  },
+  {
     "key": "2026-11-26-1",
     "date": "2026-11-26",
     "image": "img/2026-11-26-1.jpg",
@@ -809,8 +1088,7 @@
       "x": 0.16,
       "y": 0.93,
       "r": 0.12
-    },
-    "video": "video/2026-11-24-1.mp4"
+    }
   },
   {
     "key": "2026-11-23-1",
