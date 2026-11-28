@@ -1,5 +1,272 @@
 [
   {
+    "key": "2026-11-28-1",
+    "date": "2026-11-28",
+    "image": "img/2026-11-28-1.jpg",
+    "aspect": 1.7778,
+    "people": 8328696575,
+    "spots": [
+      {
+        "id": "economic-confidence",
+        "x": 0.25,
+        "y": 0.786,
+        "r": 0.151
+      },
+      {
+        "id": "us-tariffs-trade-war",
+        "x": 0.537,
+        "y": 0.85,
+        "r": 0.221
+      },
+      {
+        "id": "us-air-force-cloud-breach",
+        "x": 0.438,
+        "y": 0.357,
+        "r": 0.125
+      },
+      {
+        "id": "ukraine-libya-ship-strike",
+        "x": 0.708,
+        "y": 0.238,
+        "r": 0.21
+      },
+      {
+        "id": "europe-budget-ukraine",
+        "x": 0.25,
+        "y": 0.357,
+        "r": 0.151
+      },
+      {
+        "id": "south-africa-local-power-shift",
+        "x": 0.5,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "taiwan-elections-and-china-pressure",
+        "x": 0.562,
+        "y": 0.564,
+        "r": 0.208
+      },
+      {
+        "id": "airlines-funding-and-disruption",
+        "x": 0.25,
+        "y": 0.5,
+        "r": 0.151
+      },
+      {
+        "id": "spain-migration-right-turn",
+        "x": 0.625,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "openai-apple-trade-secrets",
+        "x": 0.396,
+        "y": 0.488,
+        "r": 0.156
+      },
+      {
+        "id": "iran-us-escalation",
+        "x": 0.875,
+        "y": 0.429,
+        "r": 0.151
+      },
+      {
+        "id": "gaza-ground-operation",
+        "x": 0.75,
+        "y": 0.714,
+        "r": 0.151
+      },
+      {
+        "id": "global-outage-microsoft",
+        "x": 0.396,
+        "y": 0.274,
+        "r": 0.156
+      },
+      {
+        "id": "ebola-congo-spread",
+        "x": 0.25,
+        "y": 0.643,
+        "r": 0.151
+      },
+      {
+        "id": "new-zealand-coalition-deadlock",
+        "x": 0.875,
+        "y": 0.571,
+        "r": 0.151
+      },
+      {
+        "id": "orcas-health-checks-drone-dog",
+        "x": 0.438,
+        "y": 0.107,
+        "r": 0.188
+      },
+      {
+        "id": "uganda-mrna-ebola-vaccine-trial",
+        "x": 0.625,
+        "y": 0.107,
+        "r": 0.125
+      },
+      {
+        "id": "eht-black-hole-jet-detail",
+        "x": 0.188,
+        "y": 0.071,
+        "r": 0.202
+      },
+      {
+        "id": "quasar-most-distant-discovery",
+        "x": 0.896,
+        "y": 0.06,
+        "r": 0.156
+      },
+      {
+        "id": "crispr-gene-control",
+        "x": 0.125,
+        "y": 0.179,
+        "r": 0.125
+      },
+      {
+        "id": "ukraine-loan-stuck-in-eu-talks",
+        "x": 0.062,
+        "y": 0.25,
+        "r": 0.062
+      },
+      {
+        "id": "madrid-pollution-under-playground",
+        "x": 0.062,
+        "y": 0.321,
+        "r": 0.062
+      },
+      {
+        "id": "rare-turtles-in-suitcases-at-airport",
+        "x": 0.062,
+        "y": 0.393,
+        "r": 0.062
+      },
+      {
+        "id": "massive-basking-shark-spotted",
+        "x": 0.062,
+        "y": 0.464,
+        "r": 0.062
+      },
+      {
+        "id": "baby-giraffe-born-at-zoo",
+        "x": 0.062,
+        "y": 0.536,
+        "r": 0.062
+      },
+      {
+        "id": "meerkats-make-zoo-debut",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "wild-turkey-chase-on-highway",
+        "x": 0.062,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "holiday-tree-lightings-return",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "black-friday-shoppers-line-up",
+        "x": 0.062,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "black-friday-sock-sale",
+        "x": 0.062,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "restaurant-pays-for-thanksgiving-meals",
+        "x": 0.938,
+        "y": 0.679,
+        "r": 0.062
+      },
+      {
+        "id": "marching-bands-fundraise-to-stay",
+        "x": 0.375,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "fisherman-finds-missing-purse",
+        "x": 0.938,
+        "y": 0.893,
+        "r": 0.062
+      },
+      {
+        "id": "grandfather-and-grandson-restore-boat",
+        "x": 0.625,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "boy-saves-family-dog-from-fire",
+        "x": 0.812,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "cat-trapped-between-walls",
+        "x": 0.938,
+        "y": 0.964,
+        "r": 0.062
+      },
+      {
+        "id": "turkeys-chase-woman-downsidewalk",
+        "x": 0.938,
+        "y": 0.75,
+        "r": 0.062
+      },
+      {
+        "id": "dog-daycare-shop-rescue",
+        "x": 0.938,
+        "y": 0.607,
+        "r": 0.062
+      },
+      {
+        "id": "cultural-festival-crowds",
+        "x": 0.875,
+        "y": 0.857,
+        "r": 0.151
+      },
+      {
+        "id": "costa-rica-denies-rapporteur-entry",
+        "x": 0.812,
+        "y": 0.821,
+        "r": 0.062
+      },
+      {
+        "id": "zapatista-tour-for-life",
+        "x": 0.375,
+        "y": 0.964,
+        "r": 0.125
+      },
+      {
+        "id": "bee-hotels-support-city-pollinators",
+        "x": 0.125,
+        "y": 0.964,
+        "r": 0.125
+      }
+    ],
+    "ads": {
+      "x": 0.16,
+      "y": 0.93,
+      "r": 0.12
+    },
+    "video": "video/2026-11-28-1.mp4"
+  },
+  {
     "key": "2026-11-27-1",
     "date": "2026-11-27",
     "image": "img/2026-11-27-1.jpg",
@@ -845,8 +1112,7 @@
       "x": 0.16,
       "y": 0.93,
       "r": 0.12
-    },
-    "video": "video/2026-11-25-1.mp4"
+    }
   },
   {
     "key": "2026-11-24-1",
